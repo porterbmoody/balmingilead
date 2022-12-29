@@ -1,81 +1,132 @@
 ---
-date: 2017-04-09T10:58:08-04:00
-description: "The Grand Hall"
-featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
-tags: ["scene"]
-title: "Chapter I: The Grand Hall"
+date: 2022-12-22T10:58:08-04:00
+description: "O God, Where art thou?"
+featured_image: "/images/posts/gethsemane.jpg"
+tags: ["love"]
+title: "If God really loves us so much, why does he allow so much suffering?"
 ---
 
-Three hundred and forty-eight years, six months, and nineteen days ago
-to-day, the Parisians awoke to the sound of all the bells in the triple
-circuit of the city, the university, and the town ringing a full peal.
 
-The sixth of January, 1482, is not, however, a day of which history has
-preserved the memory. There was nothing notable in the event which thus
-set the bells and the bourgeois of Paris in a ferment from early morning.
-It was neither an assault by the Picards nor the Burgundians, nor a hunt
-led along in procession, nor a revolt of scholars in the town of Laas, nor
-an entry of “our much dread lord, monsieur the king,” nor even a pretty
-hanging of male and female thieves by the courts of Paris. Neither was it
-the arrival, so frequent in the fifteenth century, of some plumed and
-bedizened embassy. It was barely two days since the last cavalcade of that
-nature, that of the Flemish ambassadors charged with concluding the
-marriage between the dauphin and Marguerite of Flanders, had made its
-entry into Paris, to the great annoyance of M. le Cardinal de Bourbon,
-who, for the sake of pleasing the king, had been obliged to assume an
-amiable mien towards this whole rustic rabble of Flemish burgomasters, and
-to regale them at his Hôtel de Bourbon, with a very “pretty morality,
-allegorical satire, and farce,” while a driving rain drenched the
-magnificent tapestries at his door.
+It's a big question and can't be fully answered with a simple one liner or one size fits all solution. 
+We're gonna take a stab at answering this question. 
 
-What put the “whole population of Paris in commotion,” as Jehan de Troyes
-expresses it, on the sixth of January, was the double solemnity, united
-from time immemorial, of the Epiphany and the Feast of Fools.
+It is a question every believer asks at some point during their lifetime. 
+There is so much suffering in the world. 
+There are examples of righteous people who suffered greatly, unrighteous people who suffered greatly. 
+People who's suffering was a result of their own actions, and people who's suffering was a result of others actions, 
+or just happened regardless of anyone's decisions.
+Whatever the category, everyone experiences suffering to some degree in their lifetimes. 
 
-On that day, there was to be a bonfire on the Place de Grève, a maypole at
-the Chapelle de Braque, and a mystery at the Palais de Justice. It had
-been cried, to the sound of the trumpet, the preceding evening at all the
-cross roads, by the provost’s men, clad in handsome, short, sleeveless
-coats of violet camelot, with large white crosses upon their breasts.
+<h2>Righteous who suffer</h2>
 
-So the crowd of citizens, male and female, having closed their houses and
-shops, thronged from every direction, at early morn, towards some one of
-the three spots designated.
+<p>
+    Many disciples of Jesus have gone through great trials and afflictions for the God's sake. 
+    Examples of these disciples include: 
+</p>
 
-Each had made his choice; one, the bonfire; another, the maypole; another,
-the mystery play. It must be stated, in honor of the good sense of the
-loungers of Paris, that the greater part of this crowd directed their
-steps towards the bonfire, which was quite in season, or towards the
-mystery play, which was to be presented in the grand hall of the Palais de
-Justice (the courts of law), which was well roofed and walled; and that
-the curious left the poor, scantily flowered maypole to shiver all alone
-beneath the sky of January, in the cemetery of the Chapel of Braque.
+<ul>
+    <li>
+        
+        Joseph Smith
+        <br>
+        <img src="/img/posts/liberty.jpeg" width="400" class="responsive">
+        <br>
+        During his time in Liberty jail, The Prophet Joseph Smith asked God where He was. 
+        <br>
+        <blockquote cite="https://www.huxley.net/bnw/four.html">
+            D&C 121
+            1 O God, where art thou? And where is the pavilion that covereth thy bhiding place?
+            And God responded.
+            <br>
+            7 My son, peace be unto thy soul; thine adversity and thine afflictions shall be but a small moment;
+            <br>
+            8 And then, if thou endure it well, God shall exalt thee on high; thou shalt triumph over all thy foes.
+        </blockquote>
+    </li>
+    <br>
+    <li>
+        Job
+        <br>
+        <img src="/img/posts/job.jpg" width="450" class="responsive">
+        <br>
+        Job was cursed with afflictions so bad he asked why he was born.
+        <blockquote>
+        Job 3:11
+        Why died I not from the womb? why did I not give up the ghost when I came out of the belly?
+        </blockquote>
+        After Job endures his trials without ever blaming God, 
+        God comes to him and tells him we can't always understand why God does things.
+        Sometimes we just need to trust God without understanding why He gave us a certain burden or when it's going to be lifted.
+    </li>
+    <br>
+    <li>
+        Peter got thrown in jail for preaching the gospel after Christ's death.
+    </li>
+    <br>
+    <li>
+        Jesus Christ
+        <br>
+        <img src="/img/posts/gethsemane.jpg" width="400" class="responsive">
+        <br>
+        <br>
+        <blockquote>
+            <p>
+                In Psalm 22:1 David foretells Jesus saying, 
+                "1 My God, my God, why hast thou forsaken me? Why art thou so far from helping me, and from the words of my roaring?"
+                And Matthew 27:46 says, "46 And about the ninth hour Jesus cried with a loud voice, saying, Eli, Eli, lama sabachthani?
+                that is to say, My God, my God, why hast thou forsaken me?" During the crucifixion of Jesus Christ. 
+            </p>
+        </blockquote>
+        <br>
+        
+        During His suffering in gethsemane we have the following verse 
+        describing His sufferings:
+        <br>
+        Alma 7:11
+        "11 And he shall go forth, suffering pains and afflictions and temptations of every kind; 
+        and this that the word might be fulfilled which saith he will take upon him the pains and the sicknesses of his people."
+        <br>
 
-The populace thronged the avenues of the law courts in particular, because
-they knew that the Flemish ambassadors, who had arrived two days
-previously, intended to be present at the representation of the mystery,
-and at the election of the Pope of the Fools, which was also to take place
-in the grand hall.
+        Jesus Christ suffered the most anyone has ever suffered in the history of the world 
+        so no matter how bad we suffer it won't be as bad as Him. He asked God why He had to suffer and God told him He had to. 
+        The suffering Jesus went through was necessary for the plan of salvation to work so that men could be redeemed from their sinful state.
+    </li>
+    <br>
+    The fact is there are many more righteous saints who have suffered for the sake of their discipleship. 
 
-It was no easy matter on that day, to force one’s way into that grand
-hall, although it was then reputed to be the largest covered enclosure in
-the world (it is true that Sauval had not yet measured the grand hall of
-the Château of Montargis). The palace place, encumbered with people,
-offered to the curious gazers at the windows the aspect of a sea; into
-which five or six streets, like so many mouths of rivers, discharged every
-moment fresh floods of heads. The waves of this crowd, augmented
-incessantly, dashed against the angles of the houses which projected here
-and there, like so many promontories, into the irregular basin of the
-place. In the centre of the lofty Gothic* façade of the palace, the grand
-staircase, incessantly ascended and descended by a double current, which,
-after parting on the intermediate landing-place, flowed in broad waves
-along its lateral slopes,—the grand staircase, I say, trickled
-incessantly into the place, like a cascade into a lake. The cries, the
-laughter, the trampling of those thousands of feet, produced a great noise
-and a great clamor. From time to time, this noise and clamor redoubled;
-the current which drove the crowd towards the grand staircase flowed
-backwards, became troubled, formed whirlpools. This was produced by the
-buffet of an archer, or the horse of one of the provost’s sergeants, which
-kicked to restore order; an admirable tradition which the provostship has
-bequeathed to the constablery, the constablery to the _maréchaussée_,
-the _maréchaussée_ to our _gendarmeri_ of Paris.
+</ul>
+<br>
+
+<h2>Unrighteous who suffer</h2>
+<lu>
+    <li>
+        Those who suffer because of their own sins. There are those who make sinful decisions and suffer the consequences. 
+        Korihor is an example of this. He preached unto the people that there would be no Christ and that there is no God. 
+        Alma testified that there is a God, but after Korihor ignored Alma, he was struck dumb. 
+        This was a direct consequence of a sin Korihor chose to do. 
+    </li>
+    <img src="img/posts/alma.jpeg" class="responsive">
+    <br>
+    <li>
+        
+    </li>
+</lu>
+
+<br>
+<h2>Those who never knew God who suffer</h2>
+
+<br>
+<h2>Conclusion</h2>
+<br>
+Elder Christofferson said, 
+<br>
+<q>The path of life cannot always be easy for any of us. There is too much refining needed for it to be easy. The process of God-directed purging and purifying will, of necessity, be wrenching and painful at times. 
+So, in the midst of this refiner’s fire, rather than get angry with God, get close to God. Call upon the Father in the name of the Son. Turn to Them for daily bread. Walk with Them by the Spirit, day by day and step by step. Come truly to know Them and to truly know yourself. Let God prevail. 
+No matter what our mortal experience may entail, we can trust God and find joy in Him.</q>
+<br>
+<br>
+
+Hank Smith and John Bytheway dove into this question during the Job episode of Come Follow Him. They quoted Victor Frankyl show said, 
+    
+
+</html>
