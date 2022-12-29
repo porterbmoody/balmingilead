@@ -1,9 +1,9 @@
 ---
-date: 2022-12-22T10:58:08-04:00
+title: "If God really loves us so much, why does he allow so much suffering?"
 description: "O God, Where art thou?"
 featured_image: "/images/posts/gethsemane.jpg"
+date: 2022-12-22T10:58:08-04:00
 tags: ["love"]
-title: "If God really loves us so much, why does he allow so much suffering?"
 ---
 
 
@@ -17,31 +17,24 @@ People who's suffering was a result of their own actions, and people who's suffe
 or just happened regardless of anyone's decisions.
 Whatever the category, everyone experiences suffering to some degree in their lifetimes. 
 
-<h2>Righteous who suffer</h2>
+Righteous who suffer
 
-<p>
-    Many disciples of Jesus have gone through great trials and afflictions for the God's sake. 
-    Examples of these disciples include: 
-</p>
+Many disciples of Jesus have gone through great trials and afflictions for the God's sake. 
+Examples of these disciples include: 
 
-<ul>
-    <li>
-        
-        Joseph Smith
-        <br>
-        <img src="/img/posts/liberty.jpeg" width="400" class="responsive">
-        <br>
-        During his time in Liberty jail, The Prophet Joseph Smith asked God where He was. 
-        <br>
-        <blockquote cite="https://www.huxley.net/bnw/four.html">
-            D&C 121
-            1 O God, where art thou? And where is the pavilion that covereth thy bhiding place?
-            And God responded.
-            <br>
-            7 My son, peace be unto thy soul; thine adversity and thine afflictions shall be but a small moment;
-            <br>
-            8 And then, if thou endure it well, God shall exalt thee on high; thou shalt triumph over all thy foes.
-        </blockquote>
+Joseph Smith
+<img src="/img/posts/liberty.jpeg" width="400" class="responsive">
+During his time in Liberty jail, The Prophet Joseph Smith asked God where He was. 
+<br>
+<blockquote cite="https://www.huxley.net/bnw/four.html">
+    D&C 121
+    1 O God, where art thou? And where is the pavilion that covereth thy bhiding place?
+    And God responded.
+    <br>
+    7 My son, peace be unto thy soul; thine adversity and thine afflictions shall be but a small moment;
+    <br>
+    8 And then, if thou endure it well, God shall exalt thee on high; thou shalt triumph over all thy foes.
+</blockquote>
     </li>
     <br>
     <li>
