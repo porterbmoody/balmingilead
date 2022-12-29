@@ -4,7 +4,7 @@ publishDir: exampleSite/public
 buildCommand: cd exampleSite && hugo --gc --baseURL "/" --themesDir ../.. && cd ..
 uploadDir: uploads
 staticDir: exampleSite/static
-pagesDir: exampleSite/content
+pagesDir: content
 dataDir: exampleSite
 models:
   config:
