@@ -17,7 +17,7 @@ People who's suffering was a result of their own actions, and people who's suffe
 or just happened regardless of anyone's decisions.
 Whatever the category, everyone experiences suffering to some degree in their lifetimes. 
 
-Righteous who suffer
+## Righteous who suffer
 
 Many disciples of Jesus have gone through great trials and afflictions for the God's sake. 
 Examples of these disciples include: 
@@ -65,18 +65,19 @@ and this that the word might be fulfilled which saith he will take upon him the 
     The fact is there are many more righteous saints who have suffered for the sake of their discipleship. 
 
 
-Unrighteous who suffer
+## Unrighteous who suffer
+
 Those who suffer because of their own sins. There are those who make sinful decisions and suffer the consequences. 
 Korihor is an example of this. He preached unto the people that there would be no Christ and that there is no God. 
 Alma testified that there is a God, but after Korihor ignored Alma, he was struck dumb. 
 This was a direct consequence of a sin Korihor chose to do. 
 <img src="img/posts/alma.jpeg" class="responsive">
 
-<h2>Those who never knew God who suffer</h2>
+Those who never knew God who suffer
 
-<h2>Conclusion</h2>
+Conclusion
 Elder Christofferson said, 
-<q>The path of life cannot always be easy for any of us. There is too much refining needed for it to be easy. The process of God-directed purging and purifying will, of necessity, be wrenching and painful at times. 
+The path of life cannot always be easy for any of us. There is too much refining needed for it to be easy. The process of God-directed purging and purifying will, of necessity, be wrenching and painful at times. 
 So, in the midst of this refiner’s fire, rather than get angry with God, get close to God. Call upon the Father in the name of the Son. Turn to Them for daily bread. Walk with Them by the Spirit, day by day and step by step. Come truly to know Them and to truly know yourself. Let God prevail. 
-No matter what our mortal experience may entail, we can trust God and find joy in Him.</q>
+No matter what our mortal experience may entail, we can trust God and find joy in Him.
 Hank Smith and John Bytheway dove into this question during the Job episode of Come Follow Him. They quoted Victor Frankyl show said, 
