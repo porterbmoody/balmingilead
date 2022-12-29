@@ -22,8 +22,9 @@ Righteous who suffer
 Many disciples of Jesus have gone through great trials and afflictions for the God's sake. 
 Examples of these disciples include: 
 
-Joseph Smith
-<img src="/img/posts/liberty.jpeg" width="400" class="responsive">
+- Joseph Smith
+![Joseph Smith](/img/posts/liberty.jpeg)
+<img src="" width="400" class="responsive">
 During his time in Liberty jail, The Prophet Joseph Smith asked God where He was. 
 <br>
 <blockquote cite="https://www.huxley.net/bnw/four.html">
