@@ -1,90 +1,49 @@
 ---
-date: 2017-04-10T11:00:59-04:00
-description: "Pierre Gringoire"
-featured_image: ""
-tags: []
-title: "Chapter II: Pierre Gringoire"
+title: "The 3 wise men"
+description: "Who followed the star"
+featured_image: "/images/posts/wise.jpg"
+date: 2022-12-23T11:00:59-04:00
+tags: ["Christmas", "New Testament"]
 ---
 
-Nevertheless, as be harangued them, the satisfaction and admiration
-unanimously excited by his costume were dissipated by his words; and when
-he reached that untoward conclusion: “As soon as his illustrious eminence,
-the cardinal, arrives, we will begin,” his voice was drowned in a thunder
-of hooting.
 
-“Begin instantly! The mystery! the mystery immediately!” shrieked the
-people. And above all the voices, that of Johannes de Molendino was
-audible, piercing the uproar like the fife’s derisive serenade: “Commence
-instantly!” yelped the scholar.
+Who were the wise men?
+A group of men (It is not known how many) were guided from a land East of Palestine.
+It is evident they were men of strong spiritual strength because they noticed, and recognized the star of Jesus' birth. 
+It is also possible that they came from a branch of the Lord's people 
+and then returned to bear witness of the birth of Christ. 
+The wise men were actually called Magi which means mistics. 
+    
+    
 
-“Down with Jupiter and the Cardinal de Bourbon!” vociferated Robin
-Poussepain and the other clerks perched in the window.
+<img src="/img/posts/star.jpg" alt="awesome pic" align="right" padding="10px" width="300">
 
-“The morality this very instant!” repeated the crowd; “this very instant!
-the sack and the rope for the comedians, and the cardinal!”
+The Star
+Helaman 14:5 prophecies of the star being a sign of Jesus.
 
-Poor Jupiter, haggard, frightened, pale beneath his rouge, dropped his
-thunderbolt, took his cap in his hand; then he bowed and trembled and
-stammered: “His eminence—the ambassadors—Madame Marguerite of
-Flanders—.” He did not know what to say. In truth, he was afraid of
-being hung.
+5 And behold, there shall a new star arise, such an one as ye never have beheld; and this also shall be a sign unto you.
 
-Hung by the populace for waiting, hung by the cardinal for not having
-waited, he saw between the two dilemmas only an abyss; that is to say, a
-gallows.
+Once the wise men saw the star they immediately recognized it and started their 7 week journey to Bethlehem. 
+They initially arrived in Jerusalem and met King Herod. 
+They then acquired of Herod where Jesus was born and King Herod told them to go to Bethlehem and once they see
+Jesus to return and inform him so Herod could go a worship too. 
+So the wise men traveled to Bethlehem and saw the star above the stable. 
 
-Luckily, some one came to rescue him from his embarrassment, and assume
-the responsibility.
+Mathew 2:7
+10 When they saw the star, they rejoiced with exceeding great joy.
 
-An individual who was standing beyond the railing, in the free space
-around the marble table, and whom no one had yet caught sight of, since
-his long, thin body was completely sheltered from every visual ray by the
-diameter of the pillar against which he was leaning; this individual, we
-say, tall, gaunt, pallid, blond, still young, although already wrinkled
-about the brow and cheeks, with brilliant eyes and a smiling mouth, clad
-in garments of black serge, worn and shining with age, approached the
-marble table, and made a sign to the poor sufferer. But the other was so
-confused that he did not see him. The new comer advanced another step.
+After having seen Jesus, they were warned in a dream not to return to Herod so they went their way back home.
+Mary and Joseph then parted for Egypt because the Lord told them King Herod would seek to kill the baby Jesus.
+Once Herod realized the wise men did not return and give word to him 
+about the location of Jesus, he had every child of age 2 and under killed. 
 
-“Jupiter,” said he, “my dear Jupiter!”
+The Gifts
+Gold representing kingship, frankincense (worship) and myrrh (death and mourning).
+These are not the gifts Jesus asks of us. From the treasure of our hearts Jesus asks that we give of ourselves: 
+‘Behold, the Lord requireth the heart and a willing mind’”
+    
 
-The other did not hear.
-
-At last, the tall blond, driven out of patience, shrieked almost in his
-face,—
-
-“Michel Giborne!”
-
-“Who calls me?” said Jupiter, as though awakened with a start.
-
-“I,” replied the person clad in black.
-
-“Ah!” said Jupiter.
-
-“Begin at once,” went on the other. “Satisfy the populace; I undertake to
-appease the bailiff, who will appease monsieur the cardinal.”
-
-Jupiter breathed once more.
-
-“Messeigneurs the bourgeois,” he cried, at the top of his lungs to the
-crowd, which continued to hoot him, “we are going to begin at once.”
-
-“_Evoe Jupiter! Plaudite cives_! All hail, Jupiter! Applaud,
-citizens!” shouted the scholars.
-
-“Noel! Noel! good, good,” shouted the people.
-
-The hand clapping was deafening, and Jupiter had already withdrawn under
-his tapestry, while the hall still trembled with acclamations.
-
-In the meanwhile, the personage who had so magically turned the tempest
-into dead calm, as our old and dear Corneille puts it, had modestly
-retreated to the half-shadow of his pillar, and would, no doubt, have
-remained invisible there, motionless, and mute as before, had he not been
-plucked by the sleeve by two young women, who, standing in the front row
-of the spectators, had noticed his colloquy with Michel Giborne-Jupiter.
-
-“Master,” said one of them, making him a sign to approach. “Hold your
-tongue, my dear Liénarde,” said her neighbor, pretty, fresh, and very
-brave, in consequence of being dressed up in her best attire. “He is not a
-clerk, he is a layman; you must not say master to him, but messire.”
+The meaning
+There is significance in the fact that the Wise Men sought Jesus. 
+There were few who sought honestly Jesus and were blessed with a true sign of Him and ultimately the 
+opportunity to see Him as a child. 
