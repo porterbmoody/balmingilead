@@ -26,21 +26,22 @@ Examples of these disciples include:
 ![Joseph Smith](../../images/posts/liberty.jpeg)
 <img src="" width="400" class="responsive">
 During his time in Liberty jail, The Prophet Joseph Smith asked God where He was. 
-> D&C 121
 > 1 O God, where art thou? And where is the pavilion that covereth thy bhiding place?
 > And God responded.
 > 7 My son, peace be unto thy soul; thine adversity and thine afflictions shall be but a small moment;
 > 8 And then, if thou endure it well, God shall exalt thee on high; thou shalt triumph over all thy foes.
+> D&C 121
 
 - Job
 ![job](../../images/posts/job.jpg)
 Job was cursed with afflictions so bad he asked why he was born.
-<blockquote>
-Job 3:11
-Why died I not from the womb? why did I not give up the ghost when I came out of the belly?
-</blockquote>
+
+> Why died I not from the womb? why did I not give up the ghost when I came out of the belly?
 After Job endures his trials without ever blaming God, 
 God comes to him and tells him we can't always understand why God does things.
+>
+> Job 3:11
+
 Sometimes we just need to trust God without understanding why He gave us a certain burden or when it's going to be lifted.
     </li>
     <br>
