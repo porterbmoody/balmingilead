@@ -13,12 +13,11 @@ It is evident they were men of strong spiritual strength because they noticed, a
 It is also possible that they came from a branch of the Lord's people 
 and then returned to bear witness of the birth of Christ. 
 The wise men were actually called Magi which means mistics. 
-    
-    
 
-<img src="/img/posts/star.jpg" alt="awesome pic" align="right" padding="10px" width="300">
 
 The Star
+![star](/image/posts/star.jpg)
+
 Helaman 14:5 prophecies of the star being a sign of Jesus.
 
 5 And behold, there shall a new star arise, such an one as ye never have beheld; and this also shall be a sign unto you.

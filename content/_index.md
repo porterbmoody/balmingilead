@@ -7,4 +7,5 @@ theme_version: '2.8.2'
 cascade:
   featured_image: '/images/jesus2.jpg'
 ---
-Welcome to awesome jesus blog!!
+
+Welcome to my awesome jesus blog!!
