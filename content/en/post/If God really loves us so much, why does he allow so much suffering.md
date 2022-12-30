@@ -72,11 +72,12 @@ Korihor is an example of this. He preached unto the people that there would be n
 Alma testified that there is a God, but after Korihor ignored Alma, he was struck dumb. 
 This was a direct consequence of a sin Korihor chose to do. 
 ![alma](img/posts/alma.jpeg)
-<!-- <img src="" class="responsive"> -->
 
-Those who never knew God who suffer
 
-Conclusion
+## Those who never knew God who suffer
+
+## Conclusion
+
 Elder Christofferson said, 
 The path of life cannot always be easy for any of us. There is too much refining needed for it to be easy. The process of God-directed purging and purifying will, of necessity, be wrenching and painful at times. 
 So, in the midst of this refiner’s fire, rather than get angry with God, get close to God. Call upon the Father in the name of the Son. Turn to Them for daily bread. Walk with Them by the Spirit, day by day and step by step. Come truly to know Them and to truly know yourself. Let God prevail. 
