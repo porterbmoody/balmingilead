@@ -24,7 +24,7 @@ Examples of these disciples include:
 
 - Joseph Smith
 
-![Joseph Smith](/content/images/posts/liberty.jpeg)
+![Joseph Smith](/images/posts/liberty.jpeg)
 During his time in Liberty jail, The Prophet Joseph Smith asked God where He was. 
 > 1 O God, where art thou? And where is the pavilion that covereth thy bhiding place?
 > And God responded.
@@ -48,7 +48,9 @@ Sometimes we just need to trust God without understanding why He gave us a certa
 - Peter got thrown in jail for preaching the gospel after Christ's death.
 
 - Jesus Christ
+
 ![Jesus](/images/posts/gethsemane.jpg)
+
 > In Psalm 22:1 David foretells Jesus saying, 
 > "1 My God, my God, why hast thou forsaken me? Why art thou so far from helping me, and from the words of my roaring?"
 
