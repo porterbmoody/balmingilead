@@ -11,7 +11,7 @@ googleAnalytics = ""
 enableRobotsTXT = true
 
 [languages]
-  [languages]
+  [languages.en]
     title = "Is there no Balm in Gilead?"
     weight = 1
     contentDir = "content"
