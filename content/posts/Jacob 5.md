@@ -50,9 +50,9 @@ Then we have a verse as to the purpose of the allegory
 
 # Allegory
 
-| Attempt | #1    | #2    |
-| :---:   | :---: | :---: |
-| Seconds | 301   | 283   |
+| verse       | summary  | meaning   |
+| :---:       | :---:    | :---:     |
+| Seconds     | 301      | 283       |
 
 > 1 Behold, my brethren, do ye not remember to have read the words of the prophet Zenos, which he spake unto the house of Israel, saying:
 
