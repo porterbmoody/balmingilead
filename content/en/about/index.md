@@ -1,6 +1,6 @@
 ---
 title: "About"
-description: "YOOOOOO its me p-dawgYOOOOOO its me p-dawg"
+description: "YOOOOOO its me p-dawg"
 featured_image: '/images/shrek.jpg'
 menu:
   main:
