@@ -1,7 +1,7 @@
 ---
 title: "Jacob 5"
 description: "The Allegory of the Olive Tree"
-featured_image: "/content/images/posts/olive tree.jpg"
+featured_image: "/images/posts/olive tree.jpg"
 date: 2022-12-10T10:58:08-04:00
 tags: ["love"]
 ---
@@ -50,11 +50,9 @@ Then we have a verse as to the purpose of the allegory
 
 # Allegory
 
-| number       | verse  | meaning   |
-| :---:       | :---:    | :---:     |
-| 1     | Behold, my brethren, do ye not remember to have read the words of the prophet Zenos, which he spake unto the house of Israel, saying:  | Jacob begins by declaring that he will be quoting the prophet ![Zenos](https://porterbmoody.github.io/blog/Jacob%205.html). Unfortunately, few direct references to Zenos exist in modern day scripture and only indirect references to him or his teachings exist outside of the Book of Mormon. The writings of Jacob were heavily influenced by the prophet Zenos. Zenos was a prophet of Old Testament times who's prophecies are contained in the Book of Mormon. He was taught many things, and was killed for his bold testimony.     |
+> 1 Behold, my brethren, do ye not remember to have read the words of the prophet Zenos, which he spake unto the house of Israel, saying:
 
-
+Jacob begins by declaring that he will be quoting the prophet [Zenos](https://porterbmoody.github.io/blog/Jacob%205.html). Unfortunately, few direct references to Zenos exist in modern day scripture and only indirect references to him or his teachings exist outside of the Book of Mormon. The writings of Jacob were heavily influenced by the prophet Zenos. Zenos was a prophet of Old Testament times who's prophecies are contained in the Book of Mormon. He was taught many things, and was killed for his bold testimony.
 
 
 
