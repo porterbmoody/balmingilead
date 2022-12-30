@@ -15,7 +15,7 @@ and then returned to bear witness of the birth of Christ.
 The wise men were actually called Magi which means mistics. 
 
 
-The Star
+## The Star
 ![star](/images/posts/star.jpg)
 
 Helaman 14:5 prophecies of the star being a sign of Jesus.
@@ -36,13 +36,13 @@ Mary and Joseph then parted for Egypt because the Lord told them King Herod woul
 Once Herod realized the wise men did not return and give word to him 
 about the location of Jesus, he had every child of age 2 and under killed. 
 
-The Gifts
+## The Gifts
 Gold representing kingship, frankincense (worship) and myrrh (death and mourning).
 These are not the gifts Jesus asks of us. From the treasure of our hearts Jesus asks that we give of ourselves: 
 ‘Behold, the Lord requireth the heart and a willing mind’”
     
 
-The meaning
+## The meaning
 There is significance in the fact that the Wise Men sought Jesus. 
 There were few who sought honestly Jesus and were blessed with a true sign of Him and ultimately the 
 opportunity to see Him as a child. 
