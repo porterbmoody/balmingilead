@@ -3,13 +3,12 @@ title: "The Book of Like and How we are judged"
 description: "Deeper insights on our judgement"
 featured_image: "/images/posts/judgement.jpg"
 date: 2022-12-13T11:00:59-04:00
-tags: ["Judgement"]
+tags: ["Judgement", "Book of Mormon", "History"]
 ---
 
 
 
-
-There are several references to <a href="https://www.churchofjesuschrist.org/study/scriptures/gs/book-of-life?lang=eng">the Book of Life</a> in scripture. There are also references to a <a href="https://www.churchofjesuschrist.org/study/scriptures/gs/book-of-remembrance?lang=eng">Book of Rememberence
+There are several references to ![the Book of Life](https://www.churchofjesuschrist.org/study/scriptures/gs/book-of-life?lang=eng) in scripture. There are also references to a ![Book of Rememberence](https://www.churchofjesuschrist.org/study/scriptures/gs/book-of-remembrance?lang=eng)
 
 
 ## The Book of Life
