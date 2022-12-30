@@ -71,7 +71,8 @@ Those who suffer because of their own sins. There are those who make sinful deci
 Korihor is an example of this. He preached unto the people that there would be no Christ and that there is no God. 
 Alma testified that there is a God, but after Korihor ignored Alma, he was struck dumb. 
 This was a direct consequence of a sin Korihor chose to do. 
-<img src="img/posts/alma.jpeg" class="responsive">
+![alma](img/posts/alma.jpeg)
+<!-- <img src="" class="responsive"> -->
 
 Those who never knew God who suffer
 
