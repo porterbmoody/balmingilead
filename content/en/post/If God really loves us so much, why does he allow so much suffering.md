@@ -53,16 +53,15 @@ Sometimes we just need to trust God without understanding why He gave us a certa
 
 During His suffering in gethsemane we have the following verse 
 describing His sufferings:
-Alma 7:11
-"11 And he shall go forth, suffering pains and afflictions and temptations of every kind; 
-and this that the word might be fulfilled which saith he will take upon him the pains and the sicknesses of his people."
+> "11 And he shall go forth, suffering pains and afflictions and temptations of every kind; 
+> and this that the word might be fulfilled which saith he will take upon him the pains and the sicknesses of his people."
+> Alma 7:11
 
-        Jesus Christ suffered the most anyone has ever suffered in the history of the world 
-        so no matter how bad we suffer it won't be as bad as Him. He asked God why He had to suffer and God told him He had to. 
-        The suffering Jesus went through was necessary for the plan of salvation to work so that men could be redeemed from their sinful state.
-    </li>
-    <br>
-    The fact is there are many more righteous saints who have suffered for the sake of their discipleship. 
+Jesus Christ suffered the most anyone has ever suffered in the history of the world 
+so no matter how bad we suffer it won't be as bad as Him. He asked God why He had to suffer and God told him He had to. 
+The suffering Jesus went through was necessary for the plan of salvation to work so that men could be redeemed from their sinful state.
+
+The fact is there are many more righteous saints who have suffered for the sake of their discipleship. 
 
 
 ## Unrighteous who suffer
