@@ -52,7 +52,7 @@ Then we have a verse as to the purpose of the allegory
 
 | number       | verse  | meaning   |
 | :---:       | :---:    | :---:     |
-| 1     | Behold, my brethren, do ye not remember to have read the words of the prophet Zenos, which he spake unto the house of Israel, saying:  | Jacob begins by declaring that he will be quoting the prophet ![Zenos](). Unfortunately, few direct references to Zenos exist in modern day scripture and only indirect references to him or his teachings exist outside of the Book of Mormon. The writings of Jacob were heavily influenced by the prophet Zenos. Zenos was a prophet of Old Testament times who's prophecies are contained in the Book of Mormon. He was taught many things, and was killed for his bold testimony.     |
+| 1     | Behold, my brethren, do ye not remember to have read the words of the prophet Zenos, which he spake unto the house of Israel, saying:  | Jacob begins by declaring that he will be quoting the prophet ![Zenos](https://porterbmoody.github.io/blog/Jacob%205.html). Unfortunately, few direct references to Zenos exist in modern day scripture and only indirect references to him or his teachings exist outside of the Book of Mormon. The writings of Jacob were heavily influenced by the prophet Zenos. Zenos was a prophet of Old Testament times who's prophecies are contained in the Book of Mormon. He was taught many things, and was killed for his bold testimony.     |
 
 
 
@@ -238,7 +238,6 @@ These branches are removed and later new ones come to replace them.
 
 
 [1]: https://www.churchofjesuschrist.org/study/scriptures/bofm/jacob/5?lang=eng
-[2]: https://porterbmoody.github.io/blog/Jacob%205.html
 [3]: https://gospeldoctrine.com/book-mormon/jacob/jacob-5
 [4]: https://www.churchofjesuschrist.org/study/manual/book-of-mormon-student-manual/chapter-16-jacob-5-7?lang=eng
 
