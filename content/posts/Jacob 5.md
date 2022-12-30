@@ -16,7 +16,7 @@ When speaking of Jacob 5 Joseph Fielding Smith said, "No greater parable was eve
 ## Context
 Just before Jacobs speaks the allegory of the olive trees, he shares something about the "unsearchableness of God" saying, 
 
-> Behold, great and marvelous are the works of the Lord. How unsearchable are the depths of the mysteries of him; and it is impossible that man should find out all his ways. And no man knoweth of his ways save it be revealed unto him; wherefore, brethren, despise not the revelations of God.     
+> Behold, great and marvelous are the works of the Lord. How unsearchable are the depths of the mysteries of him; and it is impossible that man should find out all his ways. And no man knoweth of his ways save it be revealed unto him; wherefore, brethren, despise not the revelations of God.
 > Jacob 4:8
 
 So we already begin with the caveat that we will not be able to fully comprehend this allegory and whatever we do comprehend will be by the Holy Ghost.
