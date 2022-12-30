@@ -44,9 +44,11 @@ God comes to him and tells him we can't always understand why God does things.
 > Job 3:11
 
 Sometimes we just need to trust God without understanding why He gave us a certain burden or when it's going to be lifted.
-        Peter got thrown in jail for preaching the gospel after Christ's death.
-        Jesus Christ
-        <img src="/img/posts/gethsemane.jpg" width="400" class="responsive">
+
+- Peter got thrown in jail for preaching the gospel after Christ's death.
+
+- Jesus Christ
+![Jesus](content/images/posts/gethsemane.jpg)
 > In Psalm 22:1 David foretells Jesus saying, 
 > "1 My God, my God, why hast thou forsaken me? Why art thou so far from helping me, and from the words of my roaring?"
 > And Matthew 27:46 says, "46 And about the ninth hour Jesus cried with a loud voice, saying, Eli, Eli, lama sabachthani?
