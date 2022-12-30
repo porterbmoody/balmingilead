@@ -13,7 +13,7 @@ When speaking of Jacob 5 Joseph Fielding Smith said, "No greater parable was eve
 
 
 
-# Context
+## Context
 Just before Jacobs speaks the allegory of the olive trees, he shares something about the "unsearchableness of God" saying, 
 
 > Behold, great and marvelous are the works of the Lord. How unsearchable are the depths of the mysteries of him; and it is impossible that man should find out all his ways. And no man knoweth of his ways save it be revealed unto him; wherefore, brethren, despise not the revelations of God.     
@@ -30,7 +30,7 @@ Then we have a verse as to the purpose of the allegory
 > 17 And now, my beloved, how is it possible that these, after having rejected the sure foundation, can ever build upon it, that it may become the head of their corner?   
 > Jacob 5:18
 
-# Symbols
+## Symbols
 
 > Symbol | Meaning 
 > --- | ---
@@ -51,7 +51,9 @@ Then we have a verse as to the purpose of the allegory
 
 # Allegory
 
-
+| Attempt | #1    | #2    |
+| :---:   | :---: | :---: |
+| Seconds | 301   | 283   |
 
 > 1 Behold, my brethren, do ye not remember to have read the words of the prophet Zenos, which he spake unto the house of Israel, saying:
 

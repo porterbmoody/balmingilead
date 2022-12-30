@@ -6,10 +6,7 @@ uploadDir: uploads
 staticDir: exampleSite/static
 pagesDir: content
 dataDir: exampleSite
-DISQUS: disqusShortname = YOURSHORTNAME
-COMMENTO:
-  [params]
-    commentoEnable = true 
+
 models:
   config:
     type: data
