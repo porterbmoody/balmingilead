@@ -23,8 +23,8 @@ Many disciples of Jesus have gone through great trials and afflictions for the G
 Examples of these disciples include: 
 
 - Joseph Smith
+
 ![Joseph Smith](/content/images/posts/liberty.jpeg)
-<img src="" width="400" class="responsive">
 During his time in Liberty jail, The Prophet Joseph Smith asked God where He was. 
 > 1 O God, where art thou? And where is the pavilion that covereth thy bhiding place?
 > And God responded.
@@ -33,6 +33,7 @@ During his time in Liberty jail, The Prophet Joseph Smith asked God where He was
 > D&C 121
 
 - Job
+
 ![job](/content/images/posts/job.jpg)
 Job was cursed with afflictions so bad he asked why he was born.
 
