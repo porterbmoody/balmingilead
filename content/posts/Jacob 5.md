@@ -1,7 +1,7 @@
 ---
 title: "Jacob 5"
 description: "The Allegory of the Olive Tree"
-featured_image: "/images/posts/olive tree.jpg"
+featured_image: "/images/posts/olivetree.jpg"
 date: 2022-12-10T10:58:08-04:00
 tags: ["love"]
 ---
