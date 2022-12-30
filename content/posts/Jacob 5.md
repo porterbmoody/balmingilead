@@ -14,10 +14,7 @@ date: 2022-12-10 03:45:13 -0400
 background: '/images/posts/olive tree.jpg'
 ---
 
-
-<center>
-<img src="../images/olive tree.jpg" alt="Alt text" title="Olive Tree" style="display: inline-block; margin: 0 auto; max-width: 275px">
-</center>
+![tree](/images/posts/olive tree.jpg)
 
 # Context
 Just before Jacobs speaks the allegory of the olive trees, he shares something about the "unsearchableness of God" saying, 
