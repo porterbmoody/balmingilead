@@ -1,11 +1,22 @@
 ---
 title: "About"
-description: "A few years ago, while visiting or, rather, rummaging about Notre-Dame, the author of this book found, in an obscure nook of one of the towers, the following word, engraved by hand upon the wall: —ANANKE."
-featured_image: '/images/Victor_Hugo-Hunchback.jpg'
+description: "YOOOOOO its me p-dawgYOOOOOO its me p-dawg"
+featured_image: '/images/shrek.jpg'
 menu:
   main:
     weight: 1
 ---
-{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
 
-_The Hunchback of Notre-Dame_ (French: _Notre-Dame de Paris_) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England. The story is set in Paris, France in the Late Middle Ages, during the reign of Louis XI.
+
+
+My name is Porter and I went to BYU - Idaho to study Data science with a math minor. I grew up in Colorado, served a mission in Charlotte, North Carolina Spanish speaking, but I didn't finish my entire mission so I did the service mission for a while. 
+
+love digging deeper into the doctrine to really try to understand what the scriptures are 
+saying and what God's interactions and dealings with his people mean. 
+I love programming in python, r, SQL, and learing about statistics, machine learning algorithms. 
+Linear algebra is the most fascination math topic I have ever studied.
+
+purpose of this blog is to share some of those findings and insights I come 
+across that may help someone getting a fuller grasp of the gospel, history or any topic in between. 
+Another purpose is to help people realize that there actually is a Balm in Gilead.
+
