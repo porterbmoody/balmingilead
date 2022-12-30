@@ -52,11 +52,11 @@ Then we have a verse as to the purpose of the allegory
 
 | verse       | summary  | meaning   |
 | :---:       | :---:    | :---:     |
-| Seconds     | 301      | 283       |
+| 1     | 301      | Jacob begins by declaring that he will be quoting the prophet [Zenos][2]. Unfortunately, few direct references to Zenos exist in modern day scripture and only indirect references to him or his teachings exist outside of the Book of Mormon. The writings of Jacob were heavily influenced by the prophet Zenos. Zenos was a prophet of Old Testament times who's prophecies are contained in the Book of Mormon. He was taught many things, and was killed for his bold testimony.     |
 
 > 1 Behold, my brethren, do ye not remember to have read the words of the prophet Zenos, which he spake unto the house of Israel, saying:
 
-Jacob begins by declaring that he will be quoting the prophet [Zenos][2]. Unfortunately, few direct references to Zenos exist in modern day scripture and only indirect references to him or his teachings exist outside of the Book of Mormon. The writings of Jacob were heavily influenced by the prophet Zenos. Zenos was a prophet of Old Testament times who's prophecies are contained in the Book of Mormon. He was taught many things, and was killed for his bold testimony. 
+
 
 > 2 Hearken, O ye house of Israel, and hear the words of me, a prophet of the Lord.
 
