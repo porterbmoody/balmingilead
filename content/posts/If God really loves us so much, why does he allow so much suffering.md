@@ -90,3 +90,6 @@ The path of life cannot always be easy for any of us. There is too much refining
 So, in the midst of this refiner’s fire, rather than get angry with God, get close to God. Call upon the Father in the name of the Son. Turn to Them for daily bread. Walk with Them by the Spirit, day by day and step by step. Come truly to know Them and to truly know yourself. Let God prevail. 
 No matter what our mortal experience may entail, we can trust God and find joy in Him.
 Hank Smith and John Bytheway dove into this question during the Job episode of Come Follow Him. They quoted Victor Frankyl show said, 
+
+
+{% include disqus.html %}
