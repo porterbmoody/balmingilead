@@ -48,15 +48,18 @@ Sometimes we just need to trust God without understanding why He gave us a certa
 - Peter got thrown in jail for preaching the gospel after Christ's death.
 
 - Jesus Christ
-![Jesus](/content/images/posts/gethsemane.jpg)
+![Jesus](/images/posts/gethsemane.jpg)
 > In Psalm 22:1 David foretells Jesus saying, 
 > "1 My God, my God, why hast thou forsaken me? Why art thou so far from helping me, and from the words of my roaring?"
-> And Matthew 27:46 says, "46 And about the ninth hour Jesus cried with a loud voice, saying, Eli, Eli, lama sabachthani?
+
+And Matthew 27:46 says, 
+> 46 And about the ninth hour Jesus cried with a loud voice, saying, Eli, Eli, lama sabachthani?
 
 That is to say, 
-> My God, my God, why hast thou forsaken me?During the crucifixion of Jesus Christ. 
+> My God, my God, why hast thou forsaken me?
+During the crucifixion of Jesus Christ. 
 
-During His suffering in gethsemane we have the following verse 
+Concerning His suffering in gethsemane we have the following verse 
 describing His sufferings:
 > "11 And he shall go forth, suffering pains and afflictions and temptations of every kind; 
 > and this that the word might be fulfilled which saith he will take upon him the pains and the sicknesses of his people."
