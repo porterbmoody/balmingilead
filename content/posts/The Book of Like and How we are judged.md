@@ -29,7 +29,3 @@ The Book of Rememberence was started by Adam to record the works of his children
 It is also the case that those who were written in The Book of Remberence
 
 
-
-
-
-
