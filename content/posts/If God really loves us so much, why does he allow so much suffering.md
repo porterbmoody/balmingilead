@@ -34,7 +34,7 @@ During his time in Liberty jail, The Prophet Joseph Smith asked God where He was
 
 - Job
 
-![job](/content/images/posts/job.jpg)
+![job](/images/posts/job.jpg)
 Job was cursed with afflictions so bad he asked why he was born.
 
 > Why died I not from the womb? why did I not give up the ghost when I came out of the belly?
@@ -48,11 +48,13 @@ Sometimes we just need to trust God without understanding why He gave us a certa
 - Peter got thrown in jail for preaching the gospel after Christ's death.
 
 - Jesus Christ
-![Jesus](content/images/posts/gethsemane.jpg)
+![Jesus](/content/images/posts/gethsemane.jpg)
 > In Psalm 22:1 David foretells Jesus saying, 
 > "1 My God, my God, why hast thou forsaken me? Why art thou so far from helping me, and from the words of my roaring?"
 > And Matthew 27:46 says, "46 And about the ninth hour Jesus cried with a loud voice, saying, Eli, Eli, lama sabachthani?
-> that is to say, My God, my God, why hast thou forsaken me?" During the crucifixion of Jesus Christ. 
+
+That is to say, 
+> My God, my God, why hast thou forsaken me?During the crucifixion of Jesus Christ. 
 
 During His suffering in gethsemane we have the following verse 
 describing His sufferings:
