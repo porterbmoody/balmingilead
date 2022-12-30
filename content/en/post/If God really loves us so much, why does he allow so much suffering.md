@@ -74,7 +74,7 @@ This was a direct consequence of a sin Korihor chose to do.
 ![alma](img/posts/alma.jpeg)
 
 
-## Those who never knew God who suffer
+## Those who never had the chance to know God who suffer
 
 ## Conclusion
 
