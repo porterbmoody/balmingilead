@@ -9,7 +9,7 @@ tags: ["love"]
 
 When speaking of Jacob 5 Joseph Fielding Smith said, "No greater parable was ever recorded"
 
-![tree](/content/images/posts/olive tree.jpg)
+![tree](/images/posts/olive tree.jpg)
 
 
 ## Context
