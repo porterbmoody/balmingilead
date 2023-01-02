@@ -56,13 +56,9 @@ Jacob begins by declaring that he will be quoting the prophet [Zenos](https://po
 
 
 
-<span style="color:yellow">
 > 2 Hearken, O ye house of Israel, and hear the words of me, a prophet of the Lord.
-</span>
 
-<span style="color:yellow">
 > 3 For behold, thus saith the Lord, I will liken thee, O house of Israel, like unto a tame olive tree, which a man took and nourished in his vineyard; and it grew, and waxed old, and began to decay.
-</span>
 
 
 The allegory begins by describing The House of Israel as an Olive Tree which a man nourished until it got old and began to decay.
