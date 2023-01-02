@@ -56,57 +56,100 @@ Jacob begins by declaring that he will be quoting the prophet [Zenos](https://po
 
 
 
+<span style="color:yellow">
 > 2 Hearken, O ye house of Israel, and hear the words of me, a prophet of the Lord.
+</span>
 
-
+<span style="color:yellow">
 > 3 For behold, thus saith the Lord, I will liken thee, O house of Israel, like unto a tame olive tree, which a man took and nourished in his vineyard; and it grew, and waxed old, and began to decay.
+</span>
+
 
 The allegory begins by describing The House of Israel as an Olive Tree which a man nourished until it got old and began to decay.
 
+<span style="color:yellow">
 > 4 And it came to pass that the master of the vineyard went forth, and he saw that his olive tree began to decay; and he said: I will prune it, and dig about it, and nourish it, that perhaps it may shoot forth young and tender branches, and it perish not.
+</span>
+
+
+
 
 
 Once it started to decay the master of the vineyard pruned it, digged about it and nourished it and it grew young and tender branches, but the top was still decaying.
 
+<span style="color:yellow">
 > 5 And it came to pass that he pruned it, and digged about it, and nourished it according to his word.
+</span>
 
+
+
+<span style="color:yellow">
 > 6 And it came to pass that after many days it began to put forth somewhat a little, young and tender branches; but behold, the main top thereof began to perish.
+</span>
 
 Then the master commands His servant to get branches from the wild olive tree and take. The time period here is right before Israel began to be scattered at 721BC.
 The Scattering of Israel begins with the sacking of the northern Kingdom by the Assyrians. Before this time, the northern kingdom was completely wicked, and had a long line of wicked, idolatrous kings.
 The other young and tender branches refer to the smaller, righteous kingdom of Judah who were still faithful. 
 There were also wicked people in the kingdom of Judah who were eventually destroyed and people who were preserved by being scattered in the northern kingdom. 
 
+
+<span style="color:yellow">
 > 7 And it came to pass that the master of the vineyard saw it, and he said unto his servant: It grieveth me that I should lose this tree; wherefore, **go and pluck the branches from a wild olive tree**, and bring them hither unto me; and we will pluck off those main branches which are beginning to wither away, and we will cast them into the fire that they may be burned.
+</span>
 
 These branches are removed and later new ones come to replace them. 
 
-
+<span style="color:yellow">
 > 8 And behold, saith the Lord of the vineyard, I take aaway many of these young and tender branches, and I will graft them bwhithersoever I will; and it mattereth not that if it so be that the root of this tree will perish, I may preserve the fruit thereof unto myself; wherefore, I will take these young and tender branches, and I will graft them whithersoever I will.
+</span>
 
-
+<span style="color:yellow">
 > 9 Take thou the branches of the wild olive tree, and graft them in, in the astead thereof; and these which I have plucked off I will cast into the fire and burn them, that they may not cumber the ground of my vineyard.
+</span>
 
 
+<span style="color:yellow">
 > 10 And it came to pass that the servant of the Lord of the vineyard did according to the word of the Lord of the vineyard, and grafted in the branches of the awild olive tree.
+</span>
 
-
+<span style="color:yellow">
 > 11 And the Lord of the vineyard caused that it should be digged about, and pruned, and nourished, saying unto his servant: It grieveth me that I should lose this tree; wherefore, that perhaps I might preserve the roots thereof that they perish not, that I might preserve them unto myself, I have done this thing.
+</span>
 
-
+<span style="color:yellow">
 > 12 Wherefore, go thy way; watch the tree, and nourish it, according to my words.
+</span>
 
+
+<span style="color:yellow">
 > 13 And these will I place in the nethermost part of my vineyard, whithersoever I will, it mattereth not unto thee; and I do it that I may preserve unto myself the natural branches of the tree; and also, that I may lay up fruit thereof against the season, unto myself; for it grieveth me that I should lose this tree and the fruit thereof.
+</span>
 
+
+
+
+
+<span style="color:yellow">
 > 14 And it came to pass that the Lord of the vineyard went his way, and hid the natural abranches of the tame olive tree in the nethermost parts of the vineyard, some in one and some in another, according to his will and pleasure.
+</span>
 
+<span style="color:yellow">
 > 15 And it came to pass that a long time passed away, and the Lord of the vineyard said unto his servant: Come, let us go down into the vineyard, that we may labor in the vineyard.
+</span>
 
+
+
+<span style="color: yellow" >
 > 16 And it came to pass that the Lord of the vineyard, and also the servant, went down into the vineyard to labor. And it came to pass that the servant said unto his master: Behold, look here; behold the tree.
+</span>
 
+<span style="color: yellow" >
 > 17 And it came to pass that the Lord of the vineyard looked and beheld the tree in the which the wild olive branches had been grafted; and it had sprung forth and begun to bear afruit. And he beheld that it was good; and the fruit thereof was like unto the natural fruit.
+</span>
 
+<span style="color: yellow" >
 > 18 And he said unto the servant: Behold, the branches of the wild tree have taken hold of the moisture of the root thereof, that the root thereof hath brought forth much strength; and because of the much strength of the root thereof the wild branches have brought forth tame fruit. Now, if we had not grafted in these branches, the tree thereof would have perished. And now, behold, I shall lay up much fruit, which the tree thereof hath brought forth; and the fruit thereof I shall lay up against the season, unto mine own self.
+</span>
 
 > 19 And it came to pass that the Lord of the vineyard said unto the servant: Come, let us go to the nethermost part of the vineyard, and behold if the natural branches of the tree have not brought forth much fruit also, that I may lay up of the fruit thereof against the season, unto mine own self. 
 
