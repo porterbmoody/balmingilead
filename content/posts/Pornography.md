@@ -58,16 +58,16 @@ Although there practical things that surely help and decrease frequency of mista
 
 ## Hope
 
-> 20 Wherefore, ye must press forward with a steadfastness in Christ, having a 
-> 
-> [2 Nephi 31:30]()
 
-Nephi reminds us of the commandment to have a [perfect brightness of hope](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/31?lang=eng&id=20#p20) and Elder Holland reminds brilliantly,
+Nephi reminds us of the commandment to have a [perfect brightness of hope](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/31?lang=eng&id=20#p20) and Elder Holland exorts us brilliantly to,
 
 > “Believe in miracles. I have seen so many. They came when every indication would say that Hope was lost. Hope is never lost!”
 > 
 > Jeffrey R. Holland
 
+
 <!-- git add .
 git commit -m "swag"
 git push -->
+
+
