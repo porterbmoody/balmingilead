@@ -59,8 +59,10 @@ Although there practical things that surely help and decrease frequency of mista
 I don't want this article to sound condemning. After all, President Nelson taught
 
 
-> [When comparing one’s personal performance with the supreme standard of the Lord’s expectation, the reality of imperfection can at times be depressing. My heart goes out to conscientious Saints who, because of their shortcomings, allow feelings of depression to rob them of happiness in life. We all need to remember: men are that they might have joy—not guilt trips!](https://www.churchofjesuschrist.org/study/general-conference/1995/10/perfection-pending?lang=eng)
+> When comparing one’s personal performance with the supreme standard of the Lord’s expectation, the reality of imperfection can at times be depressing. My heart goes out to conscientious Saints who, because of their shortcomings, allow feelings of depression to rob them of happiness in life. 
+> We all need to remember: men are that they might have joy—not guilt trips!
 > 
+> [Perfection Pending](https://www.churchofjesuschrist.org/study/general-conference/1995/10/perfection-pending?lang=eng)
 > Elder Russell M. Nelson
 
 
