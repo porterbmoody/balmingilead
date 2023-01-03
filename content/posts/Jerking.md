@@ -1,8 +1,8 @@
 ---
 title: "Jerking"
-description: "Will we ever be able to stop??"
+description: "Will I ever be able to stop??"
 featured_image: "/images/posts/dudewatching.webp"
-date: 2022-12-22T10:58:08-04:00
+date: 2023-01-02T10:58:08-04:00
 tags: ["Worthiness", "Sin"]
 ---
 
