@@ -8,4 +8,3 @@ cascade:
   featured_image: '/images/jesus2.jpg'
 ---
 
-Welcome to my awesome jesus blog!!
