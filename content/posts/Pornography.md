@@ -37,8 +37,6 @@ When shortly after Jesus was resurrected, He visited the Nephites in North Ameri
 He then expounded on the commandment saying, 
 
 > 28 But I say unto you, that whosoever looketh on a woman, to alust after her, hath committed adultery already in his heart.
-
-
-
-
+> 
+> [3 Nephi 12:28](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/12?lang=eng&id=28#p28)
 
