@@ -58,7 +58,7 @@ Although there practical things that surely help and decrease frequency of mista
 
 ## Hope
 
-> 20 Wherefore, ye must press forward with a steadfastness in Christ, having a perfect brightness of hope, and a clove of God and of all men. Wherefore, if ye shall press forward, feasting upon the word of Christ, and endure to the end, behold, thus saith the Father: Ye shall have eternal life
+> 20 Wherefore, ye must press forward with a steadfastness in Christ, having a perfect brightness of hope
 > 
 > [2 Nephi 31:30](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/31?lang=eng&id=20#p20)
 
