@@ -26,9 +26,6 @@ Do you ever wish you could just escape and leave all your problems behind??
 If you answered yes to 1 or more of these questions, this is the post for you.
 
 
-Here's a great quote from the talk from Brad Wilcox talk, "[Worthiness is not Flawlessness](https://www.churchofjesuschrist.org/study/general-conference/2021/10/35wilcox?lang=eng)"
-
-> Considering how long Damon had struggled, it was unhelpful and unrealistic for parents and leaders assisting him to say “never again” too quickly or to arbitrarily set some standard of abstinence to be considered “worthy.” Instead, they started with small, reachable goals. They got rid of the all-or-nothing expectations and focused on incremental growth, which allowed Damon to build on a series of successes instead of failures.19 He, like the enslaved people of Limhi, learned he could “prosper by degrees.”
 
 ## The Doctrine of Christ
 
@@ -43,4 +40,12 @@ He then expounded on the commandment saying,
 > 28 But I say unto you, that whosoever looketh on a woman, to alust after her, hath committed adultery already in his heart.
 > 
 > [3 Nephi 12:28](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/12?lang=eng&id=28#p28)
+
+
+## The Solution
+
+Here's a great quote from the talk from Brad Wilcox talk, "[Worthiness is not Flawlessness](https://www.churchofjesuschrist.org/study/general-conference/2021/10/35wilcox?lang=eng)"
+
+> Considering how long Damon had struggled, it was unhelpful and unrealistic for parents and leaders assisting him to say “never again” too quickly or to arbitrarily set some standard of abstinence to be considered “worthy.” Instead, they started with small, reachable goals. They got rid of the all-or-nothing expectations and focused on incremental growth, which allowed Damon to build on a series of successes instead of failures.19 He, like the enslaved people of Limhi, learned he could “prosper by degrees.”
+
 
