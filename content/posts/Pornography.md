@@ -49,3 +49,11 @@ Here's a great quote from the talk from Brad Wilcox talk, "[Worthiness is not Fl
 > Considering how long Damon had struggled, it was unhelpful and unrealistic for parents and leaders assisting him to say “never again” too quickly or to arbitrarily set some standard of abstinence to be considered “worthy.” Instead, they started with small, reachable goals. They got rid of the all-or-nothing expectations and focused on incremental growth, which allowed Damon to build on a series of successes instead of failures.19 He, like the enslaved people of Limhi, learned he could “prosper by degrees.”
 
 
+Although there practical things that surely help and decrease frequency of mistakes, the only remedy that will have a lasting impact is the grace of Christ. Ether reminds us that His grace is sufficient for all men who humble themselves before Him. 
+
+> 27 And if men come unto me I will show unto them their aweakness. I bgive unto men weakness that they may be humble; and my cgrace is sufficient for all men that dhumble themselves before me; for if they humble themselves before me, and have faith in me, then will I make eweak things become strong unto them.
+> 
+> [Ether 12:27](https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/12?lang=eng&id=27#p27)
+
+## There is hope
+
