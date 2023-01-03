@@ -62,7 +62,9 @@ Although there practical things that surely help and decrease frequency of mista
 > 
 > [2 Nephi 31:30](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/31?lang=eng&id=20#p20)
 
-Nephi reminds us to never loose hope in
+And Elder Holland reminds us 
+
+Nephi reminds us to never lose hope in
 
 
 <!-- git add .
