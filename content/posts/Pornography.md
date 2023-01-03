@@ -44,11 +44,6 @@ He then expounded on the commandment saying,
 
 ## The Solution
 
-Here's a great quote from the talk from Brad Wilcox talk, "[Worthiness is not Flawlessness](https://www.churchofjesuschrist.org/study/general-conference/2021/10/35wilcox?lang=eng)"
-
-> Considering how long Damon had struggled, it was unhelpful and unrealistic for parents and leaders assisting him to say “never again” too quickly or to arbitrarily set some standard of abstinence to be considered “worthy.” Instead, they started with small, reachable goals. They got rid of the all-or-nothing expectations and focused on incremental growth, which allowed Damon to build on a series of successes instead of failures. He, like the enslaved people of Limhi, learned he could “prosper by degrees.”
-
-
 Although there practical things that surely help and decrease frequency of mistakes, the only remedy that will have a lasting impact is the grace of Christ. Ether reminds us that His grace is sufficient for all men who humble themselves before Him. 
 
 > 27 And if men come unto me I will show unto them their weakness. I give unto men weakness that they may be humble; and my grace is sufficient for all men that humble themselves before me; for if they humble themselves before me, and have faith in me, then will I make weak things become strong unto them.
@@ -65,6 +60,9 @@ I don't want this article to sound condemning. After all, President Nelson taugh
 > [Perfection Pending](https://www.churchofjesuschrist.org/study/general-conference/1995/10/perfection-pending?lang=eng)
 > Elder Russell M. Nelson
 
+Here's a great quote from the talk from Brad Wilcox talk, "[Worthiness is not Flawlessness](https://www.churchofjesuschrist.org/study/general-conference/2021/10/35wilcox?lang=eng)"
+
+> Considering how long Damon had struggled, it was unhelpful and unrealistic for parents and leaders assisting him to say “never again” too quickly or to arbitrarily set some standard of abstinence to be considered “worthy.” Instead, they started with small, reachable goals. They got rid of the all-or-nothing expectations and focused on incremental growth, which allowed Damon to build on a series of successes instead of failures. He, like the enslaved people of Limhi, learned he could “prosper by degrees.”
 
 
 Elder Richard G. Scott taught wonderfully, "[The Lord sees weaknesses differently than He does rebellion. … When the Lord speaks of weaknesses, it is always with mercy.](https://www.churchofjesuschrist.org/study/general-conference/2013/10/personal-strength-through-the-atonement-of-jesus-christ?lang=eng)"
