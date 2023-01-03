@@ -56,6 +56,15 @@ Although there practical things that surely help and decrease frequency of mista
 > [Ether 12:27](https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/12?lang=eng&id=27#p27)
 
 
+I don't want this article to sound condemning. After all, President Nelson taught
+
+
+> [When comparing one’s personal performance with the supreme standard of the Lord’s expectation, the reality of imperfection can at times be depressing. My heart goes out to conscientious Saints who, because of their shortcomings, allow feelings of depression to rob them of happiness in life.](https://www.churchofjesuschrist.org/study/general-conference/1995/10/perfection-pending?lang=eng)
+> 
+> Elder Russell M. Nelson
+
+We all need to remember: men are that they might have joy—not guilt trips!]()
+
 Elder Richard G. Scott taught wonderfully, "[The Lord sees weaknesses differently than He does rebellion. … When the Lord speaks of weaknesses, it is always with mercy.](https://www.churchofjesuschrist.org/study/general-conference/2013/10/personal-strength-through-the-atonement-of-jesus-christ?lang=eng)"
 
 
