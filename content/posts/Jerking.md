@@ -16,7 +16,7 @@ After jerking, do you ever feel like this dude??
 
 
 
-Or do you ever feel unworthy to do this because the past week you messed up so many times?
+Or do you ever feel unworthy to do this because you messed up so many times the past week?
 
 ![yo!!](/images/posts/sacrament.jpg)
 
