@@ -28,9 +28,17 @@ Here's a great quote from the talk from Brad Wilcox talk, "[Worthiness is not Fl
 
 ## The Doctrine of Christ
 
-When shortly after Jesus was resurrected, He visited the Nephites in North America. While teaching the doctrine of Christ, one commandment He taught was, 
+When shortly after Jesus was resurrected, He visited the Nephites in North America. While teaching the doctrine of Christ, one commandment He reiterated was, 
 
->
+> 27 Behold, it is written by them of old time, that thou shalt not commit aadultery;
+> 
+> [3 Nephi 12:27](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/12?lang=eng&id=27#p27)
+
+He then expounded on the commandment saying, 
+
+> 28 But I say unto you, that whosoever looketh on a woman, to alust after her, hath committed adultery already in his heart.
+
+
 
 
 
