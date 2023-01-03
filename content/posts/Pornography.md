@@ -3,7 +3,7 @@ title: "Pornography"
 description: "Will I ever be able to stop??"
 featured_image: "/images/posts/dudewatching.webp"
 date: 2023-01-02T10:58:08-04:00
-tags: ["Worthiness", "Sin"]
+tags: ["Worthiness", "Sin", "Grace"]
 ---
 
 
@@ -55,5 +55,16 @@ Although there practical things that surely help and decrease frequency of mista
 > 
 > [Ether 12:27](https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/12?lang=eng&id=27#p27)
 
-## There is hope
 
+## Hope
+
+> 20 Wherefore, ye must press forward with a steadfastness in Christ, having a perfect brightness of hope, and a clove of God and of all men. Wherefore, if ye shall press forward, feasting upon the word of Christ, and endure to the end, behold, thus saith the Father: Ye shall have eternal life
+> 
+> [2 Nephi 31:30](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/31?lang=eng&id=20#p20)
+
+Nephi reminds us to never loose hope in
+
+
+<!-- git add .
+git commit -m "swag"
+git push -->
