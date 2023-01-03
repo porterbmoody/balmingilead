@@ -51,9 +51,12 @@ Here's a great quote from the talk from Brad Wilcox talk, "[Worthiness is not Fl
 
 Although there practical things that surely help and decrease frequency of mistakes, the only remedy that will have a lasting impact is the grace of Christ. Ether reminds us that His grace is sufficient for all men who humble themselves before Him. 
 
-> 27 And if men come unto me I will show unto them their aweakness. I bgive unto men weakness that they may be humble; and my cgrace is sufficient for all men that dhumble themselves before me; for if they humble themselves before me, and have faith in me, then will I make eweak things become strong unto them.
+> 27 And if men come unto me I will show unto them their weakness. I give unto men weakness that they may be humble; and my grace is sufficient for all men that humble themselves before me; for if they humble themselves before me, and have faith in me, then will I make weak things become strong unto them.
 > 
 > [Ether 12:27](https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/12?lang=eng&id=27#p27)
+
+
+Elder Richard G. Scott taught wonderfully, "[The Lord sees weaknesses differently than He does rebellion. … When the Lord speaks of weaknesses, it is always with mercy.](https://www.churchofjesuschrist.org/study/general-conference/2013/10/personal-strength-through-the-atonement-of-jesus-christ?lang=eng)"
 
 
 ## Hope
