@@ -31,13 +31,13 @@ If you answered yes to 1 or more of these questions, this is the post for you.
 
 When shortly after Jesus was resurrected, He visited the Nephites in North America. While teaching the doctrine of Christ, one commandment He reiterated was, 
 
-> 27 Behold, it is written by them of old time, that thou shalt not commit aadultery;
+> 27 Behold, it is written by them of old time, that thou shalt not commit adultery;
 > 
 > [3 Nephi 12:27](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/12?lang=eng&id=27#p27)
 
 He then expounded on the commandment saying, 
 
-> 28 But I say unto you, that whosoever looketh on a woman, to alust after her, hath committed adultery already in his heart.
+> 28 But I say unto you, that whosoever looketh on a woman, to lust after her, hath committed adultery already in his heart.
 > 
 > [3 Nephi 12:28](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/12?lang=eng&id=28#p28)
 
@@ -46,7 +46,7 @@ He then expounded on the commandment saying,
 
 Here's a great quote from the talk from Brad Wilcox talk, "[Worthiness is not Flawlessness](https://www.churchofjesuschrist.org/study/general-conference/2021/10/35wilcox?lang=eng)"
 
-> Considering how long Damon had struggled, it was unhelpful and unrealistic for parents and leaders assisting him to say “never again” too quickly or to arbitrarily set some standard of abstinence to be considered “worthy.” Instead, they started with small, reachable goals. They got rid of the all-or-nothing expectations and focused on incremental growth, which allowed Damon to build on a series of successes instead of failures.19 He, like the enslaved people of Limhi, learned he could “prosper by degrees.”
+> Considering how long Damon had struggled, it was unhelpful and unrealistic for parents and leaders assisting him to say “never again” too quickly or to arbitrarily set some standard of abstinence to be considered “worthy.” Instead, they started with small, reachable goals. They got rid of the all-or-nothing expectations and focused on incremental growth, which allowed Damon to build on a series of successes instead of failures. He, like the enslaved people of Limhi, learned he could “prosper by degrees.”
 
 
 Although there practical things that surely help and decrease frequency of mistakes, the only remedy that will have a lasting impact is the grace of Christ. Ether reminds us that His grace is sufficient for all men who humble themselves before Him. 
