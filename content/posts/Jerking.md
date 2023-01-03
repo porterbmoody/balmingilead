@@ -12,7 +12,9 @@ tags: ["Worthiness", "Sin"]
 
 After jerking do you ever feel like this dude??
 
-![yo!!](/contents/images/posts/sad.jpeg)
+![yo!!](/images/posts/sad.jpeg)
 
 
-![yo!!](/contents/images/posts/sad.jpeg)
+![yo!!](/images/posts/sad.jpeg)
+
+
