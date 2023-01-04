@@ -139,7 +139,11 @@ These branches are removed and later new ones come to replace them.
 
 > 28 And it came to pass that the Lord of the vineyard and the servant of the Lord of the vineyard did nourish all the fruit of the vineyard.
 
-> 29 And it came to pass that a along time had passed away, and the Lord of the vineyard said unto his bservant: Come, let us go down into the vineyard, that we may labor again in the vineyard. For behold, the time draweth near, and the cend soon cometh; wherefore, I must lay up fruit against the season, unto mine own self.
+> 29 And it came to pass that **a long time had passed away**, and the Lord of the vineyard said unto his servant: Come, let us go down into the vineyard, that we may labor again in the vineyard. For behold, the time draweth near, and the end soon cometh; wherefore, I must lay up fruit against the season, unto mine own self.
+
+The long time refers to the time of apostacy after Jesus and His apostles were killed. 
+
+
 
 > 30 And it came to pass that the Lord of the vineyard and the servant went down into the vineyard; and they came to the tree whose natural branches had been broken off, and the wild branches had been grafted in; and behold all asorts of fruit did cumber the tree.
 
@@ -192,7 +196,7 @@ Here God tells his servant it's time to burn all the trees of the vineyard becau
 
 > 50 But, behold, the servant said unto the Lord of the vineyard: Spare it a little longer.
 
-Quite an interesting verse where the servant pleads with God to spare the people longer. It's not the first time this has happened, although we are unsure if this really happened in reality because it has always been God's will to 
+Quite an interesting verse where the servant pleads with God to spare the people longer. It's not the first time this has happened, although we are unsure if this really happened in reality because it has always been God's will to bring back the gospel in the last dispensation. It would not be the first time a prophet pleaded with God to bring back 
 
 > 51 And the Lord said: Yea, I will spare it a little longer, for it grieveth me that I should lose the trees of my vineyard.
 
