@@ -71,7 +71,7 @@ Here's a great quote from the talk from Brad Wilcox talk, "[Worthiness is not Fl
 
 > Considering how long Damon had struggled, it was unhelpful and unrealistic for parents and leaders assisting him to say “never again” too quickly or to arbitrarily set some standard of abstinence to be considered “worthy.” Instead, they started with small, reachable goals. They got rid of the all-or-nothing expectations and focused on incremental growth, which allowed Damon to build on a series of successes instead of failures. He, like the enslaved people of Limhi, learned he could “prosper by degrees.”
 
-
+This quote tells us as long as we're honest with priesthood leaders and striving to be worthy in our thoughts and actions as the temple recommend question says, we can be worthy to partake of gospel ordinances. 
 
 
 ## Hope
