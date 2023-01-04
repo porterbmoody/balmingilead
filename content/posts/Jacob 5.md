@@ -182,11 +182,17 @@ These branches are removed and later new ones come to replace them.
 > 47 But awhat could I have done more in my vineyard? Have I slackened mine hand, that I have not nourished it? Nay, I have nourished it, and I have digged about it, and I have pruned it, and I have dunged it; and I have bstretched forth mine chand almost all the day long, and the dend draweth nigh. And it grieveth me that I should hew down all the trees of my vineyard, and cast them into the fire that they should be burned. Who is it that has corrupted my vineyard?
 
 
-> 48 And it came to pass that the servant said unto his master: Is it not the aloftiness of thy vineyard—have not the branches thereof overcome the roots which are good? And because the branches have overcome the roots thereof, behold they grew faster than the strength of the roots, btaking strength unto themselves. Behold, I say, is not this the cause that the trees of thy vineyard have become corrupted?
+> 48 And it came to pass that the servant said unto his master: Is it not the loftiness of thy vineyard—have not the branches thereof overcome the roots which are good? And because the branches have overcome the roots thereof, behold they grew faster than the strength of the roots, taking strength unto themselves. Behold, I say, is not this the cause that the trees of thy vineyard have become corrupted?
+
+
 
 > 49 And it came to pass that the Lord of the vineyard said unto the servant: Let us go to and hew down the trees of the vineyard and cast them into the fire, that they shall not cumber the ground of my vineyard, for I have done all. What could I have done more for my vineyard?
 
+Here God tells his servant it's time to burn all the trees of the vineyard because they are producing bad fruit. 
+
 > 50 But, behold, the servant said unto the Lord of the vineyard: Spare it a little longer.
+
+Quite an interesting verse where the servant pleads with God to spare the people longer. It's not the first time this has happened, although we are unsure if this really happened in reality because it a
 
 > 51 And the Lord said: Yea, I will spare it a little longer, for it grieveth me that I should lose the trees of my vineyard.
 

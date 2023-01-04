@@ -50,11 +50,14 @@ Although there practical things that surely help and decrease frequency of mista
 > 
 > [Ether 12:27](https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/12?lang=eng&id=27#p27)
 
+This means if we humble ourselves before God and have faith in Him, all of our weaknesses including pornography will be turned into strengths.
 
-I don't want this article to sound condemning. After all, President Nelson taught
+
+I don't want this article to sound condemning. After all, Elder Nelson taught
 
 
 > When comparing one’s personal performance with the supreme standard of the Lord’s expectation, the reality of imperfection can at times be depressing. My heart goes out to conscientious Saints who, because of their shortcomings, allow feelings of depression to rob them of happiness in life. 
+> 
 > We all need to remember: men are that they might have joy—not guilt trips!
 > 
 > [Perfection Pending](https://www.churchofjesuschrist.org/study/general-conference/1995/10/perfection-pending?lang=eng)
@@ -71,7 +74,7 @@ Here's a great quote from the talk from Brad Wilcox talk, "[Worthiness is not Fl
 
 > Considering how long Damon had struggled, it was unhelpful and unrealistic for parents and leaders assisting him to say “never again” too quickly or to arbitrarily set some standard of abstinence to be considered “worthy.” Instead, they started with small, reachable goals. They got rid of the all-or-nothing expectations and focused on incremental growth, which allowed Damon to build on a series of successes instead of failures. He, like the enslaved people of Limhi, learned he could “prosper by degrees.”
 
-This quote tells us as long as we're honest with priesthood leaders and striving to be worthy in our thoughts and actions as the temple recommend question says, we can be worthy to partake of gospel ordinances. 
+This quote tells us as long as we're honest with priesthood leaders and striving to be worthy in our thoughts and actions as the temple recommend question says, we can be worthy to partake of gospel ordinances. If you are unsure if you're worthy, your priesthood leader can help you discern based on your individual situation.
 
 
 ## Hope
