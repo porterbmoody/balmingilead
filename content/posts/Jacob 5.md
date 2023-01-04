@@ -192,7 +192,7 @@ Here God tells his servant it's time to burn all the trees of the vineyard becau
 
 > 50 But, behold, the servant said unto the Lord of the vineyard: Spare it a little longer.
 
-Quite an interesting verse where the servant pleads with God to spare the people longer. It's not the first time this has happened, although we are unsure if this really happened in reality because it a
+Quite an interesting verse where the servant pleads with God to spare the people longer. It's not the first time this has happened, although we are unsure if this really happened in reality because it has always been God's will to 
 
 > 51 And the Lord said: Yea, I will spare it a little longer, for it grieveth me that I should lose the trees of my vineyard.
 
