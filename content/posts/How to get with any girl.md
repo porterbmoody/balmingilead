@@ -23,5 +23,7 @@ First make sure you look clean and fresh. Then Go to a club, event, party, or li
 Start talking with them about anything and act super interested in them. At the end ask for their snapchat or phone number. 
 
 
+## Invite them back
 
+After talking for a bit, invite them to your apartment for food, a movie, or anything. Once they're back in your apartment turn on a movie and start cuddling, then making out and then get the kill. Boom. On to the next one.
 
