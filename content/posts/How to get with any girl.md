@@ -1,7 +1,7 @@
 ---
 title: "How to get with any girl"
 description: ""
-featured_image: "/images/posts/gethsemane.jpg"
+featured_image: "/images/posts/hot.jfif"
 date: 2023-12-22T10:58:08-04:00
 tags: ["Girls","Player"]
 ---
@@ -26,4 +26,6 @@ Start talking with them about anything and act super interested in them. At the 
 ## Invite them back
 
 After talking for a bit, invite them to your apartment for food, a movie, or anything. Once they're back in your apartment turn on a movie and start cuddling, then making out and then get the kill. Boom. On to the next one.
+
+
 
