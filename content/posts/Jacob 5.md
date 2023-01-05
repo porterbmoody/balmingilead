@@ -121,7 +121,7 @@ These branches are removed and later new ones come to replace them.
 
 > 19 And it came to pass that the Lord of the vineyard said unto the servant: Come, let us go to the nethermost part of the vineyard, and behold if the natural branches of the tree have not brought forth much fruit also, that I may lay up of the fruit thereof against the season, unto mine own self. 
 
-> 20 And it came to pass that they went forth whither the master had hid the natural branches of the tree, and he said unto the servant: Behold these; and he beheld the afirst that it had bbrought forth much fruit; and he beheld also that it was good. And he said unto the servant: Take of the fruit thereof, and lay it up against the season, that I may preserve it unto mine own self; for behold, said he, this long time have I nourished it, and it hath brought forth much fruit.
+> 20 And it came to pass that they went forth whither the master had hid the natural branches of the tree, and he said unto the servant: Behold these; and he beheld the first that it had brought forth much fruit; and he beheld also that it was good. And he said unto the servant: Take of the fruit thereof, and lay it up against the season, that I may preserve it unto mine own self; for behold, said he, this long time have I nourished it, and it hath brought forth much fruit.
 
 > 21 And it came to pass that the servant said unto his master: How comest thou hither to plant this tree, or this branch of the tree? For behold, it was the poorest spot in all the land of thy vineyard.
 
@@ -129,21 +129,19 @@ These branches are removed and later new ones come to replace them.
 
 > 23 And it came to pass that the Lord of the vineyard said unto his servant: Look hither; behold I have planted another branch of the tree also; and thou knowest that this spot of ground was poorer than the first. But, behold the tree. I have nourished it this long time, and it hath brought forth much fruit; therefore, gather it, and lay it up against the season, that I may preserve it unto mine own self.
 
-> 24 And it came to pass that the Lord of the vineyard said again unto his servant: Look hither, and behold another abranch also, which I have planted; behold that I have nourished it also, and it hath brought forth fruit.
+> 24 And it came to pass that the Lord of the vineyard said again unto his servant: Look hither, and behold another branch also, which I have planted; behold that I have nourished it also, and it hath brought forth fruit.
 
-> 25 And he said unto the servant: Look hither and behold the last. Behold, this have I planted in a agood spot of ground; and I have nourished it this long time, and only a bpart of the tree hath brought forth tame fruit, and the cother part of the tree hath brought forth wild fruit; behold, I have nourished this tree like unto the others.
+> 25 And he said unto the servant: Look hither and behold the last. Behold, this have I planted in a good spot of ground; and I have nourished it this long time, and only a part of the tree hath brought forth tame fruit, and the cother part of the tree hath brought forth wild fruit; behold, I have nourished this tree like unto the others.
 
-> 26 And it came to pass that the Lord of the vineyard said unto the servant: Pluck off the branches that have not brought forth good afruit, and cast them into the fire.
+> 26 And it came to pass that the Lord of the vineyard said unto the servant: Pluck off the branches that have not brought forth good fruit, and cast them into the fire.
 
-> 27 But behold, the servant said unto him: Let us prune it, and dig about it, and nourish it a little alonger, that perhaps it may bring forth good fruit unto thee, that thou canst lay it up against the season.
+> 27 But behold, the servant said unto him: Let us prune it, and dig about it, and nourish it a little longer, that perhaps it may bring forth good fruit unto thee, that thou canst lay it up against the season.
 
 > 28 And it came to pass that the Lord of the vineyard and the servant of the Lord of the vineyard did nourish all the fruit of the vineyard.
 
 > 29 And it came to pass that **a long time had passed away**, and the Lord of the vineyard said unto his servant: Come, let us go down into the vineyard, that we may labor again in the vineyard. For behold, the time draweth near, and the end soon cometh; wherefore, I must lay up fruit against the season, unto mine own self.
 
-The long time refers to the time of apostacy after Jesus and His apostles were killed. 
-
-
+The long time refers to the time of apostacy after Jesus and His apostles were killed. For over 1500 years the fullness of the gospel was nowhere to be found on earth and the authority was not present either. The rest of the chapter deals with the last days. 
 
 > 30 And it came to pass that the Lord of the vineyard and the servant went down into the vineyard; and they came to the tree whose natural branches had been broken off, and the wild branches had been grafted in; and behold all asorts of fruit did cumber the tree.
 
