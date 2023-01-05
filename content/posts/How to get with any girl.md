@@ -20,6 +20,8 @@ First make sure you look clean and fresh. Then Go to a club, event, party, or li
 
 ## Start a conversation 
 
+![girlguy.jpg]()
+
 Start talking with them about anything and act super interested in them. At the end ask for their snapchat or phone number. 
 
 
