@@ -67,10 +67,8 @@ Jacob begins by declaring that he will be quoting the prophet [Zenos](https://po
 The allegory begins by describing The House of Israel as an Olive Tree which a man nourished until it got old and began to decay. 
 In 1095 BC, Saul was chosen to be king over Israel, then was King David, then was King Solomon. After Solomon the children of Isreal began to wax iniquity, especially the northern 10 tribes. 
 
+
 > 4 And it came to pass that the master of the vineyard went forth, and he saw that his olive tree began to decay; and he said: I will prune it, and dig about it, and nourish it, that perhaps it may shoot forth young and tender branches, and it perish not.
-
-
-
 
 
 Once it started to decay the master of the vineyard pruned it, digged about it and nourished it and it grew young and tender branches, but the top was still decaying.
