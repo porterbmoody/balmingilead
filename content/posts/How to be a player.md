@@ -1,7 +1,7 @@
 ---
 title: "How to be a player"
 description: "You could get with any girl"
-featured_image: "/images/posts/hot.jfif"
+featured_image: "/images/hot.jfif"
 date: 2023-01-05T10:58:08-04:00
 tags: ["Girls","Player"]
 ---
