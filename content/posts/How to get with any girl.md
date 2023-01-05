@@ -2,7 +2,7 @@
 title: "How to get with any girl"
 description: ""
 featured_image: "/images/posts/gethsemane.jpg"
-date: 2022-12-22T10:58:08-04:00
+date: 2023-12-22T10:58:08-04:00
 tags: ["Girls","Player"]
 ---
 
@@ -15,9 +15,13 @@ Colleges are the hot spot for chicks. Just get a random lease and move there. Pr
 
 ## Go to events
 ![asu](/content/images/asy.jfif)
-Go to a club, event, party, or literally anything social. 
 
-## Start a conversation with them
+First make sure you look clean and fresh. Then Go to a club, event, party, or literally anything social. 
+
+## Start a conversation 
+
+Start talking with them about anything and act super interested in them. At the end ask for their snapchat or phone number. 
+
 
 
 
