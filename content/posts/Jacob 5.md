@@ -23,7 +23,8 @@ Just before Jacobs speaks the allegory of the olive trees, he shares something a
 So we already begin with the caveat that we will not be able to fully comprehend this allegory and whatever we do comprehend will be by the Holy Ghost.
 
 And a little later is a prophecy of the Jews rejecting Jesus
-> the Jews they will reject the stone upon which they might build and have safe foundation  
+> the Jews they will reject the stone upon which they might build and have safe foundation
+> 
 > Jacob 4:15
 
 Then we have a verse as to the purpose of the allegory
@@ -63,7 +64,8 @@ Jacob begins by declaring that he will be quoting the prophet [Zenos](https://po
 
 > 3 For behold, thus saith the Lord, I will liken thee, O house of Israel, like unto a tame olive tree, which a man took and nourished in his vineyard; and it grew, and waxed old, and began to decay.
 
-The allegory begins by describing The House of Israel as an Olive Tree which a man nourished until it got old and began to decay.
+The allegory begins by describing The House of Israel as an Olive Tree which a man nourished until it got old and began to decay. 
+In 1095 BC, Saul was chosen to be king over Israel, then was King David, then was King Solomon. After Solomon the children of Isreal began to wax iniquity, especially the northern 10 tribes. 
 
 > 4 And it came to pass that the master of the vineyard went forth, and he saw that his olive tree began to decay; and he said: I will prune it, and dig about it, and nourish it, that perhaps it may shoot forth young and tender branches, and it perish not.
 
