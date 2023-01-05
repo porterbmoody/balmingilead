@@ -14,7 +14,7 @@ Colleges are the hot spot for chicks. Just get a random lease and move there. Pr
 
 
 ## Go to events
-![asu](/content/images/asy.jfif)
+![asu](/images/asy.jfif)
 
 First make sure you look clean and fresh. Then Go to a club, event, party, or literally anything social. 
 
