@@ -1,5 +1,5 @@
 ---
-title: "How to get with any girl"
+title: "How to be a player"
 description: ""
 featured_image: "/images/posts/hot.jfif"
 date: 2023-01-05T10:58:08-04:00
