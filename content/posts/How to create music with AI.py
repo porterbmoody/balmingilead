@@ -28,7 +28,7 @@ samplerate
 from colabcode import ColabCode
 
 
-ColabCode(port=)
+ColabCode(port=8888)
 
 
 
