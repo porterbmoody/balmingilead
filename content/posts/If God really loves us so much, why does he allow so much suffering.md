@@ -85,6 +85,8 @@ This was a direct consequence of a sin Korihor chose to do.
 
 ## Those who never had the chance to know God who suffer
 
+There is an element that I cannot understand or explain in this category. Many of these sufferings may not be explained until the next life. The overwhelming majority of people who have lived on Earth have not had the chance to accept the fulness of the gospel in this life, although many of them have suffered greatly. There is definitely truth to the fact that their suffering played some role in their spiritual/eternal developement, but so many individuals seem to have suffered just because they were unlucky. The jews during WWII for example were tortured and murdered due to the politics going on in their time and location. Their suffering was an outcome of the choices of those around them. The fact that we all have agency allows 1 individual to harm another. 
+
 ## Conclusion
 
 Elder Christofferson said, 
