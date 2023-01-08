@@ -77,6 +77,12 @@ Here's a great quote from the talk from Brad Wilcox talk, "[Worthiness is not Fl
 
 This quote tells us as long as we're honest with priesthood leaders and striving to be worthy in our thoughts and actions as the temple recommend question says, we can be worthy to partake of gospel ordinances. If you are unsure if you're worthy, your priesthood leader can help you discern based on your individual situation.
 
+Another excellent quote from Elder Uchtdorf,
+
+> “He is not waiting to love you until you have overcome your weaknesses and bad habits. He loves you today with a full understanding of your struggles. … He knows of your sufferings. He knows of your remorse for the times you have fallen short or failed. And still He loves you” 
+> 
+> [Living the Gospel Joyfully](https://www.churchofjesuschrist.org/study/liahona/2014/11/general-womens-session/living-the-gospel-joyful?lang=eng&para=p47-p48#p47)
+
 
 ## Hope
 
