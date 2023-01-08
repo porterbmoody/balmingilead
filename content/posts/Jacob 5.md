@@ -152,13 +152,13 @@ The long time refers to the time of apostacy after Jesus and His apostles were k
 
 > 30 And it came to pass that the Lord of the vineyard and the servant went down into the vineyard; and they came to the tree whose natural branches had been broken off, and the wild branches had been grafted in; and behold all asorts of fruit did cumber the tree.
 
-> 31 And it came to pass that the Lord of the vineyard did ataste of the fruit, every sort according to its number. And the Lord of the vineyard said: Behold, this long time have we nourished this tree, and I have laid up unto myself against the season much fruit.
+> 31 And it came to pass that the Lord of the vineyard did taste of the fruit, every sort according to its number. And the Lord of the vineyard said: Behold, this long time have we nourished this tree, and I have laid up unto myself against the season much fruit.
 
-> 32 But behold, this time it hath brought forth much afruit, and there is bnone of it which is good. And behold, there are all kinds of bad fruit; and it profiteth me nothing, notwithstanding all our labor; and now it grieveth me that I should lose this tree.
+> 32 But behold, this time it hath brought forth much fruit, and there is none of it which is good. And behold, there are all kinds of bad fruit; and it profiteth me nothing, notwithstanding all our labor; and now it grieveth me that I should lose this tree.
 
 > 33 And the Lord of the vineyard said unto the servant: What shall we do unto the tree, that I may preserve again good fruit thereof unto mine own self?
 
-> 34 And the servant said unto his master: Behold, because thou didst graft in the branches of the wild olive tree they have nourished the roots, that they are alive and they have not perished; wherefore thou beholdest that they are yet good.
+> 34 And the servant said unto his master: Behold, because thou didst graft in the branches of the wild olive tree they have nourished the roots, that they are live and they have not perished; wherefore thou beholdest that they are yet good.
 
 
 > 35 And it came to pass that the Lord of the vineyard said unto his servant: The tree profiteth me nothing, and the roots thereof profit me nothing so long as it shall bring forth evil fruit.
