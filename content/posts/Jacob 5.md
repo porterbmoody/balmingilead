@@ -79,22 +79,26 @@ Once it started to decay the master of the vineyard pruned it, digged about it a
 
 > 6 And it came to pass that after many days it began to put forth somewhat a little, young and tender branches; but behold, the main top thereof began to perish.
 
-Then the master commands His servant to get branches from the wild olive tree and take. The time period here is right before Israel began to be scattered at 721BC.
+The time period here is right before Israel began to be scattered at 721BC.
 The Scattering of Israel begins with the sacking of the northern Kingdom by the Assyrians. Before this time, the northern kingdom was completely wicked, and had a long line of wicked, idolatrous kings.
+
 The other young and tender branches refer to the smaller, righteous kingdom of Judah who were still faithful. 
 There were also wicked people in the kingdom of Judah who were eventually destroyed and people who were preserved by being scattered in the northern kingdom. 
+Although we are not certain the "main top" is the Northern Kingdom and the Young and Tender Branches are Judah. 
 
 
 > 7 And it came to pass that the master of the vineyard saw it, and he said unto his servant: It grieveth me that I should lose this tree; wherefore, **go and pluck the branches from a wild olive tree**, and bring them hither unto me; and we will pluck off those main branches which are beginning to wither away, and we will cast them into the fire that they may be burned.
 
 These branches are removed and later new ones come to replace them. 
 
-> 8 And behold, saith the Lord of the vineyard, I take aaway many of these young and tender branches, and I will graft them bwhithersoever I will; and it mattereth not that if it so be that the root of this tree will perish, I may preserve the fruit thereof unto myself; wherefore, I will take these young and tender branches, and I will graft them whithersoever I will.
+> 8 And behold, saith the Lord of the vineyard, I take away many of these young and tender branches, and I will graft them bwhithersoever I will; and it mattereth not that if it so be that the root of this tree will perish, I may preserve the fruit thereof unto myself; wherefore, I will take these young and tender branches, and I will graft them whithersoever I will.
 
 > 9 Take thou the branches of the wild olive tree, and graft them in, in the astead thereof; and these which I have plucked off I will cast into the fire and burn them, that they may not cumber the ground of my vineyard.
 
 
-> 10 And it came to pass that the servant of the Lord of the vineyard did according to the word of the Lord of the vineyard, and grafted in the branches of the awild olive tree.
+> 10 And it came to pass that the servant of the Lord of the vineyard did according to the word of the Lord of the vineyard, and grafted in the branches of the wild olive tree.
+
+This is referring to the time when 
 
 > 11 And the Lord of the vineyard caused that it should be digged about, and pruned, and nourished, saying unto his servant: It grieveth me that I should lose this tree; wherefore, that perhaps I might preserve the roots thereof that they perish not, that I might preserve them unto myself, I have done this thing.
 
