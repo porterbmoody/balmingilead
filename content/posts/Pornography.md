@@ -86,6 +86,7 @@ Another excellent quote from Elder Uchtdorf,
 
 ## Hope
 
+![jes](/images/posts/blur.webp)
 
 Nephi reminds us of the commandment to have a [perfect brightness of hope](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/31?lang=eng&id=20#p20) and Elder Holland exorts us brilliantly to,
 
