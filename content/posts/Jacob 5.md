@@ -92,9 +92,9 @@ Although we are not certain the "main top" is the Northern Kingdom and the Young
 > 7 And it came to pass that the master of the vineyard saw it, and he said unto his servant: It grieveth me that I should lose this tree; wherefore, **go and pluck the branches from a wild olive tree**, and bring them hither unto me; and we will pluck off those main branches which are beginning to wither away, and we will cast them into the fire that they may be burned.
 
 Referring to the time when the Kingdom of Israel is being destroyed and other nations are brought in to replace them. 
-These branches are removed and later new ones come to replace them. 
 
-> 8 And behold, saith the Lord of the vineyard, I take away many of these young and tender branches, and I will graft them bwhithersoever I will; and it mattereth not that if it so be that the root of this tree will perish, I may preserve the fruit thereof unto myself; wherefore, I will take these young and tender branches, and I will graft them whithersoever I will.
+
+> 8 And behold, saith the Lord of the vineyard, I take away many of these young and tender branches, and I will graft them whithersoever I will; and it mattereth not that if it so be that the root of this tree will perish, I may preserve the fruit thereof unto myself; wherefore, I will take these young and tender branches, and I will graft them whithersoever I will.
 
 > 9 Take thou the branches of the wild olive tree, and graft them in, in the astead thereof; and these which I have plucked off I will cast into the fire and burn them, that they may not cumber the ground of my vineyard.
 
