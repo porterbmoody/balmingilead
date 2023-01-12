@@ -13,8 +13,6 @@ My name is Porter and I went to BYU - Idaho to study Data science with a math mi
 
 I love digging deeper into the doctrine to really try to understand what the scriptures are saying and what God's interactions and dealings with his people mean. I love programming in python, r, SQL, and learing about statistics, machine learning algorithms. Linear algebra is the most fascination math topic I have ever studied.
 
-If you want to read up on some of my data science/math/coding insights I have created ![a blog for that](ilovedatascience.academy) too.
-
 ## Background
 
 I grew up in Colorado, served a mission in Charlotte, North Carolina Spanish speaking, but I didn't finish my entire mission so I did the service mission for a while. 
