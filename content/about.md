@@ -1,7 +1,7 @@
 ---
 title: "About"
 description: ""
-featured_image: '/images/me.HEIC'
+featured_image: '/images/me1.png'
 menu:
   main:
     weight: 1
