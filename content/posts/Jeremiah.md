@@ -13,6 +13,8 @@ tags: ["Old Testament", "Jeremiah"]
 
 ## Background
 
+Jeremiah was a member of the priestly household of Hilkiah. His hometown was Anathoth.
+
 ## Ministry
 
 Jeremiah's ministry began in 626 bc, and ended sometime after 586 bc. His ministry was immediately preceded by that of Zephaniah.
