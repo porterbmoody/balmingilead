@@ -2,7 +2,7 @@
 title: "The Prophet Jeremiah"
 description: ""
 featured_image: "/images/posts/jeremiah.jpg"
-date: 2023-02-14T10:58:08-04:00
+date: 2023-02-13T10:58:08-04:00
 tags: ["Old Testament", "Jeremiah"]
 ---
 
