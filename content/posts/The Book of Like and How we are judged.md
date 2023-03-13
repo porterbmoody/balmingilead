@@ -1,5 +1,5 @@
 ---
-title: "The Book of Like and How we are judged"
+title: "The Book of Life and How we are judged"
 description: "Deeper insights on our judgement"
 featured_image: "/images/posts/judgement.jpg"
 date: 2022-12-13T11:00:59-04:00
