@@ -1,6 +1,6 @@
 ---
 title: "There is a law irrevocably decreed in Heaven"
-# description: "O God, Where art thou?"
+description: "D&C 130:20-21"
 featured_image: "/images/posts/law.jpg"
 date: 2023-3-28T10:58:08-04:00
 tags: ["Law", "Obedience", "Restoration"]
@@ -16,7 +16,7 @@ tags: ["Law", "Obedience", "Restoration"]
 
 When this verse was revealed, Joseph Smith was asking Jesus Christ questions. A very intruiging verse to say the least. It means the blessings we receive in life are contingent upon our obedience to God's laws. It means when we receive any blessing from God, it is because we were obedient to the law that blessing was predicated upon.
 
-There are lots of real world examples it is difficult to see how this verse applies. In fact, we will not know exactly who obeyed what law until judgement day. It is also true that anyone who endures to the end will be made perfect and become perfect through the mercy and merits of the atonement of Jesus Christ. Therefore anyone who endures to the end, in this life and in the next will recieve all the blessings available. 
+There are lots of real world examples it is difficult to see how this verse applies. In fact, we will not know exactly who obey and in the next will recieve all the blessings available. 
 
 But in this earth life, to anyone who thinks for a second it is pretty clear life does not play out as this verse describes. Afflictions happen to righteous people, blessings are bestowed upon unrighteous people. As the story of Job illustrates, men cannot always understand why God does things to people. A big part of this is because our finite minds cannot comprehend the eternal laws of heaven. Another part is that it many of the details of God's mercy and justice have not been revealed. The veil convers our memory on purpose so we are tested if we will trust God without having a perfect understanding of His purposes. 
 
