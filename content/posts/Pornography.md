@@ -16,11 +16,11 @@ After watching pornography or masturbating or both, do you ever feel like this d
 
 Or do you ever feel unworthy to do this because you messed up so many times the past week?
 
-![yo!!](/images/posts/sacrament.jpg)
+![yo!!](/content/images/posts/sacrament.jpg)
 
 Do you ever wish you could just escape and leave all your problems behind like this dude??
 
-![poopypoopy](/images/posts/escape.jpg)
+![poopypoopy](/content/images/posts/escape.jpg)
 
 
 If you answered yes to 1 or more of these questions, this is the post for you.

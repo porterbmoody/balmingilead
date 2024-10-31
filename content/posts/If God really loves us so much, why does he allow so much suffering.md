@@ -96,4 +96,4 @@ No matter what our mortal experience may entail, we can trust God and find joy i
 Hank Smith and John Bytheway dove into this question during the Job episode of Come Follow Him. They quoted Victor Frankyl show said, 
 
 
-{% include disqus.html %}
+<!-- {% include disqus.html %} -->
