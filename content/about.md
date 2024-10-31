@@ -15,7 +15,7 @@ I love digging deeper into the doctrine to really try to understand what the scr
 
 ## Background
 
-I grew up in Colorado, served a mission in Charlotte, North Carolina Spanish speaking, but I didn't finish my entire mission so I did the service mission for a while. 
+I grew up in Colorado, served a mission in Charlotte, North Carolina Spanish speaking, but I didn't finish my entire mission so I came home early.
 
 
 
