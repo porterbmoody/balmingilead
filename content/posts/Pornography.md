@@ -11,7 +11,7 @@ tags: ["Worthiness", "Sin", "Grace"]
 
 After watching pornography or masturbating or both, do you ever feel like this dude??
 
-![yo!!](/images/posts/sad.jpeg)
+![yo!!](/content/images/posts/sad.jpeg)
 
 
 Or do you ever feel unworthy to do this because you messed up so many times the past week?
