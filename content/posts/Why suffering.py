@@ -95,5 +95,3 @@ So, in the midst of this refiner’s fire, rather than get angry with God, get c
 No matter what our mortal experience may entail, we can trust God and find joy in Him.
 Hank Smith and John Bytheway dove into this question during the Job episode of Come Follow Him. They quoted Victor Frankyl show said, 
 
-
-<!-- {% include disqus.html %} -->
