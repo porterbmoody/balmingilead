@@ -1,4 +1,10 @@
-
+---
+title: "Purpose of Life"
+description: "What is the purpose of life?"
+featured_image: "/images/posts/hope.jpg"
+date: 2022-10-02T10:58:08-04:00
+tags: ["Purpose", "Suffering", "Hope"]
+---
 
 # Purpose of life
 
@@ -20,3 +26,7 @@ Jordan Peterson said,
 
 
 
+## Life is Suffering
+
+The bhuddists say, "Life is Suffering"
+So if life is suffering, why should we continue with it?
