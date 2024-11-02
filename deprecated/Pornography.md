@@ -6,13 +6,11 @@ date: 2022-10-02T10:58:08-04:00
 tags: ["Worthiness", "Sin", "Grace"]
 ---
 
-
 ## Pornography
 
 After watching pornography or masturbating or both, do you ever feel like this dude??
 
 ![yo!!](/../images/posts/sad.jpeg)
-
 
 Or do you ever feel unworthy to do this because you messed up so many times the past week?
 
@@ -22,10 +20,7 @@ Do you ever wish you could just escape and leave all your problems behind like t
 
 ![poopypoopy](/content/images/posts/escape.jpg)
 
-
 If you answered yes to 1 or more of these questions, this is the post for you.
-
-
 
 ## The Doctrine of Christ
 
@@ -41,7 +36,6 @@ He then expounded on the commandment saying,
 > 
 > [3 Nephi 12:28](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/12?lang=eng&id=28#p28)
 
-
 ## The Solution
 
 Although there practical things that surely help and decrease frequency of mistakes, the only remedy that will have a lasting impact is the grace of Christ. Ether reminds us that His grace is sufficient for all men who humble themselves before Him. 
@@ -52,9 +46,7 @@ Although there practical things that surely help and decrease frequency of mista
 
 This means if we humble ourselves before God and have faith in Him, all of our weaknesses including pornography will be turned into strengths.
 
-
 I don't want this article to sound condemning. After all, Elder Nelson taught
-
 
 > When comparing one’s personal performance with the supreme standard of the Lord’s expectation, the reality of imperfection can at times be depressing. My heart goes out to conscientious Saints who, because of their shortcomings, allow feelings of depression to rob them of happiness in life. 
 > 
@@ -72,7 +64,6 @@ And Elder Richard G. Scott taught wonderfully,
 
 Here's a great quote from the talk from Brad Wilcox talk, "[Worthiness is not Flawlessness](https://www.churchofjesuschrist.org/study/general-conference/2021/10/35wilcox?lang=eng)"
 
-
 > Considering how long Damon had struggled, it was unhelpful and unrealistic for parents and leaders assisting him to say “never again” too quickly or to arbitrarily set some standard of abstinence to be considered “worthy.” Instead, they started with small, reachable goals. They got rid of the all-or-nothing expectations and focused on incremental growth, which allowed Damon to build on a series of successes instead of failures. He, like the enslaved people of Limhi, learned he could “prosper by degrees.”
 
 This quote tells us as long as we're honest with priesthood leaders and striving to be worthy in our thoughts and actions as the temple recommend question says, we can be worthy to partake of gospel ordinances. If you are unsure if you're worthy, your priesthood leader can help you discern based on your individual situation.
@@ -82,7 +73,6 @@ Another excellent quote from Elder Uchtdorf,
 > “He is not waiting to love you until you have overcome your weaknesses and bad habits. He loves you today with a full understanding of your struggles. … He knows of your sufferings. He knows of your remorse for the times you have fallen short or failed. And still He loves you” 
 > 
 > [Living the Gospel Joyfully](https://www.churchofjesuschrist.org/study/liahona/2014/11/general-womens-session/living-the-gospel-joyful?lang=eng&para=p47-p48#p47)
-
 
 ## Hope
 
@@ -94,9 +84,6 @@ Nephi reminds us of the commandment to have a [perfect brightness of hope](https
 > 
 > Jeffrey R. Holland
 
-
 <!-- git add .
 git commit -m "swag"
 git push -->
-
-
