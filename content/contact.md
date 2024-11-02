@@ -8,6 +8,4 @@ menu: main
 
 ---
 
-
-
 {{<form-contact action="https://example.com">}}

@@ -17,11 +17,6 @@ I love digging deeper into the doctrine to really try to understand what the scr
 
 I grew up in Colorado, served a mission in Charlotte, North Carolina Spanish speaking, but I didn't finish my entire mission so I came home early.
 
-
-
 ## Purpose
 
 The purpose of this blog is to share findings and insights I came across that may help someone getting a deeper or fuller grasp of the gospel doctrine, history, scriptures or any topic in between. Another purpose is to help people increase or maintatain their faith.
-
-
-
