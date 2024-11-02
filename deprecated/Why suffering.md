@@ -6,7 +6,6 @@ date: 2022-12-22T10:58:08-04:00
 tags: ["Love", "God, nature of"]
 ---
 
-
 It's a big question and can't be fully answered with a simple one liner or one size fits all solution. 
 We're gonna take a stab at answering this question. 
 
@@ -73,7 +72,6 @@ The suffering Jesus went through was necessary for the plan of salvation to work
 
 The fact is there are many more righteous saints who have suffered for the sake of their discipleship. 
 
-
 ## Unrighteous who suffer
 
 Those who suffer because of their own sins. There are those who make sinful decisions and suffer the consequences. 
@@ -81,7 +79,6 @@ Korihor is an example of this. He preached unto the people that there would be n
 Alma testified that there is a God, but after Korihor ignored Alma, he was struck dumb. 
 This was a direct consequence of a sin Korihor chose to do. 
 ![alma](/images/posts/alma.jpeg)
-
 
 ## Those who never had the chance to know God who suffer
 
