@@ -9,7 +9,9 @@ tags: ["Apologetic", "Doctrine", "Cult", "Mormonism", "Bible", "Book of Mormon"]
 ## More that 1 God
 This is a response to the article [Mormonism is a Cult](https://carm.org/mormonism/is-mormonism-a-cult/)
 
-the Bible says there’s only one God in all existence (Isaiah 43:10; 44:6; 45:5), but Mormonism says there are many gods, (Mormon Doctrine, p. 163)
+"The Bible says there’s only one God in all existence (Isaiah 43:10; 44:6; 45:5), but Mormonism says there are many gods, (Mormon Doctrine, p. 163)"
+
+So they say the Bible says there is only 1 God, but the Pearl of Great Price says there are multiple Gods. 
 
 Isaiah 43:10
 
