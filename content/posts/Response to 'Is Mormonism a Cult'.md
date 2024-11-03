@@ -49,11 +49,19 @@ Yes, Joseph Smith gave a discourse that explain that God was once a man like us 
 
 - God resides near a star called Kolob, (Pearl of Great Price, p. 34-35; Mormon Doctrine, p. 428).
 
-> Abreham 3:3 And the Lord said unto me: These are the governing ones; and the name of the great one is Kolob, because it is near unto me, for I am the Lord thy God: I have set this one to govern all those which belong to the same order as that upon which thou standest.
+Abreham 3:3 states:
+
+> And the Lord said unto me: These are the governing ones; and the name of the great one is Kolob, because it is near unto me, for I am the Lord thy God: I have set this one to govern all those which belong to the same order as that upon which thou standest.
+Yes, Abreham tells us that Kolob is the star near where God dwells. 
 
 - “The Father has a body of flesh and bones as tangible as man’s…” (Doctrines and Covenants 130:22).
 
+> 22 The Father has a body of flesh and bones as tangible as man’s; the Son also; but the Holy Ghost has not a body of flesh and bones, but is a personage of Spirit. Were it not so, the Holy Ghost could not dwell in us.
+
 - God is in the form of a man, (Joseph Smith, Journal of Discourses, vol. 6, p. 3).
+
+As I read through Joseph Smith's Journal of Discourses, vol. 6, p. 3, I am struggling to find the place where this doctrine is mentioned, "God is in the form of a man". However, I do find the following quote, 
+> "I want to ask this congregation − every man, women, and child, to answer the question in their own heart, what kind of a being God is? Ask yourselves; turn your thoughts into your hearts, and say if any of you have seen, heard, or communed with him. This is a question that may occupy your attention for a long time. I again repeat the question − What kind of a being is God? Does any man or woman know? Have any of you seen him, heard him, or communed with him? Here is the question that will peradventure from this time henceforth occupy your attention."
 
 - “God himself was once as we are now, and is an exalted man, and sits enthroned in yonder heavens!!! . . . We have imagined that God was God from all eternity. I will refute that idea and take away the veil, so that you may see,” (Teachings of the Prophet Joseph Smith, p. 345).
 
