@@ -6,7 +6,7 @@ date: 2024-03-11T10:58:08-04:00
 tags: ["Apologetic", "Doctrine", "Cult", "Mormonism", "Bible", "Book of Mormon"]
 ---
 
-# OK
+## More that 1 God
 This is a response to the article [Mormonism is a Cult](https://carm.org/mormonism/is-mormonism-a-cult/)
 
 the Bible says there’s only one God in all existence (Isaiah 43:10; 44:6; 45:5), but Mormonism says there are many gods, (Mormon Doctrine, p. 163)
