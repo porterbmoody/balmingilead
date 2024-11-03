@@ -6,8 +6,11 @@ date: 2024-11-03T10:58:08-04:00
 tags: ["Apologetics", "Doctrine", "Cult", "Mormonism", "Bible", "Book of Mormon"]
 ---
 
-## More that 1 God
+# Response
+
 This is a response to the article [Mormonism is a Cult](https://carm.org/mormonism/is-mormonism-a-cult/)
+
+## More that 1 God
 
 "The Bible says there’s only one God in all existence (Isaiah 43:10; 44:6; 45:5), but Mormonism says there are many gods, (Mormon Doctrine, p. 163)"
 
@@ -42,6 +45,8 @@ I can't find the quote in [Doctrines of Salvation](https://lionandlambapologetic
 [Mormon Doctrine](https://ia800406.us.archive.org/12/items/MormonDoctrine1966/MormonDoctrine1966.pdf)
 
 [Spencer Kimball](https://www.churchofjesuschrist.org/study/manual/teachings-spencer-w-kimball/chapter-19?lang=eng)
+
+## Nature of God
 
 - God used to be a man on another planet, (Mormon Doctrine, p. 321; Joseph Smith, Times and Seasons, vol. 5, p. 613-614; Orson Pratt, Journal of Discourses, vol. 2, p. 345; Brigham Young, Journal of Discourses, vol. 7, p. 333).
 
