@@ -45,6 +45,8 @@ I can't find the quote in [Doctrines of Salvation](https://lionandlambapologetic
 
 - God used to be a man on another planet, (Mormon Doctrine, p. 321; Joseph Smith, Times and Seasons, vol. 5, p. 613-614; Orson Pratt, Journal of Discourses, vol. 2, p. 345; Brigham Young, Journal of Discourses, vol. 7, p. 333).
 
+I don't see how this proves anything that "Mormonism is a cult" or that "Mormonism is not Christian". Yes, Joseph Smith gave a discourse that explain that God was once a man like us now. This means we ourselves have potential to become like God. 
+
 - God resides near a star called Kolob, (Pearl of Great Price, p. 34-35; Mormon Doctrine, p. 428).
 
 - “The Father has a body of flesh and bones as tangible as man’s…” (Doctrines and Covenants 130:22).
