@@ -29,6 +29,14 @@ Abreham 4:3
 
 > 3 And they (the Gods) said: Let there be light; and there was light.
 
+Articles of Faith James E. Talmage
+
+> The Godhead: The Trinity. Three personages composing the great presiding council of
+> the universe have revealed themselves to man: God the Eternal Father; His Son, Jesus
+> Christ; and the Holy Ghost. That these three are separate individuals, physically
+> distinct from each other, is very plainly proved by the accepted records of the divine
+> dealings with man.
+
 <!-- git add .
 git commit -m ok
 git push -->
