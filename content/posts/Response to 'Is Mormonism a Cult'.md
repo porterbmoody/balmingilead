@@ -1,6 +1,6 @@
 ---
 title: "Response to 'Mormonism is a Cult'"
-description: "An Apologetics"
+description: "An Apologetics Case"
 featured_image: "/images/temple.PNG"
 date: 2024-11-03T10:58:08-04:00
 tags: ["Apologetics", "Doctrine", "Cult", "Mormonism", "Bible", "Book of Mormon", "Joseph Smith"]
