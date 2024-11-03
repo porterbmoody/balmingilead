@@ -41,6 +41,13 @@ I can't find the quote in [Doctrines of Salvation](https://lionandlambapologetic
 
 [Mormon Doctrine](https://ia800406.us.archive.org/12/items/MormonDoctrine1966/MormonDoctrine1966.pdf)
 
+[Spencer Kimball](https://www.churchofjesuschrist.org/study/manual/teachings-spencer-w-kimball/chapter-19?lang=eng)
+
+- God used to be a man on another planet, (Mormon Doctrine, p. 321; Joseph Smith, Times and Seasons, vol. 5, p. 613-614; Orson Pratt, Journal of Discourses, vol. 2, p. 345; Brigham Young, Journal of Discourses, vol. 7, p. 333).
+
+- God resides near a star called Kolob, (Pearl of Great Price, p. 34-35; Mormon Doctrine, p. 428).
+
+- “The Father has a body of flesh and bones as tangible as man’s…” (Doctrines and Covenants 130:22).
 <!-- git add .
 git commit -m ok
 git push -->
