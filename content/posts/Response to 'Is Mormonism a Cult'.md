@@ -19,7 +19,10 @@ Isaiah 44:6
 
 > 6 Thus saith the Lord the King of Israel, and his redeemer the Lord of hosts; I am the first, and I am the last; and beside me there is no God.
 
+Isaiah 45:5
 
-git add .
-git commit -m f
-git push
+> 5 ¶ I am the Lord, and there is none else, there is no God beside me: I girded thee, though thou hast not known me:
+
+<!-- git add .
+git commit -m ok
+git push -->
