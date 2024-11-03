@@ -23,6 +23,10 @@ Isaiah 45:5
 
 > 5 ¶ I am the Lord, and there is none else, there is no God beside me: I girded thee, though thou hast not known me:
 
+Abreham 4:3
+
+> 3 And they (the Gods) said: Let there be light; and there was light.
+
 <!-- git add .
 git commit -m ok
 git push -->
