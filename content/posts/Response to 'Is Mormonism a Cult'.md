@@ -1,9 +1,9 @@
 ---
 title: "Response to 'Mormonism is a Cult'"
-description: "An Apologetic"
+description: "An Apologetics"
 featured_image: "/images/temple.PNG"
 date: 2024-03-11T10:58:08-04:00
-tags: ["Apologetic", "Doctrine", "Cult", "Mormonism", "Bible", "Book of Mormon"]
+tags: ["Apologetics", "Doctrine", "Cult", "Mormonism", "Bible", "Book of Mormon"]
 ---
 
 ## More that 1 God
