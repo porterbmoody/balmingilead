@@ -49,7 +49,7 @@ Yes, Joseph Smith gave a discourse that explain that God was once a man like us 
 
 - God resides near a star called Kolob, (Pearl of Great Price, p. 34-35; Mormon Doctrine, p. 428).
 
-
+> Abreham 3:3 And the Lord said unto me: These are the governing ones; and the name of the great one is Kolob, because it is near unto me, for I am the Lord thy God: I have set this one to govern all those which belong to the same order as that upon which thou standest.
 
 - “The Father has a body of flesh and bones as tangible as man’s…” (Doctrines and Covenants 130:22).
 
