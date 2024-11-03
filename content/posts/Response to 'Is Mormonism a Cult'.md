@@ -46,6 +46,8 @@ I can't find the quote in [Doctrines of Salvation](https://lionandlambapologetic
 
 [Spencer Kimball](https://www.churchofjesuschrist.org/study/manual/teachings-spencer-w-kimball/chapter-19?lang=eng)
 
+It is clea that the Godhead is made up of 3 distinct beings, Heavenly Father, Jesus Christ, and the Holy Ghost. Heavenly Father and Jesus Christ each have seperate physical bodies, but the Holy Ghost is just a spirit, He does not have a physical body. We also learn from Abreham that the Gods created the light. 
+
 ## Nature of God
 
 - God used to be a man on another planet, (Mormon Doctrine, p. 321; Joseph Smith, Times and Seasons, vol. 5, p. 613-614; Orson Pratt, Journal of Discourses, vol. 2, p. 345; Brigham Young, Journal of Discourses, vol. 7, p. 333).
@@ -54,7 +56,7 @@ Yes, Joseph Smith gave a discourse that explain that God was once a man like us 
 
 - God resides near a star called Kolob, (Pearl of Great Price, p. 34-35; Mormon Doctrine, p. 428).
 
-Abreham 3:3 states:
+[Abreham 3:3](https://www.churchofjesuschrist.org/study/scriptures/pgp/abr/3?lang=eng) states:
 
 > And the Lord said unto me: These are the governing ones; and the name of the great one is Kolob, because it is near unto me, for I am the Lord thy God: I have set this one to govern all those which belong to the same order as that upon which thou standest.
 Yes, Abreham tells us that Kolob is the star near where God dwells. 
