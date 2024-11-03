@@ -3,7 +3,7 @@ title: "Response to 'Mormonism is a Cult'"
 description: "An Apologetics"
 featured_image: "/images/temple.PNG"
 date: 2024-11-03T10:58:08-04:00
-tags: ["Apologetics", "Doctrine", "Cult", "Mormonism", "Bible", "Book of Mormon"]
+tags: ["Apologetics", "Doctrine", "Cult", "Mormonism", "Bible", "Book of Mormon", "Joseph Smith"]
 ---
 
 # Response
@@ -66,7 +66,10 @@ Yes, Abreham tells us that Kolob is the star near where God dwells.
 - God is in the form of a man, (Joseph Smith, Journal of Discourses, vol. 6, p. 3).
 
 As I read through Joseph Smith's Journal of Discourses, vol. 6, p. 3, I am struggling to find the place where this doctrine is mentioned, "God is in the form of a man". However, I do find the following quote, 
+
 > "I want to ask this congregation − every man, women, and child, to answer the question in their own heart, what kind of a being God is? Ask yourselves; turn your thoughts into your hearts, and say if any of you have seen, heard, or communed with him. This is a question that may occupy your attention for a long time. I again repeat the question − What kind of a being is God? Does any man or woman know? Have any of you seen him, heard him, or communed with him? Here is the question that will peradventure from this time henceforth occupy your attention."
+
+I don't think this quote describes that God is in the form of a man. But There are verses and revelations Joseph Smith has recorded that God has a physical body which may be what this idea is referring to. 
 
 - “God himself was once as we are now, and is an exalted man, and sits enthroned in yonder heavens!!! . . . We have imagined that God was God from all eternity. I will refute that idea and take away the veil, so that you may see,” (Teachings of the Prophet Joseph Smith, p. 345).
 
