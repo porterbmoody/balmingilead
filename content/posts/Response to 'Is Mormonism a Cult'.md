@@ -41,7 +41,6 @@ I can't find the quote in [Doctrines of Salvation](https://lionandlambapologetic
 
 [Mormon Doctrine](https://ia800406.us.archive.org/12/items/MormonDoctrine1966/MormonDoctrine1966.pdf)
 
-
 <!-- git add .
 git commit -m ok
 git push -->
