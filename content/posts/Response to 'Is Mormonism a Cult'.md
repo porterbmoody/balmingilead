@@ -37,7 +37,10 @@ Articles of Faith James E. Talmage
 > distinct from each other, is very plainly proved by the accepted records of the divine
 > dealings with man.
 
-I can't find the quote in [Doctrines of Salvation](https://lionandlambapologetics.org/wp-content/uploads/2024/02/JFS-Doctrines-of-Salvation-Volume-1.pdf)
+I can't find the quote in [Doctrines of Salvation](https://lionandlambapologetics.org/wp-content/uploads/2024/02/JFS-Doctrines-of-Salvation-Volume-1.pdf) about having to accept Joseph Smith as a prophet.
+
+[Mormon Doctrine](https://ia800406.us.archive.org/12/items/MormonDoctrine1966/MormonDoctrine1966.pdf)
+
 
 <!-- git add .
 git commit -m ok
