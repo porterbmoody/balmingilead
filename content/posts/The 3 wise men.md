@@ -6,14 +6,12 @@ date: 2022-12-23T11:00:59-04:00
 tags: ["Christmas", "New Testament"]
 ---
 
-
 Who were the wise men?
 A group of men (It is not known how many) were guided from a land East of Palestine.
 It is evident they were men of strong spiritual strength because they noticed, and recognized the star of Jesus' birth. 
 It is also possible that they came from a branch of the Lord's people 
 and then returned to bear witness of the birth of Christ. 
 The wise men were actually called Magi which means mistics. 
-
 
 ## The Star
 ![star](/images/posts/star.jpg)
@@ -40,7 +38,6 @@ about the location of Jesus, he had every child of age 2 and under killed.
 Gold representing kingship, frankincense (worship) and myrrh (death and mourning).
 These are not the gifts Jesus asks of us. From the treasure of our hearts Jesus asks that we give of ourselves: 
 ‘Behold, the Lord requireth the heart and a willing mind’”
-    
 
 ## The meaning
 There is significance in the fact that the Wise Men sought Jesus. 
