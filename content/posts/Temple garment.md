@@ -8,7 +8,7 @@ tags: ["Symbol", "Temple", "Covenant", "Garment"]
 
 # Temple Garment
 
-After Adam and Eve were expelled from the Garden of Eden, they were cast down to earth and fell and found themselves naked. 
+After Adam and Eve were expelled from the Garden of Eden, they were cast down to earth and fell and found themselves naked. So then the sewed fig leaves together and covered themselves. 
 > 7 And the eyes of them both were opened, and they knew that they were naked; and they sewed fig leaves together, and made themselves aprons.
 
 Genesis 3:21
