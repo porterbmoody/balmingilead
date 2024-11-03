@@ -48,6 +48,16 @@ I can't find the quote in [Doctrines of Salvation](https://lionandlambapologetic
 - God resides near a star called Kolob, (Pearl of Great Price, p. 34-35; Mormon Doctrine, p. 428).
 
 - “The Father has a body of flesh and bones as tangible as man’s…” (Doctrines and Covenants 130:22).
+
+- God is in the form of a man, (Joseph Smith, Journal of Discourses, vol. 6, p. 3).
+
+- “God himself was once as we are now, and is an exalted man, and sits enthroned in yonder heavens!!! . . . We have imagined that God was God from all eternity. I will refute that idea and take away the veil, so that you may see,” (Teachings of the Prophet Joseph Smith, p. 345).
+
+- After you become a good Mormon, you have the potential of becoming a god, (Teachings of the Prophet Joseph Smith, p. 345-347, 354).
+There is a mother goddess, (Articles of Faith, by James Talmage, p. 443).
+- God is married to his goddess wife and has spirit children, (Mormon Doctrine, p. 516).
+- The Trinity is three separate Gods: The Father, the Son, and the Holy Ghost. “That these three are separate individuals, physically distinct from each other, is demonstrated by the accepted records of divine dealings with man,” (Articles of Faith, by James Talmage, p. 35).
+
 <!-- git add .
 git commit -m ok
 git push -->
