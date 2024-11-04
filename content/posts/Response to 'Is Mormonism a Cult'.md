@@ -1,6 +1,6 @@
 ---
 title: "Response to 'Mormonism is a Cult'"
-description: "An Apologetics Case"
+# description: "An Apologetics Case"
 featured_image: "/images/temple.PNG"
 date: 2024-11-03T10:58:08-04:00
 tags: ["Apologetics", "Doctrine", "Cult", "Mormonism", "Bible", "Book of Mormon", "Joseph Smith"]
@@ -8,7 +8,7 @@ tags: ["Apologetics", "Doctrine", "Cult", "Mormonism", "Bible", "Book of Mormon"
 
 # Response
 
-This is a response to the article [Mormonism is a Cult](https://carm.org/mormonism/is-mormonism-a-cult/)
+This is a response to the article [Mormonism is a Cult](https://carm.org/mormonism/is-mormonism-a-cult/). The purpose of this article is to 
 
 ## More that 1 God
 
@@ -46,7 +46,7 @@ I can't find the quote in [Doctrines of Salvation](https://lionandlambapologetic
 
 [Spencer Kimball](https://www.churchofjesuschrist.org/study/manual/teachings-spencer-w-kimball/chapter-19?lang=eng)
 
-It is clea that the Godhead is made up of 3 distinct beings, Heavenly Father, Jesus Christ, and the Holy Ghost. Heavenly Father and Jesus Christ each have seperate physical bodies, but the Holy Ghost is just a spirit, He does not have a physical body. We also learn from Abreham that the Gods created the light. 
+It is clear that the Godhead is made up of 3 distinct beings, Heavenly Father, Jesus Christ, and the Holy Ghost. Heavenly Father and Jesus Christ each have seperate physical bodies, but the Holy Ghost is just a spirit, He does not have a physical body. We also learn from Abreham that the Gods created the light. The plural Gods referred to in this is context means Heavenly Father and Jesus Christ.
 
 ## Nature of God
 
@@ -67,7 +67,7 @@ Yes, Abreham tells us that Kolob is the star near where God dwells.
 
 - God is in the form of a man, (Joseph Smith, Journal of Discourses, vol. 6, p. 3).
 
-As I read through Joseph Smith's Journal of Discourses, vol. 6, p. 3, I am struggling to find the place where this doctrine is mentioned, "God is in the form of a man". However, I do find the following quote, 
+As I read through Joseph Smith's Journal of Discourses, vol. 6, p. 3, I was unable to find the place where this doctrine is mentioned, "God is in the form of a man". However, I do find the following quote, 
 
 > "I want to ask this congregation − every man, women, and child, to answer the question in their own heart, what kind of a being God is? Ask yourselves; turn your thoughts into your hearts, and say if any of you have seen, heard, or communed with him. This is a question that may occupy your attention for a long time. I again repeat the question − What kind of a being is God? Does any man or woman know? Have any of you seen him, heard him, or communed with him? Here is the question that will peradventure from this time henceforth occupy your attention."
 
