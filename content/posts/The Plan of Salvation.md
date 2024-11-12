@@ -10,11 +10,12 @@ tags: ['The Plan of Salvation', 'Adam and Eve', 'Fruit of the tree of good and e
 ## Premortal Existence
 
 Before we came to earth we all lived as souls with Heavenly Father and Jesus Christ called premortal existence. There was a council where the God's set forth a plan for all of God's children. 
-![pe](/../images/pe.png)
 
-![star](/content/images/posts/star.jpg)
+<!-- ![pe](/../images/pe.png) -->
 
-![earth](/images/earth.jpeg)
+<!-- ![star](/content/images/posts/star.jpg) -->
+
+<!-- ![earth](/images/earth.jpeg) -->
 
 God created the earth, the plants, animals, mountains, oceans, seas. He set earth in motion around the sun. 
 
