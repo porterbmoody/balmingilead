@@ -14,7 +14,6 @@ tags: ["Old Testament", "Jeremiah"]
 
 Jeremiah was a member of the priestly household of Hilkiah. His hometown was Anathoth.
 
-
 ## Ministry
 
 ![tree](/images/posts/JeremiahTimeline.png)
