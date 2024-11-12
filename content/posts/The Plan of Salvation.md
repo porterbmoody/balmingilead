@@ -8,9 +8,9 @@ tags: ["The Plan of Salvation"]
 
 # Creation
 
-God created the earth, the plants, animals, mountains, oceans, seas. He set earth in motion around the sun. 
-
 ## Premortal Existence
+
+God created the earth, the plants, animals, mountains, oceans, seas. He set earth in motion around the sun. 
 
 # Fall
 
