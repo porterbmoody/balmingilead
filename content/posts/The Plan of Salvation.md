@@ -12,6 +12,8 @@ tags: ['The Plan of Salvation', 'Adam and Eve', 'Fruit of the tree of good and e
 Before we came to earth we all lived as souls with Heavenly Father and Jesus Christ called premortal existence. There was a council where the God's set forth a plan for all of God's children. 
 ![pe](/images/pe.png)
 
+![star](/images/posts/star.jpg)
+
 ![earth](/images/earth.jpeg)
 
 God created the earth, the plants, animals, mountains, oceans, seas. He set earth in motion around the sun. 
@@ -32,7 +34,6 @@ After Adam and Eve were expelled from the Garden of Eden, they were cast down to
 
 > Genesis 3:21
 > 21 Unto Adam also and to his wife did the Lord God make coats of skins, and clothed them.
-
 
 There were 2 significant trees in the Garden of Eden. 1 was the tree of good and evil, the other was the tree of life. Adam and Eve were commanded not to partake of the fruit of the tree of good and evil. 
 
