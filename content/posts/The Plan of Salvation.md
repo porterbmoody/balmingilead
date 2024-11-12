@@ -1,7 +1,6 @@
 ---
 title: "The Plan of Salvation"
-description: ""
-featured_image: "/images/posts/olivetree.jpg"
+featured_image: "/images/posts/adam and eve.jpeg"
 date: 2024-10-9T10:58:08-04:00
 tags: ['The Plan of Salvation', 'Adam and Eve', 'Fruit of the tree of good and evil', 'Atonement of Jesus Christ', 'Creation', 'Fall', 'Atonement']
 ---
