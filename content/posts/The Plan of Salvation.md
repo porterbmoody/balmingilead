@@ -11,8 +11,9 @@ tags: ['The Plan of Salvation', 'Adam and Eve', 'Fruit of the tree of good and e
 
 Before we came to earth we all lived as souls with Heavenly Father and Jesus Christ called premortal existence. There was a council where the Gods set forth a plan for all of God's children. 
 
+<!-- ![pizza](premortal%20existence.PNG) -->
 
-<!-- ![pe](content/posts/premortal existence.PNG) -->
+![pe](../images/premortal%20existence.PNG)
 
 <!-- ![pe](images/premortal existence.PNG) -->
 
