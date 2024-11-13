@@ -18,7 +18,7 @@ tence.PNG" alt="premortal existence"> -->
 
 <!-- <img src="https://porterbmoody.github.io/balmingilead/images/adam%20and%20eve.jpeg" alt="premortal existence"> -->
 
-<!-- ![earth](/images/earth.jpeg) -->
+<img src="{{ site.baseurl }}/images/adam%20and%20eve.jpeg">
 
 God created the earth, the plants, animals, mountains, oceans, seas. He set earth in motion around the sun. 
 
