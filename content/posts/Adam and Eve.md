@@ -5,9 +5,9 @@ date: 2024-11-11T10:58:08-04:00
 tags: ["Adam and Eve", "Creation", "Garden of Eden", "Fall", "Commandment"]
 ---
 
-# Fall
+# Adam and Eve
 
-## Adam and Eve
+Adam and Eve were the first humans to ever live on the earth. God formed their bodies out of dust and placed them on the earth. 
 
 ![alt text](https://porterbmoody.github.io/balmingilead/images/adam%20and%20eve.jpeg)
 
