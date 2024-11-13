@@ -9,6 +9,8 @@ tags: ["Adam and Eve", "Creation", "Garden of Eden", "Fall", "Commandment"]
 
 ## Adam and Eve
 
+![alt text](https://porterbmoody.github.io/balmingilead/images/adam%20and%20eve.jpeg)
+
 ## Garden of Eden
 
 After Adam and Eve were expelled from the Garden of Eden, they were cast down to earth and fell and found themselves naked. So then the sewed fig leaves together and covered themselves. 
