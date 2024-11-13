@@ -1,6 +1,6 @@
 ---
 title: 'The Atonement of Jesus Christ'
-featured_image: '/images/posts/jesus2.jpg'
+featured_image: '/images/posts/earth.jpg'
 date: 2024-11-11T00:00:00-00:00
 tags: ['Jesus Christ', 'The Creation', 'Earth', 'Genesis']
 ---
