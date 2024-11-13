@@ -17,12 +17,12 @@ Before we came to earth we all lived as souls with Heavenly Father and Jesus Chr
 
 <!-- ![premortal existence](/content/images/premortal%20existence.PNG) -->
 
-![premortal existence](https://porterbmoody.github.io/balmingilead/images/adam%20and%20eve.jpeg)
+<!-- ![premortal existence](https://porterbmoody.github.io/balmingilead/images/adam%20and%20eve.jpeg) -->
 
 <!-- <img src="/posts/premortal exis
 tence.PNG" alt="premortal existence"> -->
 
-<!-- <img src="/content/images/premortal existence.PNG" alt="premortal existence"> -->
+<img src="/content/images/premortal existence.PNG" alt="premortal existence">
 
 <!-- ![earth](/images/earth.jpeg) -->
 
