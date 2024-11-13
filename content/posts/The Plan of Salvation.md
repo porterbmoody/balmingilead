@@ -15,6 +15,8 @@ Before we came to earth we all lived as souls with Heavenly Father and Jesus Chr
 
 ![premortal existence](/images/premortal%20existence.PNG)
 
+![premortal existence](/content/images/premortal%20existence.PNG)
+
 <!-- <img src="/posts/premortal exis
 tence.PNG" alt="premortal existence"> -->
 
