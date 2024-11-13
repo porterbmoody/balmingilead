@@ -22,7 +22,7 @@ Before we came to earth we all lived as souls with Heavenly Father and Jesus Chr
 <!-- <img src="/posts/premortal exis
 tence.PNG" alt="premortal existence"> -->
 
-<img src="/content/images/premortal existence.PNG" alt="premortal existence">
+<img src="https://porterbmoody.github.io/balmingilead/images/adam%20and%20eve.jpeg" alt="premortal existence">
 
 <!-- ![earth](/images/earth.jpeg) -->
 
