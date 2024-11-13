@@ -8,4 +8,4 @@ menu: main
 
 ---
 
-{{<form-contact action="https://example.com">}}
+{{<form-contact action="https://facebook.com/your-profile">}}

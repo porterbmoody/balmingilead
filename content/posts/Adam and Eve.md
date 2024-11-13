@@ -5,7 +5,6 @@ date: 2024-11-11T10:58:08-04:00
 tags: ["Adam and Eve", "Creation", "Garden of Eden", "Fall", "Commandment"]
 ---
 
-
 Moses 3 
 > 16 And I, the Lord God, commanded the man, saying: Of every tree of the garden thou mayest freely eat,
 > 17 But of the tree of the knowledge of good and evil, thou shalt not eat of it, nevertheless, thou mayest choose for thyself, for it is given unto thee; but, remember that I forbid it, for in the day thou eatest thereof thou shalt surely die.
