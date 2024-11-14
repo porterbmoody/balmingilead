@@ -1,6 +1,6 @@
 ---
 title: "Joseph Smith and Polygamy"
-featured_image: "/images/posts/joseph smith.jpg"
+featured_image: "/images/joseph smith.jpg"
 date: 2024-11-11T12:00:00-00:00
 tags: ["Mormonism", "Church History", "Joseph Smith", "Polygamy", "The Church of Jesus Christ of Latter Day Saints"]
 ---
