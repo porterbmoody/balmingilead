@@ -18,12 +18,22 @@ Genesis 1
 
 ## Day 2
 
-God formed the firmament
+God formed the firmament which is basically the atmosphere.
 
 Genesis 1
 > 6 ¶ And God said, Let there be a firmament in the midst of the waters, and let it divide the waters from the waters.
 
 ## Day 3
+
+God seperated the land from the seas and oceans. 
+
+Genesis 1
+> 9 ¶ And God said, Let the waters under the heaven be gathered together unto one place, and let the dry land appear: and it was so.
+
+God also added grass, herbs, and fruit trees to the earth. 
+
+Genesis 1
+> 11 And God said, Let the earth bring forth grass, the herb yielding seed, and the fruit tree yielding fruit after his kind
 
 ## Day 4
 
