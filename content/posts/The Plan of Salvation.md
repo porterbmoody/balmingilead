@@ -13,22 +13,9 @@ Before we came to earth we all lived as souls with Heavenly Father and Jesus Chr
 
 <!-- ![premortal existence](https://porterbmoody.github.io/balmingilead/images/adam%20and%20eve.jpeg) -->
 
-<!-- <img src="/posts/premortal exis
-tence.PNG" alt="premortal existence"> -->
-
 <!-- <img src="https://porterbmoody.github.io/balmingilead/images/adam%20and%20eve.jpeg" alt="premortal existence"> -->
-
-<!-- <img src="{{ site.baseurl }}/images/adam%20and%20eve.jpeg"> -->
 
 God created the earth, the plants, animals, mountains, oceans, seas. He set earth in motion around the sun. 
 
-# Atonement
 
-## Sufferings of Jesus Christ
-
-Jesus Christ came to earth and suffered greatly for our sins. We read in Alma 7:11
-
-> 11 And he shall go forth, suffering pains and afflictions and temptations of every kind; and this that the word might be fulfilled which saith he will take upon him the pains and the sicknesses of his people.
-
-Alma teaches us a little bit about what Jesus Christ felt in the Garden of Gethsemane. 
 

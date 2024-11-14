@@ -2,7 +2,7 @@
 title: 'The Creation'
 featured_image: '/images/earth.jpg'
 date: 2024-11-11T00:00:00-00:00
-tags: ['Jesus Christ', 'The Creation', 'Earth', 'Genesis']
+tags: ['Jesus Christ', 'The Creation', 'Earth', 'Genesis', 'Old Testament']
 ---
 
 # The Creation
