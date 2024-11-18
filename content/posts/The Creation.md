@@ -42,7 +42,14 @@ God also set the sun and the moon in place. The sun to make the earth bright in 
 Genesis 1
 > 16 And God made two great lights; the greater light to rule the day, and the lesser light to rule the night: he made the stars also.
 
+So in the fourth day, God separated the day from the night on the earth. 
+
 ## Day 5
+
+Genesis 1
+> 21 And God created great whales, and every living creature that moveth, which the waters brought forth abundantly, after their kind, and every winged fowl after his kind: and God saw that it was good.
+
+On day 5, God created all the living creatures upon the earth. So he created whales, animals, birds, bears, fish, deer, tigers, wolves, bugs. Basically every moving, living creature. 
 
 ## Day 6
 
