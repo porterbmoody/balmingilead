@@ -7,6 +7,8 @@ tags: ['America', 'History', 'Geography', 'Book of Mormon Geography', 'Book of M
 
 ![Lake Erie](lake.png)
 
+![Lake Erie]({{ 'lake.png' | relative_url }})
+
 
 <li class="masthead__menu-item">
           <a href="https://xxx.github.io/home/research/">Research</a>
