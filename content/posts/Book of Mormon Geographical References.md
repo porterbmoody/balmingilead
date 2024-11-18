@@ -5,7 +5,7 @@ date: 2024-11-11T00:00:00-00:00
 tags: ['America', 'History', 'Geography', 'Book of Mormon Geography', 'Book of Mormon']
 ---
 
-![Lake Erie](lake%20erie%20and%20ontario.png)
+![Lake Erie](lake.png)
 
 ## Article
 
