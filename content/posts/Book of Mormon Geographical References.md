@@ -7,8 +7,9 @@ tags: ['America', 'History', 'Geography', 'Book of Mormon Geography', 'Book of M
 
 ![Lake Erie](lake.png)
 
-![Lake Erie]({{ 'lake.png' | relative_url }})
+<!-- ![Lake Erie]({{ 'lake.png' | relative_url }}) -->
 
+<header class="cover bg-top" style="background-image:url(https://porterbmoody.github.io/balmingilead/images/bom%20geography.PNG)">
 
 <li class="masthead__menu-item">
           <a href="https://xxx.github.io/home/research/">Research</a>
