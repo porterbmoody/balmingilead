@@ -37,8 +37,8 @@ Genesis 1
 
 ## Day 4
 
+God also set the sun and the moon in place. The sun to make the earth bright in the day, the moon to make the earth bright in the night.
 
-God also set the sun and the moon in place. The sun to make the earth bright in the day, the moon to make the earth bright in the night. 
 Genesis 1
 > 16 And God made two great lights; the greater light to rule the day, and the lesser light to rule the night: he made the stars also.
 
