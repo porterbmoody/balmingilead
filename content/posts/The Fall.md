@@ -29,6 +29,8 @@ Genesis 2
 Genesis 3
 > 21 Unto Adam also and to his wife did the Lord God make coats of skins, and clothed them.
 
+## The Tree of Knowledge
+
 There were 2 significant trees in the Garden of Eden. 1 was the tree of good and evil, the other was the tree of life. Adam and Eve were commanded not to partake of the fruit of the tree of good and evil. 
 
 Moses 3 
