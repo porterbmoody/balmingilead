@@ -62,3 +62,5 @@ Father Lehi taught that if the Fall had not taken place, Adam and Eve ‘would h
 It is clear that if Adam and Eve never decided to partake of the fruit of the tree of knowledge of good and evil, the fall would never have happened and Adam and Eve would have remained in the Garden of Eden forever.
 
 President Ezra Taft Benson said, "Just as a man does not desire food until he is hungry, so does he not desire the salvation of Christ until he knows why he needs Christ."
+
+So the Fall allowed humans to see their natural carnal state. It seperated us from the presence of God so we came to this world where we can sin, be tempted, see our naturally carnal natures, be deceived, 
