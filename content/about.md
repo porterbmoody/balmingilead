@@ -1,9 +1,7 @@
 ---
 title: "About"
 description: ""
-cascade:
-  featured_image: '/content/images/me1.png'
-# featured_image: '/content/images/me1.png'
+featured_image: '/content/images/me1.png'
 menu:
   main:
     weight: 1
