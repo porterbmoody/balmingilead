@@ -60,3 +60,5 @@ The Brother of Jared tells us that because of the fall, we are unworthy before G
 Father Lehi taught that if the Fall had not taken place, Adam and Eve ‘would have remained in a state of innocence, having no joy, for they knew no misery’ (2 Nephi 2:23). Without the experience of opposition in mortality, ‘all things must needs be a compound in one,’ in which there would be no happiness or misery.
 
 It is clear that if Adam and Eve never decided to partake of the fruit of the tree of knowledge of good and evil, the fall would never have happened and Adam and Eve would have remained in the Garden of Eden forever.
+
+President Ezra Taft Benson said, "Just as a man does not desire food until he is hungry, so does he not desire the salvation of Christ until he knows why he needs Christ."

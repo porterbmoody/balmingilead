@@ -23,6 +23,5 @@ Presented in [John Sorenson's Article](https://archive.bookofmormoncentral.org/s
 
 ## Baja California Model
 
-
 <img src="image.jpg">
 <h1 id='swag'>pizza</h1>
