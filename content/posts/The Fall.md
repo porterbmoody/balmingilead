@@ -1,7 +1,7 @@
 ---
 title: "The Fall"
 description: 'Genesis 2-3, Moses 3-5, Abraham 5'
-featured_image: "/images/posts/olivetree.jpg"
+featured_image: "/images/posts/adam and eve.jpeg"
 date: 2024-11-11T10:58:08-04:00
 tags: ['Adam and Eve', 'Creation', 'Garden of Eden', 'Fall', 'Commandment']
 ---
@@ -9,13 +9,6 @@ tags: ['Adam and Eve', 'Creation', 'Garden of Eden', 'Fall', 'Commandment']
 # The Fall
 
 Adam and Eve were the first humans to ever live on earth. They were placed in the garden of Eden. There were 2 trees in the garden of Eden, the tree of life and the tree of good and evil. 
-
----
-title: "Adam and Eve"
-featured_image: "/images/adam and eve.jpeg"
-date: 2024-11-11T10:58:08-04:00
-tags: [""]
----
 
 # Adam and Eve
 
