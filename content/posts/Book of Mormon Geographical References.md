@@ -11,7 +11,6 @@ tags: ['America', 'History', 'Geography', 'Book of Mormon Geography', 'Book of M
 
 <header class="cover bg-top" style="background-image:url(https://porterbmoody.github.io/balmingilead/images/bom%20geography.PNG)">
 
-
 ## Mesoamerican Model
 
 Presented in [John Sorenson's Article](https://archive.bookofmormoncentral.org/sites/default/files/archive-files/pdf/sorenson/2024-04-18/john_l._sorenson_mormons_map_2000.pdf)
@@ -23,3 +22,6 @@ Presented in [John Sorenson's Article](https://archive.bookofmormoncentral.org/s
 ## South American Model
 
 ## Baja California Model
+
+
+<img src="image.jpg">
