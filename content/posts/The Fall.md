@@ -43,6 +43,7 @@ Doctrine and Covenants 29
 
 > 40 Wherefore, it came to pass that the devil tempted Adam, and he partook of the forbidden fruit and transgressed the commandment, wherein he became subject to the will of the devil, because he yielded unto temptation.
 > 41 Wherefore, I, the Lord God, caused that he should be cast out from the Garden of Eden, from my presence, because of his transgression, wherein he became spiritually dead, which is the first death, even that same death which is the last death, which is spiritual, which shall be pronounced upon the wicked when I shall say: Depart, ye cursed.
+
 We learn from the Doctrine and Covenants that the devil tempted Adam and Eve to break the commandment and partake of the fruit of the tree of good and evil. This caused them spiritual death and led to the fall where they were sent to earth. 
 
 We also read in Moses 5
@@ -55,3 +56,7 @@ Ether 3:2
 > for we know that thou art holy and dwellest in the heavens, and that we are unworthy before thee; because of the fall our natures have become evil continually;
 
 The Brother of Jared tells us that because of the fall, we are unworthy before God. Our natures are naturally evil. 
+
+Father Lehi taught that if the Fall had not taken place, Adam and Eve ‘would have remained in a state of innocence, having no joy, for they knew no misery’ (2 Nephi 2:23). Without the experience of opposition in mortality, ‘all things must needs be a compound in one,’ in which there would be no happiness or misery.
+
+It is clear that if Adam and Eve never decided to partake of the fruit of the tree of knowledge of good and evil, the fall would never have happened and Adam and Eve would have remained in the Garden of Eden forever.
