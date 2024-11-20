@@ -7,6 +7,8 @@ tags: ['Jesus Christ', 'The Creation', 'Earth', 'Genesis', 'Old Testament']
 
 # The Creation
 
+Bruce R. McConkie said, “The Lord expects us to believe and understand the true doctrine of the Creation—the creation of this earth, of man, and of all forms of life”
+
 The creation is the 1st step in the 3 pillars of eternity, creation, fall, atonement. It is the first step in the Plan of Salvation. The Father organized the earth and all the living things therein through the son. This means Heavenly Father gave the plans and directions to Jesus Christ, and Jesus Christ implemented them to create the earth, the plants, animals, and all other living things on the earth using already existing matter. This means Jesus Christ did not create any matter out of nothing. The creation took 6 days and on the 7th day, Jesus Christ rested. 
 
 ## Day 1
