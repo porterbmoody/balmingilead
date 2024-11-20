@@ -1,7 +1,7 @@
 ---
 title: "The Fall"
 description: 'Genesis 2-3, Moses 3-5, Abraham 5'
-featured_image: "/images/posts/adam and eve.jpeg"
+featured_image: "/images/adam and eve.jpeg"
 date: 2024-11-11T10:58:08-04:00
 tags: ['Adam and Eve', 'Creation', 'Garden of Eden', 'Fall', 'Commandment']
 ---
