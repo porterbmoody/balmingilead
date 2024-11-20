@@ -49,8 +49,28 @@ So in the fourth day, God separated the day from the night on the earth.
 Genesis 1
 > 21 And God created great whales, and every living creature that moveth, which the waters brought forth abundantly, after their kind, and every winged fowl after his kind: and God saw that it was good.
 
-On day 5, God created all the living creatures upon the earth. So he created whales, animals, birds, bears, fish, deer, tigers, wolves, bugs. Basically every moving, living creature. 
+On day 5, God created whales and birds. God also allowed them to multiply and reproduce.
 
 ## Day 6
 
+Genesis 1
+> 24 ¶ And God said, Let the earth bring forth the living creature after his kind, cattle, and creeping thing, and beast of the earth after his kind: and it was so.
+
+God created all the living creatures upon the earth, cattle, bugs, insects, and beasts so cows, oxen, buffalo.
+
+Genesis 1
+> 26 ¶ And God said, Let us make man in our image, after our likeness
+
+God also created man on this day after the likeness of God. So many has a body similar to God's.
+
+Genesis 2
+> 1 Thus the heavens and the earth were finished, and all the host of them.
+
+God finished the created on the 6th day. 
+
 ## Day 7
+
+On this day God rested.
+
+Genesis 2
+> 3 And God blessed the seventh day, and sanctified it: because that in it he had rested from all his work which God created and made.
