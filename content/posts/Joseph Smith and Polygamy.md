@@ -15,3 +15,7 @@ So an angel appeared to Joseph Smith with a sword threatening to kill him if he 
 
 ## The Implementation of Polygamy
 
+Jacob 2 talks about the topic of polygamy and 
+Jacob 2:24 Behold, David and Solomon truly had many wives and concubines, which thing was abominable before me, saith the Lord.
+
+Doctrine and Covenants 132:38 David also received many wives and concubines, and also Solomon and Moses my servants, as also many others of my servants, from the beginning of creation until this time; and in nothing did they sin save in those things which they received not of me.
