@@ -17,6 +17,8 @@ So an angel appeared to Joseph Smith with a sword threatening to kill him if he 
 
 Jacob 2 talks about the topic of polygamy and what is according to the commandments and what is not. We also read in verse 24 that it was an abomination that David and Solomon had many wives and concubines. We also read in Doctrine and Covenants that teh many wives and concubines David and Solomon had were not a sin. This may seem like a contradiction upon first impression, but a closer analysis reveals that David and Solomon did not sin, except for the things they did not receive of God. 
 
-Jacob 2:24 Behold, David and Solomon truly had many wives and concubines, which thing was abominable before me, saith the Lord.
+Jacob 2
+> 24 Behold, David and Solomon truly had many wives and concubines, which thing was abominable before me, saith the Lord.
 
-Doctrine and Covenants 132:38 David also received many wives and concubines, and also Solomon and Moses my servants, as also many others of my servants, from the beginning of creation until this time; and in nothing did they sin save in those things which they received not of me.
+Doctrine and Covenants 132
+> 38 David also received many wives and concubines, and also Solomon and Moses my servants, as also many others of my servants, from the beginning of creation until this time; and in nothing did they sin save in those things which they received not of me.
