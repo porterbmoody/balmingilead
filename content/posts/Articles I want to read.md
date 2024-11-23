@@ -19,3 +19,6 @@ https://wheatandtares.org/2019/02/21/stephen-smoot-on-the-imperative-for-book-of
 
 https://journal.interpreterfoundation.org/temple-themes-in-the-book-of-abraham/?fbclid=IwZXh0bgNhZW0CMTEAAR1FeHbQdPcFeZZiPLAb1K374wSWG3pW2L-E0UloN617AfB0Mvn5gy7DQV4_aem_zqusSOSK5TMjlASugKfhRA#footnote1sym
 
+## Church History
+
+https://www.youtube.com/watch?v=-BAwGkePpTY
