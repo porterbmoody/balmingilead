@@ -1,5 +1,5 @@
 ---
-title: Contact
+# title: Contact
 featured_image: '/images/me.jpg'
 omit_header_text: true
 description: Hello
