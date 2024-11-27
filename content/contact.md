@@ -7,5 +7,4 @@ type: page
 menu: main
 ---
 
-# Contact P Mood...
 {{<form-contact action="https://www.facebook.com/porter.moody.33">}}
