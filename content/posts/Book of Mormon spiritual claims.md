@@ -5,7 +5,6 @@ date: 2024-10-11T00:00:00-00:00
 tags: ['Articles']
 ---
 
-
 ## Book of Mormon Spiritual Claims
 
 - The individual identity of Heavenly Father and His Beloved Son, Jesus Christ.
@@ -75,4 +74,3 @@ tags: ['Articles']
 - The importance of individual agency and the need for opposition in all things.
 
 - Warnings about “secret combinations.”
-
