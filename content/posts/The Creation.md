@@ -6,12 +6,24 @@ tags: ['Jesus Christ', 'The Creation', 'Earth', 'Genesis', 'Old Testament']
 ---
 
 # The Creation
+---
+title: "The Plan of Salvation"
+featured_image: "/images/adam and eve.jpeg"
+date: 2024-10-9T10:58:08-04:00
+tags: ['The Plan of Salvation', 'Adam and Eve', 'Fruit of the tree of good and evil', 'Atonement of Jesus Christ', 'Creation', 'Fall', 'Atonement', 'Symbol', 'Temple', 'Covenant']
+---
+
+# Creation
 
 Bruce R. McConkie said, “The Lord expects us to believe and understand the true doctrine of the Creation—the creation of this earth, of man, and of all forms of life”
 
 The creation is the 1st step in the 3 pillars of eternity, creation, fall, atonement. It is the first step in the Plan of Salvation. The Father organized the earth and all the living things therein through the son. This means Heavenly Father gave the plans and directions to Jesus Christ, and Jesus Christ implemented them to create the earth, the plants, animals, and all other living things on the earth using already existing matter. This means Jesus Christ did not create any matter out of nothing. The creation took 6 days and on the 7th day, Jesus Christ rested. 
 
 The Church of Jesus Christ of Latter-day Saints, basing its belief on divine revelation, ancient and modern, proclaims man to be the direct and lineal offspring of Deity. God Himself is an exalted man, perfected, enthroned, and supreme. By His almighty power He organized the earth, and all that it contains, from spirit and element, which exist co-eternally with Himself. He formed every plant that grows, and every animal that breathes, each after its own kind, spiritually and temporally—‘that which is spiritual being in the likeness of that which is temporal, and that which is temporal in the likeness of that which is spiritual.’ He made the tadpole and the ape, the lion and the elephant but He did not make them in His own image, nor endow them with Godlike reason and intelligence. Nevertheless, the whole animal creation will be perfected and perpetuated in the Hereafter, each class in its ‘distinct order or sphere,’ and will enjoy ‘eternal felicity.’ That fact has been made plain in this dispensation
+
+## Premortal Existence
+
+Before we came to earth we all lived as souls with Heavenly Father and Jesus Christ called premortal existence. There was a council where the Gods set forth a plan for all of God's children. Before anything was physically created, Heavenly Father laid out the entire plan before all his children.
 
 ## Day 1
 
