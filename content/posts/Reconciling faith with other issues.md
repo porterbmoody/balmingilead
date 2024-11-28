@@ -68,7 +68,7 @@ This tells us that we can ask God to obtain wisdom, but verse 6 reminds us that 
 
 After Joseph Smith read this verse, we acted in faith and went to a grove of trees and prayed to know which church was true. Immediately, a dark power, the power of Satan ceased upon him and tried to stop him from continuing the prayer. But as he endured, he continued to pray and eventually Heavenly Father and Jesus Christ appeared to him. 
 
-I think this is a powerful principle for maintaining faith. If we are ever wrestling with difficult issues regarding church history or church policy or reconciling something that happened to a friend or relative or even to ourselves, this counsel from James is very helpful for teaching us how to maintiain faith. Basically we must just maintain faith, maintain our focus on Jesus Chrits and he will guide us through our questions and struggles. He will show us how we can have faith instead of fear and doubt. 
+This is a powerful principle for maintaining faith. If we are ever wrestling with difficult issues regarding church history or church policy or reconciling something that happened to a friend or relative or even to ourselves, this counsel from James is very helpful for teaching us how to maintiain faith. Basically we must just maintain faith, maintain our focus on Jesus Chrits and he will guide us through our questions and struggles. He will show us how we can have faith instead of fear and doubt. If we have certain questions about the scriptures or the church or the church's truth claims, James makes it very clear that God freely gives wisdom to people who have questions about any of these such things.
 
 ## Teaching from the Prophet Joseph Smith
 
