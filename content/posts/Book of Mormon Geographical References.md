@@ -1,15 +1,15 @@
 ---
-title: 'The Book of Mormon Geographical Models'
+title: 'The Book of Mormon Geography'
 featured_image: '/images/bom geography.PNG'
 date: 2024-11-11T00:00:00-00:00
 tags: ['America', 'History', 'Geography', 'Book of Mormon Geography', 'Book of Mormon', 'Mesoamerican Model']
 ---
 
-![Lake Erie](lake.png)
+<!-- ![Lake Erie](lake.png) -->
 
 <!-- ![Lake Erie]({{ 'lake.png' | relative_url }}) -->
 
-<header class="cover bg-top" style="background-image:url(https://porterbmoody.github.io/balmingilead/images/bom%20geography.PNG)">
+<!-- <header class="cover bg-top" style="background-image:url(https://porterbmoody.github.io/balmingilead/images/bom%20geography.PNG)"> -->
 
 ## Mesoamerican Model
 
@@ -23,8 +23,8 @@ Presented in [John Sorenson's Article](https://archive.bookofmormoncentral.org/s
 
 ## Baja California Model
 
-<img src="image.jpg">
-<h1 id='swag'>pizza</h1>
+<!-- <img src="image.jpg"> -->
+<!-- <h1 id='swag'>pizza</h1> -->
 
 
 ## Hill Cumorah
