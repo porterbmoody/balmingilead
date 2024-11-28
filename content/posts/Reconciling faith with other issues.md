@@ -32,6 +32,18 @@ I would love to talk with you about any of these topics because I love studying 
 But I would also invite you to take your questions to the Lord and ask him in sincere prayer because I know he “give the wisdom to all men liberally” as we read from James (James 1:5 If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.)
 I have a testimony that Joseph Smith saw God the Father and Jesus Christ in the sacred grove, and translated the Book of Mormon by the power of God after multiple meetings with the angel Moroni. I also have a testimony that Adam and Eve were placed in the garden and partook of the fruit of the tree of good and evil.
 
+## Stages of faith
+
+Jared Halverson has helped us understand the 3 main stages of faith:
+
+1. Creation
+This is a very shallow type of faith where you believe in Jesus Christ, or God or both, and you believe that Joseph Smith was a prophet, you believe that 
+
+2. Fall
+This is where we learn about many difficult issues, Josphy Smith and polygamy, the fact that Joseph Smith used a hat to translate the plates, the fact that Joseph Smith had a gun before he was killed in Carthage jail, the fact that we may be struggling with sin or LGBTQ issues, the fact that we have found evidence of evolution which may be difficult to reconcile with Adam and Eve.
+
+3. Atonement
+This is the final stage where we learn about the true nature of Christ and his suffering. After the creation and atonement, we eventually make our way to the atonement phase. This is where we finally reach a path where we understand the true nature of Heavenly Father and Jesus Christ. We learn that Jesus Christ exists despite there being little to no conclusive geographical evidence of the Book of Mormon. We learn that our initial understanding was too simple and superficial. We needed to come to know Jesus Christ for who he truly is. We needed to experience a fall so we could see our fallen nature and truly be changed, even the nature of our very souls. It's a more real and full understanding of truth. We learn that Joseph Smith was not perfect, he was
 
 ## Counsel from James
 
@@ -45,3 +57,4 @@ This tells us that we can ask God to obtain wisdom, but verse 6 reminds us that 
 
 After Joseph Smith read this verse, we acted in faith and went to a grove of trees and prayed to know which church was true. Immediately, a dark power, the power of Satan ceased upon him and tried to stop him from continuing the prayer. But as he endured, he continued to pray and eventually Heavenly Father and Jesus Christ appeared to him. 
 
+I think this is a powerful principle for maintaining faith. If we are ever wrestling with difficult issues regarding church history or church policy or reconciling something that happened to a friend or relative or even to ourselves, this counsel from James is very helpful for teaching us how to maintiain faith. Basically we must just maintain faith, maintain our focus on Jesus Chrits and he will guide us through our questions and struggles. He will show us how we can have faith instead of fear and doubt. 
