@@ -15,16 +15,14 @@ Everyone's faith will be tried or tested at some point during their lifetime her
 If anyone is wrestling with church history or other church topics, this is the right place to find some answers. There are general principles that apply to people who wrestle with faith struggles, and general way to overcome them. I personally have had times where I wrestle with maintaining faith along with learning new information that might at first seem contradictory to my original faith. 
 
 The following is a list of issues that I have become aware of that have possibly caused many members to struggle with their faith:
-- Joseph Smith and polygamy, Brigham Young and polygamy, Wilford Woodruff and polygamy
+- Polygamy of Joseph Smith, Hyrum Smith, Brigham Young. Wilford Woodruff 
 - The Church of Jesus Christ of Latter Day Saints methods of handling the tithing funds and investments
 - church finances, Ensign Peak Advisors reports to the SEC
 - Joseph Smith translations of the Book of Mormon
 - The kinderhook plates
-- contradictions between the Bible and the Book of Mormon
+- Contradictions between the Bible and the Book of Mormon
 - Discrepancies between the Egyptian papyri and the Book of Abraham
-- Book of Mormon historicity
-- Book of Mormon geographical evidence or lack thereof
-- Book of Mormon anachronisms
+- Book of Mormon geographical evidence, anachronisms, historicity
 - Racial priesthood restrictions and the fact that blacks could not receive the priesthood until 1987
 - Reconciling evolution with Adam and Eve
 - Reconciling scientific accounts of the creation of earth and the emergence of life itself and the creation account recorded in Genesis or Abraham
