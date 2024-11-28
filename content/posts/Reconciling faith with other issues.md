@@ -45,7 +45,7 @@ Well it turns out there is a better way to discover truth...
 
 Jared Halverson has helped us understand the 3 main stages of faith:
 
-1. Creation0
+1. Creation
 This is a very shallow type of faith where you believe in Jesus Christ, or God or both, and you believe that Joseph Smith was a prophet. This is like the stories we hear in primary where the church is perfect, maybe we think Joseph Smith was perfect. We have this image of God that he created earth and humans and put us all here to be happy with our families and one day live with God forever. 
 
 2. Fall
