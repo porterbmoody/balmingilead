@@ -1,5 +1,5 @@
 ---
-title: 'Most Popular Geographical Models of the Book of Mormon'
+title: 'The Book of Mormon Geographical Models'
 featured_image: '/images/bom geography.PNG'
 date: 2024-11-11T00:00:00-00:00
 tags: ['America', 'History', 'Geography', 'Book of Mormon Geography', 'Book of Mormon', 'Mesoamerican Model']
