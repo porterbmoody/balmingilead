@@ -8,7 +8,9 @@ tags: ["Apologetics", "Doctrine", "Cult", "Mormonism", "Bible", "Book of Mormon"
 
 ## Intro
 
-Everyone's faith will be tried or tested at some point during their lifetime here on earth. This was the purpose of coming to earth. Romans 3:23 tells us
+Everyone's faith will be tried or tested at some point during their lifetime here on earth. This was the purpose of coming to earth. 
+
+[Romans 3:23](https://www.churchofjesuschrist.org/study/scriptures/nt/rom/3?lang=eng&id=p23) tells us
 
 > 23 For all have sinned, and come short of the glory of God;
 
