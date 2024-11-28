@@ -1,5 +1,5 @@
 ---
-title: "Reconciling faith with difficult issues"
+title: "Reconciling Faith with Difficult Issues"
 # description: "An Apologetics Case"
 featured_image: "/images/1st vision.PNG"
 date: 2024-11-03T10:58:08-04:00
@@ -64,3 +64,7 @@ This tells us that we can ask God to obtain wisdom, but verse 6 reminds us that 
 After Joseph Smith read this verse, we acted in faith and went to a grove of trees and prayed to know which church was true. Immediately, a dark power, the power of Satan ceased upon him and tried to stop him from continuing the prayer. But as he endured, he continued to pray and eventually Heavenly Father and Jesus Christ appeared to him. 
 
 I think this is a powerful principle for maintaining faith. If we are ever wrestling with difficult issues regarding church history or church policy or reconciling something that happened to a friend or relative or even to ourselves, this counsel from James is very helpful for teaching us how to maintiain faith. Basically we must just maintain faith, maintain our focus on Jesus Chrits and he will guide us through our questions and struggles. He will show us how we can have faith instead of fear and doubt. 
+
+## Teaching from the Prophet Joseph Smith
+
+Joseph Smith said, "in proving contraries, the truth is made manifest." Contraries are 2 ideas that are opposite and cannot coexist with 1 another. If 1 idea is true, the other must be false. They cannot both be true at the same time. It cannot be true that Joseph Smith was a lier and a prophet at the same time. It cannot be true that the Book of Mormon's spiritual claims are true if the geographical or DNA evidence proves contrary. If polygamy is a sinful act, Joseph Smith cannot have acted it out in righteousness. If Heavenly Father is loving, he cannot allow suffering on earth. And so on... There are many contradictory ideas or dichotomies found within the gospel, but from Joseph Smith we learn that in proving them the truth is made manifest. This means the truth of Jesus Christ is the solution to 2 contradictory ideas. Through Jesus Christ, 2 seemingly contradictory ideas are reconciled.
