@@ -41,10 +41,28 @@ The Mesoamerican model is basically the proposition that the Book of Mormon even
 
 Key locations in the Mesoamerican Model:
 
-1. The Isthmus of Tehuantepec: Proposed as the narrow neck of land (Alma 22:32).
-2. The Grijalva River: Suggested as the River Sidon (1 Nephi 4:1-2).
-3. The Usumacinta River: Proposed as the River Sidon's headwaters (Alma 22:29).
-4. The Valley of Guatemala: Suggested as the Valley of Nephi (1 Nephi 2:1-2).
+### Book of Mormon references:
+
+The river Sidon is mentioned in Alma 2:15.
+
+> 15 And it came to pass that the Amlicites came upon the hill Amnihu, which was east of the river Sidon, which ran by the land of Zarahemla, and there they began to make war with the Nephites.
+
+Proposed locations for the river Sidon:
+
+- Magdalena River in modern Colombia
+
+The Isthmus of Tehuantepec: Proposed as the narrow neck of land ().
+- Alma 22:32
+
+2. The Grijalva River: Suggested as the River Sidon ().
+- 1 Nephi 4:1-2
+
+3. The Usumacinta River: Proposed as the River Sidon's headwaters ().
+- Alma 22:29 
+
+4. The Valley of Guatemala: Suggested as the Valley of Nephi ().
+- 1 Nephi 2:1-2
+    > 
 
 ## Heartland Model
 
