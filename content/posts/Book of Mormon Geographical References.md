@@ -5,12 +5,6 @@ date: 2024-11-11T00:00:00-00:00
 tags: ['America', 'History', 'Geography', 'Book of Mormon Geography', 'Book of Mormon', 'Mesoamerican Model']
 ---
 
-<!-- ![Lake Erie](lake.png) -->
-
-<!-- ![Lake Erie]({{ 'lake.png' | relative_url }}) -->
-
-<!-- <header class="cover bg-top" style="background-image:url(https://porterbmoody.github.io/balmingilead/images/bom%20geography.PNG)"> -->
-
 ## Nahom
 
 Nahom is the city in the middle east where Ishmael was buried after he died. 
@@ -50,6 +44,8 @@ The river Sidon is mentioned in Alma 2:15.
 Proposed locations for the river Sidon:
 
 - Magdalena River in modern Colombia
+- Usumacinta River
+- Grijalva River
 
 The Isthmus of Tehuantepec: Proposed as the narrow neck of land ().
 - Alma 22:32
