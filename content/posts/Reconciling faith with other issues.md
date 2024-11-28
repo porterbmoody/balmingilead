@@ -19,24 +19,21 @@ The following is a list of issues that I have become aware of that have possibly
 - The Church of Jesus Christ of Latter Day Saints methods of handling the tithing funds and investments
 - church finances, Ensign Peak Advisors reports to the SEC
 - Joseph Smith translations of the Book of Mormon
-- the kinderhook plates
+- The kinderhook plates
 - contradictions between the Bible and the Book of Mormon
-- discrepancies between the Egyptian papyri and the book of Abraham
+- Discrepancies between the Egyptian papyri and the book of Abraham
 - Book of Mormon historicity
 - Book of Mormon geographical evidence or lack thereof
 - Book of Mormon anachronisms
-- racial priesthood restrictions and the fact that blacks could not receive the priesthood until 1987
-- reconciling evolution with Adam and Eve
-- reconciling scientific accounts of the creation of earth and the emergence of life itself and the creation account recorded in Genesis or Abraham
-- reconciling Luke 23:43 (And Jesus said unto him, Verily I say unto thee, To day shalt thou be with me in paradise.) with spirit paradise and protestant views
-- reconciling Revelations 22:18–19 “And if any man shall take away from the words of the book of this prophecy, God shall take away his part out of the book of life, and out of the holy city, and from the things which are written in this book.” with the Book of Mormon being another text to the Bible.
-- the change in the introduction in of the Book of Mormon in 2006 from
+- Racial priesthood restrictions and the fact that blacks could not receive the priesthood until 1987
+- Reconciling evolution with Adam and Eve
+- Reconciling scientific accounts of the creation of earth and the emergence of life itself and the creation account recorded in Genesis or Abraham
+- Reconciling Luke 23:43 (And Jesus said unto him, Verily I say unto thee, To day shalt thou be with me in paradise.) with spirit paradise and protestant views
+- Reconciling Revelations 22:18–19 “And if any man shall take away from the words of the book of this prophecy, God shall take away his part out of the book of life, and out of the holy city, and from the things which are written in this book.” with the Book of Mormon being another text to the Bible.
+- The change in the introduction in of the Book of Mormon in 2006 from
 “After thousands of years, all were destroyed except the Lamanites, and they are the principal ancestors of the American Indians.”
  To
 “After thousands of years, all were destroyed except the Lamanites, and they are among the ancestors of the American Indians.”
-I would love to talk with you about any of these topics because I love studying them and diving deeper into them. 
-But I would also invite you to take your questions to the Lord and ask him in sincere prayer because I know he “give the wisdom to all men liberally” as we read from James (James 1:5 If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.)
-I have a testimony that Joseph Smith saw God the Father and Jesus Christ in the sacred grove, and translated the Book of Mormon by the power of God after multiple meetings with the angel Moroni. I also have a testimony that Adam and Eve were placed in the garden and partook of the fruit of the tree of good and evil.
 
 And the list goes on... and on... and on...
 
@@ -77,6 +74,6 @@ Joseph Smith said, "in proving contraries, the truth is made manifest." Contrari
 
 ## Teaching from President Russel M. Nelson
 
-President Russel M. Nelson gave a talk titled, "[The Answer is Always Jesus Christ](https://www.churchofjesuschrist.org/study/general-conference/2023/04/58nelson?lang=eng)" where he said, "Whatever questions or problems you have, the answer is always found in the life and teachings of Jesus Christ."
+President Russel M. Nelson gave a talk titled, [The Answer is Always Jesus Christ](https://www.churchofjesuschrist.org/study/general-conference/2023/04/58nelson?lang=eng) where he said, "Whatever questions or problems you have, the answer is always found in the life and teachings of Jesus Christ."
 
 This means that if any of us are struggling with faith or doubt or reconciling church history or church policy or other church topics or events in friends, family, or personal lives, the answer is always Jesus Christ. I know these things are true, in the name of Jesus Christ, amen. 
