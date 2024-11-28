@@ -6,6 +6,12 @@ date: 2024-11-03T10:58:08-04:00
 tags: ["Apologetics", "Doctrine", "Cult", "Mormonism", "Bible", "Book of Mormon", "Joseph Smith"]
 ---
 
+## Intro
+
+Everyone's faith will be tried or tested at some point during their lifetime here on earth. This was the purpose of coming to earth. Romans 8 reminds us that all men have sinned an fallen short of the Glory of God. 
+
+## Possible causes of doubt
+
 If anyone is wrestling with church history or other church topics, this is the right place to find some answers. There are general principles that apply to people who wrestle with faith struggles, and general way to overcome them. I personally have had times where I wrestle with maintaining faith along with learning new information that might at first seem contradictory to my original faith. 
 
 The following is a list of issues that I have become aware of that have possibly caused many members to struggle with their faith:
