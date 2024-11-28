@@ -21,7 +21,7 @@ The following is a list of issues that I have become aware of that have possibly
 - Joseph Smith translations of the Book of Mormon
 - The kinderhook plates
 - contradictions between the Bible and the Book of Mormon
-- Discrepancies between the Egyptian papyri and the book of Abraham
+- Discrepancies between the Egyptian papyri and the Book of Abraham
 - Book of Mormon historicity
 - Book of Mormon geographical evidence or lack thereof
 - Book of Mormon anachronisms
