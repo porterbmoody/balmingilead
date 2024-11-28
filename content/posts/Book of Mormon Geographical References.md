@@ -11,6 +11,16 @@ tags: ['America', 'History', 'Geography', 'Book of Mormon Geography', 'Book of M
 
 <!-- <header class="cover bg-top" style="background-image:url(https://porterbmoody.github.io/balmingilead/images/bom%20geography.PNG)"> -->
 
+## Nahom
+
+Nahom is the city in the middle east where Ishmael was buried after he died. 
+
+In an article found at www.lehistrail.com, Warren Aston notes,
+
+“The recent discovery by a German archaeological team of a stone altar in Yemen referring to the tribal name NIHM was announced in the Journal of Book of Mormon Studies in 1999.(1) Perfectly preserved under centuries of sand, the altar had been dated by its excavators to about 600-700 BC, thus placing it squarely in the time frame of the Book of Mormon ‘Nahom’ (1 Nephi 16:34) where Ishmael was buried. Unlike most places mentioned in the account of the journey from Jerusalem, Nephi’s wording makes it clear that Nahom was already called such by the local population.”
+
+So it is clear that we have discovered an alter with the characters, "NHM"
+
 ## Mesoamerican Model
 
 Presented in [John Sorenson's Article](https://archive.bookofmormoncentral.org/sites/default/files/archive-files/pdf/sorenson/2024-04-18/john_l._sorenson_mormons_map_2000.pdf)
