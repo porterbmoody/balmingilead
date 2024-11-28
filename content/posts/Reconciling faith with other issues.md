@@ -75,3 +75,7 @@ Joseph Smith said, "in proving contraries, the truth is made manifest." Contrari
 President Russell M. Nelson gave a talk titled, [The Answer is Always Jesus Christ](https://www.churchofjesuschrist.org/study/general-conference/2023/04/58nelson?lang=eng) where he said, "Whatever questions or problems you have, the answer is always found in the life and teachings of Jesus Christ."
 
 This means that if any of us are struggling with faith or doubt or reconciling church history or church policy or other church topics or events in friends, family, or personal lives, the answer is always Jesus Christ. I know these things are true, in the name of Jesus Christ, amen. 
+
+## Conclusion
+
+Everyone will have questions in this life, and some may even have doubts, but one way or another everyone is going to have to come to know Jesus Christ, who he really is and develop true, faith in him so that he can change their very nature and eventually welcome them into the kingdom of God 1 day. 
