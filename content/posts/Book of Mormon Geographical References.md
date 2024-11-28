@@ -58,7 +58,6 @@ The Isthmus of Tehuantepec: Proposed as the narrow neck of land ().
 
 4. The Valley of Guatemala: Suggested as the Valley of Nephi ().
 - 1 Nephi 2:1-2
-    > 
 
 ## Heartland Model
 
