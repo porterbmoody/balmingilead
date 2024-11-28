@@ -8,7 +8,9 @@ tags: ["Apologetics", "Doctrine", "Cult", "Mormonism", "Bible", "Book of Mormon"
 
 ## Intro
 
-Everyone's faith will be tried or tested at some point during their lifetime here on earth. This was the purpose of coming to earth. Romans 8 reminds us that all men have sinned an fallen short of the Glory of God. 
+Everyone's faith will be tried or tested at some point during their lifetime here on earth. This was the purpose of coming to earth. Romans 3:23 tells us
+> 23 For all have sinned, and come short of the glory of God;
+This means that every man has sinned. So if you have doubted, or are currently wrestling with doubts, just remember that this does not separate you from anyone else who has ever lived. 
 
 ## Possible causes of doubt
 
@@ -43,7 +45,7 @@ Well it turns out there is a better way to discover truth...
 
 Jared Halverson has helped us understand the 3 main stages of faith:
 
-1. Creation
+1. Creation0
 This is a very shallow type of faith where you believe in Jesus Christ, or God or both, and you believe that Joseph Smith was a prophet. This is like the stories we hear in primary where the church is perfect, maybe we think Joseph Smith was perfect. We have this image of God that he created earth and humans and put us all here to be happy with our families and one day live with God forever. 
 
 2. Fall
