@@ -6,7 +6,9 @@ date: 2024-11-03T10:58:08-04:00
 tags: ["Apologetics", "Doctrine", "Cult", "Mormonism", "Bible", "Book of Mormon", "Joseph Smith"]
 ---
 
-If anyone is wrestling with church history or other church topics such as:
+If anyone is wrestling with church history or other church topics, this is the right place to find some answers. There are general principles that apply to people who wrestle with faith struggles, and general way to overcome them. I personally have had times where I wrestle with maintaining faith along with learning new information that might at first seem contradictory to my original faith. 
+
+The following is a list of issues that I have become aware of that have possibly caused many members to struggle with their faith:
 - Joseph Smith and polygamy, Brigham Young and polygamy, Wilford Woodruff and polygamy
 - The Church of Jesus Christ of Latter Day Saints methods of handling the tithing funds and investments
 - church finances, Ensign Peak Advisors reports to the SEC
