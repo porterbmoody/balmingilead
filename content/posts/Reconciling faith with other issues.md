@@ -17,7 +17,7 @@ This means that every man has sinned. So if you have doubted, or are currently w
 If anyone is wrestling with church history or other church topics, this is the right place to find some answers. There are general principles that apply to people who wrestle with faith struggles, and general way to overcome them. I personally have had times where I wrestle with maintaining faith along with learning new information that might at first seem contradictory to my original faith. 
 
 The following is a list of issues that I have become aware of that have possibly caused many members to struggle with their faith:
-- Polygamy of Joseph Smith, Hyrum Smith, Brigham Young. Wilford Woodruff 
+- Polygamy of Joseph Smith, Hyrum Smith, Brigham Young, Heber C. Kimball, Wilford Woodruff, Willard Richards, William Smith, Thomas Bullock, Orson Pratt, William Clayton, Orson Hyde, Parley P. Pratt, Amasa Lyman, John Taylor, Edwin D. Woolley, Sr., Erastus Snow, John D. Lee, Ezra T. Benson 
 - The Church of Jesus Christ of Latter Day Saints methods of handling the tithing funds and investments
 - church finances, Ensign Peak Advisors reports to the SEC
 - Joseph Smith translations of the Book of Mormon
