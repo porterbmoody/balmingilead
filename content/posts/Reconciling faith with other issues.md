@@ -9,12 +9,14 @@ tags: ["Apologetics", "Doctrine", "Cult", "Mormonism", "Bible", "Book of Mormon"
 ## Intro
 
 Everyone's faith will be tried or tested at some point during their lifetime here on earth. This was the purpose of coming to earth. Romans 3:23 tells us
+
 > 23 For all have sinned, and come short of the glory of God;
-This means that every man has sinned. So if you have doubted, or are currently wrestling with doubts, just remember that this does not separate you from anyone else who has ever lived. 
+
+This means that every man has sinned so if you have doubted, or are currently wrestling with doubts, just remember that this does not separate you from anyone else who has ever lived. You are the same as all other men in the sense that your doubts are sinful and all men have sinned in 1 way or another. 
 
 ## Possible causes of doubt
 
-If anyone is wrestling with church history or other church topics, this is the right place to find some answers. There are general principles that apply to people who wrestle with faith struggles, and general way to overcome them. I personally have had times where I wrestle with maintaining faith along with learning new information that might at first seem contradictory to my original faith. 
+If anyone is wrestling with church history or other church topics, this is the right place to find some answers. There are proven ways to reconcile faith with doubts. Many people have faced opposition to their faith since Adam and Eve (and even before Adam and Even on [worlds that have passed away](https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/1?lang=eng&id=p35)). I personally have had times where I wrestle with maintaining faith along with learning new information that might at first seem contradictory to the original doctrine in which my faith was placed. 
 
 The following is a list of issues that I have become aware of that have possibly caused many members to struggle with their faith:
 - Polygamy of Joseph Smith, Hyrum Smith, Brigham Young, Heber C. Kimball, Wilford Woodruff, Willard Richards, William Smith, Thomas Bullock, Orson Pratt, William Clayton, Orson Hyde, Parley P. Pratt, Amasa Lyman, John Taylor, Edwin D. Woolley, Sr., Erastus Snow, John D. Lee, Ezra T. Benson 
