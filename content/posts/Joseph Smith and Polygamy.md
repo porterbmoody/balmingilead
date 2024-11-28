@@ -22,3 +22,6 @@ Jacob 2
 
 Doctrine and Covenants 132
 > 38 David also received many wives and concubines, and also Solomon and Moses my servants, as also many others of my servants, from the beginning of creation until this time; and in nothing did they sin save in those things which they received not of me.
+
+## Wives of Joseph Smith
+
