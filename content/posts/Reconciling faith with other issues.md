@@ -70,8 +70,8 @@ I think this is a powerful principle for maintaining faith. If we are ever wrest
 
 Joseph Smith said, "in proving contraries, the truth is made manifest." Contraries are 2 ideas that are opposite and cannot coexist with 1 another. If 1 idea is true, the other must be false. They cannot both be true at the same time. It cannot be true that Joseph Smith was a lier and a prophet at the same time. It cannot be true that the Book of Mormon's spiritual claims are true if the geographical or DNA evidence proves contrary. If polygamy is a sinful act, Joseph Smith cannot have acted it out in righteousness. If Heavenly Father is loving, he cannot allow suffering on earth. And so on... There are many contradictory ideas or dichotomies found within the gospel, but from Joseph Smith we learn that in proving them the truth is made manifest. This means the truth of Jesus Christ is the solution to 2 contradictory ideas. Through Jesus Christ, 2 seemingly contradictory ideas are reconciled.
 
-## Teaching from President Russel M. Nelson
+## Teaching from President Russell M. Nelson
 
-President Russel M. Nelson gave a talk titled, [The Answer is Always Jesus Christ](https://www.churchofjesuschrist.org/study/general-conference/2023/04/58nelson?lang=eng) where he said, "Whatever questions or problems you have, the answer is always found in the life and teachings of Jesus Christ."
+President Russell M. Nelson gave a talk titled, [The Answer is Always Jesus Christ](https://www.churchofjesuschrist.org/study/general-conference/2023/04/58nelson?lang=eng) where he said, "Whatever questions or problems you have, the answer is always found in the life and teachings of Jesus Christ."
 
 This means that if any of us are struggling with faith or doubt or reconciling church history or church policy or other church topics or events in friends, family, or personal lives, the answer is always Jesus Christ. I know these things are true, in the name of Jesus Christ, amen. 
