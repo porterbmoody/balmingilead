@@ -62,7 +62,7 @@ This is the final stage where we learn about the true nature of Christ and his s
 
 While Joseph Smith was just 14 years old he was wondering which church was true. He read in the epistle of James:
 
-James 1:5
+[James 1:5](https://www.churchofjesuschrist.org/study/scriptures/nt/james/1?lang=eng&id=p5)
 > 5 If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.
 > 6 But let him ask in faith, nothing wavering. For he that wavereth is like a wave of the sea driven with the wind and tossed.
 
