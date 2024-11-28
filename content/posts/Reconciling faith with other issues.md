@@ -32,12 +32,18 @@ I would love to talk with you about any of these topics because I love studying 
 But I would also invite you to take your questions to the Lord and ask him in sincere prayer because I know he “give the wisdom to all men liberally” as we read from James (James 1:5 If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.)
 I have a testimony that Joseph Smith saw God the Father and Jesus Christ in the sacred grove, and translated the Book of Mormon by the power of God after multiple meetings with the angel Moroni. I also have a testimony that Adam and Eve were placed in the garden and partook of the fruit of the tree of good and evil.
 
-## Stages of faith
+And the list goes on... and on... and on...
+
+Perhaps 1 approach would be to do a deep dive into each of these questions and get to the bottom of exactly what happened and what the evidence says. Like doing a big search to find the geographical evidence of the Book of Mormon, or trying to read all of the Joseph Smith Papers to perfectly understand exactly what he did and said. Then we could prove that the Book of Mormon was true or false, or we could prove that Joseph Smith was a worthy man or an evil man. Or we could prove that Joseph Smith had the power of translation by comparing the Egyptian papyri with Joseph Smith's translation of it or the Book of Abraham. Right? 
+
+Well it turns out there is a better way to discover truth...
+
+## The 3 Stages of Faith
 
 Jared Halverson has helped us understand the 3 main stages of faith:
 
 1. Creation
-This is a very shallow type of faith where you believe in Jesus Christ, or God or both, and you believe that Joseph Smith was a prophet, you believe that 
+This is a very shallow type of faith where you believe in Jesus Christ, or God or both, and you believe that Joseph Smith was a prophet. This is like the stories we hear in primary where the church is perfect, maybe we think Joseph Smith was perfect. We have this image of God that he created earth and humans and put us all here to be happy with our families and one day live with God forever. 
 
 2. Fall
 This is where we learn about many difficult issues, Josphy Smith and polygamy, the fact that Joseph Smith used a hat to translate the plates, the fact that Joseph Smith had a gun before he was killed in Carthage jail, the fact that we may be struggling with sin or LGBTQ issues, the fact that we have found evidence of evolution which may be difficult to reconcile with Adam and Eve.
