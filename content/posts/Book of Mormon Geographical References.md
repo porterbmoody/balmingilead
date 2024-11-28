@@ -31,10 +31,20 @@ Which is a crystal clear reference to the place, Nahom. According to Hebrew "nah
 
 Which sounds like it means something related to consolation which is what Lehi's family felt when Ishmael died. 
 
-
 ## Mesoamerican Model
 
 Presented in [John Sorenson's Article](https://archive.bookofmormoncentral.org/sites/default/files/archive-files/pdf/sorenson/2024-04-18/john_l._sorenson_mormons_map_2000.pdf)
+
+The Mesoamerican model is basically the proposition that the Book of Mormon events occured in or near central america including, but not limited to Mexico, Guatemala, Belize, and Honduras.
+
+3. Correspondence with Book of Mormon geography: Proponents of the model argue that the geography described in the Book of Mormon matches the Mesoamerican region, including features like rivers, mountains, and valleys.
+
+Key locations in the Mesoamerican Model:
+
+1. The Isthmus of Tehuantepec: Proposed as the narrow neck of land (Alma 22:32).
+2. The Grijalva River: Suggested as the River Sidon (1 Nephi 4:1-2).
+3. The Usumacinta River: Proposed as the River Sidon's headwaters (Alma 22:29).
+4. The Valley of Guatemala: Suggested as the Valley of Nephi (1 Nephi 2:1-2).
 
 ## Heartland Model
 
