@@ -31,3 +31,17 @@ The following is a list of issues that I have become aware of that have possibly
 I would love to talk with you about any of these topics because I love studying them and diving deeper into them. 
 But I would also invite you to take your questions to the Lord and ask him in sincere prayer because I know he “give the wisdom to all men liberally” as we read from James (James 1:5 If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.)
 I have a testimony that Joseph Smith saw God the Father and Jesus Christ in the sacred grove, and translated the Book of Mormon by the power of God after multiple meetings with the angel Moroni. I also have a testimony that Adam and Eve were placed in the garden and partook of the fruit of the tree of good and evil.
+
+
+## Counsel from James
+
+While Joseph Smith was just 14 years old he was wondering which church was true. He read in the epistle of James:
+
+James 1:5
+> 5 If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.
+> 6 But let him ask in faith, nothing wavering. For he that wavereth is like a wave of the sea driven with the wind and tossed.
+
+This tells us that we can ask God to obtain wisdom, but verse 6 reminds us that we must ask in faith, dothing waivering, nothing doubting. He that wavereth is like "a wave of the sea driven with the wind and tossed".
+
+After Joseph Smith read this verse, we acted in faith and went to a grove of trees and prayed to know which church was true. Immediately, a dark power, the power of Satan ceased upon him and tried to stop him from continuing the prayer. But as he endured, he continued to pray and eventually Heavenly Father and Jesus Christ appeared to him. 
+
