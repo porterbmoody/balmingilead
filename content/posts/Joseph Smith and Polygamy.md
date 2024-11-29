@@ -13,7 +13,30 @@ An angel came to him [Joseph Smith] and the last time he came with a drawn sword
 
 So an angel appeared to Joseph Smith with a sword threatening to kill him if he did not practice polygamy. The angel also quoted the Book of Mormon, saying it was sometimes permitted for polygamy to be practiced. 
 
+### Possible Reasons
 
+
+So we can see that Helen Mar Kimball was not excited about marrying Joseph Smith at first, but once the doctrine of celestial marriage was explained to her and the fact that it would "ensure" her eternal salvation, she accepted that it was of God and was the right thing to do, then proceeded to enter into the plural marriage with Joseph Smith. 
+
+## Other verses
+
+The word destroy or destroyed is used 11 times in the section:
+
+> 14 For whatsoever things remain are by me; and whatsoever things are not by me shall be shaken and destroyed.
+
+> 26 Verily, verily, I say unto you, if a man marry a wife according to my word, and they are sealed by the Holy Spirit of promise, according to mine appointment, and he or she shall commit any sin or transgression of the new and everlasting covenant whatever, and all manner of blasphemies, and if they commit no murder wherein they shed innocent blood, yet they shall come forth in the first resurrection, and enter into their exaltation; but they shall be destroyed in the flesh, and shall be delivered unto the buffetings of Satan unto the day of redemption, saith the Lord God.
+
+> 41 And as ye have asked concerning adultery, verily, verily, I say unto you, if a man receiveth a wife in the new and everlasting covenant, and if she be with another man, and I have not appointed unto her by the holy anointing, she hath committed adultery and shall be destroyed.
+
+> 52 And let mine handmaid, Emma Smith, receive all those that have been given unto my servant Joseph, and who are virtuous and pure before me; and those who are not pure, and have said they were pure, shall be destroyed, saith the Lord God.
+
+> 54 And I command mine handmaid, Emma Smith, to abide and cleave unto my servant Joseph, and to none else. But if she will not abide this commandment she shall be destroyed, saith the Lord; for I am the Lord thy God, and will destroy her if she abide not in my law.
+
+> 57 And again, I say, let not my servant Joseph put his property out of his hands, lest an enemy come and destroy him; for Satan seeketh to destroy; for I am the Lord thy God, and he is my servant; and behold, and lo, I am with him, as I was with Abraham, thy father, even unto his exaltation and glory.
+
+> 63 But if one or either of the ten virgins, after she is espoused, shall be with another man, she has committed adultery, and shall be destroyed; for they are given unto him to multiply and replenish the earth, according to my commandment, and to fulfil the promise which was given by my Father before the foundation of the world, and for their exaltation in the eternal worlds, that they may bear the souls of men; for herein is the work of my Father continued, that he may be glorified.
+
+> 64 And again, verily, verily, I say unto you, if any man have a wife, who holds the keys of this power, and he teaches unto her the law of my priesthood, as pertaining to these things, then shall she believe and administer unto him, or she shall be destroyed, saith the Lord your God; for I will destroy her; for I will magnify my name upon all those who receive and abide in my law.
 
 ## The Implementation of Polygamy
 
