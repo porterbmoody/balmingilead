@@ -67,9 +67,6 @@ The Isthmus of Tehuantepec: Proposed as the narrow neck of land ().
 
 ## Baja California Model
 
-<!-- <img src="image.jpg"> -->
-<!-- <h1 id='swag'>pizza</h1> -->
-
 
 ## Hill Cumorah
 
