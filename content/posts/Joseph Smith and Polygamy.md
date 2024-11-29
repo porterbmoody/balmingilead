@@ -19,7 +19,13 @@ Jacob 2:30 reads
 
 This means God commands us to practice monogamy, 1 wife and 1 husband unless the Lord will "raise up seed unto me". What does "raise up seed" mean?" An initial thought might be that it means to reproduce and give birth to children within the church to increase the number of church members. 
 
-Doctrine and Covenants 132 is a response from God about polygamy. God basically outlines the law, principle, and doctrine of polygamy. The word destroy or destroyed is used 11 times in the section:
+Doctrine and Covenants 132 is a response from God about polygamy. God basically outlines the law, principle, and doctrine of polygamy. 
+
+Doctrine and Covenants 132
+
+> 4 For behold, I reveal unto you a new and an everlasting covenant; and if ye abide not that covenant, then are ye damned; for no one can reject this covenant and be permitted to enter into my glory.
+
+The word destroy or destroyed is used 11 times in the section:
 
 > 14 For whatsoever things remain are by me; and whatsoever things are not by me shall be shaken and destroyed.
 
@@ -36,6 +42,7 @@ Doctrine and Covenants 132 is a response from God about polygamy. God basically 
 > 63 But if one or either of the ten virgins, after she is espoused, shall be with another man, she has committed adultery, and shall be destroyed; for they are given unto him to multiply and replenish the earth, according to my commandment, and to fulfil the promise which was given by my Father before the foundation of the world, and for their exaltation in the eternal worlds, that they may bear the souls of men; for herein is the work of my Father continued, that he may be glorified.
 
 > 64 And again, verily, verily, I say unto you, if any man have a wife, who holds the keys of this power, and he teaches unto her the law of my priesthood, as pertaining to these things, then shall she believe and administer unto him, or she shall be destroyed, saith the Lord your God; for I will destroy her; for I will magnify my name upon all those who receive and abide in my law.
+
 
 
 ## The Implementation of Polygamy
