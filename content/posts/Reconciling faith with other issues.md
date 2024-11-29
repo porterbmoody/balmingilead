@@ -50,12 +50,15 @@ Well it turns out there is a better way to discover truth...
 Jared Halverson has helped us understand the 3 main stages of faith:
 
 1. Creation
+
 This is a very shallow type of faith where you believe in Jesus Christ, or God or both, and you believe that Joseph Smith was a prophet. This is like the stories we hear in primary where the church is perfect, maybe we think Joseph Smith was perfect. We have this image of God that he created earth and humans and put us all here to be happy with our families and one day live with God forever. 
 
 2. Fall
+
 This is where we learn about many difficult issues, Joseph Smith and polygamy, the fact that Joseph Smith used a hat to translate the plates, the fact that Joseph Smith had a gun before he was killed in Carthage jail, the fact that we may be struggling with sin or LGBTQ issues, the fact that we have found evidence of evolution which may be difficult to reconcile with Adam and Eve.
 
 3. Atonement
+
 This is the final stage where we learn about the true nature of Christ and his suffering. After the creation and atonement, we eventually make our way to the atonement phase. This is where we finally reach a path where we understand the true nature of Heavenly Father and Jesus Christ. We learn that Jesus Christ exists despite there being little to no conclusive geographical evidence of the Book of Mormon. We learn that our initial understanding was too simple and superficial. We needed to come to know Jesus Christ for who he truly is. We needed to experience a fall so we could see our fallen nature and truly be changed, even the nature of our very souls. It's a more real and full understanding of truth. We learn that Joseph Smith was not perfect, he was
 
 ## Counsel from James
