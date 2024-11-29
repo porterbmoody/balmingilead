@@ -20,6 +20,8 @@ Jacob 2:30 reads
 
 > 30 For if I will, saith the Lord of Hosts, raise up seed unto me, I will command my people; otherwise they shall hearken unto these things.
 
+This means God commands us to practice monogamy, 1 wife and 1 husband unless the Lord will "raise up seed unto me". What does "raise up seed" mean?" An initial thought might be that it means to reproduce and give birth to children within the church to increase the number of church members.
+
 This means God commands us to practice monogamy, 1 wife and 1 husband unless the Lord will "raise up seed unto me". What does "raise up seed" mean?" An initial thought might be that it means to reproduce and give birth to children within the church to increase the number of church members. 
 
 ## The Implementation of Polygamy
