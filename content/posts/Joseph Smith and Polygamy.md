@@ -13,11 +13,16 @@ An angel came to him [Joseph Smith] and the last time he came with a drawn sword
 
 So an angel appeared to Joseph Smith with a sword threatening to kill him if he did not practice polygamy. The angel also quoted the Book of Mormon, saying it was sometimes permitted for polygamy to be practiced. 
 
+### Possible Reasons
+
+1. to "raise up seed"
 Jacob 2:30 reads
 
 > 30 For if I will, saith the Lord of Hosts, raise up seed unto me, I will command my people; otherwise they shall hearken unto these things.
 
 This means God commands us to practice monogamy, 1 wife and 1 husband unless the Lord will "raise up seed unto me". What does "raise up seed" mean?" An initial thought might be that it means to reproduce and give birth to children within the church to increase the number of church members. 
+
+2. To allow individuals to receive exaltation
 
 Doctrine and Covenants 132 is a response from God about polygamy. God basically outlines the law, principle, and doctrine of polygamy. 
 
@@ -32,6 +37,8 @@ So another of the possible reasons is to allow members to enter into the everlas
 > 16 Therefore, when they are out of the world they neither marry nor are given in marriage; but are appointed angels in heaven, which angels are ministering servants, to minister for those who are worthy of a far more, and an exceeding, and an eternal weight of glory.
 
 > 17 For these angels did not abide my law; therefore, they cannot be enlarged, but remain separately and singly, without exaltation, in their saved condition, to all eternity; and from henceforth are not gods, but are angels of God forever and ever.
+
+verses 16 and 17 explains that those who do not get married will remain angels of God forever and ever.
 
 We also read about the story of Helen Mar Kimball saying, "
 
