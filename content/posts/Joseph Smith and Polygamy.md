@@ -25,6 +25,22 @@ Doctrine and Covenants 132
 
 > 4 For behold, I reveal unto you a new and an everlasting covenant; and if ye abide not that covenant, then are ye damned; for no one can reject this covenant and be permitted to enter into my glory.
 
+> 6 And as pertaining to the new and everlasting covenant, it was instituted for the fulness of my glory; and he that receiveth a fulness thereof must and shall abide the law, or he shall be damned, saith the Lord God.
+
+So another of the possible reasons is to allow members to enter into the everlasting covenant. verse 4 says those who do not enter into that covenant are damned. 
+
+> 16 Therefore, when they are out of the world they neither marry nor are given in marriage; but are appointed angels in heaven, which angels are ministering servants, to minister for those who are worthy of a far more, and an exceeding, and an eternal weight of glory.
+
+> 17 For these angels did not abide my law; therefore, they cannot be enlarged, but remain separately and singly, without exaltation, in their saved condition, to all eternity; and from henceforth are not gods, but are angels of God forever and ever.
+
+We also read about the story of Helen Mar Kimball saying, "
+
+In 1843 Apostle Heber C. Kimball had an important talk with his only daughter, fourteen-year-old Helen Mar.  She wrote: “Without any preliminaries [my Father] asked me if I would believe him if he told me that it was right for married men to take other wives...The first impulse was anger...my sensibilities were painfully touched. I felt such a sense of personal injury and displeasure; for to mention such a thing to me I thought altogether unworthy of my father, and as quick as he spoke, I replied to him, short and emphatically, ‘No I wouldn’t!’...This was the first time that I ever openly manifested anger towards him...Then he commenced talking seriously and reasoned and explained the principle, and why it was again to be established upon the earth. [This] had a similar effect to a sudden shock of a small earthquake.”
+
+The next morning Joseph visited the Kimball home.  "[He explained] the principle of Celestial marrage...After which he said to me, ‘If you will take this step, it will ensure your eternal salvation & exaltation and that of your father’s household & all of your kindred.[‘] This promise was so great that I willingly gave myself to purchase so glorious a reward. None but God & his angels could see my mother’s bleeding heart-when Joseph asked her if she was willing...She had witnessed the sufferings of others, who were older & who better understood the step they were taking, & to see her child, who had scarcely seen her fifteenth summer, following in the same thorny path, in her mind she saw the misery which was as sure to come...; but it was all hidden from me.”  Helen’s mother reluctantly agreed and in May of 1843, Helen married Joseph Smith
+
+## Other verses
+
 The word destroy or destroyed is used 11 times in the section:
 
 > 14 For whatsoever things remain are by me; and whatsoever things are not by me shall be shaken and destroyed.
