@@ -77,7 +77,11 @@ This is a powerful principle for maintaining faith. If we are ever wrestling wit
 
 ## Teaching from the Prophet Joseph Smith
 
-Joseph Smith said, "in proving contraries, the truth is made manifest." Contraries are 2 ideas that are opposite and cannot coexist with 1 another. If 1 idea is true, the other must be false. They cannot both be true at the same time. It cannot be true that Joseph Smith was a lier and a prophet at the same time. It cannot be true that the Book of Mormon's spiritual claims are true if the geographical or DNA evidence proves contrary. If polygamy is a sinful act, Joseph Smith cannot have acted it out in righteousness. If Heavenly Father is loving, he cannot allow suffering on earth. And so on... There are many contradictory ideas or dichotomies found within the gospel, but from Joseph Smith we learn that in proving them the truth is made manifest. This means the truth of Jesus Christ is the solution to 2 contradictory ideas. Through Jesus Christ, 2 seemingly contradictory ideas are reconciled.
+Joseph Smith said, 
+
+> "in proving contraries, the truth is made manifest."
+
+Contraries are 2 ideas that are opposite and cannot coexist with 1 another. If 1 idea is true, the other must be false. They cannot both be true at the same time. It cannot be true that Joseph Smith was a lier and a prophet at the same time. It cannot be true that the Book of Mormon's spiritual claims are true if the geographical or DNA evidence proves contrary. If polygamy is a sinful act, Joseph Smith cannot have acted it out in righteousness. If Heavenly Father is loving, he cannot allow suffering on earth. And so on... There are many contradictory ideas or dichotomies found within the gospel, but from Joseph Smith we learn that in proving them the truth is made manifest. This means the truth of Jesus Christ is the solution to 2 contradictory ideas. Through Jesus Christ, 2 seemingly contradictory ideas are reconciled.
 
 ## Teaching from President Russell M. Nelson
 
