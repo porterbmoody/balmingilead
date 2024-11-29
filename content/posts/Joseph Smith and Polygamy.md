@@ -13,6 +13,12 @@ An angel came to him [Joseph Smith] and the last time he came with a drawn sword
 
 So an angel appeared to Joseph Smith with a sword threatening to kill him if he did not practice polygamy. The angel also quoted the Book of Mormon, saying it was sometimes permitted for polygamy to be practiced. 
 
+Jacob 2:30 reads
+
+> 30 For if I will, saith the Lord of Hosts, raise up seed unto me, I will command my people; otherwise they shall hearken unto these things.
+
+This means God commands us to practice monogamy, 1 wife and 1 husband unless the Lord will "raise up seed unto me". What does "raise up seed" mean?" An initial thought might be that it means to reproduce and give birth to children within the church to increase the number of church members. 
+
 ## The Implementation of Polygamy
 
 Jacob 2 talks about the topic of polygamy and what is according to the commandments and what is not. We also read in verse 24 that it was an abomination that David and Solomon had many wives and concubines. We also read in Doctrine and Covenants that teh many wives and concubines David and Solomon had were not a sin. This may seem like a contradiction upon first impression, but a closer analysis reveals that David and Solomon did not sin, except for the things they did not receive of God. 
