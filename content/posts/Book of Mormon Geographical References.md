@@ -47,17 +47,21 @@ Proposed locations for the river Sidon:
 - Usumacinta River
 - Grijalva River
 
-The Isthmus of Tehuantepec: Proposed as the narrow neck of land ().
-- Alma 22:32
+The Valley of Nephi:
+- Wadi Tayyib al-Ism, a river valley in northwest Arabia
+
+| Book of Mormon verse | phrase   |Modern Geographical location|
+| -------------|:------------------: | --- |
+| Alma 22:32|The narrow neck of land| The Isthmus of Tehuantepec |
+| col 2 is|centered|ok|
+| zebra stripes|are neat|ok|
+
 
 2. The Grijalva River: Suggested as the River Sidon ().
 - 1 Nephi 4:1-2
 
 3. The Usumacinta River: Proposed as the River Sidon's headwaters ().
-- Alma 22:29 
-
-4. The Valley of Guatemala: Suggested as the Valley of Nephi ().
-- 1 Nephi 2:1-2
+- Alma 22:29
 
 ## Heartland Model
 
@@ -66,7 +70,6 @@ The Isthmus of Tehuantepec: Proposed as the narrow neck of land ().
 ## South American Model
 
 ## Baja California Model
-
 
 ## Hill Cumorah
 
