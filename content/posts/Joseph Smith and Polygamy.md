@@ -1,7 +1,7 @@
 ---
 title: "Joseph Smith and Polygamy"
 featured_image: "/images/joseph smith.jpg"
-date: 2024-11-11T12:00:00-00:00
+date: 2024-12-11T12:00:00-00:00
 tags: ["Mormonism", "Church History", "Joseph Smith", "Polygamy", "The Church of Jesus Christ of Latter Day Saints"]
 ---
 
@@ -14,6 +14,8 @@ tags: ["Mormonism", "Church History", "Joseph Smith", "Polygamy", "The Church of
 [An article by Brian C. Hales](https://ensignpeakfoundation.org/wp-content/uploads/2013/03/Encouraging-Joseph-Smith-to-Practice-Plural-Marriage-The-Accounts-of-the-Angel-with-a-Drawn-Sword.pdf) contains at least 23 accounts of an angel with a drawn sword appearing to Joseph Smith threatening to take his life if he does not institute the practice of polygamy. 
 
 So an angel appeared to Joseph Smith with a sword threatening to kill him if he did not practice polygamy. The angel also quoted the Book of Mormon, saying it was sometimes permitted for polygamy to be practiced. 
+
+The first incident of plural marriage Joseph Smith practiced was with Fanny Alger in 1835 or 1836. Emma Smith considered that to be adultery and Joseph Smith did not teach anyone about the practice for 5-6 years. The delay showed an uncharacteristic reluctance for a man who feared God.
 
 Several accounts relate how Joseph appeared to have felt genuine fear at the time. Mary Elizabeth Rollins Lightner recalled that the sword-threat was not symbolic: “Joseph told me that he was afraid when the angel appeared to him and told him to take other wives. He hesitated, and the angel appeared to him the third time with a drawn sword in his hand and threatened his life if he did not fulfi ll the commandment.”14 Erastus Snow claimed that Joseph had “to plead on his knees before the Angel for his Life.”15 On another occasion, Joseph reportedly affi rmed: “God commanded me to obey it [plural marriage]. He said to me that unless I accept it and introduce it, and practice it, I, together with my people, should be damned and cut off from this time henceforth.”16
 
