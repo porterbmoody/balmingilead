@@ -7,11 +7,17 @@ tags: ["Mormonism", "Church History", "Joseph Smith", "Polygamy", "The Church of
 
 ## Commandment of Polygamy
 
-According to Mary Elizabeth Rollins Lightner, an angel was required to visit Joseph three times between 1834 and 1842 before he fully complied:
+<!-- According to Mary Elizabeth Rollins Lightner, an angel was required to visit Joseph three times between 1834 and 1842 before he fully complied: -->
 
-An angel came to him [Joseph Smith] and the last time he came with a drawn sword in his hand and told Joseph if he did not go into that principle, he would slay him. Joseph said he talked to him soberly about it, and told him it was an abomination and quoted scripture to him. He said in the Book of Mormon it was an abomination in the eyes of the Lord, and they were to adhere to these things except the Lord speak. … [The Prophet reported that] the angel came to me three times between the years of 1834 and 1842 and said I was to obey that principle or he would slay me
+<!-- An angel came to him [Joseph Smith] and the last time he came with a drawn sword in his hand and told Joseph if he did not go into that principle, he would slay him. Joseph said he talked to him soberly about it, and told him it was an abomination and quoted scripture to him. He said in the Book of Mormon it was an abomination in the eyes of the Lord, and they were to adhere to these things except the Lord speak. … [The Prophet reported that] the angel came to me three times between the years of 1834 and 1842 and said I was to obey that principle or he would slay me -->
+
+[An article by Brian C. Hales](https://ensignpeakfoundation.org/wp-content/uploads/2013/03/Encouraging-Joseph-Smith-to-Practice-Plural-Marriage-The-Accounts-of-the-Angel-with-a-Drawn-Sword.pdf) contains at least 23 accounts of an angel with a drawn sword appearing to Joseph Smith threatening to take his life if he does not institute the practice of polygamy. 
 
 So an angel appeared to Joseph Smith with a sword threatening to kill him if he did not practice polygamy. The angel also quoted the Book of Mormon, saying it was sometimes permitted for polygamy to be practiced. 
+
+Several accounts relate how Joseph appeared to have felt genuine fear at the time. Mary Elizabeth Rollins Lightner recalled that the sword-threat was not symbolic: “Joseph told me that he was afraid when the angel appeared to him and told him to take other wives. He hesitated, and the angel appeared to him the third time with a drawn sword in his hand and threatened his life if he did not fulfi ll the commandment.”14 Erastus Snow claimed that Joseph had “to plead on his knees before the Angel for his Life.”15 On another occasion, Joseph reportedly affi rmed: “God commanded me to obey it [plural marriage]. He said to me that unless I accept it and introduce it, and practice it, I, together with my people, should be damned and cut off from this time henceforth.”16
+
+He [Joseph Smith] told some of his most infl uential followers that if they knew what a hard and unpalatable revelation [regarding plural marriage] he had had, they would drive him from the city. The heavenly powers, however, were not to be trifl ed with, and a day was appointed when the important mandate was to be submitted to convocation of the authorities of the Church. The time arrived; but Joseph, in virtuous desperation, concluded rather to fl ee the city than be the medium of communicating a matter so repugnant to his mind. He mounted his horse and galloped from the town, but was met by an angel with a drawn sword, and threatened with instant destruction unless he immediately returned and fulfi lled his mission. He returned, accordingly, in submissive despair, and made the important communication to the assembled notables. Such is substantially the account of the matter given by simple-minded believers at Salt Lake.17
 
 ### Possible Reasons
 
@@ -19,8 +25,6 @@ So an angel appeared to Joseph Smith with a sword threatening to kill him if he 
 Jacob 2:30 reads
 
 > 30 For if I will, saith the Lord of Hosts, raise up seed unto me, I will command my people; otherwise they shall hearken unto these things.
-
-This means God commands us to practice monogamy, 1 wife and 1 husband unless the Lord will "raise up seed unto me". What does "raise up seed" mean?" An initial thought might be that it means to reproduce and give birth to children within the church to increase the number of church members.
 
 This means God commands us to practice monogamy, 1 wife and 1 husband unless the Lord will "raise up seed unto me". What does "raise up seed" mean?" An initial thought might be that it means to reproduce and give birth to children within the church to increase the number of church members. 
 
