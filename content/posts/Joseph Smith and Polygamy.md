@@ -7,9 +7,7 @@ tags: ["Mormonism", "Church History", "Joseph Smith", "Polygamy", "The Church of
 
 ## Commandment of Polygamy
 
-<!-- According to Mary Elizabeth Rollins Lightner, an angel was required to visit Joseph three times between 1834 and 1842 before he fully complied: -->
 
-<!-- An angel came to him [Joseph Smith] and the last time he came with a drawn sword in his hand and told Joseph if he did not go into that principle, he would slay him. Joseph said he talked to him soberly about it, and told him it was an abomination and quoted scripture to him. He said in the Book of Mormon it was an abomination in the eyes of the Lord, and they were to adhere to these things except the Lord speak. … [The Prophet reported that] the angel came to me three times between the years of 1834 and 1842 and said I was to obey that principle or he would slay me -->
 
 [An article by Brian C. Hales](https://ensignpeakfoundation.org/wp-content/uploads/2013/03/Encouraging-Joseph-Smith-to-Practice-Plural-Marriage-The-Accounts-of-the-Angel-with-a-Drawn-Sword.pdf) contains at least 23 accounts of an angel with a drawn sword appearing to Joseph Smith threatening to take his life if he does not institute the practice of polygamy. 
 
