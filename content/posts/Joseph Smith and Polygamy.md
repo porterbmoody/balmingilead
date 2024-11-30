@@ -7,8 +7,6 @@ tags: ["Mormonism", "Church History", "Joseph Smith", "Polygamy", "The Church of
 
 ## Commandment of Polygamy
 
-
-
 [An article by Brian C. Hales](https://ensignpeakfoundation.org/wp-content/uploads/2013/03/Encouraging-Joseph-Smith-to-Practice-Plural-Marriage-The-Accounts-of-the-Angel-with-a-Drawn-Sword.pdf) contains at least 23 accounts of an angel with a drawn sword appearing to Joseph Smith threatening to take his life if he does not institute the practice of polygamy. 
 
 So an angel appeared to Joseph Smith with a sword threatening to kill him if he did not practice polygamy. The angel also quoted the Book of Mormon, saying it was sometimes permitted for polygamy to be practiced. 
