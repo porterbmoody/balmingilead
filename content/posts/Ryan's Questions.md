@@ -13,7 +13,7 @@ Galatians any other gospel
 
 Galations 1
 
-6 I marvel that ye are so soon removed from him that called you into the grace of Christ unto another gospel:
+> 6 I marvel that ye are so soon removed from him that called you into the grace of Christ unto another gospel:
 7 Which is not another; but there be some that trouble you, and would pervert the gospel of Christ.
 8 But though we, or an angel from heaven, preach any other gospel unto you than that which we have preached unto you, let him be accursed.
 9 As we said before, so say I now again, If any man preach any other gospel unto you than that ye have received, let him be accursed.
