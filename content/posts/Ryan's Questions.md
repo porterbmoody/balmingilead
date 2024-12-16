@@ -11,6 +11,8 @@ tags: ['Bible', 'Book of Mormon', 'Apologetics responses']
 
 ## Galatians any other gospel
 
+Galations 1
+
 > 6 I marvel that ye are so soon removed from him that called you into the grace of Christ unto another gospel:
 
 > 7 Which is not another; but there be some that trouble you, and would pervert the gospel of Christ.
