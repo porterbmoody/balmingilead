@@ -30,6 +30,8 @@ Predictions of birthplace of Christ
 
 Joseph Smith likewise taught, "...if I profess to be a witness or teacher, and have not the spirit of prophecy, which is the testimony of Jesus, I must be a false witness.... [A]ny man who says he is a teacher or preacher of righteousness, and denies the spirit of prophecy, is a liar, and the truth is not in him; and by this key false teacher and impostors may be detected"
 
+When Paul wrote his letter to the Galatians, the Bible as we know it didn’t even exist yet as a book. And there are numerous different versions of the Bible including some with the Aprocrypha and some without, never mind all the different translations. So please don’t let this one passage hurt your testimony
+
 - Blacks and the priesthood
 
 - Lack of evidence for an apostacy
