@@ -19,7 +19,7 @@ Galations 1
 
 > 8 But though we, or an angel from heaven, preach any other gospel unto you than that which we have preached unto you, let him be accursed.
 
-9 As we said before, so say I now again, If any man preach any other gospel unto you than that ye have received, let him be accursed.
+> 9 As we said before, so say I now again, If any man preach any other gospel unto you than that ye have received, let him be accursed.
 
 Predictions of birthplace of Christ
 
@@ -35,11 +35,11 @@ Amos 8
 12 And people shall wander from sea to sea, and from the north even to the east, they shall run to and fro to seek the word of the Lord, and shall not find it.
 
 Similarities between the Quran and Book of Mormon and the stories of Mohammed and Joseph Smith
-- Revelation 22:18-19
+Revelation 22:18-19
 
-> 18 For I testify unto every man that heareth the words of the prophecy of this book, If any man shall add unto these things, God shall add unto him the plagues that are written in this book:
+18 For I testify unto every man that heareth the words of the prophecy of this book, If any man shall add unto these things, God shall add unto him the plagues that are written in this book:
 
-> 19 And if any man shall take away from the words of the book of this prophecy, God shall take away his part out of the book of life, and out of the holy city, and from the things which are written in this book.
+19 And if any man shall take away from the words of the book of this prophecy, God shall take away his part out of the book of life, and out of the holy city, and from the things which are written in this book.
 
 That is, the prophecy contained in the book of Revelation. This is substantiated by the fact that some of the books of the New Testament had not yet been written when John wrote the book of Revelation, and even those that had been written and were in existence at that time had not yet been gathered into one compilation.
 
