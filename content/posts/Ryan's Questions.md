@@ -35,7 +35,7 @@ Amos 8
 12 And people shall wander from sea to sea, and from the north even to the east, they shall run to and fro to seek the word of the Lord, and shall not find it.
 
 6. similarities between the Quran and Book of Mormon and the stories of Mohammed and Joseph Smith
-7. revelation 22
+7. revelation 22:18-19
 
 That is, the prophecy contained in the book of Revelation. This is substantiated by the fact that some of the books of the New Testament had not yet been written when John wrote the book of Revelation, and even those that had been written and were in existence at that time had not yet been gathered into one compilation.
 
