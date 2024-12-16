@@ -21,9 +21,16 @@ Galations 1
 
 > 9 As we said before, so say I now again, If any man preach any other gospel unto you than that ye have received, let him be accursed.
 
+I think it is necessary to get very particular about what precisely is the gospel of Christ that these verses are referring to. 
+
+This is similar to 2 Corinthians 11:4
+
+4 For if he that cometh preacheth another Jesus, whom we have not preached, or if ye receive another spirit, which ye have not received, or another gospel, which ye have not accepted, ye might well bear with him.
 Predictions of birthplace of Christ
 
-Blacks and the priesthood
+Joseph Smith likewise taught, "...if I profess to be a witness or teacher, and have not the spirit of prophecy, which is the testimony of Jesus, I must be a false witness.... [A]ny man who says he is a teacher or preacher of righteousness, and denies the spirit of prophecy, is a liar, and the truth is not in him; and by this key false teacher and impostors may be detected"
+
+- Blacks and the priesthood
 
 - Lack of evidence for an apostacy
 
