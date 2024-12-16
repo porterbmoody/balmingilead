@@ -7,9 +7,9 @@ tags: ['Bible', 'Book of Mormon', 'Apologetics responses']
 
 # Addressing Ryan's Questions
 
-## KJV translation errors included within the Book of Mormon
+- KJV translation errors included within the Book of Mormon
 
-## Galatians any other gospel
+- Galatians any other gospel
 
 Galations 1
 
@@ -21,11 +21,11 @@ Galations 1
 
 > 9 As we said before, so say I now again, If any man preach any other gospel unto you than that ye have received, let him be accursed.
 
-## Predictions of birthplace of Christ, 
+- Predictions of birthplace of Christ, 
 
-## Blacks and the priesthood, 
+- Blacks and the priesthood, 
 
-## Lack of evidence for an apostacy
+- Lack of evidence for an apostacy
 
 We read in Amos about a period of time where the words of the Lord is not on the earth. It is "famine" of the word of the Lord and people will search everywhere for the word and not find it. 
 
@@ -34,8 +34,8 @@ Amos 8
 11 Behold, the days come … that I will send a famine in the land, not a famine of bread, nor a thirst for water, but of hearing the words of the Lord:
 12 And people shall wander from sea to sea, and from the north even to the east, they shall run to and fro to seek the word of the Lord, and shall not find it.
 
-6. similarities between the Quran and Book of Mormon and the stories of Mohammed and Joseph Smith
-7. revelation 22:18-19
+- similarities between the Quran and Book of Mormon and the stories of Mohammed and Joseph Smith
+- revelation 22:18-19
 
 That is, the prophecy contained in the book of Revelation. This is substantiated by the fact that some of the books of the New Testament had not yet been written when John wrote the book of Revelation, and even those that had been written and were in existence at that time had not yet been gathered into one compilation.
 
