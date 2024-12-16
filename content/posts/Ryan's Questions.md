@@ -32,6 +32,8 @@ Joseph Smith likewise taught, "...if I profess to be a witness or teacher, and h
 
 When Paul wrote his letter to the Galatians, the Bible as we know it didn’t even exist yet as a book. And there are numerous different versions of the Bible including some with the Aprocrypha and some without, never mind all the different translations. So please don’t let this one passage hurt your testimony
 
+https://youth.fairmormon.org/Galatians_1:6-9
+
 - Blacks and the priesthood
 
 - Lack of evidence for an apostacy
