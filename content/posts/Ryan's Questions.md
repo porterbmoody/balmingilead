@@ -7,12 +7,23 @@ tags: ['Bible', 'Book of Mormon', 'Apologetics responses']
 
 # Addressing Ryan's Questions
 
-1. KJV errors included within the Book of Mormon, 
-Ok man I’m going to address some of your questions about the Book of Mormon, 
-2. Verse in Galatians 
-3. predictions of birthplace of Christ, 
-4. blacks and the priesthood, 
-5. lack of evidence for an apostacy
+## KJV translation errors included within the Book of Mormon
+
+## Galatians any other gospel
+
+> 6 I marvel that ye are so soon removed from him that called you into the grace of Christ unto another gospel:
+
+> 7 Which is not another; but there be some that trouble you, and would pervert the gospel of Christ.
+
+> 8 But though we, or an angel from heaven, preach any other gospel unto you than that which we have preached unto you, let him be accursed.
+
+> 9 As we said before, so say I now again, If any man preach any other gospel unto you than that ye have received, let him be accursed.
+
+## Predictions of birthplace of Christ, 
+
+## Blacks and the priesthood, 
+
+## Lack of evidence for an apostacy
 
 We read in Amos about a period of time where the words of the Lord is not on the earth. It is "famine" of the word of the Lord and people will search everywhere for the word and not find it. 
 
