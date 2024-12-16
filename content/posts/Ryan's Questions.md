@@ -17,9 +17,9 @@ Galations 1
 
 7 Which is not another; but there be some that trouble you, and would pervert the gospel of Christ.
 
-> 8 But though we, or an angel from heaven, preach any other gospel unto you than that which we have preached unto you, let him be accursed.
+8 But though we, or an angel from heaven, preach any other gospel unto you than that which we have preached unto you, let him be accursed.
 
-> 9 As we said before, so say I now again, If any man preach any other gospel unto you than that ye have received, let him be accursed.
+9 As we said before, so say I now again, If any man preach any other gospel unto you than that ye have received, let him be accursed.
 
 Predictions of birthplace of Christ
 
@@ -33,6 +33,8 @@ Amos 8
 
 11 Behold, the days come … that I will send a famine in the land, not a famine of bread, nor a thirst for water, but of hearing the words of the Lord:
 12 And people shall wander from sea to sea, and from the north even to the east, they shall run to and fro to seek the word of the Lord, and shall not find it.
+
+So this is saying there was some period of time where people lacked the word of God sufficiently in their lives. 
 
 Similarities between the Quran and Book of Mormon and the stories of Mohammed and Joseph Smith
 Revelation 22:18-19
