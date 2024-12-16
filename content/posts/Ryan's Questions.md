@@ -19,7 +19,7 @@ Galations 1
 
 8 But though we, or an angel from heaven, preach any other gospel unto you than that which we have preached unto you, let him be accursed.
 
-9 As we said before, so say I now again, If any man preach any other gospel unto you than that ye have received, let him be accursed.
+> 9 As we said before, so say I now again, If any man preach any other gospel unto you than that ye have received, let him be accursed.
 
 Predictions of birthplace of Christ
 
