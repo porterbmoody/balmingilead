@@ -1,6 +1,6 @@
 ---
 title: "Addressing Ryans Questions"
-featured_image: '/images/bom geography.PNG'
+featured_image: '/images/ryan.jpg'
 date: 2024-11-11T00:00:00-00:00
 tags: ['Bible', 'Book of Mormon', 'Apologetics responses']
 ---
