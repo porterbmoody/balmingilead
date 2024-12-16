@@ -15,14 +15,14 @@ Galations 1
 
 > 6 I marvel that ye are so soon removed from him that called you into the grace of Christ unto another gospel:
 > 7 Which is not another; but there be some that trouble you, and would pervert the gospel of Christ.
-8 But though we, or an angel from heaven, preach any other gospel unto you than that which we have preached unto you, let him be accursed.
+> 8 But though we, or an angel from heaven, preach any other gospel unto you than that which we have preached unto you, let him be accursed.
 9 As we said before, so say I now again, If any man preach any other gospel unto you than that ye have received, let him be accursed.
 
-Predictions of birthplace of Christ, 
+Predictions of birthplace of Christ
 
-Blacks and the priesthood, 
+Blacks and the priesthood
 
-Lack of evidence for an apostacy
+- Lack of evidence for an apostacy
 
 We read in Amos about a period of time where the words of the Lord is not on the earth. It is "famine" of the word of the Lord and people will search everywhere for the word and not find it. 
 
