@@ -28,7 +28,7 @@ This is similar to 2 Corinthians 11:4
 4 For if he that cometh preacheth another Jesus, whom we have not preached, or if ye receive another spirit, which ye have not received, or another gospel, which ye have not accepted, ye might well bear with him.
 Predictions of birthplace of Christ
 
-Joseph Smith likewise taught, "...if I profess to be a witness or teacher, and have not the spirit of prophecy, which is the testimony of Jesus, I must be a false witness.... [A]ny man who says he is a teacher or preacher of righteousness, and denies the spirit of prophecy, is a liar, and the truth is not in him; and by this key false teacher and impostors may be detected"
+Joseph Smith likewise taught, "...if I profess to be a witness or teacher, and have not the spirit of prophecy, which is the testimony of Jesus, I must be a false witness.... Any man who says he is a teacher or preacher of righteousness, and denies the spirit of prophecy, is a liar, and the truth is not in him; and by this key false teacher and impostors may be detected"
 
 When Paul wrote his letter to the Galatians, the Bible as we know it didn’t even exist yet as a book. And there are numerous different versions of the Bible including some with the Aprocrypha and some without, never mind all the different translations. So please don’t let this one passage hurt your testimony
 
