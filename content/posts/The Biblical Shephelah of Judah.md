@@ -2,7 +2,7 @@
 title: 'The Biblical Shephelah of Judah'
 date: 2025-02-02T00:00:00-00:00
 featured_image: "/images/posts/judah.jpg"
-tags: ['']
+tags: ['Judah', 'Jerusalem']
 ---
 
 The Biblical Shephelah of Judah* A. F. RAINEY Institute of Archaeology
