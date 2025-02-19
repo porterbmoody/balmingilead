@@ -4,49 +4,26 @@ date: 2025-02-02T00:00:00-00:00
 tags: ['']
 ---
 
-The Biblical Shephelah of Judah*
-A. F. RAINEY
-Institute of Archaeology
-Tel Aviv University
-Ramat Aviv, Israel
-The ensuing discussion pertains to the history of
-the region known as the Shephelah during the so-
-called "Biblical Period." This period will be defined
-here as the Late Bronze Age and the Iron Age, i.e.,
-the Late Canaanite and the Israelite periods.
-Reference to later times, particularly to sources for
-the historical geography of the region under dis-
-cussion, will also be mandatory. The approach
-taken is that of Albrecht Alt (1925b: 2; 1953: I, 90;
-1966: 136), viz., territorial Geschichte, the study of
-a region as a geographical unit as it appears in the
-ancient sources.
-Each place name will be treated in accordance
-with its significance in the particular context.
-Every site may have as many as three or four
-possible names: the biblical, the Greco-Roman or
-Talmudic, the Arabic, or the new Hebrew name
-assigned by the Israel Place Names Committee.
-The spelling conventions established by Aharoni
-(1979: 529ff.) and Avi-Yonah (1977: 225ff.) will be
-adhered to. At different points in the following
-pages, a site will be referred to by its name in the
-ancient sources, or in the Arabic toponymy, or in
-the Modern Hebrew form-in accordance with the
-official maps of the Israel Department of Survey-
-as the occasion demands. Archaeological sites may
-be called by their Hebrew or their Arabic name,
-whichever is more familiar in the professional and
+The Biblical Shephelah of Judah* A. F. RAINEY Institute of Archaeology
+Tel Aviv University Ramat Aviv, Israel The ensuing discussion pertains to the history of
+the region known as the Shephelah during the so- called "Biblical Period." This period will be defined
+here as the Late Bronze Age and the Iron Age, i.e., the Late Canaanite and the Israelite periods.
+Reference to later times, particularly to sources for the historical geography of the region under dis-
+cussion, will also be mandatory. The approach taken is that of Albrecht Alt (1925b: 2; 1953: I, 90;
+1966: 136), viz., territorial Geschichte, the study of a region as a geographical unit as it appears in the ancient sources. Each place name will be treated in accordance with its significance in the particular context.
+Every site may have as many as three or four possible names: the biblical, the Greco-Roman or
+Talmudic, the Arabic, or the new Hebrew name assigned by the Israel Place Names Committee.
+The spelling conventions established by Aharoni (1979: 529ff.) and Avi-Yonah (1977: 225ff.) will be
+adhered to. At different points in the following pages, a site will be referred to by its name in the
+ancient sources, or in the Arabic toponymy, or in the Modern Hebrew form-in accordance with the
+official maps of the Israel Department of Survey- as the occasion demands. Archaeological sites may
+be called by their Hebrew or their Arabic name, whichever is more familiar in the professional and
 popular literature. Consistency is neither possible
-nor desirable.
-The Territory
-Name
-When referring to the area in question, the
+nor desirable. The Territory Name When referring to the area in question, the
 Hebrew Bible always speaks of "The Shephelah,"
 with the definite article. Obviously, it means "low-
 land," being the feminine stative from the root s-p-
-1. The LXX renders it by i ni68tvo;, "that which is
-on the plain," or by T6 i?e6tov, "the plain," but
+1. The LXX renders it by i ni68tvo;, "that which is on the plain," or by T6 i?e6tov, "the plain," but
 sometimes accepts it as a proper noun, Ec(prXk.
 Symmachus translated it nis6tvr, i.e. "lowland,"
 while Aquila called it KotIXE, "valley" ( = biqcah).
@@ -54,11 +31,8 @@ The expression was applied to a lower zone by
 those dwelling on the Judean Hills above and to
 the east of the area in question. The term is used
 for a similar zone in the territory between Tyre on
-the coast and the hills of Upper Galilee (Josh 11:2,
-16b; Finklestein 1981). Otherwise, it always per-
-tains to the lowland of the tribe of Judah.
-The Region
-The Shephelah frequently appears in passages
+the coast and the hills of Upper Galilee (Josh 11:2, 16b; Finklestein 1981). Otherwise, it always per-
+tains to the lowland of the tribe of Judah. The Region The Shephelah frequently appears in passages
 enumerating the geographical regions that com-
 prise the territory of Judah (Deut 1:7-8; Josh
 10:40; 11:16a; 12:8; Judg 1:9). The four principal
