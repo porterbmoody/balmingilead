@@ -1,6 +1,7 @@
 ---
 title: 'The Biblical Shephelah of Judah'
 date: 2025-02-02T00:00:00-00:00
+featured_image: "/images/posts/judah.jpg"
 tags: ['']
 ---
 
