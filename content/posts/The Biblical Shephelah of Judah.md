@@ -5,163 +5,61 @@ featured_image: "/images/posts/judah.jpg"
 tags: ['Judah', 'Jerusalem']
 ---
 
-The Biblical Shephelah of Judah* A. F. RAINEY Institute of Archaeology
-Tel Aviv University Ramat Aviv, Israel The ensuing discussion pertains to the history of
-the region known as the Shephelah during the so- called "Biblical Period." This period will be defined
-here as the Late Bronze Age and the Iron Age, i.e., the Late Canaanite and the Israelite periods.
-Reference to later times, particularly to sources for the historical geography of the region under dis-
-cussion, will also be mandatory. The approach taken is that of Albrecht Alt (1925b: 2; 1953: I, 90;
-1966: 136), viz., territorial Geschichte, the study of a region as a geographical unit as it appears in the ancient sources. Each place name will be treated in accordance with its significance in the particular context.
-Every site may have as many as three or four possible names: the biblical, the Greco-Roman or
-Talmudic, the Arabic, or the new Hebrew name assigned by the Israel Place Names Committee.
-The spelling conventions established by Aharoni (1979: 529ff.) and Avi-Yonah (1977: 225ff.) will be
-adhered to. At different points in the following pages, a site will be referred to by its name in the
-ancient sources, or in the Arabic toponymy, or in the Modern Hebrew form-in accordance with the
-official maps of the Israel Department of Survey- as the occasion demands. Archaeological sites may
-be called by their Hebrew or their Arabic name, whichever is more familiar in the professional and
-popular literature. Consistency is neither possible
-nor desirable. The Territory Name When referring to the area in question, the
-Hebrew Bible always speaks of "The Shephelah,"
-with the definite article. Obviously, it means "low-
-land," being the feminine stative from the root s-p-
-1. The LXX renders it by i ni68tvo;, "that which is on the plain," or by T6 i?e6tov, "the plain," but
-sometimes accepts it as a proper noun, Ec(prXk.
-Symmachus translated it nis6tvr, i.e. "lowland,"
-while Aquila called it KotIXE, "valley" ( = biqcah).
-The expression was applied to a lower zone by
-those dwelling on the Judean Hills above and to
-the east of the area in question. The term is used
-for a similar zone in the territory between Tyre on
-the coast and the hills of Upper Galilee (Josh 11:2, 16b; Finklestein 1981). Otherwise, it always per-
-tains to the lowland of the tribe of Judah. The Region The Shephelah frequently appears in passages
-enumerating the geographical regions that com-
-prise the territory of Judah (Deut 1:7-8; Josh
-10:40; 11:16a; 12:8; Judg 1:9). The four principal
-regions are: the Negeb, the Shephelah, the Hill
-Country, and the Wilderness. Precise delineation
-of the boundaries of the Shephelah of Judah
-depends on the identification of the settlements
-listed in Josh 15:33-34 (vv 45-47 pertain to the
-Philistine plain not actually conquered by Judah,
-cf. Judg 1:18-19 LXX). That chapter contains an
-administrative roster of all the regions and their
-districts within the Judean tribal inheritance (i.e.,
-the kingdom of Judah). Three districts are assigned
-to the Shephelah. A detailed analysis of the town
-lists will be given below. Meanwhile, it will suffice
-to note that the reference is to the homogeneous
-zone of Eocene limestone separated on the east
-from the Cenomanian limestone hills of Judah by a
-1
-ANSON F. RAINEY
-long, narrow trough created by the exposure of
-Senonian chalk (Baly 1973: 141; Karmon 1971:
-245), the "great fosse" of G. A. Smith (1931: 147).
-All of the identifiable towns in this trough are
-assigned to the Shephelah according to Joshua 15
-(e.g., Keilah, Nezib, Ashan). The boundary with
-the Negeb in the south may perhaps be placed at
-the narrow pass formed by a break in the Eocene
-ridges just north of Tel Halif (Kh. Khuweilifeh).
-The Eocene extension south of Tel Halif, called
-Khasham el-Buteiyir, the "Tail (Promontory) of
-B." (now Giv'ot Lahav), probably can be reckoned
-as part of the Negeb because of nearby Madman-
-nah (Kh. Tatrit; Kochavi .1972: 23) and Sansannah
-(Kh. esh-Shamsaniyat). The northern vestiges of
-the Shephelah Eocene outcrop are the foothills
-around Gezer and Gimzo (the northernmost town
-referred to in the Bible as being in the Shephelah;
-2 Chr 28:18).
-In Rabbinic sources, the Judean Shephelah is
-called ep'elal haddiroSm, "the lowland of the
-South" (Breita, Shivicit, 38:4), because it was
-attached administratively to the southern hill dis-
+The Biblical Shephelah of Judah* A. F. RAINEY Institute of Archaeology Tel Aviv University Ramat Aviv, Israel The ensuing discussion pertains to the history of the region known as the Shephelah during the so- called "Biblical Period." This period will be defined here as the Late Bronze Age and the Iron Age, i.e., the Late Canaanite and the Israelite periods. Reference to later times, particularly to sources for the historical geography of the region under dis- cussion, will also be mandatory. The approach taken is that of Albrecht Alt (1925b: 2; 1953: I, 90; 1966: 136), viz., territorial Geschichte, the study of a region as a geographical unit as it appears in the ancient sources. Each place name will be treated in accordance with its significance in the particular context. Every site may have as many as three or four possible names: the biblical, the Greco-Roman or Talmudic, the Arabic, or the new Hebrew name assigned by the Israel Place Names Committee. The spelling conventions established by Aharoni (1979: 529ff.) and Avi-Yonah (1977: 225ff.) will be adhered to. At different points in the following pages, a site will be referred to by its name in the ancient sources, or in the Arabic toponymy, or in the Modern Hebrew form-in accordance with the official maps of the Israel Department of Survey- as the occasion demands. Archaeological sites may be called by their Hebrew or their Arabic name, whichever is more familiar in the professional and popular literature. Consistency is neither possible nor desirable. The Territory Name When referring to the area in question, the
+Hebrew Bible always speaks of "The Shephelah," with the definite article. Obviously, it means "low-
+land," being the feminine stative from the root s-p- 1. The LXX renders it by i ni68tvo;, "that which is on the plain," or by T6 i?e6tov, "the plain," but sometimes accepts it as a proper noun, Ec(prXk. Symmachus translated it nis6tvr, i.e. "lowland,"
+while Aquila called it KotIXE, "valley" ( = biqcah). The expression was applied to a lower zone by
+those dwelling on the Judean Hills above and to the east of the area in question. The term is used
+for a similar zone in the territory between Tyre on the coast and the hills of Upper Galilee (Josh 11:2, 16b; Finklestein 1981). Otherwise, it always per- tains to the lowland of the tribe of Judah. The Region The Shephelah frequently appears in passages
+enumerating the geographical regions that com- prise the territory of Judah (Deut 1:7-8; Josh
+10:40; 11:16a; 12:8; Judg 1:9). The four principal regions are: the Negeb, the Shephelah, the Hill
+Country, and the Wilderness. Precise delineation of the boundaries of the Shephelah of Judah
+depends on the identification of the settlements listed in Josh 15:33-34 (vv 45-47 pertain to the
+Philistine plain not actually conquered by Judah, cf. Judg 1:18-19 LXX). That chapter contains an
+administrative roster of all the regions and their districts within the Judean tribal inheritance (i.e.,
+the kingdom of Judah). Three districts are assigned to the Shephelah. A detailed analysis of the town
+lists will be given below. Meanwhile, it will suffice to note that the reference is to the homogeneous
+zone of Eocene limestone separated on the east from the Cenomanian limestone hills of Judah by a 1 ANSON F. RAINEY
+long, narrow trough created by the exposure of Senonian chalk (Baly 1973: 141; Karmon 1971:
+245), the "great fosse" of G. A. Smith (1931: 147). All of the identifiable towns in this trough are
+assigned to the Shephelah according to Joshua 15 (e.g., Keilah, Nezib, Ashan). The boundary with
+the Negeb in the south may perhaps be placed at the narrow pass formed by a break in the Eocene
+ridges just north of Tel Halif (Kh. Khuweilifeh). The Eocene extension south of Tel Halif, called
+Khasham el-Buteiyir, the "Tail (Promontory) of B." (now Giv'ot Lahav), probably can be reckoned
+as part of the Negeb because of nearby Madman- nah (Kh. Tatrit; Kochavi .1972: 23) and Sansannah
+(Kh. esh-Shamsaniyat). The northern vestiges of the Shephelah Eocene outcrop are the foothills
+around Gezer and Gimzo (the northernmost town referred to in the Bible as being in the Shephelah;
+2 Chr 28:18). In Rabbinic sources, the Judean Shephelah is called ep'elal haddiroSm, "the lowland of the
+South" (Breita, Shivicit, 38:4), because it was attached administratively to the southern hill dis-
 trict. The passage in Tosefta, Shivi'it (7:10), which
-makes sepc'lal Lid the lowland of the Judean
-Hills, is corrected by the fuller version of Mishna,
-Shivi'it 9:2, "And in Judah: the Hill, the Shephe-
-lah, and the Plain; and the Shephelah of Lod is as
-the Shephelah of Darom" (Neaman 1971: II, 469-
-71). Thus, it is clear that the Judean Shephelah as
-understood by the Rabbis extended north only as
-far as Emmaus, because there the Shephelah of
-Lod began (Yerushalmi, Shivicit 38 below).
-The western boundary of the Shephelah is a
-matter of debate and will be discussed in detail
-below. At this point it can be stressed, however,
-that the Bible distinguishes very clearly between
-the Shephelah and the Coastal Plain, the latter
-being the territory of the Philistines (e.g. hop
-hayydm, Deut 1:7; mlsor, 2 Chr 26:10). The same
-distinction holds for the Rabbinic sources ('emeq;
-Yerushalmi, Shivicit, 38 below). Therefore, there
-is no historical basis for the modern application of
-the term Shephelah to "the western area of Eretz-
-Israel along the Mediterranean sea coast from
-Nahal 'Azza in the south to the Yarkon" (Even-
-Shoshan 1970: 1407). Such imprecise usage in
-modern times has given rise to the expression "the
-internal Shephelah," e.g., in the daily weather
-reports. It thus creates utter confusion in the
-historical geography of Israel and should be aban-
-doned by modern geographers.
-Though the Shephelah was morphologically a
-north-south line of hills, forming a buttress for the
-Judean Hill Country behind it, the geopolitical
-importance of this area was enhanced by the
-several valleys, or wadis, that traverse it from east
-to west giving entree to the higher terrain from the
+makes sepc'lal Lid the lowland of the Judean Hills, is corrected by the fuller version of Mishna,
+Shivi'it 9:2, "And in Judah: the Hill, the Shephe- lah, and the Plain; and the Shephelah of Lod is as
+the Shephelah of Darom" (Neaman 1971: II, 469- 71). Thus, it is clear that the Judean Shephelah as
+understood by the Rabbis extended north only as far as Emmaus, because there the Shephelah of
+Lod began (Yerushalmi, Shivicit 38 below). The western boundary of the Shephelah is a
+matter of debate and will be discussed in detail below. At this point it can be stressed, however,
+that the Bible distinguishes very clearly between the Shephelah and the Coastal Plain, the latter
+being the territory of the Philistines (e.g. hop hayydm, Deut 1:7; mlsor, 2 Chr 26:10). The same
+distinction holds for the Rabbinic sources ('emeq; Yerushalmi, Shivicit, 38 below). Therefore, there
+is no historical basis for the modern application of the term Shephelah to "the western area of Eretz-
+Israel along the Mediterranean sea coast from Nahal 'Azza in the south to the Yarkon" (Even-
+Shoshan 1970: 1407). Such imprecise usage in modern times has given rise to the expression "the
+internal Shephelah," e.g., in the daily weather reports. It thus creates utter confusion in the
+historical geography of Israel and should be aban- doned by modern geographers. Though the Shephelah was morphologically a
+north-south line of hills, forming a buttress for the Judean Hill Country behind it, the geopolitical importance of this area was enhanced by the several valleys, or wadis, that traverse it from east to west giving entree to the higher terrain from the
 coast. The principal sources of water throughout
 the Shephelah were naturally located in these
 valleys, and this factor attracted the main settle-
-ments in antiquity. From north to south we must
-mention especially: (1) the Valley of Aiyalon (Josh
-10:12), the W&dT Selman, which broadens out to
-become the Merj Ibn Umeir-it led to the "ascent
-of Beth-horon" (Josh 10:10) or "the descent of
-Beth-horon" (Josh 10:11), the easiest approach
-route to the central range; (2) the Vale of Soreq
-(Judg 16:4), i.e., the Wadi es-Sarar, the lower
-extension of the deep winding ravine (Wadi
-Isma';n) that drains the valley of Rephaim south-
-west of Jerusalem (Josh 15:8; 1 Chr 11:15; 14:9;
-2 Sam 23:12-13; Isa 17:5), el-Buqei'ah or Baq'ah,
-also called the Wadi el-Werd at the western end;
-(3) the Vale of Elah (1 Sam 17:2), the Wadi es-
-Sunt; (4) the Valley of Zephatha (2 Chr 14:9), the
-Wadi el-Afranj, today Nabal Guvrin; and (5) the
-wadi flowing past ancient Lachish and reaching the
-sea north of Ashdod, now called Nahal Lakhish,
-but formerly the WadT Qubeibeh-Nahr Suqreir;
-and (6) the WadT el-Hesi, today called Nahal
-Adorayim, and, further west, Nahal Shiqma. The
-latter two are not mentioned in the ancient sources.
-Any study of the Shephelah must utilize the
-information in the Onomasticon of Eusebius (Beyer
+ments in antiquity. From north to south we must mention especially: (1) the Valley of Aiyalon (Josh 10:12), the W&dT Selman, which broadens out to become the Merj Ibn Umeir-it led to the "ascent of Beth-horon" (Josh 10:10) or "the descent of Beth-horon" (Josh 10:11), the easiest approach route to the central range; (2) the Vale of Soreq (Judg 16:4), i.e., the Wadi es-Sarar, the lower extension of the deep winding ravine (Wadi Isma';n) that drains the valley of Rephaim south- west of Jerusalem (Josh 15:8; 1 Chr 11:15; 14:9; 2 Sam 23:12-13; Isa 17:5), el-Buqei'ah or Baq'ah, also called the Wadi el-Werd at the western end; (3) the Vale of Elah (1 Sam 17:2), the Wadi es- Sunt; (4) the Valley of Zephatha (2 Chr 14:9), the Wadi el-Afranj, today Nabal Guvrin; and (5) the wadi flowing past ancient Lachish and reaching the sea north of Ashdod, now called Nahal Lakhish, but formerly the WadT Qubeibeh-Nahr Suqreir; and (6) the WadT el-Hesi, today called Nahal Adorayim, and, further west, Nahal Shiqma. The latter two are not mentioned in the ancient sources. Any study of the Shephelah must utilize the information in the Onomasticon of Eusebius (Beyer
 193 lb). Eusebius defines the Shephelah of his day
 as "all of the lowland around Eleutheropolis (i.e.,
 Bet Guvrin, Beit Jibrin) to the north and the west"
 (Onom. 162: 7-9). Throughout his work, Eusebius
 gives the direction and mileage for settlements in
-the area from Eleutheropolis. It can easily be
-demonstrated that he is using some sort of road
-map and that his distances refer to the turnoff to
-the site from a main road of the Roman-Byzantine
-period (Rainey 1971). The towns in the biblical
-Shephelah were reckoned with the Daroma district
-in Eusebius' day.
-Bronze Age History
-Proto-history
-Early Bronze Age. With the exception of Tel
-'Erani (Tell esh-Sheikh Ahmed el-'AreinT, or Tell
-Menshiyeh, formerly Tel Gat), the Early Bronze
-2 BASOR 251
-BIBLICAL SHEPHELAH OF JUDAH
-Age has hardly been subjected to archaeological
-excavations in the Shephelah (Yeivin 1975). Other
-sites with limited results have been Gezer, Azeqah,
-the large settlement at Tel Yarmut (Kh. el-Yarmuk;
+the area from Eleutheropolis. It can easily be demonstrated that he is using some sort of road map and that his distances refer to the turnoff to
+the site from a main road of the Roman-Byzantine period (Rainey 1971). The towns in the biblical Shephelah were reckoned with the Daroma district in Eusebius' day. Bronze Age History
+Proto-history Early Bronze Age. With the exception of Tel
+'Erani (Tell esh-Sheikh Ahmed el-'AreinT, or Tell Menshiyeh, formerly Tel Gat), the Early Bronze 2 BASOR 251 BIBLICAL SHEPHELAH OF JUDAH Age has hardly been subjected to archaeological excavations in the Shephelah (Yeivin 1975). Other sites with limited results have been Gezer, Azeqah, the large settlement at Tel Yarmut (Kh. el-Yarmuk;
 Miroschedji 1981; Ben-Tor 1975), Tel Halif (Seger
 1980), and, of course, Tell Beit Mirsim (now Tel
 Mirsham; Albright 1976: 173). The extensive urban
@@ -173,17 +71,8 @@ of Egypt (Yeivin 1975: 92). To the south of Lachish,
 a site called Mishlat Ma'ahaz (Kh. Maqhaz) has
 been shown to be a purely Egyptian "encampment,"
 probably a trading post of some sort (Amiran
-1978). Most of the other sites, e.g., Yarmut, Kh.
-el-Qom (Dever 1978), and also Tell Beit Mirsim,
-seem to have been occupied mainly during EB III
-and EB IV, after the urban settlement at Tel 'Erani
-was in ruins. Several new Early Bronze sites have
-been identified in the survey by Yehudah Dagan;
-when the material is published, it may facilitate the
-establishment of a settlement pattern for the area.
-Evidence for the EB IV or the so-called "Inter-
-mediate Bronze Age" (the MB I of Albright's
-system) consists mainly of cemeteries such as that
+1978). Most of the other sites, e.g., Yarmut, Kh. el-Qom (Dever 1978), and also Tell Beit Mirsim, seem to have been occupied mainly during EB III and EB IV, after the urban settlement at Tel 'Erani
+was in ruins. Several new Early Bronze sites have been identified in the survey by Yehudah Dagan; when the material is published, it may facilitate the establishment of a settlement pattern for the area. Evidence for the EB IV or the so-called "Inter- mediate Bronze Age" (the MB I of Albright's system) consists mainly of cemeteries such as that
 at Jebel Qa'aqir (Dever 1981; Gitin 1975) or at
 Lachish (cf. also the Northwest Settlement; Tufnell
 1977: 739-40). This seminomadic, pastoral culture
@@ -194,37 +83,18 @@ Middle Bronze Age. The reference here is to
 the MB II A-C of the Albright system. Very few
 settlements have actually been identified, much less
 excavated. However, there are three major towns
-in which Middle Bronze occupation is impressive.
-At the northern end of the Shephelah, although
-perhaps not usually reckoned with it, is Gezer,
-which was a heavily fortified city in MB II (Dever
-1976: 435-38). Beth-shemesh also became a forti-
-fied city in MB II (Wright 1975: 250-51). In the
-center, more or less, was Lachish, surrounded by
-an earthen rampart of massive proportions (Tufnell
-1977: 741-42). In the south, Tell Beit Mirsim was
-also a fortified town (Albright 1975: 174-76). Of
+in which Middle Bronze occupation is impressive. At the northern end of the Shephelah, although perhaps not usually reckoned with it, is Gezer, which was a heavily fortified city in MB II (Dever 1976: 435-38). Beth-shemesh also became a forti- fied city in MB II (Wright 1975: 250-51). In the center, more or less, was Lachish, surrounded by an earthen rampart of massive proportions (Tufnell 1977: 741-42). In the south, Tell Beit Mirsim was also a fortified town (Albright 1975: 174-76). Of
 special interest is an open air site, possibly cultic,
 near Beth-shemesh (Bahat 1975). On Nahal Shiq-
 ma, in an area that may be related to the Shephe-
 lah, one finds Tel Nagila (Tell en-Najileh; Amiran
-and Eitan 1977: 894-96), and Tel Hasi (Tell el-
-HesT; Amiran and Worrell 1976: 516).
-Further archaeological research will undoubtedly
-reveal more sites of the Middle Bronze Age, but
-the absence of any reference to Shephelah towns in
-the scanty written sources from this period makes
-it impossible to speak of this as a "historical"
-period. Even the Execration texts from Egypt
-(Twelfth and Thirteenth Dynasties) make no men-
-tion of any town in the Shephelah. Number 58 in
-the later group, '-q-r-y (Posener 1940: 92), is
-hardly to be equated with either Ekron or Eglon;
-the q is not even certain, and the associated towns
-on the list do not justify our seeking the town in
-southern Judea.
-Late Bronze Age-the best known sites. Here
-we come into the light of history. The number of
+and Eitan 1977: 894-96), and Tel Hasi (Tell el- HesT; Amiran and Worrell 1976: 516).
+Further archaeological research will undoubtedly reveal more sites of the Middle Bronze Age, but
+the absence of any reference to Shephelah towns in the scanty written sources from this period makes
+it impossible to speak of this as a "historical" period. Even the Execration texts from Egypt
+(Twelfth and Thirteenth Dynasties) make no men- tion of any town in the Shephelah. Number 58 in
+the later group, '-q-r-y (Posener 1940: 92), is hardly to be equated with either Ekron or Eglon;
+the q is not even certain, and the associated towns on the list do not justify our seeking the town in southern Judea. Late Bronze Age-the best known sites. Here we come into the light of history. The number of
 known antiquity sites also increases remarkably.
 To the north, Gezer is a major city-state (cf.
 below). The LB levels at Beth-shemesh are also
