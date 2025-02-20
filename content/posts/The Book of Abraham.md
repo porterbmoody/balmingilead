@@ -8417,4 +8417,3 @@ cover
 Template II
 Wulf E. Barsch
 oil on canvas, 48" × 62", cropped
-

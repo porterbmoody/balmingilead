@@ -95,184 +95,94 @@ it impossible to speak of this as a "historical" period. Even the Execration tex
 (Twelfth and Thirteenth Dynasties) make no men- tion of any town in the Shephelah. Number 58 in
 the later group, '-q-r-y (Posener 1940: 92), is hardly to be equated with either Ekron or Eglon;
 the q is not even certain, and the associated towns on the list do not justify our seeking the town in southern Judea. Late Bronze Age-the best known sites. Here we come into the light of history. The number of
-known antiquity sites also increases remarkably.
-To the north, Gezer is a major city-state (cf.
-below). The LB levels at Beth-shemesh are also
-well represented by excavation, although the town
-does not appear in the written sources. Its neighbor
-in the Valley of Sorek, at Tell BatashT (Tel Batash,
-probably biblical Timnah of the Philistines; Mazar
-and Kelm 1980), has also produced an impressive
-LB city. Azekah (Tell Zakariyeh), Socho (Kh.
-'Abbad), Adullam (Kh. esh-Sheikh Madhkur), and
-Keilah (Kh. Qila) line the route from the plain into
-the heart of central Judea via the Vale of Elah. To
-the west of Azekah stands Tel Zafit (Tell es-Saff),
-probably Gath of the Philistines (Rainey 1975b).
-Although we would not reckon it, strictly speaking,
+known antiquity sites also increases remarkably. To the north, Gezer is a major city-state (cf. below). The LB levels at Beth-shemesh are also well represented by excavation, although the town does not appear in the written sources. Its neighbor
+in the Valley of Sorek, at Tell BatashT (Tel Batash, probably biblical Timnah of the Philistines; Mazar
+and Kelm 1980), has also produced an impressive LB city. Azekah (Tell Zakariyeh), Socho (Kh.
+'Abbad), Adullam (Kh. esh-Sheikh Madhkur), and Keilah (Kh. Qila) line the route from the plain into
+the heart of central Judea via the Vale of Elah. To the west of Azekah stands Tel Zafit (Tell es-Saff),
+probably Gath of the Philistines (Rainey 1975b). Although we would not reckon it, strictly speaking,
 with the Shephelah, it undoubtedly played a role in
-the history of the neighboring settlements in the
-Shephelah proper. Late Bronze remains were found
+the history of the neighboring settlements in the Shephelah proper. Late Bronze remains were found
 there by the excavations at the turn of the century
 (Stern 1978). The Valley of Zephath (Nahal Guv-
-rin) is less well known, perhaps, but Tel Burna
-(Tell Burnat), possibly biblical Libnah (Rainey
-1980: 198), was in existence in the Late Bronze
-Age. Along Nahal Lakhish there are two major
-sites, Lachish and Kh. el-Qom, (possibly biblical
-Makkedah; Dorsey 1980), although the latter has
-not produced any Middle or Late Bronze Age
-sherds. Along Nahal Adorayim, there is Tel 'Eton
-(Tell 'Aitfn), possibly biblical Eglon (Rainey 1980:
-197), and farther west, where the wadi is now
-called Nahal Shiqma, there is Tel Hasi (Tell el-
-HesT), which is identified by some as Eglon. The
-problem of whether Tel Hasi belongs to the She-
-phelah or not will be discussed below. Another site
-with some LB occupation on the Nahal Shiqma,
-31983
-ANSON F. RAINEY
-south of its junction with Nahal Adorayim, is Tel
-Nagila (Tell en-Najileh; Amiran and Eitan 1977:
-897). Some of the sites mentioned above are, in
-fact, near the points where their respective wadis
-cross the "trough." From north to south, one may
-note that the traveler entering the "trough" from
-its juncture with Nahal Sorek behind Beth-shemesh
-would pass by the Late Bronze sites of Adullam,
-Keilah, Tel 'Eton, Tell Beit Mirsim, and Tel Ualif.
-Until now, LB material has not been found at Kh.
-el-Qom, but a surface survey has been hindered by
-the presence.of the modern village.
-Written Sources
-With the exception of Gezer, no towns in the
-Shephelah region seem to appear in any of the
-Egyptian topographical lists of the 18th, 19th, or
-20th Dynasties. An emissary from Lachish (Ra-ki-
-Sd) is listed on a papyrus recording disbursements
-from the royal residence at Memphis (Golenischeff
-1913: 5; Muller 1917: 202-3). The text dates from
-the 15th century B.C. and at least confirms that
-there were active diplomatic relations with Egypt,
-obviously as a vassal to Pharaoh. The el-Amarna
-tablets also shed some light on the Canaanite cities
-located there.
-The influential city-state of Gezer was the source
-and the address of several el-Amarna letters (Ross
-1966; Izre'el 1978). The first ruler mentioned,
-Milkilu, was involved in a coalition with the ruler
-of Shechem, the infamous Lab'ayu, and also con-
-spired with his neighbors to seize Rubbuti, a town
-probably to be equated with Ha-rabbah in the
-Judean Hills (Josh 15:60; Aharoni's proposed loca-
-tion at Kh. Hamideh would place it just outside the
-Hill Country and in the Shephelah; cf. Rainey
-1975c). 'Abdi-kheba, ruler of Jerusalem, com-
-plained bitterly about this action (EA 289:11-13;
-290:5-11). One of the rulers allied against 'Abdi-
-kheba, was Shuwardata, whose own city may have
-been located at Tel Zafit (Tell es-Saff). It is
-debatable whether the name of his town appears in
-the el-Amarna letters (Na'aman 1979: 681-89); it
-just might be the Gimti mentioned in one of 'Abdi-
-kheba's texts (EA 290:25-28; Aharoni 1969: 143-
-44). Be that as it may, Shuwardata claimed suzer-
-ainty over Qila (biblical Keilah), but 'Abdi-kheba
-had bribed the elders of Qila to abandon their
-fealty to Shuwardata and to follow him (EA
-280:16-24). Shuwardata had complained to the
-Egyptian authorities and had received permission
-to use force in reoccupying his town. This he did
-and then reported to that effect to Pharaoh (EA
-280:9-15).
-Other figures associated with Gezer are the sons
-of Milkilu, Ba'lu-shipti and Yapaci, who each
-ruled Gezer in turn after their father's demise.
-These may be the same two sons who came within
-an inch ("finger's breadth") of losing their lives
-when outlaw rebels (the Capiru) went to Aiyalon
-and Zorah (EA 273:16-24). That report was sent in
-by a certain woman ruler whose name, written in
-Sumerian signs, meant "Lady of the Lions"; her
-own city was Sapuma/Sabuma (EA 274:16; per-
-sonal collation 29.01.80), the location of which
-remains a mystery (Na'aman 1979: 680, n. 33).
-Several letters (EA 63-65 and EA 335) have
-been shown by Na'aman to have come from a
-certain 'Abdi-ashtarti, who was probably the suc-
-cessor of Shuwardata (Na'aman 1979: 676-84).
-Lachish also appears several times in the el-
-Amarra correspondence. The earliest known ruler
-was Zimredda (EA 329), who was accused of
-plotting against Pharaoh's interest at the urging of
-his brother, Shipti-Ba'lu; the accusation was made
-by a certain Papu, evidently an Egyptian official
-posted at Lachish (EA 333; Albright 1942). This
-information comes from a tablet found in the
-excavations at Tel Hasi and suggests some connec
-tion between that site and Lachish. However, th
-letter may have been waylaid at Tel Hasi on its way
-to Gaza; the official addressed is obviously o
-superior rank to the sender, who is at Lachish. The
-town in that letter, named Yarami (EA 333:10), has
-been equated by Albright (1942; 36, n. 30) with
-biblical Jarmuth (Kh. Yarmuk). His sophisticated
-arguments are not very convincing, but it may tur
-out that the Canaanite name Yaramu was change
-by the Israelites to *Yarimoth (cf. LXX Iepetiou0
-IEptpo0).
-In any case, Zimredda passes from the scene and
-is replaced by his brother, Shipti-Ba'lu (EA 330;
-EA 331). A broken passage from a Jerusalem letter
-indicates that Zimredda was slain by "servants
-[who] have become outlaws ('apirui)" (EA 288:43-
-44; Greenberg 1955: 48). Lachish had subsequently
-furnished logistic support to the 'apiru outlaws, as
-had Gezer and Ashkelon (EA 287:14-16). Another
-letter, apparently from 'Abdi-Ashtarti (of Tell es-
-Saif = later Gath of the Philistines? Na'aman 1979:
-677-78), reports that Lachish had become hostile
-and had seized the town of Mo'rashti (EA 335:14-
-17), perhaps to be equated with biblical Moresheth-
-4 BASOR 251
-BIBLICAL SHEPHELAH OF JUDAH
-Gath (Kallai 1971: 249). Later on, a new ruler was
-in charge of Lachish on the eve of an impending
-campaign or show of force by the Egyptians,
-preparations for which had been ordered by a
-series of letters to vassals throughout Canaan
-(Na'aman 1979: 681; cf. Reviv 1966 and Shulman
-1964: 63, n. 99).
-Therefore, the brief glimpse into the affairs of
-the Shephelah during the el-Amarna Age (14th
-century B.C.) afforded by these texts reveals that
-there were three or four city-states in the area:
-Gezer, the home of Shuwardata (Tell es-Sifi ?);
-Lachish; and perhaps a place called Yaramu. Other
-towns, such as Qila (Keilah) and Mo'rashti, were
-evidently subservient to those major cities. The
-rebellion against Egyptian authority reflected in
-most of the texts was instigated by members of the
-ruling class, e.g., the brother of the king of Lachish,
-and after they disappeared from the scene a new set
-of rulers continued to govern the city states. The
-capiru, "outlawvs," are to be identified with these
-same rebellious political elements. They had no
-connection with the Hebrews, nor were they "re-
-volting peasants" seeking to escape from the feudal
-regime of the Canaanite princes.
-Early Israelite Period
-Instead of entering into unnecessary and unpro-
-ductive discussions of patriarchal chronology, we
-will begin our discussion of the direct biblical
-references to the Shephelah and/or settlements
-therein under the heading of "Early Israelite."
-Nevertheless, as will become clear, we view the
-patriarchal narratives as reflecting only a particu-
-lar aspect of the general settlement process that
-occurred in the hilly regions at the end of the Late
-Bronze Age (late 13th century B.C.) and continued
-during the 12th and 11th centuries B.C. The older,
+rin) is less well known, perhaps, but Tel Burna (Tell Burnat), possibly biblical Libnah (Rainey
+1980: 198), was in existence in the Late Bronze Age. Along Nahal Lakhish there are two major
+sites, Lachish and Kh. el-Qom, (possibly biblical Makkedah; Dorsey 1980), although the latter has not produced any Middle or Late Bronze Age
+sherds. Along Nahal Adorayim, there is Tel 'Eton (Tell 'Aitfn), possibly biblical Eglon (Rainey 1980:
+197), and farther west, where the wadi is now called Nahal Shiqma, there is Tel Hasi (Tell el-
+HesT), which is identified by some as Eglon. The problem of whether Tel Hasi belongs to the She-
+phelah or not will be discussed below. Another site with some LB occupation on the Nahal Shiqma,
+31983 ANSON F. RAINEY
+south of its junction with Nahal Adorayim, is Tel Nagila (Tell en-Najileh; Amiran and Eitan 1977:
+897). Some of the sites mentioned above are, in fact, near the points where their respective wadis
+cross the "trough." From north to south, one may note that the traveler entering the "trough" from
+its juncture with Nahal Sorek behind Beth-shemesh would pass by the Late Bronze sites of Adullam,
+Keilah, Tel 'Eton, Tell Beit Mirsim, and Tel Ualif. Until now, LB material has not been found at Kh.
+el-Qom, but a surface survey has been hindered by the presence.of the modern village.
+Written Sources With the exception of Gezer, no towns in the
+Shephelah region seem to appear in any of the Egyptian topographical lists of the 18th, 19th, or
+20th Dynasties. An emissary from Lachish (Ra-ki- Sd) is listed on a papyrus recording disbursements
+from the royal residence at Memphis (Golenischeff 1913: 5; Muller 1917: 202-3). The text dates from
+the 15th century B.C. and at least confirms that there were active diplomatic relations with Egypt,
+obviously as a vassal to Pharaoh. The el-Amarna tablets also shed some light on the Canaanite cities
+located there. The influential city-state of Gezer was the source
+and the address of several el-Amarna letters (Ross 1966; Izre'el 1978). The first ruler mentioned,
+Milkilu, was involved in a coalition with the ruler of Shechem, the infamous Lab'ayu, and also con-
+spired with his neighbors to seize Rubbuti, a town probably to be equated with Ha-rabbah in the
+Judean Hills (Josh 15:60; Aharoni's proposed loca- tion at Kh. Hamideh would place it just outside the
+Hill Country and in the Shephelah; cf. Rainey 1975c). 'Abdi-kheba, ruler of Jerusalem, com-
+plained bitterly about this action (EA 289:11-13; 290:5-11). One of the rulers allied against 'Abdi-
+kheba, was Shuwardata, whose own city may have been located at Tel Zafit (Tell es-Saff). It is
+debatable whether the name of his town appears in the el-Amarna letters (Na'aman 1979: 681-89); it
+just might be the Gimti mentioned in one of 'Abdi- kheba's texts (EA 290:25-28; Aharoni 1969: 143-
+44). Be that as it may, Shuwardata claimed suzer- ainty over Qila (biblical Keilah), but 'Abdi-kheba
+had bribed the elders of Qila to abandon their fealty to Shuwardata and to follow him (EA
+280:16-24). Shuwardata had complained to the Egyptian authorities and had received permission
+to use force in reoccupying his town. This he did and then reported to that effect to Pharaoh (EA
+280:9-15). Other figures associated with Gezer are the sons
+of Milkilu, Ba'lu-shipti and Yapaci, who each ruled Gezer in turn after their father's demise.
+These may be the same two sons who came within an inch ("finger's breadth") of losing their lives
+when outlaw rebels (the Capiru) went to Aiyalon and Zorah (EA 273:16-24). That report was sent in
+by a certain woman ruler whose name, written in Sumerian signs, meant "Lady of the Lions"; her
+own city was Sapuma/Sabuma (EA 274:16; per- sonal collation 29.01.80), the location of which
+remains a mystery (Na'aman 1979: 680, n. 33). Several letters (EA 63-65 and EA 335) have
+been shown by Na'aman to have come from a certain 'Abdi-ashtarti, who was probably the suc-
+cessor of Shuwardata (Na'aman 1979: 676-84). Lachish also appears several times in the el-
+Amarra correspondence. The earliest known ruler was Zimredda (EA 329), who was accused of
+plotting against Pharaoh's interest at the urging of his brother, Shipti-Ba'lu; the accusation was made
+by a certain Papu, evidently an Egyptian official posted at Lachish (EA 333; Albright 1942). This
+information comes from a tablet found in the excavations at Tel Hasi and suggests some connec
+tion between that site and Lachish. However, th letter may have been waylaid at Tel Hasi on its way
+to Gaza; the official addressed is obviously o superior rank to the sender, who is at Lachish. The
+town in that letter, named Yarami (EA 333:10), has been equated by Albright (1942; 36, n. 30) with
+biblical Jarmuth (Kh. Yarmuk). His sophisticated arguments are not very convincing, but it may tur
+out that the Canaanite name Yaramu was change by the Israelites to *Yarimoth (cf. LXX Iepetiou0
+IEptpo0). In any case, Zimredda passes from the scene and
+is replaced by his brother, Shipti-Ba'lu (EA 330; EA 331). A broken passage from a Jerusalem letter
+indicates that Zimredda was slain by "servants [who] have become outlaws ('apirui)" (EA 288:43-
+44; Greenberg 1955: 48). Lachish had subsequently furnished logistic support to the 'apiru outlaws, as
+had Gezer and Ashkelon (EA 287:14-16). Another letter, apparently from 'Abdi-Ashtarti (of Tell es-
+Saif = later Gath of the Philistines? Na'aman 1979: 677-78), reports that Lachish had become hostile
+and had seized the town of Mo'rashti (EA 335:14- 17), perhaps to be equated with biblical Moresheth-
+4 BASOR 251 BIBLICAL SHEPHELAH OF JUDAH Gath (Kallai 1971: 249). Later on, a new ruler was
+in charge of Lachish on the eve of an impending campaign or show of force by the Egyptians,
+preparations for which had been ordered by a series of letters to vassals throughout Canaan
+(Na'aman 1979: 681; cf. Reviv 1966 and Shulman 1964: 63, n. 99).
+Therefore, the brief glimpse into the affairs of the Shephelah during the el-Amarna Age (14th
+century B.C.) afforded by these texts reveals that there were three or four city-states in the area:
+Gezer, the home of Shuwardata (Tell es-Sifi ?); Lachish; and perhaps a place called Yaramu. Other
+towns, such as Qila (Keilah) and Mo'rashti, were evidently subservient to those major cities. The
+rebellion against Egyptian authority reflected in most of the texts was instigated by members of the
+ruling class, e.g., the brother of the king of Lachish, and after they disappeared from the scene a new set
+of rulers continued to govern the city states. The capiru, "outlawvs," are to be identified with these
+same rebellious political elements. They had no connection with the Hebrews, nor were they "re-
+volting peasants" seeking to escape from the feudal regime of the Canaanite princes.
+Early Israelite Period Instead of entering into unnecessary and unpro-
+ductive discussions of patriarchal chronology, we will begin our discussion of the direct biblical
+references to the Shephelah and/or settlements therein under the heading of "Early Israelite."
+Nevertheless, as will become clear, we view the patriarchal narratives as reflecting only a particu-
+lar aspect of the general settlement process that occurred in the hilly regions at the end of the Late
+Bronze Age (late 13th century B.C.) and continued during the 12th and 11th centuries B.C. The older,
 simplistic view that the destruction levels of certain
 Late Bronze strata in the Shephelah,-that is, at
 Tell Beit Mirsim and at Lachish-were datable
