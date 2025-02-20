@@ -5,10 +5,16 @@ date: 2025-02-02T00:00:00-00:00
 tags: ['Abraham', 'The Book of Abraham']
 ---
 
+---
+title: 'The Biblical Shephelah of Judah'
+date: 2025-02-02T00:00:00-00:00
+featured_image: "/images/posts/judah.jpg"
+tags: ['Judah', 'Jerusalem']
+---
+
 
 QUARTERLY
-A Guide to
-the Book of Abraham
+A Guide to the Book of Abraham
 Stephen O. Smoot, John Gee,
 Kerry Muhlestein, and John S. Thompson
 Editor in Chief
@@ -345,8 +351,7 @@ the Book of Abraham
 BYU Studies Quarterly 61, no. 4 (2022) 13
 What Egyptian Papyri
 Did Joseph Smith Possess?
-I
-n early July 1835, Joseph Smith acquired some Egyptian papyri from
+In early July 1835, Joseph Smith acquired some Egyptian papyri from
 which he claimed to translate the Book of Abraham.1 From historical
 evidence and the papyrus fragments that were returned to The Church
 of Jesus Christ of Latter-day Saints in November 1967,2 we can piece
