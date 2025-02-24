@@ -23,5 +23,6 @@ Second, "Leverage Technology". Use data analytics and automation to optimize you
 Third, "Network and Build Relationships". Partnering with other businesses can help you expand.
 These are three powerful techniques to grow any business.
 
-
 ```
+
+![](/images/posts/desk people.jpeg)
