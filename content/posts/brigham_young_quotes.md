@@ -5,7 +5,6 @@ date: 2024-11-28T12:00:00-00:00
 tags: ["Brigham Young"]
 ---
 
-
 # Top Brigham Young Quotes
 
 “There is not a man or woman, who violates the covenants made with their God, that will not be required to pay the debt. The blood of Christ will never wipe that out, your own blood must atone for it . . . ” (Journal of Discourses, vol. 3, p. 247; see also, vol. 4, p. 53-54, 219-220).
