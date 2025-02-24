@@ -1,6 +1,6 @@
 ---
 title: "Brigham Young Quotes"
-featured_image: "/images/joseph smith.jpg"
+featured_image: "/images/brigham.jpeg"
 date: 2024-11-28T12:00:00-00:00
 tags: ["Brigham Young"]
 ---
