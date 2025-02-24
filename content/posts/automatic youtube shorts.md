@@ -5,7 +5,6 @@ date: 2024-11-28T12:00:00-00:00
 tags: ["youtube"]
 ---
 
-
 # Automatic Youtube Shorts
 
 I would like it to be able to 
@@ -17,14 +16,12 @@ I would like it to be able to
 
 
 ```{python}
+
 In today's video, we’ll cover 3 important business techniques to boost your growth. 
-
 First, "Focus on Customer Experience". Prioritize customer satisfaction to create loyal clients. 
-
 Second, "Leverage Technology". Use data analytics and automation to optimize your operations.
-
 Third, "Network and Build Relationships". Partnering with other businesses can help you expand.
-
 These are three powerful techniques to grow any business.
+
 
 ```
