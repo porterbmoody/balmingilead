@@ -25,4 +25,4 @@ These are three powerful techniques to grow any business.
 
 ```
 
-![](/images/posts/desk people.jpeg)
+![](/images/office/desk people.jpeg)
