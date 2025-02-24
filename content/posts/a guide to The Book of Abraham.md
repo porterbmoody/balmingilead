@@ -278,20 +278,15 @@ while also remaining well-documented and rigorous and providing a
 bibliography for those wanting to dive deeper into these matters.
 In January 2020, Pearl of Great Price Central published its fortieth
 Book of Abraham Insight before shifting attention to Joseph Smith—
-History in the Pearl of Great Price in anticipation for the April 2020 general conference of the Church, which had been designated by President
-Russell M. Nelson as a bicentennial celebration.9 It was at that time that
+History in the Pearl of Great Price in anticipation for the April 2020 general conference of the Church, which had been designated by President Russell M. Nelson as a bicentennial celebration.9 It was at that time that
 the authors of this present volume, who were the principal researchers
-behind the Book of Abraham Insights on the Pearl of Great Price Central website, felt it was appropriate to revise the Insights and make them
-available in print. Accordingly, the subsequent months of the year 2020
+behind the Book of Abraham Insights on the Pearl of Great Price Central website, felt it was appropriate to revise the Insights and make them available in print. Accordingly, the subsequent months of the year 2020
 were spent revising the Insights to incorporate feedback from readers,
-update material in response to advances in scholarship, take into consideration constructive critiques, expand some material that was at first
-kept deliberately short, and include new material that could not appear
+update material in response to advances in scholarship, take into consideration constructive critiques, expand some material that was at first kept deliberately short, and include new material that could not appear
 in the initial run of the Insights due to constraints in Pearl of Great Price
 Central’s publishing schedule. With the kind assistance and cooperation
-of John W. Welch and Steven C. Harper, the former and current editors of BYU Studies Quarterly, respectively, we are pleased to now find a
-home for the final result of these revisions and expansions as an issue of
-that journal.
-As the name of this issue indicates, and in keeping with the original
+of John W. Welch and Steven C. Harper, the former and current editors of BYU Studies Quarterly, respectively, we are pleased to now find a home for the final result of these revisions and expansions as an issue of
+that journal. As the name of this issue indicates, and in keeping with the original
 purpose of Pearl of Great Price Central’s Book of Abraham Insightswhile
 also building on it, our intention here is threefold: first, to introduce
 readers to what the past decades of scholarship on the Book of Abraham
