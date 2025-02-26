@@ -352,11 +352,19 @@ def create_video():
 	# images = [
 
 	# ]
-	business_texts = [
+	texts = [
 		"I'm Mr. Poopybutthole, and I'm here to save the day... or at least make you laugh!",
+		"They say laughter’s the best medicine… but have you tried tacos? Just sayin'!",
 		"Wubba lubba dub dub! Did you know that cats have three eyelids?",
 		"Oooh, I've got a great idea! Let's make some DIY slime using glue, water, and borax!",
+		"Ooo-wee! Let’s turn up the music and dance like no one’s watching… except my dog. He’s definitely judging me.",
+		"Ever tried juggling spaghetti? Neither have I… but I feel like today’s the day!",
+		"I may not be a superhero, but I once parallel parked on the first try — so, you know, pretty close!",
+		"Ooo-wee! I just signed up for yoga class… turns out I’m *way* better at the napping part!",
+		"Who’s ready for an adventure? Or at least a snack break? I vote snack break!",
 		"Don't worry, I've got this! After all, I'm a master of playing the harmonica with my feet!",
+		"I once tried to build a treehouse… now I just have a very confused tree with a lot of nails in it!",
+		"I put my pants on one leg at a time… except sometimes I fall over. It’s part of my charm!",
 		"Mr. Poopybutthole's got a secret: I can eat an entire pizza by myself in one sitting! Don't tell anyone, but...",
 		"Who needs superpowers when you've got a good sense of humor? Am I right, folks? I mean, who needs to fly when you can just laugh your way through life?",
 		"Woo-hoo! It's time for a dance party! Who's with me?",
