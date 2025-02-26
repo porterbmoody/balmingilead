@@ -15,10 +15,14 @@ def generate_audio(text, filename):
 def create_video():
 	images = [
 		'jesus.jpeg',
+		'jesus2.jpeg',
 		'jesus3.jpeg',
 		'jesus4.jpeg',
 		'jesus2.jpeg',
 		'jesus5.jpeg',
+		'jesus6.jpeg',
+		'jesus7.jpeg',
+		'nelson.jpeg',
 	]
 
 	texts = [
@@ -27,6 +31,10 @@ def create_video():
 		"Moses 1:3 Behold, I am the Lord God Almighty, and Endless is my name",
 		"Jeremiah 17:7 Blessed is the man that trusteth in the Lord, and whose hope the Lord is.",
 		"Matthew 11:28 Come unto me, all ye that labour and are heavy laden, and I will give you rest.",
+		"Philippians 4:13 I can do all things through Christ which strengtheneth me.",
+		"2 Nephi 25:23 for it is by grace that we are saved, after all we can do.",
+		"Jacob 4:8 For with God nothing shall be impossible.",
+		"The Answer is Always Jesus Christ",
 	]
 
 	phone_size = (1080, 1920)
@@ -100,18 +108,16 @@ def create_video():
 		generate_audio(text, audio_path)
 		narration_clip = AudioFileClip(audio_path)
 		narration_clips.append(narration_clip)
-	# for narration in narration_clips:
-		# print(narration.duration)
-	# lengths = [5,5,5,5]
-		for img in resized_images:
-			ImageClip(img).set_duration(5)
-		# image_clips = [ImageClip(img).set_duration(duration) for img, duration in zip(resized_images, lengths)]
-		video = concatenate_videoclips(image_clips)
+	image_clips = []
+	for img in resized_images:
+		image_clips.append(ImageClip(img).set_duration(5))
+	# image_clips = [ImageClip(img).set_duration(duration) for img, duration in zip(resized_images, lengths)]
+	video = concatenate_videoclips(image_clips)
 
 	# combined_audio = concatenate_audioclips(narration_clips)
 	# video = video.set_audio(combined_audio)
 
-	audioclip = AudioFileClip("kolob.wav").subclip(0, 15)
+	audioclip = AudioFileClip("kolob.wav").subclip(0, video.duration)
 	audio = CompositeAudioClip([audioclip])
 	video.audio = audio
 
