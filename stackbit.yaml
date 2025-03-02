@@ -235,3 +235,4 @@ models:
       - type: boolean
         name: draft
         label: Draft
+  favicon: favicon.ico
