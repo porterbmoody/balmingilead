@@ -1,8 +1,8 @@
 ---
 title: "Plain and Precious Truths'"
-featured_image: "/images/temple.PNG"
+featured_image: "/images/bible.jpg"
 date: 2024-11-03T10:58:08-04:00
-tags: ["Doctrine" "Bible", "Book of Mormon", "Joseph Smith"]
+tags: ["Doctrine", "Bible", "Book of Mormon", "Joseph Smith"]
 ---
 
 # Book of Mormon verse
