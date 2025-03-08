@@ -1,4 +1,4 @@
-title = "coding, transhumanism, philosophy, religion"
+title = "Faithful Thoughts"
 baseURL = "https://gohugo-theme-ananke.pages.dev"
 languageCode = "en-us"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
@@ -12,7 +12,7 @@ enableRobotsTXT = true
 
 [languages]
   [languages.en]
-    title = "coding, transhumanism, philosophy, religion"
+    title = "Faithful Thoughts"
     weight = 1
     contentDir = "content"
     # languageDirection = 'rtl' for Right-To-Left languages
