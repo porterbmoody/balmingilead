@@ -1,6 +1,6 @@
 ---
 title: "church finances"
-featured_image: "/images/brigham.jpeg"
+featured_image: "/images/temple.jpeg"
 date: 2024-11-28T12:00:00-00:00
 tags: ["church finances"]
 ---
