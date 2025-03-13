@@ -1,5 +1,5 @@
 ---
-title: 'Top 3 Evidences for the Book of Mormon'
+title: '3 Evidences for the Book of Mormon'
 featured_image: '/images/bom.jpg'
 date: 2024-12-02T00:00:00-00:00
 tags: ['Book of Mormon']
