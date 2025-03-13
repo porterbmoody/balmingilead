@@ -1,4 +1,4 @@
-title = "Building Faith in Christ"
+title = "The Answer is Jesus Christ"
 baseURL = "https://gohugo-theme-ananke.pages.dev"
 languageCode = "en-us"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
@@ -12,7 +12,7 @@ enableRobotsTXT = true
 
 [languages]
   [languages.en]
-    title = "Building Faith in Christ"
+    title = "The Answer is Jesus Christ"
     weight = 1
     contentDir = "content"
     # languageDirection = 'rtl' for Right-To-Left languages
