@@ -1,4 +1,4 @@
-title = "Faithful Thoughts"
+title = "Building Faith in Christ"
 baseURL = "https://gohugo-theme-ananke.pages.dev"
 languageCode = "en-us"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
@@ -12,7 +12,7 @@ enableRobotsTXT = true
 
 [languages]
   [languages.en]
-    title = "Faithful Thoughts"
+    title = "Building Faith in Christ"
     weight = 1
     contentDir = "content"
     # languageDirection = 'rtl' for Right-To-Left languages
