@@ -1,7 +1,7 @@
 ---
 title: "There is a law irrevocably decreed in Heaven"
 description: "D&C 130:20-21"
-featured_image: "/images/posts/jesus3.jpeg"
+featured_image: "/images/jesus3.jpeg"
 date: 2023-03-28T10:58:08-04:00
 tags: ["Law", "Obedience", "Restoration"]
 ---
@@ -27,3 +27,4 @@ git push -->
 
 > 7 And, if you keep my commandments and endure to the end you shall have eternal life, which gift is the greatest of all the gifts of God.
 > D&C 14:7
+ q
