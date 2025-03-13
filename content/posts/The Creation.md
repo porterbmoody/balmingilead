@@ -4,7 +4,9 @@ featured_image: '/images/earth.jpg'
 date: 2024-11-11T00:00:00-00:00
 tags: ['Jesus Christ', 'The Creation', 'Earth', 'Genesis', 'Old Testament']
 ---
+# The Creation
 
+Bruce R. McConkie said, “The Lord expects us to believe and understand the true doctrine of the Creation—the creation
 <!-- # The Creation
 ---
 title: "The Plan of Salvation"
