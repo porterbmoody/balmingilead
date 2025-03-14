@@ -20,9 +20,9 @@ Like Nephi, I wish to speak in plainness, according to your language and unto yo
 
 Our Heavenly Father loves us more than we can fully comprehend. His love is perfect, infinite, and enduring. Because of that love, He has given us the gospel—a divine roadmap to help us return to Him and experience eternal joy. In every dispensation of time, God has reached out to His children, calling prophets to teach His gospel to the people.
 
-As it says in *Amos 3:7 JST*:
+As it says in *Amos 3:7 Joseph Smith Translation*:
 
-*“Surely the Lord God will do nothing, until he revealeth his secret unto his servants the prophets.”*
+> 7 Surely the Lord God will do nothing, until he revealeth his secret unto his servants the prophets.
 
 From the beginning, God has called prophets to teach His children. Adam, Enoch, Noah, Abraham, Moses, and many others were chosen to declare His word. In the meridian of time, Jesus Christ Himself came to earth as the greatest Prophet, Teacher, and Savior. He taught the fullness of the gospel, performed miracles, and ultimately gave His life to atone for our sins.
 
