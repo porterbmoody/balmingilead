@@ -6,6 +6,8 @@ date: 2022-12-13T11:00:59-04:00
 tags: ["Restored Gospel", 'Joseph Smith', '1st Vision']
 ---
 
+![tree](/images/1st vision.PNG)
+
 *Brothers and Sisters,*
 
 I am deeply grateful to be here with you today. I live in New River, just north of Anthem I am blessed to live in a beautiful place. I also express gratitude to be a member of the deer valley ward with great members and leadrs. I am eager to share a special message with you that I have prepared. 
@@ -53,6 +55,8 @@ Joseph Smith History says,
 > 16 But, exerting all my powers to call upon God to deliver me out of the power of this enemy which had seized upon me, and at the very moment when I was ready to sink into despair and abandon myself to destruction—not to an imaginary ruin, but to the power of some actual being from the unseen world, who had such marvelous power as I had never before felt in any being—just at this moment of great alarm, I saw a pillar of light exactly over my head, above the brightness of the sun, which descended gradually until it fell upon me.
 
 > "Joseph, my son, thy sins are forgiven thee. Go thy way, walk in my statutes, and keep my commandments. Behold, I am the Lord of glory. I was crucified for the world, that all those who believe on my name may have eternal life. Behold, the world lieth in sin at this time, and none doeth good, no, not one. They have turned aside from the gospel and keep not my commandments. They draw near to me with their lips while their hearts are far from me. And mine anger is kindling against the inhabitants of the earth, to visit them according to their ungodliness and to bring to pass that which hath been spoken by the mouth of the prophets and apostles. Behold and lo, I come quickly, as it is written of me, in the cloud, clothed in the glory of my Father."
+
+![tree](/images/posts/vision.png)
 
 We see that after many hundreds of years of apostacy, our loving, merciful Father in Heaven has shown us once again that he has not forgotten us. 
 
