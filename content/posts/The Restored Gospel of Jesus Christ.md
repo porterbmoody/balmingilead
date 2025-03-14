@@ -24,17 +24,15 @@ As it says in *Amos 3:7 Joseph Smith Translation*:
 
 > 7 Surely the Lord God will do nothing, until he revealeth his secret unto his servants the prophets.
 
-From the beginning, God has called prophets to teach His children. Adam, Enoch, Noah, Abraham, Moses, served as prophets to teach Heavenly Father's gospel. In the meridian of time, Heavenly Father's son, Jesus Christ came to earth and taught the gospel. He also did many other things. He perform miracles, ordained apostles and established his church. He taught truth and wisdom. He lived an entire life with man and eventually atoned for our sins in the garden of gethsemane and was crucified for our sins on a cross. 
+From the beginning, God has called prophets to teach His children. Adam, Enoch, Noah, Abraham, Moses, served as prophets to teach Heavenly Father's gospel. In the meridian of time, Heavenly Father's son, Jesus Christ came to earth and taught the gospel. He also did many other things. He performed miracles, ordained apostles and established his church. He taught truth and wisdom. He lived an entire life with man and then atoned for our sins in the garden of gethsemane and was crucified for our sins on a cross. 
 
-*The Great Apostasy and the Restoration*
-
-After Heavenly Father's son, Jesus Christ died, the apostles continued to preach the gospel for some time, but eventually due to wickedness and price, the church fell away, the doctrines and ordinances were changed or corrupted. 
+After Heavenly Father's son, Jesus Christ died, the apostles continued to preach the gospel for a time, but eventually due to wickedness and price, the church fell away, the doctrines and ordinances were changed or corrupted. 
 
 Isaiah 24:5 says,
 
 > 5 The earth also is defiled under the inhabitants thereof; because they have transgressed the laws, changed the ordinance, broken the everlasting covenant.
 
-So it is quite clear that men heeded the adversary and corrupted the doctrine that Jesus Christ taught in his mortal ministry. 
+We learn that men heeded the adversary and corrupted the doctrine that Jesus Christ taught in his mortal ministry. 
 
 For hundreds of years, the earth was in a period of apostasy, and Heavenly Father's gosple did was nowhere to be found in its fulness. 
 
@@ -42,7 +40,6 @@ Fast forward many hundreds of years, in 1820, a young boy by the name of Joseph 
 At about the age of twelve years, my mind become seriously impressed with regard to the all-important concerns for the welfare of my immortal soul, which led me to searching the scriptures—believing, as I was taught, that they contained the word of God and thus applying myself to them. My intimate acquaintance with those of different denominations led me to marvel exceedingly, for I discovered that they did not adorn their profession by a holy walk and godly conversation agreeable to what I found contained in that sacred depository. This was a grief to my soul.
 
 "Joseph, my son, thy sins are forgiven thee. Go thy way, walk in my statutes, and keep my commandments. Behold, I am the Lord of glory. I was crucified for the world, that all those who believe on my name may have eternal life. Behold, the world lieth in sin at this time, and none doeth good, no, not one. They have turned aside from the gospel and keep not my commandments. They draw near to me with their lips while their hearts are far from me. And mine anger is kindling against the inhabitants of the earth, to visit them according to their ungodliness and to bring to pass that which hath been spoken by the mouth of the prophets and apostles. Behold and lo, I come quickly, as it is written of me, in the cloud, clothed in the glory of my Father."
-
 
 
 
