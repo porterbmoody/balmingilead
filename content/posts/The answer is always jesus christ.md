@@ -1,7 +1,7 @@
 ---
-title: "The Answer is Always Jesus Christ"
+title: "The Restored Gospel of Jesus Christ"
 description: ""
-featured_image: "/images/posts/judgement.jpg"
+featured_image: "/images/vision.jpeg"
 date: 2022-12-13T11:00:59-04:00
 tags: ["Restored Gospel"]
 ---
