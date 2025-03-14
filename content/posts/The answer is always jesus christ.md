@@ -3,21 +3,22 @@ title: "The Answer is Always Jesus Christ"
 description: ""
 featured_image: "/images/posts/judgement.jpg"
 date: 2022-12-13T11:00:59-04:00
-tags: [""]
+tags: ["Restored Gospel"]
 ---
 
 *Brothers and Sisters,*
 
-I am deeply grateful to be here with you today. I live in New River, just north of Anthem, and I feel blessed to call such a wonderful place home. I am eager to share a special message with you—one that I have prepared with great care and prayer. My desire is to speak plainly, as Nephi did in *2 Nephi 31:3*, when he said:
+I am deeply grateful to be here with you today. I live in New River, just north of Anthem I am blessed to live in a beautiful place. I also express gratitude to be a member of the deer valley ward with great members and leadrs. I am eager to share a special message with you that I have prepared. 
 
-*“For my soul delighteth in plainness; for after this manner doth the Lord God work among the children of men. For the Lord God giveth light unto the understanding; for he speaketh unto men according to their language, unto their understanding.”*
+In *2 Nephi 31:3* Nephi said,
 
+> 3 For my soul delighteth in plainness; for after this manner doth the Lord God work among the children of men. For the Lord God giveth light unto the understanding; for he speaketh unto men according to their language, unto their understanding.
 
-Like Nephi, I wish to speak in a way that is clear and accessible, following the Lord’s example of communicating with us according to our language and understanding. Today, I want to share some eternal truths about our loving Heavenly Father and His gospel—truths that have been restored in our day for our blessing and guidance.
+Like Nephi, I wish to speak in plainness, according to your language and unto your understanding.
 
 *God’s Love and the Plan of Salvation*
 
-Our Heavenly Father loves us more than we can fully comprehend. His love is perfect, infinite, and enduring. Because of that love, He has given us the gospel—a divine roadmap to help us return to Him and experience eternal joy. In every dispensation of time, God has reached out to His children, calling prophets to teach His gospel and guide His people.
+Our Heavenly Father loves us more than we can fully comprehend. His love is perfect, infinite, and enduring. Because of that love, He has given us the gospel—a divine roadmap to help us return to Him and experience eternal joy. In every dispensation of time, God has reached out to His children, calling prophets to teach His gospel to the people.
 
 As it says in *Amos 3:7*:
 
