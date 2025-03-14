@@ -39,7 +39,8 @@ For hundreds of years, the earth was in a period of apostasy, and the fulness of
 > Fast forward many hundreds of years, in 1820, a young boy named Joseph Smith noticed this. He shared, "At about the age of twelve years, my mind become seriously impressed with regard to the all-important concerns for the welfare of my immortal soul, which led me to searching the scriptures—believing, as I was taught, that they contained the word of God and thus applying myself to them. My intimate acquaintance with those of different denominations led me to marvel exceedingly, for I discovered that they did not adorn their profession by a holy walk and godly conversation agreeable to what I found contained in that sacred depository. This was a grief to my soul.
 > I found that mankind did not come unto the Lord but that they had apostatized from the true and living faith, and there was no society or denomination that was built upon the gospel of Jesus Christ as recorded in the New Testament. I felt to mourn for my own sins and for the sins of the world, for I learned in the scriptures that God was the same yesterday, today, and forever, that he was no respecter of persons, for he was God. "
 
-Joseph felt that the teachings of the many churches of his day were lacking in ways.. so he began to search for answers. One day he read in James 1:5,
+Joseph recognized that the true church of Jesus Christ had fallen into apostasy
+felt that the teachings of the many churches of his day were lacking in ways.. so he began to search for answers. One day he read in James 1:5,
 
 > 5 If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.
 
