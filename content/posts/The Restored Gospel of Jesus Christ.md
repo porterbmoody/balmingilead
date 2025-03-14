@@ -34,10 +34,16 @@ Isaiah 24:5 says,
 
 We learn that men heeded the adversary and corrupted the doctrine that Jesus Christ taught in his mortal ministry. 
 
-For hundreds of years, the earth was in a period of apostasy, and Heavenly Father's gosple did was nowhere to be found in its fulness. 
+For hundreds of years, the earth was in a period of apostasy, and Heavenly Father's gospel was nowhere to be found in its fulness. 
 
-Fast forward many hundreds of years, in 1820, a young boy by the name of Joseph Smith noticed this. He shared, "
-At about the age of twelve years, my mind become seriously impressed with regard to the all-important concerns for the welfare of my immortal soul, which led me to searching the scriptures—believing, as I was taught, that they contained the word of God and thus applying myself to them. My intimate acquaintance with those of different denominations led me to marvel exceedingly, for I discovered that they did not adorn their profession by a holy walk and godly conversation agreeable to what I found contained in that sacred depository. This was a grief to my soul.
+Fast forward many hundreds of years, in 1820, a young boy named Joseph Smith noticed this. He shared, "At about the age of twelve years, my mind become seriously impressed with regard to the all-important concerns for the welfare of my immortal soul, which led me to searching the scriptures—believing, as I was taught, that they contained the word of God and thus applying myself to them. My intimate acquaintance with those of different denominations led me to marvel exceedingly, for I discovered that they did not adorn their profession by a holy walk and godly conversation agreeable to what I found contained in that sacred depository. This was a grief to my soul.
+
+Joseph felt that the teachings of the many churches of his day were lacking in ways.. so he began to search for answers. One day he read in James 1:5,
+
+> 5 If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.
+
+
+
 
 "Joseph, my son, thy sins are forgiven thee. Go thy way, walk in my statutes, and keep my commandments. Behold, I am the Lord of glory. I was crucified for the world, that all those who believe on my name may have eternal life. Behold, the world lieth in sin at this time, and none doeth good, no, not one. They have turned aside from the gospel and keep not my commandments. They draw near to me with their lips while their hearts are far from me. And mine anger is kindling against the inhabitants of the earth, to visit them according to their ungodliness and to bring to pass that which hath been spoken by the mouth of the prophets and apostles. Behold and lo, I come quickly, as it is written of me, in the cloud, clothed in the glory of my Father."
 
