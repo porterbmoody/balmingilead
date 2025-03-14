@@ -24,11 +24,28 @@ As it says in *Amos 3:7 Joseph Smith Translation*:
 
 > 7 Surely the Lord God will do nothing, until he revealeth his secret unto his servants the prophets.
 
-From the beginning, God has called prophets to teach His children. Adam, Enoch, Noah, Abraham, Moses, and many others were chosen to declare His word. In the meridian of time, Jesus Christ Himself came to earth as the greatest Prophet, Teacher, and Savior. He taught the fullness of the gospel, performed miracles, and ultimately gave His life to atone for our sins.
+From the beginning, God has called prophets to teach His children. Adam, Enoch, Noah, Abraham, Moses, served as prophets to teach Heavenly Father's gospel. In the meridian of time, Heavenly Father's son, Jesus Christ came to earth and taught the gospel. He also did many other things. He perform miracles, ordained apostles and established his church. He taught truth and wisdom. He lived an entire life with man and eventually atoned for our sins in the garden of gethsemane and was crucified for our sins on a cross. 
 
 *The Great Apostasy and the Restoration*
 
-After the Savior’s mortal ministry, many of His teachings were corrupted or lost. The priesthood authority was taken from the earth, and the world entered a period known as the Great Apostasy. For centuries, people lived without the fullness of the gospel or the guidance of living prophets. Yet, even in that darkness, God’s love for His children never wavered.
+After Heavenly Father's son, Jesus Christ died, the apostles continued to preach the gospel for some time, but eventually due to wickedness and price, the church fell away, the doctrines and ordinances were changed or corrupted. 
+
+Isaiah 24:5 says,
+
+> 5 The earth also is defiled under the inhabitants thereof; because they have transgressed the laws, changed the ordinance, broken the everlasting covenant.
+
+So it is quite clear that men heeded the adversary and corrupted the doctrine that Jesus Christ taught in his mortal ministry. 
+
+For hundreds of years, the earth was in a period of apostasy, and Heavenly Father's gosple did was nowhere to be found in its fulness. 
+
+Fast forward many hundreds of years, in 1820, a young boy by the name of Joseph Smith noticed this. He shared, "
+At about the age of twelve years, my mind become seriously impressed with regard to the all-important concerns for the welfare of my immortal soul, which led me to searching the scriptures—believing, as I was taught, that they contained the word of God and thus applying myself to them. My intimate acquaintance with those of different denominations led me to marvel exceedingly, for I discovered that they did not adorn their profession by a holy walk and godly conversation agreeable to what I found contained in that sacred depository. This was a grief to my soul.
+
+"Joseph, my son, thy sins are forgiven thee. Go thy way, walk in my statutes, and keep my commandments. Behold, I am the Lord of glory. I was crucified for the world, that all those who believe on my name may have eternal life. Behold, the world lieth in sin at this time, and none doeth good, no, not one. They have turned aside from the gospel and keep not my commandments. They draw near to me with their lips while their hearts are far from me. And mine anger is kindling against the inhabitants of the earth, to visit them according to their ungodliness and to bring to pass that which hath been spoken by the mouth of the prophets and apostles. Behold and lo, I come quickly, as it is written of me, in the cloud, clothed in the glory of my Father."
+
+
+
+<!-- After the Savior’s mortal ministry, many of His teachings were corrupted or lost. The priesthood authority was taken from the earth, and the world entered a period known as the Great Apostasy. For centuries, people lived without the fullness of the gospel or the guidance of living prophets. Yet, even in that darkness, God’s love for His children never wavered.
 
 In His infinite mercy, our Heavenly Father prepared the way for the gospel to be restored in its fullness. This restoration began with a young man named Joseph Smith. Through Joseph Smith, the Lord restored His Church, the priesthood, and the plain and precious truths of the gospel. Joseph Smith served as an instrument in the Lord’s hands, and through him, the heavens were opened once more.
 
@@ -45,4 +62,4 @@ Brothers and sisters, I testify that God lives. He is our loving Heavenly Father
 
 I invite each of us to study the scriptures, listen to the words of our living prophets, and seek personal revelation. As we do so, we will come to know for ourselves that these truths are eternal and that they have the power to transform our lives.
 
-I leave these thoughts with you in the name of Jesus Christ, amen.
+I leave these thoughts with you in the name of Jesus Christ, amen. -->
