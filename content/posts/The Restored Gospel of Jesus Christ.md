@@ -64,6 +64,8 @@ Isaiah 49:15-16 reads,
 
 > 16 Behold, I have graven thee upon the palms of my hands; thy walls are continually before me.
 
+One of the things that Heavenly Father told Joseph Smith to do was translate the Book of Mormon from the gold plates that had been put into the earth hundreds of years ago by the Prophet Moroni. Joseph Smith then translated the gold plates, and now we have the Book of Mormon. The Book of Mormon teaches the fulness of the same gospel that Jesus Christ taught while he was on the earth. 
+
 <!-- After the Savior’s mortal ministry, many of His teachings were corrupted or lost. The priesthood authority was taken from the earth, and the world entered a period known as the Great Apostasy. For centuries, people lived without the fullness of the gospel or the guidance of living prophets. Yet, even in that darkness, God’s love for His children never wavered.
 
 In His infinite mercy, our Heavenly Father prepared the way for the gospel to be restored in its fullness. This restoration began with a young man named Joseph Smith. Through Joseph Smith, the Lord restored His Church, the priesthood, and the plain and precious truths of the gospel. Joseph Smith served as an instrument in the Lord’s hands, and through him, the heavens were opened once more.
