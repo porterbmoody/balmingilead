@@ -34,6 +34,15 @@ Isaiah 24:5 says,
 
 We learn that men heeded the adversary and corrupted the doctrine that Jesus Christ taught in his mortal ministry. 
 
+In around 53-57AD, Paul taught that grievous wolves would enter in among the church *Acts 20:29-30*
+
+> 29 For I know this, that after my departing shall grievous wolves enter in among you, not sparing the flock.
+> 30 Also of your own selves shall men arise, speaking perverse things, to draw away disciples after them.
+
+2 Thessalonians 2
+
+> 3 Let no man deceive you by any means: for that day shall not come, except there come a falling away first, and that man of sin be revealed, the son of perdition;
+
 For hundreds of years, the earth the fulness of the gospel of Jesus Christ and the priesthood power did not exist on the earth.
 
 Fast forward many hundreds of years, in 1820, a young boy named Joseph Smith noticed this, saying,
@@ -42,43 +51,33 @@ Fast forward many hundreds of years, in 1820, a young boy named Joseph Smith not
 
 Joseph recognized that the true Church of Jesus Christ had fallen away. He began to search for answers. He read in James 1:5 which says,
 
-> 5 If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.
+<!-- > 5 If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.
 
 Joseph followed the counsel of James and went into a grove of trees and began to pray. Joseph Smith History says,
 
-<!-- > 15 After I had retired to the place where I had previously designed to go, having looked around me, and finding myself alone, I kneeled down and began to offer up the desires of my heart to God. I had scarcely done so, when immediately I was seized upon by some power which entirely overcame me, and had such an astonishing influence over me as to bind my tongue so that I could not speak. Thick darkness gathered around me, and it seemed to me for a time as if I were doomed to sudden destruction. -->
+> 15 After I had retired to the place where I had previously designed to go, having looked around me, and finding myself alone, I kneeled down and began to offer up the desires of my heart to God. I had scarcely done so, when immediately I was seized upon by some power which entirely overcame me, and had such an astonishing influence over me as to bind my tongue so that I could not speak. Thick darkness gathered around me, and it seemed to me for a time as if I were doomed to sudden destruction.
 
-<!-- > 16 But, exerting all my powers to call upon God to deliver me out of the power of this enemy which had seized upon me, and at the very moment when I was ready to sink into despair and abandon myself to destruction—not to an imaginary ruin, but to the power of some actual being from the unseen world, who had such marvelous power as I had never before felt in any being—just at this moment of great alarm, I saw a pillar of light exactly over my head, above the brightness of the sun, which descended gradually until it fell upon me. -->
+> 16 But, exerting all my powers to call upon God to deliver me out of the power of this enemy which had seized upon me, and at the very moment when I was ready to sink into despair and abandon myself to destruction—not to an imaginary ruin, but to the power of some actual being from the unseen world, who had such marvelous power as I had never before felt in any being—just at this moment of great alarm, I saw a pillar of light exactly over my head, above the brightness of the sun, which descended gradually until it fell upon me. -->
 
-<!-- > "Joseph, my son, thy sins are forgiven thee. Go thy way, walk in my statutes, and keep my commandments. Behold, I am the Lord of glory. I was crucified for the world, that all those who believe on my name may have eternal life. Behold, the world lieth in sin at this time, and none doeth good, no, not one. They have turned aside from the gospel and keep not my commandments. They draw near to me with their lips while their hearts are far from me. And mine anger is kindling against the inhabitants of the earth, to visit them according to their ungodliness and to bring to pass that which hath been spoken by the mouth of the prophets and apostles. Behold and lo, I come quickly, as it is written of me, in the cloud, clothed in the glory of my Father." -->
+> "Joseph, my son, thy sins are forgiven thee. Go thy way, walk in my statutes, and keep my commandments. Behold, I am the Lord of glory. I was crucified for the world, that all those who believe on my name may have eternal life. Behold, the world lieth in sin at this time, and none doeth good, no, not one. They have turned aside from the gospel and keep not my commandments. They draw near to me with their lips while their hearts are far from me. And mine anger is kindling against the inhabitants of the earth, to visit them according to their ungodliness and to bring to pass that which hath been spoken by the mouth of the prophets and apostles. Behold and lo, I come quickly, as it is written of me, in the cloud, clothed in the glory of my Father."
 
 <!-- ![tree](/images/posts/vision.png) -->
 
-We see that after many hundreds of years of apostacy, our loving, merciful Father in Heaven has shown us once again that he has not forgotten us. 
+<!-- One of the things that Heavenly Father told Joseph Smith to do was translate the Book of Mormon from the gold plates that had been put into the earth hundreds of years ago by the Prophet Moroni. Joseph Smith then translated the gold plates, and now we have the Book of Mormon. The Book of Mormon teaches the fulness of the gospel that Jesus Christ taught while he was on the earth.  -->
 
-Isaiah 49:15-16 reads,
+<!-- In His infinite mercy, our Heavenly Father prepared the way for the gospel to be restored in its fullness. This restoration began with a young man named Joseph Smith. Through Joseph Smith, the Lord restored His Church, the priesthood, and the plain and precious truths of the gospel. Joseph Smith served as an instrument in the Lord’s hands, and through him, the heavens were opened once more. -->
 
-> 15 Can a woman forget her sucking child, that she should not have compassion on the son of her womb? yea, they may forget, yet will I not forget thee.
+<!-- *The Power of Modern Revelation* -->
 
-> 16 Behold, I have graven thee upon the palms of my hands; thy walls are continually before me.
+<!-- We have received many powerful revelations by the pen of Joseph Smith, but one of the greatest is a book called the Book of Mormon.  -->
+<!-- Today, we are blessed to live in a time when the gospel has been restored in its fullness. We have the scriptures, including the Book of Mormon, which stands as another testament of Jesus Christ. We have the priesthood keys and ordinances necessary for salvation. And most importantly, we have living prophets and apostles who continue to receive revelation for our time. -->
 
-One of the things that Heavenly Father told Joseph Smith to do was translate the Book of Mormon from the gold plates that had been put into the earth hundreds of years ago by the Prophet Moroni. Joseph Smith then translated the gold plates, and now we have the Book of Mormon. The Book of Mormon teaches the fulness of the gospel that Jesus Christ taught while he was on the earth. 
+<!-- The truths revealed through Joseph Smith are simple yet profound. They teach us about the nature of God, the plan of salvation, and the importance of faith, repentance, baptism, the gift of the Holy Ghost, and enduring to the end. These truths are not new—they are the same eternal principles taught by prophets since the days of Adam. But they have been restored to bless us in our day. -->
 
-<!-- After the Savior’s mortal ministry, many of His teachings were corrupted or lost. The priesthood authority was taken from the earth, and the world entered a period known as the Great Apostasy. For centuries, people lived without the fullness of the gospel or the guidance of living prophets. Yet, even in that darkness, God’s love for His children never wavered.
+<!-- *A Testimony of God’s Love* -->
 
-In His infinite mercy, our Heavenly Father prepared the way for the gospel to be restored in its fullness. This restoration began with a young man named Joseph Smith. Through Joseph Smith, the Lord restored His Church, the priesthood, and the plain and precious truths of the gospel. Joseph Smith served as an instrument in the Lord’s hands, and through him, the heavens were opened once more.
+<!-- Brothers and sisters, I testify that God lives. He is our loving Heavenly Father, and He knows each of us personally. He has given us the gospel to guide us, prophets to lead us, and His Son, Jesus Christ, to save us. The restoration of the gospel is evidence of His perfect love for all His children. -->
 
-*The Power of Modern Revelation*
+<!-- I invite each of us to study the scriptures, listen to the words of our living prophets, and seek personal revelation. As we do so, we will come to know for ourselves that these truths are eternal and that they have the power to transform our lives. -->
 
-We have received many powerful revelations by the pen of Joseph Smith, but one of the greatest is a book called the Book of Mormon. 
-Today, we are blessed to live in a time when the gospel has been restored in its fullness. We have the scriptures, including the Book of Mormon, which stands as another testament of Jesus Christ. We have the priesthood keys and ordinances necessary for salvation. And most importantly, we have living prophets and apostles who continue to receive revelation for our time.
-
-The truths revealed through Joseph Smith are simple yet profound. They teach us about the nature of God, the plan of salvation, and the importance of faith, repentance, baptism, the gift of the Holy Ghost, and enduring to the end. These truths are not new—they are the same eternal principles taught by prophets since the days of Adam. But they have been restored to bless us in our day.
-
-*A Testimony of God’s Love*
-
-Brothers and sisters, I testify that God lives. He is our loving Heavenly Father, and He knows each of us personally. He has given us the gospel to guide us, prophets to lead us, and His Son, Jesus Christ, to save us. The restoration of the gospel is evidence of His perfect love for all His children.
-
-I invite each of us to study the scriptures, listen to the words of our living prophets, and seek personal revelation. As we do so, we will come to know for ourselves that these truths are eternal and that they have the power to transform our lives.
-
-I leave these thoughts with you in the name of Jesus Christ, amen. -->
+<!-- I leave these thoughts with you in the name of Jesus Christ, amen. --> -->
