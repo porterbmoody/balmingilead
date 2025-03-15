@@ -6,7 +6,7 @@ date: 2022-12-13T11:00:59-04:00
 tags: ["Restored Gospel", 'Joseph Smith', '1st Vision']
 ---
 
-![tree](/images/1st vision.PNG)
+![tree](../images/1st vision.PNG)
 
 *Brothers and Sisters,*
 
