@@ -16,6 +16,8 @@ df
 df_bom = pd.DataFrame()
 book_titles = []
 chapter_numbers = []
+reference_numbers = []
+verses = []
 chapters = []
 
 for i, book in enumerate(data['books'][0:2]):
@@ -23,19 +25,14 @@ for i, book in enumerate(data['books'][0:2]):
     for chapter in book['chapters']:
         # chapters.append(chapters)
         chapter_numbers.append(chapter['chapter'])
-        print(chapter)
-        print(chapter['chapter'])
+        reference_numbers.append(chapter['reference'])
+        verses.append(chapter['verses'])
+        for verse in verses:
+            
+        # print(chapter)
+        # print(chapter['chapter'])
 
-
-    # chapter_numbers.append(book['chapters'])
-    # print(book['book'])
-    # print(book['chapters'])
-    # print(book['book'])
-    # print(book)
-    # print(i)
-
-# book_titles
-# chapters
-# data['books']
-
-
+print(book_titles)
+print(chapter_numbers)
+print(reference_numbers)
+print(verses)
