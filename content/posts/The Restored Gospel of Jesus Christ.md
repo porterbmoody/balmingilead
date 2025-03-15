@@ -3,12 +3,12 @@ title: "The Restored Gospel of Jesus Christ"
 description: ""
 featured_image: "/images/vision.jpeg"
 date: 2025-03-13T11:00:59-04:00
-tags: ["Restored Gospel", 'Joseph Smith', '1st Vision']
+tags: ["Restored Gospel", 'Joseph Smith', '1st Vision', 'Jesus Christ']
 ---
 
 <!-- ![tree](../images/1st vision.PNG) -->
 
-<!-- *Brothers and Sisters,* -->
+*Brothers and Sisters*
 
 I am deeply grateful to be here with you today. I live in New River, just north of Anthem I am blessed to live in a beautiful place. I also express gratitude to be a member of the deer valley ward with great members and leaders. I am eager to share a special message with you that I have prepared. 
 
@@ -18,15 +18,15 @@ In *2 Nephi 31:3* Nephi said,
 
 Like Nephi, I wish to speak in plainness, according to your language and unto your understanding.
 
-Our Heavenly Father loves us more than we can fully comprehend. His love is perfect, infinite, and enduring. Because of that love, He has given us the gospel—a plan that allows us to repent and become like Heavenly Father and Jesus Christ and return to them and live with them forever. In every dispensation of time, God has reached out to His children, calling prophets to teach His gospel to the people.
+Today I would like to share a very simple, but important message. God, our Heavenly Father loves us more than we can fully comprehend. His love is perfect, infinite, enduring, and universal. Because of that love, He has given us the gospel—a plan that allows us to repent and become like Heavenly Father and Jesus Christ and return to them and live with them forever. In every dispensation, Heavenly Father reaches out to His children, calling prophets to teach His gospel to the people.
 
-As it says in *Amos 3:7 Joseph Smith Translation*:
+As it says in *Amos 3:7 JST*:
 
 > 7 Surely the Lord God will do nothing, until he revealeth his secret unto his servants the prophets.
 
-From the beginning, God has called prophets to teach His children. Adam, Enoch, Noah, Abraham, Moses, served as prophets to teach Heavenly Father's gospel. In the meridian of time, Heavenly Father's son, Jesus Christ came to earth and taught the gospel. He also did many other things. He performed miracles, ordained apostles and established his church. He taught truth and wisdom. He lived an entire life with man and then atone for our sins in the garden of gethsemane and was crucified and died on a cross. 
+From the beginning, God has called prophets to teach His children. Adam, Enoch, Noah, Abraham, Moses, served as prophets to teach Heavenly Father's gospel. In the meridian of time, Heavenly Father sent his son, Jesus Christ to earth to teach the gospel. He also did many other things. He performed miracles, ordained apostles and established his church. He taught truth and wisdom. He set the example for us. He lived an entire life with man and then performed the infinite atonement and suffered and died for our sins. 
 
-After Heavenly Father's son, Jesus Christ died, the apostles continued to preach the gospel for a time, but eventually due to wickedness and pride, the church fell away, the doctrines and ordinances were changed or corrupted. 
+After Heavenly Father's son, Jesus Christ died, the apostles continued to preach the gospel for a time, but eventually due to wickedness, the church fell away and the doctrines and ordinances were changed or corrupted. 
 
 Isaiah 24:5 says,
 
@@ -34,7 +34,7 @@ Isaiah 24:5 says,
 
 We learn that men heeded the adversary and corrupted the doctrine that Jesus Christ taught in his mortal ministry. 
 
-For hundreds of years, the earth was in a period of apostasy, and the fulness of the gospel of Jesus Christ was nowhere to be found in its fulness. 
+For hundreds of years, the earth the fulness of the gospel of Jesus Christ and the priesthood power did not exist on the earth.
 
 Fast forward many hundreds of years, in 1820, a young boy named Joseph Smith noticed this, saying,
 
