@@ -33,7 +33,7 @@ for i, book in enumerate(data['books'][0:2]):
             # print(chapter_verses)
             for verse in chapter_verses:
                 print(verse['text'])
-                verses.append(verse)
+                verses.append(verse['text'])
                 verse_references.append(verse['reference'])
 
         # print(chapter)
@@ -49,3 +49,7 @@ for i, book in enumerate(data['books'][0:2]):
 
 
 # %%
+
+df_bom = pd.DataFrame({'reference':verse_references,'verse':verses})
+df_bom
+
