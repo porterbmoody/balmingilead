@@ -2,7 +2,7 @@
 title: "The Restored Gospel of Jesus Christ"
 description: ""
 featured_image: "/images/vision.jpeg"
-date: 2022-12-13T11:00:59-04:00
+date: 2025-03-13T11:00:59-04:00
 tags: ["Restored Gospel", 'Joseph Smith', '1st Vision']
 ---
 
@@ -65,7 +65,6 @@ Isaiah 49:15-16 reads,
 > 16 Behold, I have graven thee upon the palms of my hands; thy walls are continually before me.
 
 One of the things that Heavenly Father told Joseph Smith to do was translate the Book of Mormon from the gold plates that had been put into the earth hundreds of years ago by the Prophet Moroni. Joseph Smith then translated the gold plates, and now we have the Book of Mormon. The Book of Mormon teaches the fulness of the gospel that Jesus Christ taught while he was on the earth. 
-
 
 <!-- After the Savior’s mortal ministry, many of His teachings were corrupted or lost. The priesthood authority was taken from the earth, and the world entered a period known as the Great Apostasy. For centuries, people lived without the fullness of the gospel or the guidance of living prophets. Yet, even in that darkness, God’s love for His children never wavered.
 
