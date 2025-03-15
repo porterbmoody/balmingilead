@@ -6,9 +6,9 @@ date: 2022-12-13T11:00:59-04:00
 tags: ["Restored Gospel", 'Joseph Smith', '1st Vision']
 ---
 
-![tree](../images/1st vision.PNG)
+<!-- ![tree](../images/1st vision.PNG) -->
 
-*Brothers and Sisters,*
+<!-- *Brothers and Sisters,* -->
 
 I am deeply grateful to be here with you today. I live in New River, just north of Anthem I am blessed to live in a beautiful place. I also express gratitude to be a member of the deer valley ward with great members and leaders. I am eager to share a special message with you that I have prepared. 
 
@@ -46,9 +46,7 @@ Joseph recognized that the true Church of Jesus Christ had fallen away. He began
 
 > 5 If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.
 
-Joseph followed the counsel of James and went into a grove of trees and began to pray. 
-
-Joseph Smith History says,
+Joseph followed the counsel of James and went into a grove of trees and began to pray. Joseph Smith History says,
 
 <!-- > 15 After I had retired to the place where I had previously designed to go, having looked around me, and finding myself alone, I kneeled down and began to offer up the desires of my heart to God. I had scarcely done so, when immediately I was seized upon by some power which entirely overcame me, and had such an astonishing influence over me as to bind my tongue so that I could not speak. Thick darkness gathered around me, and it seemed to me for a time as if I were doomed to sudden destruction. -->
 
