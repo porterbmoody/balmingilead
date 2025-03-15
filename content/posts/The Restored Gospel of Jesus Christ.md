@@ -18,7 +18,7 @@ In *2 Nephi 31:3* Nephi said,
 
 Like Nephi, I wish to speak in plainness, according to your language and unto your understanding.
 
-Our Heavenly Father loves us more than we can fully comprehend. His love is perfect, infinite, and enduring. Because of that love, He has given us the gospel—a divine roadmap to help us return to Him and experience eternal joy. In every dispensation of time, God has reached out to His children, calling prophets to teach His gospel to the people.
+Our Heavenly Father loves us more than we can fully comprehend. His love is perfect, infinite, and enduring. Because of that love, He has given us the gospel—a plan that allows us to repent and become like Heavenly Father and Jesus Christ and return to them and live with them forever. In every dispensation of time, God has reached out to His children, calling prophets to teach His gospel to the people.
 
 As it says in *Amos 3:7 Joseph Smith Translation*:
 
@@ -36,11 +36,13 @@ We learn that men heeded the adversary and corrupted the doctrine that Jesus Chr
 
 For hundreds of years, the earth was in a period of apostasy, and the fulness of the gospel of Jesus Christ was nowhere to be found in its fulness. 
 
-Fast forward many hundreds of years, in 1820, a young boy named Joseph Smith noticed this. He shared,
+Fast forward many hundreds of years, in 1820, a young boy named Joseph Smith noticed this, saying,
 
-> "At about the age of twelve years, my mind become seriously impressed with regard to the all-important concerns for the welfare of my immortal soul, which led me to searching the scriptures—believing, as I was taught, that they contained the word of God and thus applying myself to them. My intimate acquaintance with those of different denominations led me to marvel exceedingly, for I discovered that they did not adorn their profession by a holy walk and godly conversation agreeable to what I found contained in that sacred depository. This was a grief to my soul. I found that mankind did not come unto the Lord but that they had apostatized from the true and living faith, and there was no society or denomination that was built upon the gospel of Jesus Christ as recorded in the New Testament. I felt to mourn for my own sins and for the sins of the world, for I learned in the scriptures that God was the same yesterday, today, and forever, that he was no respecter of persons, for he was God. "
+"I found that mankind did not come unto the Lord but that they had apostatized from the true and living faith, and there was no society or denomination that was built upon the gospel of Jesus Christ as recorded in the New Testament."
 
-Joseph recognized that the true church of Jesus Christ had fallen away. He began to search for answers. He read in James 1:5 which says,
+<!-- > "At about the age of twelve years, my mind become seriously impressed with regard to the all-important concerns for the welfare of my immortal soul, which led me to searching the scriptures—believing, as I was taught, that they contained the word of God and thus applying myself to them. My intimate acquaintance with those of different denominations led me to marvel exceedingly, for I discovered that they did not adorn their profession by a holy walk and godly conversation agreeable to what I found contained in that sacred depository. This was a grief to my soul.  I felt to mourn for my own sins and for the sins of the world, for I learned in the scriptures that God was the same yesterday, today, and forever, that he was no respecter of persons, for he was God. " -->
+
+Joseph recognized that the true Church of Jesus Christ had fallen away. He began to search for answers. He read in James 1:5 which says,
 
 > 5 If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.
 
@@ -64,7 +66,8 @@ Isaiah 49:15-16 reads,
 
 > 16 Behold, I have graven thee upon the palms of my hands; thy walls are continually before me.
 
-One of the things that Heavenly Father told Joseph Smith to do was translate the Book of Mormon from the gold plates that had been put into the earth hundreds of years ago by the Prophet Moroni. Joseph Smith then translated the gold plates, and now we have the Book of Mormon. The Book of Mormon teaches the fulness of the same gospel that Jesus Christ taught while he was on the earth. 
+One of the things that Heavenly Father told Joseph Smith to do was translate the Book of Mormon from the gold plates that had been put into the earth hundreds of years ago by the Prophet Moroni. Joseph Smith then translated the gold plates, and now we have the Book of Mormon. The Book of Mormon teaches the fulness of the gospel that Jesus Christ taught while he was on the earth. 
+
 
 <!-- After the Savior’s mortal ministry, many of His teachings were corrupted or lost. The priesthood authority was taken from the earth, and the world entered a period known as the Great Apostasy. For centuries, people lived without the fullness of the gospel or the guidance of living prophets. Yet, even in that darkness, God’s love for His children never wavered.
 
