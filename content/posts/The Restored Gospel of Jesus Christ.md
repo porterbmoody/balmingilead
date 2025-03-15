@@ -10,7 +10,7 @@ tags: ["Restored Gospel", 'Joseph Smith', '1st Vision']
 
 *Brothers and Sisters,*
 
-I am deeply grateful to be here with you today. I live in New River, just north of Anthem I am blessed to live in a beautiful place. I also express gratitude to be a member of the deer valley ward with great members and leadrs. I am eager to share a special message with you that I have prepared. 
+I am deeply grateful to be here with you today. I live in New River, just north of Anthem I am blessed to live in a beautiful place. I also express gratitude to be a member of the deer valley ward with great members and leaders. I am eager to share a special message with you that I have prepared. 
 
 In *2 Nephi 31:3* Nephi said,
 
@@ -18,17 +18,15 @@ In *2 Nephi 31:3* Nephi said,
 
 Like Nephi, I wish to speak in plainness, according to your language and unto your understanding.
 
-*God’s Love and the Plan of Salvation*
-
 Our Heavenly Father loves us more than we can fully comprehend. His love is perfect, infinite, and enduring. Because of that love, He has given us the gospel—a divine roadmap to help us return to Him and experience eternal joy. In every dispensation of time, God has reached out to His children, calling prophets to teach His gospel to the people.
 
 As it says in *Amos 3:7 Joseph Smith Translation*:
 
 > 7 Surely the Lord God will do nothing, until he revealeth his secret unto his servants the prophets.
 
-From the beginning, God has called prophets to teach His children. Adam, Enoch, Noah, Abraham, Moses, served as prophets to teach Heavenly Father's gospel. In the meridian of time, Heavenly Father's son, Jesus Christ came to earth and taught the gospel. He also did many other things. He performed miracles, ordained apostles and established his church. He taught truth and wisdom. He lived an entire life with man and then atoned for our sins in the garden of gethsemane and was crucified for our sins on a cross. 
+From the beginning, God has called prophets to teach His children. Adam, Enoch, Noah, Abraham, Moses, served as prophets to teach Heavenly Father's gospel. In the meridian of time, Heavenly Father's son, Jesus Christ came to earth and taught the gospel. He also did many other things. He performed miracles, ordained apostles and established his church. He taught truth and wisdom. He lived an entire life with man and then atone for our sins in the garden of gethsemane and was crucified and died on a cross. 
 
-After Heavenly Father's son, Jesus Christ died, the apostles continued to preach the gospel for a time, but eventually due to wickedness and price, the church fell away, the doctrines and ordinances were changed or corrupted. 
+After Heavenly Father's son, Jesus Christ died, the apostles continued to preach the gospel for a time, but eventually due to wickedness and pride, the church fell away, the doctrines and ordinances were changed or corrupted. 
 
 Isaiah 24:5 says,
 
