@@ -6,10 +6,6 @@ date: 2025-03-13T11:00:59-04:00
 tags: ["Restored Gospel", 'Joseph Smith', '1st Vision', 'Jesus Christ']
 ---
 
-<!-- ![tree](../images/1st vision.PNG) -->
-
-<!-- *Brothers and Sisters* -->
-
 I am deeply grateful to be here with you today. I live in New River, just north of Anthem I am blessed to live in a beautiful place. I also express gratitude to be a member of the deer valley ward with great members and leaders. I am eager to share a special message with you that I have prepared. 
 
 In *2 Nephi 31:3* Nephi said,
@@ -37,6 +33,7 @@ We learn that men heeded the adversary and corrupted the doctrine that Jesus Chr
 In around 53-57AD, Paul taught that grievous wolves would enter in among the church *Acts 20:29-30*
 
 > 29 For I know this, that after my departing shall grievous wolves enter in among you, not sparing the flock.
+
 > 30 Also of your own selves shall men arise, speaking perverse things, to draw away disciples after them.
 
 2 Thessalonians 2
@@ -47,7 +44,7 @@ For hundreds of years, the earth the fulness of the gospel of Jesus Christ and t
 
 Fast forward many hundreds of years, in 1820, a young boy named Joseph Smith noticed this, saying,
 
-> "At about the age of twelve years, my mind become seriously impressed with regard to the all-important concerns for the welfare of my immortal soul, which led me to searching the scriptures—believing, as I was taught, that they contained the word of God and thus applying myself to them. My intimate acquaintance with those of different denominations led me to marvel exceedingly, for I discovered that they did not adorn their profession by a holy walk and godly conversation agreeable to what I found contained in that sacred depository. This was a grief to my soul. I found that mankind did not come unto the Lord but that they had apostatized from the true and living faith, and there was no society or denomination that was built upon the gospel of Jesus Christ as recorded in the New Testament. I felt to mourn for my own sins and for the sins of the world, for I learned in the scriptures that God was the same yesterday, today, and forever, that he was no respecter of persons, for he was God. "
+> "At about the age of twelve years, my mind become seriously impressed with regard to the all-important concerns for the welfare of my immortal soul, which led me to searching the scriptures—believing, as I was taught, that they contained the word of God and thus applying myself to them. My intimate acquaintance with those of different denominations led me to marvel exceedingly, for I discovered that they did not adorn their profession by a holy walk and godly conversation agreeable to what I found contained in that sacred depository. This was a grief to my soul. I found that mankind did not come unto the Lord but that they had apostatized from the true and living faith, and there was no society or denomination that was built upon the gospel of Jesus Christ as recorded in the New Testament. I felt to mourn for my own sins and for the sins of the world, for I learned in the scriptures that God was the same yesterday, today, and forever, that he was no respecter of persons, for he was God."
 
 Joseph recognized that the true Church of Jesus Christ had fallen away. He began to search for answers. He read in James 1:5 which says,
 
@@ -80,4 +77,4 @@ Joseph followed the counsel of James and went into a grove of trees and began to
 
 <!-- I invite each of us to study the scriptures, listen to the words of our living prophets, and seek personal revelation. As we do so, we will come to know for ourselves that these truths are eternal and that they have the power to transform our lives. -->
 
-<!-- I leave these thoughts with you in the name of Jesus Christ, amen. --> -->
+<!-- I leave these thoughts with you in the name of Jesus Christ, amen. -->
