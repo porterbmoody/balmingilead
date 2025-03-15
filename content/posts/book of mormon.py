@@ -1,33 +1,5 @@
 #%%
 
-
-
-from lds_scriptures import LDSScriptures
-
-
-scriptures = LDSScriptures()
-BookOfMormon = scriptures.bookOfMormon()
-# display(BookOfMormon)
-
-BookOfMormon
-
-#%%
-ch=BookOfMormon.allBooks()[0].chapter(11)
-ch
-# vv=ch.verse(17)
-
-
-#%%
-
-# display(vv)
-
-# print('')
-
-verses=BookOfMormon.allVerses()
-verses
-# display(verses[1381])
-
-#%%
 import requests
 import json
 import pandas as pd  
@@ -38,5 +10,32 @@ data = json.loads(resp.text)
 
 df = pd.json_normalize(data)
 df
+
+
+#%%
+df_bom = pd.DataFrame()
+book_titles = []
+chapter_numbers = []
+chapters = []
+
+for i, book in enumerate(data['books'][0:2]):
+    book_titles.append(book['book'])
+    for chapter in book['chapters']:
+        # chapters.append(chapters)
+        chapter_numbers.append(chapter['chapter'])
+        print(chapter)
+        print(chapter['chapter'])
+
+
+    # chapter_numbers.append(book['chapters'])
+    # print(book['book'])
+    # print(book['chapters'])
+    # print(book['book'])
+    # print(book)
+    # print(i)
+
+# book_titles
+# chapters
+# data['books']
 
 
