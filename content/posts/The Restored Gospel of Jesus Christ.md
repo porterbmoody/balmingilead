@@ -8,7 +8,7 @@ tags: ["Restored Gospel", 'Joseph Smith', '1st Vision', 'Jesus Christ']
 
 <!-- ![tree](../images/1st vision.PNG) -->
 
-*Brothers and Sisters*
+<!-- *Brothers and Sisters* -->
 
 I am deeply grateful to be here with you today. I live in New River, just north of Anthem I am blessed to live in a beautiful place. I also express gratitude to be a member of the deer valley ward with great members and leaders. I am eager to share a special message with you that I have prepared. 
 
