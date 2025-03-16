@@ -41,7 +41,23 @@ df_bom = (pd.DataFrame({'book_title':book_titles,'chapter_number':chapter_number
 # df_bom
 df_bom.to_csv('data.csv',index=False)
 
+<<<<<<< HEAD
 # df_bom = (pd.DataFrame({'book_titles':book_titles,'chapter_numbers':chapter_numbers,'reference_numbers':reference_numbers,'reference':verse_references,'verse':verses}))
+=======
+<<<<<<< HEAD
+
+    # chapter_numbers.append(book['chapters'])
+    # print(book['book'])
+    # print(book['chapters'])
+    # print(book['book'])
+    # print(book)
+    # print(i)
+=======
+# %%
+>>>>>>> 978a82c9a11fb7484e6a66b8033f9c34466dc6f3
+
+df_bom = (pd.DataFrame({'book_titles':book_titles,'chapter_numbers':chapter_numbers,'reference_numbers':reference_numbers,'reference':verse_references,'verse':verses}))
+>>>>>>> c5f0ff7656cf21f74c8763b844f91308ab6ec5e7
 
 df_bom['word_count'] = df_bom['verse'].apply(lambda x: len(x.split()))
 # df_bom.to_csv('data.csv',index=False)
