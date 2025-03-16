@@ -16,7 +16,7 @@ In *2 Nephi 31:3* Nephi said,
 
 Like Nephi, I wish to speak in plainness, according to your language and unto your understanding.
 
-Today I would like to share a very simple, but important message. God, our Heavenly Father loves us more than we can fully comprehend. His love is perfect, infinite, enduring, and universal. Because of that love, He has given us the gospel—a plan that allows us to repent and become like Jesus Christ and return to live with them forever. In every dispensation, Heavenly Father reaches out to His children, calling prophets to teach His gospel to the people.
+Today I would like to share a very simple, but important message. I want to teach a simple message about God, who is our Heavenly Father. Our Heavenly Father loves us more than we can comprehend. His love is perfect, infinite, enduring, and universal. Because of that love, He has given us the gospel—a plan that allows us to repent and become like Jesus Christ and return to live with them forever. In every dispensation, Heavenly Father calls prophets to teach His gospel.
 
 As it says in *Amos 3:7 JST*:
 
