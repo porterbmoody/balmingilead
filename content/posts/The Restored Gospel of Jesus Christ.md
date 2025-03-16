@@ -22,15 +22,21 @@ Today I would like to share a very simple, but important message. I want to teac
 
 > 7 Surely the Lord God will do nothing, until he revealeth his secret unto his servants the prophets.
 
-Adam, Enoch, Noah, Abraham, Moses, all served as prophets to teach Heavenly Father's gospel. In the meridian of time, Heavenly Father sent his son, Jesus Christ to earth to teach the gospel. He also did many other things. He performed miracles, ordained apostles and established his church. He taught truth and wisdom. He set the example for us. He lived an entire life with man and then performed the infinite atonement and suffered and died for our sins. 
+Adam, Enoch, Noah, Abraham, and Moses, all served as prophets to teach Heavenly Father's gospel. In the meridian of time, Heavenly Father sent his son, Jesus Christ to earth to teach the gospel. Jesus Christ also did many other things. He performed miracles, ordained apostles and established his church. He taught truth and wisdom. He set the example for us. He lived an entire life with man and then performed the infinite atonement and suffered and died for our sins. 
 
-2 Nephi 10:3 teaches that he was crucified saying, 
+Ephesians 4:11-12 remind us that Jesus Christ called apostles, prophets, evangelists, pastors, and teachers as part of proper establishment of his church.
+
+> 11 And he gave some, apostles; and some, prophets; and some, evangelists; and some, pastors and teachers;
+
+> 12 For the perfecting of the saints, for the work of the ministry, for the edifying of the body of Christ:
+
+We also learn in 2 Nephi 10:3 that he was crucified saying, 
 
 > 3 Wherefore, as I said unto you, it must needs be expedient that Christ—for in the last night the angel spake unto me that this should be his name—should come among the Jews, among those who are the more wicked part of the world; and they shall crucify him.
 
-After Heavenly Father's son, Jesus Christ died, the apostles continued to preach the gospel for a time, but eventually due to wickedness, the church fell away and the doctrines and ordinances were changed or corrupted. 
+After Heavenly Father's son, Jesus Christ died, the apostles continued to preach the gospel for a time, but eventually due to wickedness, the church fell away into apostasy. 
 
-Isaiah 24:5 says,
+Isaiah 24:5 teaches,
 
 > 5 The earth also is defiled under the inhabitants thereof; because they have transgressed the laws, changed the ordinance, broken the everlasting covenant.
 
