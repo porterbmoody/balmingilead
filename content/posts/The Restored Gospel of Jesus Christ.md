@@ -52,11 +52,20 @@ Fast forward many hundreds of years, in 1820, a young boy named Joseph Smith not
 
 Joseph recognized that the true Church of Jesus Christ had fallen away. He began to search for answers. He read in James 1:5 which says,
 
-<!-- <!-- > 5 If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him. -->
+> 5 If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.
 
 Joseph followed the counsel of James and went into a grove of trees and began to pray. The young boy of only 14 years old soon had a marvelous revelation. After going on his own to pray and "ask of God" for wisdom, a pillar of light descendent over his head and 2 personages appeared. Heavenly Father and Jesus Christ appeared and told Joseph Smith that none of the churches were true and that
 
 > "Joseph, my son, thy sins are forgiven thee. Go thy way, walk in my statutes, and keep my commandments. Behold, I am the Lord of glory. I was crucified for the world, that all those who believe on my name may have eternal life. Behold, the world lieth in sin at this time, and none doeth good, no, not one. They have turned aside from the gospel and keep not my commandments. They draw near to me with their lips while their hearts are far from me. And mine anger is kindling against the inhabitants of the earth, to visit them according to their ungodliness and to bring to pass that which hath been spoken by the mouth of the prophets and apostles. Behold and lo, I come quickly, as it is written of me, in the cloud, clothed in the glory of my Father."
+
+2 Nephi 29
+> 14 And it shall come to pass that my people, which are of the house of Israel, shall be gathered home unto the lands of their possessions; and my word also shall be gathered in one. And I will show unto them that fight against my word and against my people, who are of the house of Israel, that I am God, and that I covenanted with Abraham that I would remember his seed forever.
+
+
+Isaiah 49
+
+> 15 Can a woman forget her sucking child, that she should not have compassion on the son of her womb? yea, they may forget, yet will I not forget thee.
+> 16 Behold, I have graven thee upon the palms of my hands; thy walls are continually before me.
 
 <!-- > 15 After I had retired to the place where I had previously designed to go, having looked around me, and finding myself alone, I kneeled down and began to offer up the desires of my heart to God. I had scarcely done so, when immediately I was seized upon by some power which entirely overcame me, and had such an astonishing influence over me as to bind my tongue so that I could not speak. Thick darkness gathered around me, and it seemed to me for a time as if I were doomed to sudden destruction. -->
 
@@ -80,6 +89,5 @@ Joseph followed the counsel of James and went into a grove of trees and began to
 
 <!-- Brothers and sisters, I testify that God lives. He is our loving Heavenly Father, and He knows each of us personally. He has given us the gospel to guide us, prophets to lead us, and His Son, Jesus Christ, to save us. The restoration of the gospel is evidence of His perfect love for all His children. -->
 
-<!-- I invite each of us to study the scriptures, listen to the words of our living prophets, and seek personal revelation. As we do so, we will come to know for ourselves that these truths are eternal and that they have the power to transform our lives. -->
 
-<!-- I leave these thoughts with you in the name of Jesus Christ, amen. -->
+
