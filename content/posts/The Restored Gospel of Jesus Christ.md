@@ -16,13 +16,13 @@ In *2 Nephi 31:3* Nephi said,
 
 Like Nephi, I wish to speak in plainness, according to your language and unto your understanding.
 
-Today I would like to share a very simple, but important message. I want to teach a simple message about God, who is our Heavenly Father. Our Heavenly Father loves us more than we can comprehend. His love is perfect, infinite, enduring, and universal. Because of that love, He has given us the gospel—a plan that allows us to repent and become like Jesus Christ and return to live with them forever. In every dispensation, Heavenly Father calls prophets to teach His gospel.
+Today I would like to share a very simple, but important message. I want to teach a simple message about God, who is our Heavenly Father. Our Heavenly Father loves us more than we can comprehend. His love is perfect, infinite, enduring, and universal. Because of that love, He has given us the gospel—a plan that allows us to repent and become like Heavenly Father and live with him forever. In every dispensation, Heavenly Father calls prophets to teach His gospel.
 
-As it says in *Amos 3:7 JST*:
+*Amos 3:7 JST* says,
 
 > 7 Surely the Lord God will do nothing, until he revealeth his secret unto his servants the prophets.
 
-From the beginning, God has called prophets to teach His children. Adam, Enoch, Noah, Abraham, Moses, served as prophets to teach Heavenly Father's gospel. In the meridian of time, Heavenly Father sent his son, Jesus Christ to earth to teach the gospel. He also did many other things. He performed miracles, ordained apostles and established his church. He taught truth and wisdom. He set the example for us. He lived an entire life with man and then performed the infinite atonement and suffered and died for our sins. 
+Adam, Enoch, Noah, Abraham, Moses, all served as prophets to teach Heavenly Father's gospel. In the meridian of time, Heavenly Father sent his son, Jesus Christ to earth to teach the gospel. He also did many other things. He performed miracles, ordained apostles and established his church. He taught truth and wisdom. He set the example for us. He lived an entire life with man and then performed the infinite atonement and suffered and died for our sins. 
 
 2 Nephi 10:3 teaches that he was crucified saying, 
 
