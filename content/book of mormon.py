@@ -164,7 +164,10 @@ for pattern in patterns:
 df_bom['christ_references'] = df_bom['verse'].str.count(pattern, flags=re.IGNORECASE)
 df_grouped = df_bom.groupby('book_title').agg({'christ_references': 'sum'}).reset_index()
 def count_words(df, word):
+    df['count_'+str(word)] = df['verse'].str.count(r'(?i)\bchrist\b')
     return df
+
+count_words(df_bom, 'christ').query('count_christ > 0')
 
 # total_references = df_bom['christ_references'].sum()
 
@@ -175,7 +178,8 @@ def count_words(df, word):
 
 # total_occurrences = string_occurrences.sum()
 
-s.str.match('(b[x-y]+)').str.get(0).count()
+# df_bom['verse'].str.match('(Christ)').str.get(0).count()
+
 
 
 
