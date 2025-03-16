@@ -26,7 +26,7 @@ From the beginning, God has called prophets to teach His children. Adam, Enoch, 
 
 2 Nephi 10:3 teaches that he was crucified saying, 
 
-3 Wherefore, as I said unto you, it must needs be expedient that Christ—for in the last night the angel spake unto me that this should be his name—should come among the Jews, among those who are the more wicked part of the world; and they shall crucify him.
+> 3 Wherefore, as I said unto you, it must needs be expedient that Christ—for in the last night the angel spake unto me that this should be his name—should come among the Jews, among those who are the more wicked part of the world; and they shall crucify him.
 
 After Heavenly Father's son, Jesus Christ died, the apostles continued to preach the gospel for a time, but eventually due to wickedness, the church fell away and the doctrines and ordinances were changed or corrupted. 
 
