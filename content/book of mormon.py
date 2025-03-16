@@ -10,7 +10,6 @@ resp = requests.get(url)
 data = json.loads(resp.text)
 
 df = pd.json_normalize(data)
-df
 
 df_bom = pd.DataFrame()
 book_titles = []
@@ -38,26 +37,9 @@ for i, book in enumerate(data['books']):
 # print(verses)
 
 df_bom = (pd.DataFrame({'book_title':book_titles,'chapter_number':chapter_numbers,'verse_reference':verse_references, 'verse':verses}))
-# df_bom
 df_bom.to_csv('data.csv',index=False)
 
-<<<<<<< HEAD
 # df_bom = (pd.DataFrame({'book_titles':book_titles,'chapter_numbers':chapter_numbers,'reference_numbers':reference_numbers,'reference':verse_references,'verse':verses}))
-=======
-<<<<<<< HEAD
-
-    # chapter_numbers.append(book['chapters'])
-    # print(book['book'])
-    # print(book['chapters'])
-    # print(book['book'])
-    # print(book)
-    # print(i)
-=======
-# %%
->>>>>>> 978a82c9a11fb7484e6a66b8033f9c34466dc6f3
-
-df_bom = (pd.DataFrame({'book_titles':book_titles,'chapter_numbers':chapter_numbers,'reference_numbers':reference_numbers,'reference':verse_references,'verse':verses}))
->>>>>>> c5f0ff7656cf21f74c8763b844f91308ab6ec5e7
 
 df_bom['word_count'] = df_bom['verse'].apply(lambda x: len(x.split()))
 # df_bom.to_csv('data.csv',index=False)
@@ -68,8 +50,6 @@ df_bom.groupby('book_title').agg({'word_count': 'sum'}).reset_index()
 
 
 # %%
-
-
 df_grouped = df_bom.groupby('book_title')['word_count'].sum().reset_index()
 
 plt.figure(figsize=(12, 6))
@@ -85,8 +65,8 @@ plt.show()
 
 import re
 
-# pattern = r'\b(Christ|Savior|Redeemer|Almighty|Almighty God|Alpha and Omega|Being|Beloved|Beloved Son)\b'
-pattern = r'\b(Christ)\b'
+pattern = r'\b(Christ|Savior|Redeemer|Almighty|Almighty God|Alpha and Omega|Being|Beloved|Beloved Son)\b'
+# pattern = r'\b(Christ)\b'
 
 df_bom['christ_references'] = df_bom['verse'].str.count(pattern, flags=re.IGNORECASE)
 df_grouped = df_bom.groupby('book_title').agg({'christ_references': 'sum'}).reset_index()
