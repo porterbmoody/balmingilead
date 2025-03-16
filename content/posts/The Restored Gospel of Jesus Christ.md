@@ -52,9 +52,7 @@ Fast forward many hundreds of years, in 1820, a young boy named Joseph Smith not
 
 > "At about the age of twelve years, my mind become seriously impressed with regard to the all-important concerns for the welfare of my immortal soul, which led me to searching the scriptures—believing, as I was taught, that they contained the word of God and thus applying myself to them. My intimate acquaintance with those of different denominations led me to marvel exceedingly, for I discovered that they did not adorn their profession by a holy walk and godly conversation agreeable to what I found contained in that sacred depository. This was a grief to my soul. I found that mankind did not come unto the Lord but that they had apostatized from the true and living faith, and there was no society or denomination that was built upon the gospel of Jesus Christ as recorded in the New Testament. I felt to mourn for my own sins and for the sins of the world, for I learned in the scriptures that God was the same yesterday, today, and forever, that he was no respecter of persons, for he was God."
 
-Joseph recognized that the true Church of Jesus Christ had fallen away. But how could this be? Heavenly Father promised he would never forget his children, right?
-
-2 Nephi 29:14 reminds us that the Lord has covenanted with Abraham and would remember his seed forever.
+Joseph recognized that the true Church of Jesus Christ had fallen away. But how could this be? Heavenly Father promised he would never forget his children, right? 2 Nephi 29:14 reminds us that the Lord has covenanted with Abraham and would remember his seed forever.
 
 > 14 And it shall come to pass that my people, which are of the house of Israel, shall be gathered home unto the lands of their possessions; and my word also shall be gathered in one. And I will show unto them that fight against my word and against my people, who are of the house of Israel, that I am God, and that I covenanted with Abraham that I would remember his seed forever.
 
