@@ -394,3 +394,30 @@ engine.setProperty('voice', voices[0].id)  # Change index if needed
 
 engine.save_to_file(text, "output.mp3")
 engine.runAndWait()
+#%%
+
+from pytubefix import YouTube
+from moviepy.editor import *
+import os
+
+def download_audio(url):
+	video = YouTube('https://www.youtube.com/watch?v='+url)
+	original_title = video.title.replace('?', '').replace('|','').replace('&', 'and').replace('#', '').replace('/','_')
+	filename = f'{original_title}.wav'
+	audio_stream = video.streams.get_audio_only().download()
+	# audio_stream = video.streams.get_highest_resolution().download()
+	audio = AudioFileClip(audio_stream)
+	audio.write_audiofile(filename)
+	os.remove(audio_stream)
+
+
+urls = [
+	'9ZS6v9fQv5M',
+	'bTACekXFmWk',
+]
+
+for url in urls:
+	download_audio(url)
+
+
+#%%
