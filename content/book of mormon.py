@@ -62,7 +62,6 @@ plt.show()
 
 
 #%%
-
 import re
 
 pattern = r'\b(Christ|Savior|Redeemer|Almighty|Almighty God|Alpha and Omega|Being|Beloved|Beloved Son)\b'
@@ -85,6 +84,8 @@ plt.ylabel('Total Word Count')
 plt.title('Total Christ References in the Book of Mormon')
 plt.xticks(rotation=45, ha='right')
 plt.show()
+
+
 
 #%%
 

@@ -14,13 +14,17 @@ In *2 Nephi 31:3* Nephi said,
 
 Like Nephi, I wish to speak in plainness, according to your language and unto your understanding.
 
-Today I would like to share a very simple, but important message. God, our Heavenly Father loves us more than we can fully comprehend. His love is perfect, infinite, enduring, and universal. Because of that love, He has given us the gospel—a plan that allows us to repent and become like Heavenly Father and Jesus Christ and return to them and live with them forever. In every dispensation, Heavenly Father reaches out to His children, calling prophets to teach His gospel to the people.
+Today I would like to share a very simple, but important message. God, our Heavenly Father loves us more than we can fully comprehend. His love is perfect, infinite, enduring, and universal. Because of that love, He has given us the gospel—a plan that allows us to repent and become like Jesus Christ and return to them and live with them forever. In every dispensation, Heavenly Father reaches out to His children, calling prophets to teach His gospel to the people.
 
 As it says in *Amos 3:7 JST*:
 
 > 7 Surely the Lord God will do nothing, until he revealeth his secret unto his servants the prophets.
 
 From the beginning, God has called prophets to teach His children. Adam, Enoch, Noah, Abraham, Moses, served as prophets to teach Heavenly Father's gospel. In the meridian of time, Heavenly Father sent his son, Jesus Christ to earth to teach the gospel. He also did many other things. He performed miracles, ordained apostles and established his church. He taught truth and wisdom. He set the example for us. He lived an entire life with man and then performed the infinite atonement and suffered and died for our sins. 
+
+2 Nephi 10:3 teaches that he was crucified saying, 
+
+3 Wherefore, as I said unto you, it must needs be expedient that Christ—for in the last night the angel spake unto me that this should be his name—should come among the Jews, among those who are the more wicked part of the world; and they shall crucify him.
 
 After Heavenly Father's son, Jesus Christ died, the apostles continued to preach the gospel for a time, but eventually due to wickedness, the church fell away and the doctrines and ordinances were changed or corrupted. 
 
