@@ -86,7 +86,8 @@ patterns = [
     'Father of heaven',
     'Father of heaven and of earth',
     'Founder of Peace',
-    'God|God of Abraham',
+    'God',
+    'God of Abraham',
     'God of Abraham, and Isaac, and Jacob',
     'God of Abraham, and of Isaac, and the God of Jacob',
     'God of Isaac',
@@ -111,7 +112,8 @@ patterns = [
     'Jesus Christ',
     'Keeper of the gate',
     'King',
-    'King of heaven|Lamb',
+    'King of heaven',
+    'Lamb',
     'Lamb of God',
     'Lord',
     'Lord God',
@@ -129,9 +131,11 @@ patterns = [
     'Master',
     'Mediator',
     'Messiah',
-    'Mighty God|Mighty One of Israel',
+    'Mighty God',
+    'Mighty One of Israel',
     'Mighty One of Jacob',
-    'Most High|Most High God',
+    'Most High',
+    'Most High God',
     'Only Begotten of the Father',
     'Only Begotten Son',
     'Prince of Peace',
@@ -164,10 +168,16 @@ for pattern in patterns:
 df_bom['christ_references'] = df_bom['verse'].str.count(pattern, flags=re.IGNORECASE)
 df_grouped = df_bom.groupby('book_title').agg({'christ_references': 'sum'}).reset_index()
 def count_words(df, word):
-    df['count_'+str(word)] = df['verse'].str.count(r'(?i)\bchrist\b')
+    string = r'(?i)\b'+word+'\b'
+    df['count_'+str(word)] = df['verse'].str.count(string)
     return df
 
-count_words(df_bom, 'christ').query('count_christ > 0')
+
+counts = []
+for pattern in patterns:
+    count = count_words(df_bom, pattern)['count_'+pattern].sum()#.query('count_christ > 0')
+    print(pattern, count)
+
 
 # total_references = df_bom['christ_references'].sum()
 
