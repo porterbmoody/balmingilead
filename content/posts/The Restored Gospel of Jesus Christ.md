@@ -61,7 +61,6 @@ Joseph followed the counsel of James and went into a grove of trees and began to
 2 Nephi 29
 > 14 And it shall come to pass that my people, which are of the house of Israel, shall be gathered home unto the lands of their possessions; and my word also shall be gathered in one. And I will show unto them that fight against my word and against my people, who are of the house of Israel, that I am God, and that I covenanted with Abraham that I would remember his seed forever.
 
-
 Isaiah 49
 
 > 15 Can a woman forget her sucking child, that she should not have compassion on the son of her womb? yea, they may forget, yet will I not forget thee.
