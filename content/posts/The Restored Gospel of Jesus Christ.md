@@ -70,16 +70,10 @@ Joseph followed the counsel of James and went into a grove of trees and began to
 
 > "Joseph, my son, thy sins are forgiven thee. Go thy way, walk in my statutes, and keep my commandments. Behold, I am the Lord of glory. I was crucified for the world, that all those who believe on my name may have eternal life. Behold, the world lieth in sin at this time, and none doeth good, no, not one. They have turned aside from the gospel and keep not my commandments. They draw near to me with their lips while their hearts are far from me. And mine anger is kindling against the inhabitants of the earth, to visit them according to their ungodliness and to bring to pass that which hath been spoken by the mouth of the prophets and apostles. Behold and lo, I come quickly, as it is written of me, in the cloud, clothed in the glory of my Father."
 
-And thus we see that Heavenly Father has not forgotten his children. Once again we see that our infinitely loving Heavenly Father has yet again revealed his gospel to the earth. Heavenly Father and Jesus Christ have yet again revealed to all the children of men that Jesus Christ came to earth to atone for the sins of all men, that those who believe on His name will have eternal life. What a wonderful, marvelous blessing. 
-
-I am so deeply grateful for the infinite love and mercy for sending his son, Jesus Christ to atone for our sins, and mercifully restoring that truth and light once again in our day. 
-
-I say these things in the sacred name of Jesus Christ, amen. 
-
-
+And thus we see that Heavenly Father has not forgotten his children. Once again we see that our infinitely loving Heavenly Father has yet again revealed his gospel to the earth. Heavenly Father and Jesus Christ have yet again revealed to all the children of men that Jesus Christ came to earth to atone for the sins of all men, that those who believe on His name will have eternal life. Through Joseph Smith, the Lord restored His Church, the priesthood, and the plain and precious truths of the gospel What a wonderful, marvelous blessing. I am so deeply grateful for the infinite love and mercy for sending his son, Jesus Christ to atone for our sins, and mercifully restoring that truth and light once again in our day. I say these things in the sacred name of Jesus Christ, amen. 
 
 <!-- ![tree](/images/posts/vision.png) -->
 
 <!-- One of the things that Heavenly Father told Joseph Smith to do was translate the Book of Mormon from the gold plates that had been put into the earth hundreds of years ago by the Prophet Moroni. Joseph Smith then translated the gold plates, and now we have 
 
-<!-- In His infinite mercy, our Heavenly Father prepared the way for the gospel to be restored in its fullness. This restoration began with a young man named Joseph Smith. Through Joseph Smith, the Lord restored His Church, the priesthood, and the plain and precious truths of the gospel. Joseph Smith served as an instrument in the Lord’s hands, and through him, the heavens were opened once more. -->
+<!-- In His infinite mercy, our Heavenly Father prepared the way for the gospel to be restored in its fullness. This restoration began with a young man named Joseph Smith. . Joseph Smith served as an instrument in the Lord’s hands, and through him, the heavens were opened once more. -->
