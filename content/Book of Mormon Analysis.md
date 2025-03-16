@@ -10,7 +10,6 @@ tags: ["Book of Mormon"]
 # Book of Mormon Word Counts
 
 
-
 Name | Frequency |
 --- | --- |
 Almighty |  |
