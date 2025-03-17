@@ -1,6 +1,6 @@
 title = "The Answer is Jesus Christ"
-url: 'https://porterbmoody.github.io/'
 baseURL = "https://gohugo-theme-ananke.pages.dev"
+url: 'https://jpbongiovanni.github.io/'
 languageCode = "en-us"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 resourceDir = "../resources"
