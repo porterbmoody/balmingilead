@@ -9,6 +9,13 @@ tags: ["Book of Mormon"]
 
 # Book of Mormon Word Counts
 
+![](./count.png)
+
+<!-- ![](./posts/count.png) -->
+
+<!-- ![](./content/posts/count.png) -->
+
+<img src="./count.png" alt="count">
 
 Name | Frequency |
 --- | --- |
