@@ -11,6 +11,9 @@ tags: ["Book of Mormon"]
 
 ![](./posts/count.png)
 
+
+![](./content/posts/count.png)
+
 Name | Frequency |
 --- | --- |
 Almighty |  |
