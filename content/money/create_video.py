@@ -1,0 +1,356 @@
+
+#%%
+import pyttsx3
+from PIL import Image, ImageOps, ImageDraw, ImageFont
+from moviepy.editor import *
+
+engine = pyttsx3.init()
+
+def generate_audio(text, filename):
+	engine.save_to_file(text, filename)
+	engine.runAndWait()
+
+def create_video(images, texts):
+
+	phone_size = (1080, 1920)
+	resized_images = []
+	narration_clips = []
+
+	font_path = "arial.ttf"
+	font_size = 40
+	font = ImageFont.truetype(font_path, font_size)
+
+	def wrap_text(text, font, max_width):
+		lines = []
+		words = text.split()
+		line = ""
+
+		for word in words:
+			test_line = f"{line} {word}".strip()
+			if draw.textlength(test_line, font=font) <= max_width:
+				line = test_line
+			else:
+				lines.append(line)
+				line = word
+		if line:
+			lines.append(line)
+
+		return lines
+	image_paths = ["images/" + image_path for image_path in images]
+	for i, (image_path, text) in enumerate(zip(image_paths, texts)):
+		img = Image.open(image_path)
+		img = ImageOps.fit(img, phone_size, method=Image.LANCZOS, centering=(0.5, 0.5))
+
+		final_img = Image.new("RGB", phone_size, (0, 0, 0))
+
+		img_w, img_h = img.size
+		final_img.paste(img, ((phone_size[0] - img_w) // 2, (phone_size[1] - img_h) // 2))
+
+		draw = ImageDraw.Draw(final_img)
+
+		max_text_width = phone_size[0] - 500
+		lines = wrap_text(text, font, max_text_width)
+
+		line_spacing = 10
+		line_height = max(font.getbbox(line)[3] - font.getbbox(line)[1] for line in lines)
+		total_text_height = len(lines) * line_height + (len(lines) - 1) * line_spacing
+
+		start_y = phone_size[1] - total_text_height - 250
+
+		bg_margin = 20
+		bg_width = max(draw.textlength(line, font=font) for line in lines) + bg_margin * 2
+		bg_height = total_text_height + bg_margin * 2
+		bg_position = (
+			(phone_size[0] - bg_width) // 2,
+			start_y - bg_margin,
+			(phone_size[0] + bg_width) // 2,
+			start_y + total_text_height + bg_margin
+		)
+		draw.rectangle(bg_position, fill=(255, 255, 255))
+
+		y_offset = start_y
+		for line in lines:
+			text_w = draw.textlength(line, font=font)
+			text_position = ((phone_size[0] - text_w) // 2, y_offset)
+			draw.text(text_position, line, font=font, fill=(0, 0, 0))
+			y_offset += line_height + line_spacing
+
+		resized_path = image_path.replace('.jpeg', '_resized.jpeg')
+		final_img.save(resized_path)
+		resized_images.append(resized_path)
+
+		audio_path = f"audio/audio_{i}.mp3"
+		generate_audio(text, audio_path)
+		narration_clip = AudioFileClip(audio_path)
+		narration_clips.append(narration_clip)
+	# image_clips = []
+	# for img in resized_images:
+		# image_clips.append(ImageClip(img).set_duration(5))
+	image_clips = [ImageClip(img).set_duration(narration_clips.duration) for img, narration_clips in zip(resized_images, narration_clips)]
+	video = concatenate_videoclips(image_clips)
+
+	combined_audio = concatenate_audioclips(narration_clips)
+	video = video.set_audio(combined_audio)
+
+	# audioclip = AudioFileClip("thought.wav").subclip(0+11, video.duration+11)
+	# audio = CompositeAudioClip([audioclip])
+	# video.audio = audio
+
+	video.write_videofile("short.mp4", codec='libx264', fps=24, audio_codec='aac')
+
+images = [
+	"save0.jpeg",
+	"save1.jpeg",
+]
+
+texts = [
+"#1: Track Your Spending",
+"You can’t save money if you don’t know where it’s going. Use budgeting apps like Mint or YNAB, or even a simple spreadsheet to track every dollar. You’d be surprised how much those ‘little’ purchases add up.",
+"#2: Cancel Unused Subscriptions",
+"Look through your bank statements and cancel those subscriptions you don’t really use. Do you really need five different streaming services?",
+"#3: Use Cashback & Rewards",
+"Apps like Rakuten, Honey, and credit card reward programs can give you cash back on things you already buy. It’s free money—why not take it?",
+"#4: Meal Plan & Cook at Home",
+"Eating out is one of the biggest money drains. Try meal prepping for the week—you’ll save money and eat healthier. Plus, homemade coffee? Way cheaper than Starbucks!",
+"#5: Buy Generic Brands",
+"Most store-brand products are just as good as name brands but cost way less. Give them a try and see if you really notice a difference.",
+"#6: Negotiate Your Bills",
+"Call your internet, phone, or insurance provider and ask for a lower rate. You’d be surprised how often they’ll cut your bill just to keep you as a customer.",
+"#7: Use Public Transport or Carpool",
+"Gas and maintenance add up. If possible, use public transit, bike, or carpool to save money on commuting. Even a couple of days a week can make a big difference.",
+"#8: Buy Secondhand",
+"From clothes to furniture, buying used can save you hundreds of dollars a year. Check out thrift stores, Facebook Marketplace, or Craigslist before buying new.",
+"#9: Automate Your Savings",
+"Set up automatic transfers to your savings account so you ‘pay yourself first.’ Even $10 a week adds up over time!",
+'#10: Find Free Entertainment',
+"Instead of expensive nights out, look for free activities—hiking, library events, or community festivals. Fun doesn’t have to be expensive!",
+]
+
+# create_video(images, texts)
+
+# %%
+# from gtts import gTTS
+# import os
+
+# text = "I am the king. Strive for greatness."
+# tts = gTTS(text=text, lang='en', slow=False)
+# tts.save("lebron_style.mp3")
+
+# # Play the audio (works on Mac/Linux)
+# os.system("mpg321 lebron_style.mp3")
+
+#%%
+
+# audio = elevenlabs.generate(text = "hi im porter", voice = "bella")
+
+# elevenlabs.play(audio)
+
+
+
+
+# import elevenlabs
+# from elevenlabs import play
+# from elevenlabs.client import ElevenLabs
+
+# client = ElevenLabs(
+#   api_key=api_key,
+# )
+
+# audio = client.generate(
+#   text="Hello!!",
+#   voice="Rachel",
+#   model="eleven_multilingual_v2"
+# )
+# play(audio)
+
+# elevenlabs.play(audio)
+
+#%%
+
+# text = "Hey there! Are you investigating The Church of Jesus Christ of Latter-day Saints? I'm excited to share with you some top reasons why I believe the LDS Church is plausibly true. Reason 1: The Book of Mormon. This book is another testament of Jesus Christ and provides a historical and spiritual record of ancient peoples in the Americas. Its complexity, depth, and consistency make it a remarkable work that has been a source of spiritual guidance for millions. Reason 2: Joseph Smith's First Vision. In 1820, Joseph Smith, the founder of the LDS Church, reported having a vision of God the Father and Jesus Christ. This event is seen as a pivotal moment in the restoration of the gospel and has been a source of inspiration for generations. Reason 3: Fulfilled Prophecies. Many ancient prophecies, including those in the Bible, have been fulfilled in the restoration of the Church. This includes the restoration of the priesthood, the gathering of Israel, and the building of temples. Reason 4: Personal Revelation. Members of the LDS Church believe in the power of personal revelation. Through prayer, scripture study, and obedience to God's commandments, individuals can receive their own witness of the truthfulness of the Church. Thanks for watching! These are just a few reasons why I believe the LDS Church is plausibly true. If you're interested in learning more, I invite you to visit (link unavailable) or talk to a representative from the Church."
+
+
+#%%
+
+from moviepy.editor import ImageSequenceClip, AudioFileClip
+from PIL import Image
+
+images = ["book of mormon.jpeg", "alma.jpeg", 'smith.jpeg', 'river.jpeg']
+target_size = (1280, 720)
+
+resized_images = []
+for img_path in images:
+	img = Image.open(img_path)
+	img = img.resize(target_size)
+	resized_path = f"resized_{img_path}"
+	img.save(resized_path)
+	resized_images.append(resized_path)
+
+	print(f"{resized_path} size: {img.size}")
+
+unique_sizes = set(Image.open(img).size for img in resized_images)
+print(f"Unique image sizes: {unique_sizes}")
+print(resized_images)
+
+if len(unique_sizes) > 1:
+	print("Error: Not all images are the same size. Please check the resizing step.")
+	exit()
+
+audio = AudioFileClip("daniel.mp3")
+
+image_duration = audio.duration / len(resized_images)
+
+video = ImageSequenceClip(resized_images, durations=[image_duration] * len(resized_images))
+
+video = video.set_audio(audio)
+
+video.write_videofile("output_video.mp4", fps=1)
+#%%
+
+import elevenlabs
+from elevenlabs.client import ElevenLabs
+from elevenlabs import *
+from moviepy.editor import *
+from gtts import gTTS
+import os
+
+
+def create_audio(text, name, path):
+	voice_ids = {'Aria': '9BWtsMINqrJLrRacOk9x',
+			 'Roger': 'CwhRBWXzGAHq8TQ4Fs17',
+			'Sarah': 'EXAVITQu4vr4xnSDxMaL',
+			'Laura': 'FGY2WhTYpPnrIDTdsKH5',
+			'Charlie': 'IKne3meq5aSn9XLyUdCD',
+			'George': 'JBFqnCBsd6RMkjVDRZzb',
+			'Callum': 'N2lVS1w4EtoT3dr4eOWO',
+			'River': 'SAz9YHcvj6GT2YYXdXww',
+			'Liam': 'TX3LPaxmHKxFdv7VOQHJ',
+			'Charlotte': 'XB0fDUnXU5powFXDhCwa',
+			'Alice': 'Xb7hH8MSUJpSbSDYk0k2',
+			'Matilda': 'XrExE9yKIg1WjnnlVkGX',
+			'Will': 'bIHbv24MWmeRgasZH58o',
+			'Jessica': 'cgSgspJ2msm6clMCkdW9',
+			'Eric': 'cjVigY5qzO86Huf0OWal',
+			'Chris': 'iP95p4xoKVk53GoZ742B',
+			'Brian': 'nPczCjzI2devNBz1zQrb',
+			'Daniel': 'onwK4e9ZLuTAKqWW03F9',
+			'Lily': 'pFZP5JQG7iQjIQuC4Bku',
+			'Bill': 'pqHfZKP75CvOlQylNhV4'
+			}
+
+	api_key = 'sk_634beddb49f45a6b7f6261e349592ed6195d0769379f2b6a'
+
+	client = ElevenLabs(
+	api_key=api_key,
+	)
+
+	# text = "1. Geography and Place Names: The Book of Mormon describes a specific geography, including the River Sidon, the Hill Cumorah, and the land of Nephi. Archaeological discoveries have confirmed the existence of similar place names and geographic features in Mesoamerica. 2. Ancient Cities and Ruins: The Book of Mormon mentions various cities, including Zarahemla, Bountiful, and Jacobugath. Archaeologists have discovered ancient cities and ruins in Mesoamerica that match the descriptions in the Book of Mormon."
+	audio = client.text_to_speech.convert(
+		text=text,
+		voice_id=voice_ids[name],
+		model_id="eleven_multilingual_v2",
+		output_format="mp3_44100_128",
+	)
+
+	save(audio, path + '.mp3')
+# texts = [
+	# "Galatians 1:8 states: But though we, or an angel from heaven, preach any other gospel unto you than that which we have preached unto you, let him be accursed.",
+# 	"6. Interpretation: The LDS Church interprets Galatians 1:8 as a warning against preaching a different gospel that contradicts the fundamental message of Jesus Christ. The church teaches that its gospel is consistent with the Bible and the teachings of the apostles.",
+# 	"In summary, the LDS Church responds to Galatians 1:8 by emphasizing the importance of understanding the context, defining the gospel, and recognizing the restoration of the gospel through Joseph Smith. The church teaches that its gospel is consistent with the Bible and the teachings of the apostles.",
+# ]
+
+# texts = [
+	# 'Chiasmus is a literary structure in which words or phrases are arranged in a reverse order.',
+	# 'The presence of Chiasmus in the Book of Mormon is a significant evidence of its authenticity and ancient origins. It suggests that the Book of Mormon is a complex and sophisticated text that was written by multiple authors and translated by Joseph Smith.',
+# ]
+
+texts = [
+    "Chiasmus is a literary structure where words/phrases are arranged in reverse order, adding complexity and meaning.",
+    "Chiasmus is significant evidence of the Book of Mormon's authenticity and ancient origins, showcasing its complexity and sophistication."
+]
+folder = 'chiasmus/'
+for i, text in enumerate(texts):
+	# create_audio(text, 'Roger', 'chiasmus/' + str(i))
+	# text = "Hello, this is another test."
+	tts = gTTS(text=text, lang='en', tld='ie')
+	tts.save(folder + str(i) + ".mp3")
+image_files = [f'images/chiasmus{i}.jpeg' for i in range(len(os.listdir(folder)))]
+audio_files = [folder + f'{i}.mp3' for i in range(len(os.listdir(folder)))]
+
+narration_clips = [AudioFileClip(audio) for audio in audio_files]
+iphone_resolution = (1080*2, 1080)
+
+image_clips = []
+for image, audio in zip(image_files, narration_clips):
+	image = ImageClip(f'{image}').set_duration(audio.duration).resize(iphone_resolution)
+	image_clips.append(image)
+
+# image_files = ['image0.jpeg', 'image1.jpeg', 'image2.jpeg', 'image3.jpeg']#, , 'image3.jpeg', 'image4.jpeg', 'image5.jpeg', 'image6.jpeg', 'image7.jpeg', 'image8.jpeg', 'image9.jpeg']
+# audio_files = ['galations/Daniel0.mp3', 'galations/Daniel1.mp3', 'galations/Daniel2.mp3', 'galations/Daniel3.mp3']# for i in range(len(image_files))]
+
+# narration_clips = [AudioFileClip(audio) for audio in audio_files]
+# image_clips = [ImageClip('images/' + img).set_duration(narration_clips.duration) for img, narration_clips in zip(image_files, narration_clips)]
+video = concatenate_videoclips(image_clips)
+
+combined_audio = concatenate_audioclips(narration_clips)
+video = video.set_audio(combined_audio)
+video.write_videofile("chiasmus_vid.mp4", codec='libx264', fps=24, audio_codec='aac')
+
+#%%
+
+image_files = ['verse.jpeg', 'image1.jpeg', 'image2.jpeg', 'image3.jpeg', 'image4.jpeg']
+audio_files = [f'galations/Daniel{i}.mp3' for i in range(len(image_files))]
+
+narration_clips = [AudioFileClip(audio) for audio in audio_files]
+
+image_clips = [ImageClip(f'images/{image}').set_duration(audio.duration) for image, audio in zip(image_files, narration_clips)]
+
+video_clips = [CompositeVideoClip([image.set_audio(audio)]) for image, audio in zip(image_clips, narration_clips)]
+
+final_video = concatenate_videoclips(video_clips)
+
+final_video.write_videofile('galations_video.mp4', fps=24)
+
+# %%
+
+import pyttsx3
+
+text = "Hello, this is another test."
+engine = pyttsx3.init()
+
+# List available voices and pick a male voice
+voices = engine.getProperty('voices')
+for voice in voices:
+	print(voice.id, voice.name, voice.gender)  # Useful for identifying voices
+
+# Set a male voice (you may need to adjust the index based on your system)
+engine.setProperty('voice', voices[0].id)  # Change index if needed
+
+engine.save_to_file(text, "output.mp3")
+engine.runAndWait()
+#%%
+
+from pytubefix import YouTube
+from moviepy.editor import *
+import os
+
+def download_audio(url):
+	video = YouTube('https://www.youtube.com/watch?v='+url)
+	original_title = video.title.replace('?', '').replace('|','').replace('&', 'and').replace('#', '').replace('/','_')
+	filename = f'{original_title}.wav'
+	audio_stream = video.streams.get_audio_only().download()
+	# audio_stream = video.streams.get_highest_resolution().download()
+	audio = AudioFileClip(audio_stream)
+	audio.write_audiofile(filename)
+	os.remove(audio_stream)
+
+urls = [
+	'9ZS6v9fQv5M',
+	'bTACekXFmWk',
+]
+
+for url in urls:
+	download_audio(url)
+
+
+#%%

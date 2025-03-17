@@ -52,6 +52,8 @@ df_grouped = df_bom.groupby('book_title')['word_count'].sum().reset_index()
 
 plt.figure(figsize=(12, 6))
 plt.bar(df_grouped['book_title'], df_grouped['word_count'], color='skyblue')
+word_count = df_grouped['word_count']
+plt.bar_label(word_count)
 plt.xlabel('Book Titles')
 plt.ylabel('Total Word Count')
 plt.title('Total Word Count by Book in the Book of Mormon')
