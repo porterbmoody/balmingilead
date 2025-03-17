@@ -39,7 +39,7 @@ for i, book in enumerate(data['books']):
 # print(verses)
 
 df_bom = (pd.DataFrame({'book_title':book_titles,'chapter_number':chapter_numbers,'verse_reference':verse_references, 'verse':verses}))
-df_bom.to_csv('data.csv',index=False)
+# df_bom.to_csv('data.csv',index=False)
 
 # df_bom = (pd.DataFrame({'book_titles':book_titles,'chapter_numbers':chapter_numbers,'reference_numbers':reference_numbers,'reference':verse_references,'verse':verses}))
 
