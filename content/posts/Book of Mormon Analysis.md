@@ -11,10 +11,9 @@ tags: ["Book of Mormon"]
 
 ![](./count.png)
 
-![](./posts/count.png)
+<!-- ![](./posts/count.png) -->
 
-
-![](./content/posts/count.png)
+<!-- ![](./content/posts/count.png) -->
 
 Name | Frequency |
 --- | --- |
