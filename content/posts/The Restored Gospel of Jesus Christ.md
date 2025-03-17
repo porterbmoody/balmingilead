@@ -8,6 +8,7 @@ tags: ["Restored Gospel", 'Joseph Smith', '1st Vision', 'Jesus Christ']
 
 *Brothers and Sisters*,
 
+
 I am deeply grateful to be here with you today. I live in New River, just north of Anthem I am blessed to live in a beautiful place. I also express gratitude to be a member of the deer valley ward with great members and leaders. I also thank the stake members and leaders for the selfless service. I have been greatly blessed to attend the activites in the stake here. Brothers and Sisters, I am eager to share a special message that I have prepared. 
 
 In *2 Nephi 31:3* Nephi said,
