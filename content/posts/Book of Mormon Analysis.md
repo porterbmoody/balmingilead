@@ -21,7 +21,7 @@ tags: ["Book of Mormon"]
 
 <img src="https://porterbmoody.github.io/balmingilead/posts/count.png" alt="count" />
 
-<img src="{{prepend: site.url}}conent/posts/count.png" alt="count" />
+<img src="{{prepend: site.url}}/balmingileadconent/posts/count.png" alt="count" />
 
 
 
