@@ -1,7 +1,7 @@
 ---
-title: "The Answer is Jesus Christ"
+title: "Thoughts"
 
-description: "No matter what questions or problems we have, the answer is always Jesus Christ"
+description: ""
 theme_version: '2.8.2'
 cascade:
   featured_image: '/posts/images/jesus2.jpeg'
