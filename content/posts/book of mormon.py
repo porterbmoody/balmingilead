@@ -58,6 +58,7 @@ plt.title('Total Word Count by Book in the Book of Mormon')
 plt.xticks(rotation=45, ha='right')
 plt.show()
 
+plt.savefig("Book of Mormon Images/word count by book.png") 
 
 #%%
 
