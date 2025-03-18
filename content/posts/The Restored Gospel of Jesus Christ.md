@@ -49,7 +49,7 @@ In around 53-57AD, Paul taught that grievous wolves would enter in among the chu
 
 > 30 Also of your own selves shall men arise, speaking perverse things, to draw away disciples after them.
 
-2 Thessalonians 2
+2 Thessalonians 2:3 teaches us that there will be a "falling away" of the true church before the 2nd coming of Jesus Christ.
 
 > 3 Let no man deceive you by any means: for that day shall not come, except there come a falling away first, and that man of sin be revealed, the son of perdition;
 
@@ -70,6 +70,14 @@ So we see that God covenanted with Abraham, and would remember his seed forever.
 > 16 Behold, I have graven thee upon the palms of my hands; thy walls are continually before me.
 
 And so we see that the Lord would remember his child even if his very own mother forgets him.
+
+We also read in Malachi 3:6 that the Lord does not change.
+
+6 For I am the Lord, I change not; therefore ye sons of Jacob are not consumed.
+
+7 ¶ Even from the days of your fathers ye are gone away from mine ordinances, and have not kept them. Return unto me, and I will return unto you, saith the Lord of hosts. But ye said, Wherein shall we return?
+
+This teaches that if we have ever gone away from the ordinances of Christ, we are able to return and Christ will likewise return unto us.
 
 So Joseph Smith began to search for answers. He read in James 1:5 which says,
 
