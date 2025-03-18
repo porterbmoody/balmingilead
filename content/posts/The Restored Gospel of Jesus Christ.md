@@ -79,7 +79,7 @@ We also read in Malachi 3:6 that the Lord does not change.
 
 This teaches that if we have ever gone away from the ordinances of Christ, we are able to return and Christ will likewise return unto us.
 
-And we also read in the Doctrine and Covenants 3
+And we also read that God doesn't change in the slightest degree of variance in the Doctrine and Covenants 3
 
 > 2 For God doth not walk in crooked paths, neither doth he turn to the right hand nor to the left, neither doth he vary from that which he hath said, therefore his paths are straight, and his course is one eternal round.
 
