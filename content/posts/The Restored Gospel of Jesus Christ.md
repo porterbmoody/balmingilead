@@ -73,11 +73,15 @@ And so we see that the Lord would remember his child even if his very own mother
 
 We also read in Malachi 3:6 that the Lord does not change.
 
-6 For I am the Lord, I change not; therefore ye sons of Jacob are not consumed.
+> 6 For I am the Lord, I change not; therefore ye sons of Jacob are not consumed.
 
-7 ¶ Even from the days of your fathers ye are gone away from mine ordinances, and have not kept them. Return unto me, and I will return unto you, saith the Lord of hosts. But ye said, Wherein shall we return?
+> 7 ¶ Even from the days of your fathers ye are gone away from mine ordinances, and have not kept them. Return unto me, and I will return unto you, saith the Lord of hosts. But ye said, Wherein shall we return?
 
 This teaches that if we have ever gone away from the ordinances of Christ, we are able to return and Christ will likewise return unto us.
+
+And we also read in the Doctrine and Covenants 3
+
+> 2 For God doth not walk in crooked paths, neither doth he turn to the right hand nor to the left, neither doth he vary from that which he hath said, therefore his paths are straight, and his course is one eternal round.
 
 So Joseph Smith began to search for answers. He read in James 1:5 which says,
 
