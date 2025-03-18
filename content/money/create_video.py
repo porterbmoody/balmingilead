@@ -3,12 +3,16 @@
 import pyttsx3
 from PIL import Image, ImageOps, ImageDraw, ImageFont
 from moviepy.editor import *
+from gtts import gTTS
 
 engine = pyttsx3.init()
 
 def generate_audio(text, filename):
-	engine.save_to_file(text, filename)
-	engine.runAndWait()
+	# engine.save_to_file(text, filename)
+	# engine.runAndWait()
+
+	tts = gTTS(text=text, lang='en', tld='ie')
+	tts.save(filename)
 
 def create_video(images, texts):
 
@@ -36,6 +40,7 @@ def create_video(images, texts):
 			lines.append(line)
 
 		return lines
+
 	image_paths = ["images/" + image_path for image_path in images]
 	for i, (image_path, text) in enumerate(zip(image_paths, texts)):
 		img = Image.open(image_path)
@@ -48,14 +53,14 @@ def create_video(images, texts):
 
 		draw = ImageDraw.Draw(final_img)
 
-		max_text_width = phone_size[0] - 500
+		max_text_width = phone_size[0] - 200
 		lines = wrap_text(text, font, max_text_width)
 
 		line_spacing = 10
 		line_height = max(font.getbbox(line)[3] - font.getbbox(line)[1] for line in lines)
 		total_text_height = len(lines) * line_height + (len(lines) - 1) * line_spacing
 
-		start_y = phone_size[1] - total_text_height - 250
+		start_y = phone_size[1] - total_text_height - 1000
 
 		bg_margin = 20
 		bg_width = max(draw.textlength(line, font=font) for line in lines) + bg_margin * 2
@@ -99,34 +104,54 @@ def create_video(images, texts):
 	video.write_videofile("short.mp4", codec='libx264', fps=24, audio_codec='aac')
 
 images = [
-	"save0.jpeg",
-	"save1.jpeg",
+	'uni0.jpeg',
+	'uni1.jpeg',
+	'uni2.jpeg',
+	'uni3.jpeg',
+	'uni4.jpeg',
+	'uni5.jpeg',
+	'uni6.jpeg',
+	# "save0.jpeg",
+	# "save1.jpeg",
+	# "save2.jpeg",
+	# "save3.jpeg",
+	# "save4.jpeg",
+	# "save5.jpeg",
+	# "save6.jpeg",
+	# "save7.jpeg",
+	# "save8.jpeg",
+	# "save9.jpeg",
+	# "save10.jpeg",
 ]
 
 texts = [
-"#1: Track Your Spending",
-"You can’t save money if you don’t know where it’s going. Use budgeting apps like Mint or YNAB, or even a simple spreadsheet to track every dollar. You’d be surprised how much those ‘little’ purchases add up.",
-"#2: Cancel Unused Subscriptions",
-"Look through your bank statements and cancel those subscriptions you don’t really use. Do you really need five different streaming services?",
-"#3: Use Cashback & Rewards",
-"Apps like Rakuten, Honey, and credit card reward programs can give you cash back on things you already buy. It’s free money—why not take it?",
-"#4: Meal Plan & Cook at Home",
-"Eating out is one of the biggest money drains. Try meal prepping for the week—you’ll save money and eat healthier. Plus, homemade coffee? Way cheaper than Starbucks!",
-"#5: Buy Generic Brands",
-"Most store-brand products are just as good as name brands but cost way less. Give them a try and see if you really notice a difference.",
-"#6: Negotiate Your Bills",
-"Call your internet, phone, or insurance provider and ask for a lower rate. You’d be surprised how often they’ll cut your bill just to keep you as a customer.",
-"#7: Use Public Transport or Carpool",
-"Gas and maintenance add up. If possible, use public transit, bike, or carpool to save money on commuting. Even a couple of days a week can make a big difference.",
-"#8: Buy Secondhand",
-"From clothes to furniture, buying used can save you hundreds of dollars a year. Check out thrift stores, Facebook Marketplace, or Craigslist before buying new.",
-"#9: Automate Your Savings",
-"Set up automatic transfers to your savings account so you ‘pay yourself first.’ Even $10 a week adds up over time!",
-'#10: Find Free Entertainment',
-"Instead of expensive nights out, look for free activities—hiking, library events, or community festivals. Fun doesn’t have to be expensive!",
+'5 Mind-Blowing Facts About the Universe',
+'Fact #1: The Universe is Still Expanding\n1. The Big Bang theory suggests that the universe began as a single point.\n2. This point expanded rapidly around 13.8 billion years ago.\n3. The universe is still growing, with galaxies moving away from each other.',
+'Fact #2: There are More Stars than Grains of Sand\n1. The observable universe contains over 200 billion galaxies.\n2. Each galaxy contains billions of stars.\n3. The number of stars in the universe is estimated to be around 100 billion trillion.',
+'Fact #3: Space is Filled with Mysterious Sounds\n1. NASA has recorded strange sounds in space, such as whistles and chirps.\n2. These sounds are thought to be caused by solar winds and magnetic fields.\n3. The sounds are still not fully understood and are the subject of ongoing research.',
+'Fact #4: The International Space Station is Huge\n1. The ISS orbits the Earth at an altitude of around 250 miles.\n2. It is the largest human-made object in space.\n3. The ISS is so big that it can be seen from Earth with the naked eye.',
+'Fact #5: There are Planets Made Entirely of Diamond\n1. Scientists have discovered planets that are thought to be composed primarily of diamond.\n2. These planets are formed when carbon-rich stars explode.\n3. The diamond planets are still purely theoretical and have yet to be directly observed.',
 ]
 
-# create_video(images, texts)
+# texts = [
+# 	'3 Proven Ways to Boost Your Income',
+# 	'Tip 1: Start a Side Hustle\n1. Identify your passions: Reflect on your interests and skills.\n2. Research opportunities: Explore platforms like Etsy, eBay, or Upwork.\n3. Take action: Start small and scale your side hustle.',
+# 	'Tip 2: Invest in Personal Development\n1. Learn in-demand skills: Focus on emerging technologies like AI, data science, or cybersecurity.\n2. Attend workshops and conferences: Network with professionals and stay updated on industry trends.\n3. Read books and articles: Continuously educate yourself on personal finance, entrepreneurship, and career development.',
+# 	'Tip 3: Participate in the Gig Economy\n1. Sign up with gig platforms: Join companies like Uber, Lyft, DoorDash, or Postmates.\n2. Offer services on freelance platforms: Use platforms like Fiverr, Freelancer, or TaskRabbit.\n3. Monetize your skills: Offer high-demand services like pet-sitting, house-sitting, or tutoring.',
+# ]
+
+# "#1: Track Your Spending. You can’t save money if you don’t know where it’s going. Use budgeting apps like Mint or YNAB, or even a simple spreadsheet to track every dollar. You’d be surprised how much those ‘little’ purchases add up.",
+# "#2: Cancel Unused Subscriptions. Look through your bank statements and cancel those subscriptions you don’t really use. Do you really need five different streaming services?",
+# "#3: Use Cashback & Rewards. Apps like Rakuten, Honey, and credit card reward programs can give you cash back on things you already buy. It’s free money—why not take it?",
+# "#4: Meal Plan & Cook at Home. Eating out is one of the biggest money drains. Try meal prepping for the week—you’ll save money and eat healthier. Plus, homemade coffee? Way cheaper than Starbucks!",
+# "#5: Buy Generic Brands. Most store-brand products are just as good as name brands but cost way less. Give them a try and see if you really notice a difference.",
+# "#6: Negotiate Your Bills. Call your internet, phone, or insurance provider and ask for a lower rate. You’d be surprised how often they’ll cut your bill just to keep you as a customer.",
+# "#7: Use Public Transport or Carpool. Gas and maintenance add up. If possible, use public transit, bike, or carpool to save money on commuting. Even a couple of days a week can make a big difference.",
+# "#8: Buy Secondhand. From clothes to furniture, buying used can save you hundreds of dollars a year. Check out thrift stores, Facebook Marketplace, or Craigslist before buying new.",
+# "#9: Automate Your Savings. Set up automatic transfers to your savings account so you ‘pay yourself first.’ Even $10 a week adds up over time!",
+# '#10: Find Free Entertainment. Instead of expensive nights out, look for free activities—hiking, library events, or community festivals. Fun doesn’t have to be expensive!',
+
+create_video(images, texts)
 
 # %%
 # from gtts import gTTS
@@ -354,3 +379,10 @@ for url in urls:
 
 
 #%%
+
+
+from huggingface_hub import snapshot_download
+
+snapshot_download("SparkAudio/Spark-TTS-0.5B", local_dir="pretrained_models/Spark-TTS-0.5B")
+
+
