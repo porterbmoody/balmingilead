@@ -12,10 +12,7 @@ I tried this and this is the error I got
 ```{python}
 pytube https://www.youtube.com/watch?v=PsVgYHSmDu0
 
-
 ```
-
-
 
 Loading video...
 Traceback (most recent call last):
