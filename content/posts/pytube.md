@@ -1,11 +1,9 @@
 ---
 title: "pytube"
-featured_image: "/images/bible.jpg"
+featured_image: "/images/python.jpeg"
 date: 2025-03-19T10:58:08-04:00
 tags: ["pytube", 'python']
 ---
-
-
 
 # pytube
 
@@ -135,3 +133,4 @@ Traceback (most recent call last):
   File "C:\Users\porte\AppData\Local\Programs\Python\Python313\Lib\urllib\request.py", line 613, in http_error_default
     raise HTTPError(req.full_url, code, msg, hdrs, fp)
 urllib.error.HTTPError: HTTP Error 400: Bad Request
+
