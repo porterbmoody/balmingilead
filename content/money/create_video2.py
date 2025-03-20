@@ -60,7 +60,7 @@ def create_video(images, texts):
 		line_height = max(font.getbbox(line)[3] - font.getbbox(line)[1] for line in lines)
 		total_text_height = len(lines) * line_height + (len(lines) - 1) * line_spacing
 
-		start_y = phone_size[1] - total_text_height - 100
+		start_y = phone_size[1] - total_text_height - 200
 
 		bg_margin = 20	
 		bg_width = max(draw.textlength(line, font=font) for line in lines) + bg_margin * 2
@@ -71,13 +71,13 @@ def create_video(images, texts):
 			(phone_size[0] + bg_width) // 2,
 			start_y + total_text_height + bg_margin
 		)
-		draw.rectangle(bg_position, fill=(255, 255, 255))
+		# draw.rectangle(bg_position, fill=(255, 255, 255))
 
 		y_offset = start_y
 		for line in lines:
 			text_w = draw.textlength(line, font=font)
 			text_position = ((phone_size[0] - text_w) // 2, y_offset)
-			draw.text(text_position, line, font=font, fill=(0, 0, 0))
+			# draw.text(text_position, line, font=font, fill=(0, 0, 0))
 			y_offset += line_height + line_spacing
 
 		resized_path = image_path.replace('.jpeg', '_resized.jpeg')
@@ -101,18 +101,20 @@ def create_video(images, texts):
 	# audio = CompositeAudioClip([audioclip])
 	# video.audio = audio
 
-	audio_background = AudioFileClip('swag.wav')
+	audio_background = AudioFileClip('spirit of god.wav')
 	final_audio = CompositeAudioClip([video.audio, audio_background])
 	final_clip = video.set_audio(final_audio)
 
 	final_clip.write_videofile("short.mp4", codec='libx264', fps=24, audio_codec='aac')
 
 texts = [
-
-	'3 Irrefutable Evidences for the Book of Mormon',
-	"""1. Chiasmus in the Text\nChiasmus is a literary structure commonly found in ancient Hebrew and other Near Eastern texts. It involves a mirrored or inverted parallelism, where ideas are introduced in a certain order and then repeated in reverse. This structure was used to aid oral transmission and reinforce key messages.\n\nOne of the strongest examples of chiasmus in the Book of Mormon is Alma 36, where Alma recounts his dramatic conversion. The structure follows this pattern:\nA. Alma’s afflictions and suffering\nB. Recalling his father’s prophecies about Christ\nC. Being racked with torment for sins\nD. Calling upon Jesus for mercy\nC'. Joy replaces torment\nB'. Recognizing the truth of Christ’s role\nA'. Rejoicing in salvation and desiring to share it\nThis complex pattern suggests a deliberate literary construction rather than random storytelling. Since Joseph Smith had limited formal education and chiasmus wasn’t widely recognized in 19th-century America, some scholars argue that this is evidence of an ancient Hebrew influence in the Book of Mormon.""",
-	"""2. Arabian Geography & Nahom\nThe Book of Mormon states that Lehi’s family traveled through the Arabian Peninsula and buried Ishmael in a place called Nahom (1 Nephi 16:34). This location is significant for a few reasons:\nNHM Inscription Discovery\nIn the 1990s, archaeologists found ancient inscriptions in Yemen dating back to around 700-600 BCE (the time Lehi’s family would have traveled) that reference a tribal region called NHM (which corresponds phonetically with Nahom in Semitic languages, which often omit vowels in written form).\nTrade Routes & Burial Customs\nThe NHM region in ancient Arabia was known for being near major incense trade routes and had burial sites, which aligns with the Book of Mormon’s mention of Ishmael being buried there. Lehi’s family also reportedly turned "nearly eastward" from Nahom (1 Nephi 17:1), which corresponds with the geography leading to the coast where Nephi’s group could have built a ship.\nUnlikely to Be Known by Joseph Smith\nThe Arabian Peninsula was largely unexplored by Western scholars in the early 19th century, and the specific name NHM would not have been available in sources accessible to Joseph Smith. The discovery of this location after the Book of Mormon was published is seen by some as evidence that the book describes real-world places.""",
-	"""3. Mesoamerican Cultural Parallels\nAlthough the Book of Mormon does not explicitly name its setting, many LDS researchers believe that the Nephites and Lamanites lived in ancient Mesoamerica (southern Mexico, Guatemala, and nearby regions). There are several cultural and historical parallels between Book of Mormon societies and pre-Columbian civilizations:\nCity-Building & Complex Societies\nThe Nephites and Lamanites built cities with walls, temples, roads, and public buildings (Mosiah 7:10, Alma 48:8). This aligns with evidence of advanced city-building cultures in Mesoamerica, such as the Maya and Olmec, who had complex urban centers.\nTemple Worship\nThe Nephites constructed temples "after the manner of Solomon" (2 Nephi 5:16). While the Maya and other Mesoamerican cultures did not follow Jewish temple practices, they did build step-pyramids used for religious ceremonies, which some LDS scholars see as a parallel.\nWarfare & Weapons\nThe Book of Mormon describes wars involving large armies, armor, and fortifications (Alma 49:4-8). Mesoamerican civilizations also had frequent warfare, used obsidian-bladed weapons similar to those described in the Book of Mormon (e.g., the macuahuitl, which resembles a sword), and built defensive structures.\nHebrew-Like Traditions\nSome Mesoamerican legends and myths contain themes that seem to echo biblical or Book of Mormon teachings, such as a bearded white god (Quetzalcoatl) who resembles descriptions of Christ’s visit to the Nephites in 3 Nephi 11.""",
+	'3 Evidences for the Book of Mormon',
+	"""1. Chiasmus\nChiasmus is a literary structure commonly found in ancient Hebrew and other Near Eastern texts. It involves a mirrored or inverted parallelism, where ideas are introduced in a certain order and then repeated in reverse. This structure was used to aid oral transmission and reinforce key messages.""",
+	"""\nOne of the strongest examples of chiasmus in the Book of Mormon is Alma 36, where Alma recounts his dramatic conversion. The structure follows this pattern:""",
+	"""\nA. Alma’s afflictions and suffering\nB. Recalling his father’s prophecies about Christ\nC. Being racked with torment for sins\nD. Calling upon Jesus for mercy\nC'. Joy replaces torment\nB'. Recognizing the truth of Christ’s role\nA'. Rejoicing in salvation and desiring to share it\nThis complex pattern suggests a deliberate literary construction rather than random storytelling. Since Joseph Smith had limited formal education and chiasmus wasn’t widely recognized in 19th-century America, some scholars argue that this is evidence of an ancient Hebrew influence in the Book of Mormon.""",
+	"""2. Arabian Geography & Nahom\nThe Book of Mormon states that Lehi’s family traveled through the Arabian Peninsula and buried Ishmael in a place called Nahom (1 Nephi 16:34). This location is significant for a few reasons:\n""",
+	"""NHM Inscription Discovery\nIn the 1990s, archaeologists found ancient inscriptions in Yemen dating back to around 700-600 BCE (the time Lehi’s family would have traveled) that reference a tribal region called NHM (which corresponds phonetically with Nahom in Semitic languages, which often omit vowels in written form).\nTrade Routes & Burial Customs\nThe NHM region in ancient Arabia was known for being near major incense trade routes and had burial sites, which aligns with the Book of Mormon’s mention of Ishmael being buried there. Lehi’s family also reportedly turned "nearly eastward" from Nahom (1 Nephi 17:1), which corresponds with the geography leading to the coast where Nephi’s group could have built a ship.\nUnlikely to Be Known by Joseph Smith\nThe Arabian Peninsula was largely unexplored by Western scholars in the early 19th century, and the specific name NHM would not have been available in sources accessible to Joseph Smith. The discovery of this location after the Book of Mormon was published is seen by some as evidence that the book describes real-world places.""",
+	# """3. Mesoamerican Cultural Parallels\nAlthough the Book of Mormon does not explicitly name its setting, many LDS researchers believe that the Nephites and Lamanites lived in ancient Mesoamerica (southern Mexico, Guatemala, and nearby regions). There are several cultural and historical parallels between Book of Mormon societies and pre-Columbian civilizations:\nCity-Building & Complex Societies\nThe Nephites and Lamanites built cities with walls, temples, roads, and public buildings (Mosiah 7:10, Alma 48:8). This aligns with evidence of advanced city-building cultures in Mesoamerica, such as the Maya and Olmec, who had complex urban centers.\nTemple Worship\nThe Nephites constructed temples "after the manner of Solomon" (2 Nephi 5:16). While the Maya and other Mesoamerican cultures did not follow Jewish temple practices, they did build step-pyramids used for religious ceremonies, which some LDS scholars see as a parallel.\nWarfare & Weapons\nThe Book of Mormon describes wars involving large armies, armor, and fortifications (Alma 49:4-8). Mesoamerican civilizations also had frequent warfare, used obsidian-bladed weapons similar to those described in the Book of Mormon (e.g., the macuahuitl, which resembles a sword), and built defensive structures.\nHebrew-Like Traditions\nSome Mesoamerican legends and myths contain themes that seem to echo biblical or Book of Mormon teachings, such as a bearded white god (Quetzalcoatl) who resembles descriptions of Christ’s visit to the Nephites in 3 Nephi 11.""",
 ]
 
 	# '1. The Bibles oldest surviving manuscript: The oldest surviving manuscript of the Bible is the Dead Sea Scrolls, which date back to around 150 BCE. These scrolls were discovered in 1947 in Qumran, near the Dead Sea, and contain fragments of every book of the Hebrew Bible, as well as other ancient texts.',
@@ -142,10 +144,14 @@ texts = [
 	# "save10.jpeg",
 
 images = [
-	'book of mormon.jpeg',
-	'chiasmus.jpg',
+	'bom.jpeg',
+	'chias_pattern.jpeg',
+	# 'alma.jpeg',
+	'alma3.jpeg',
+	'chi_pattern.jpeg',
 	'nahom.jpeg',
-	'mesoamerican culture.jpeg',
+	'nahom2.jpeg',
+	# 'mesoamerican culture.jpeg',
 	# 'metal.jpeg',
 	# 'sword.jpeg',
 	# 'horse.jpg',
@@ -177,3 +183,4 @@ images = [
 # '#10: Find Free Entertainment. Instead of expensive nights out, look for free activities—hiking, library events, or community festivals. Fun doesn’t have to be expensive!',
 
 create_video(images, texts)
+# %%

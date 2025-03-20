@@ -315,10 +315,11 @@ def create_audio(text, name, path):
 # ]
 
 texts = [
-    "Chiasmus is a literary structure where words/phrases are arranged in reverse order, adding complexity and meaning.",
-    "Chiasmus is significant evidence of the Book of Mormon's authenticity and ancient origins, showcasing its complexity and sophistication."
+	'3 Evidences for the Book of Mormon',
+    # "Chiasmus is a literary structure where words/phrases are arranged in reverse order, adding complexity and meaning.",
+    # "Chiasmus is significant evidence of the Book of Mormon's authenticity and ancient origins, showcasing its complexity and sophistication."
 ]
-folder = 'chiasmus/'
+folder = 'audio/'
 for i, text in enumerate(texts):
 	# create_audio(text, 'Roger', 'chiasmus/' + str(i))
 	# text = "Hello, this is another test."
