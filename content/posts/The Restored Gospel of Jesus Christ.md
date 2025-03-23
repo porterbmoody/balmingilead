@@ -78,7 +78,7 @@ Joseph recognized that the true Church of Jesus Christ had fallen away. So Josep
 
 > "Joseph, my son, thy sins are forgiven thee. Go thy way, walk in my statutes, and keep my commandments. Behold, I am the Lord of glory. I was crucified for the world, that all those who believe on my name may have eternal life. Behold, the world lieth in sin at this time, and none doeth good, no, not one. They have turned aside from the gospel and keep not my commandments. They draw near to me with their lips while their hearts are far from me. And mine anger is kindling against the inhabitants of the earth, to visit them according to their ungodliness and to bring to pass that which hath been spoken by the mouth of the prophets and apostles. Behold and lo, I come quickly, as it is written of me, in the cloud, clothed in the glory of my Father."
 
-So we see that Heavenly Father and Jesus Christ have not forgotten about us in the latter days and have once again revealed their gospel. After this vision, the Lord proceeded to reveal a book called the Book of Mormon which teaches his gospel. Here are a few of the verses from it.
+So we see that Heavenly Father and Jesus Christ have not forgotten about us and have once again revealed their gospel. After this vision, the Lord proceeded to reveal a book called the Book of Mormon which teaches his gospel. Here are a few of the verses from it.
 
 In 1 Nephi 13:34, we read,
 
