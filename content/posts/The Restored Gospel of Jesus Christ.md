@@ -28,9 +28,7 @@ Adam, Enoch, Noah, Abraham, and Moses, all served as prophets to teach Heavenly 
 
 > 3 Wherefore, it must needs be expedient that Christ should come among the Jews, among those who are the more wicked part of the world; and they shall crucify him.
 
-After, Jesus Christ was crucified, the apostles continued to preach the gospel for a time, but eventually due to wickedness, the church fell away into apostasy. 
-
-Isaiah 24:5 teaches,
+After, Jesus Christ was crucified, the apostles continued to preach the gospel for a time, but eventually due to wickedness, the church fell away into apostasy. Isaiah 24:5 teaches,
 
 > 5 The earth also is defiled under the inhabitants thereof; because they have transgressed the laws, changed the ordinance, broken the everlasting covenant.
 
@@ -39,7 +37,6 @@ We learn that men heeded the adversary and corrupted the doctrine that Jesus Chr
 In around 53-57AD, Paul taught that grievous wolves would enter in among the church *Acts 20:29-30*
 
 > 29 For I know this, that after my departing shall grievous wolves enter in among you, not sparing the flock.
-
 > 30 Also of your own selves shall men arise, speaking perverse things, to draw away disciples after them.
 
 2 Thessalonians 2:3 teaches us that there will be a "falling away" of the true church before the 2nd coming of Jesus Christ.
