@@ -80,11 +80,11 @@ Joseph recognized that the true Church of Jesus Christ had fallen away. So Josep
 
 So we see that Heavenly Father and Jesus Christ have not forgotten about us and have once again revealed their gospel. After this vision, the Lord proceeded to reveal a book called the Book of Mormon which teaches his gospel. Here are a few of the verses from it.
 
-In 1 Nephi 13:34, we read,
+<!-- In 1 Nephi 13:34, we read, -->
 
-> 34 and after the Gentiles do stumble exceedingly, because of the most plain and precious parts of the gospel of the Lamb which have been kept back by that abominable church, which is the mother of harlots, saith the Lamb—I will be merciful unto the Gentiles in that day, insomuch that I will bring forth unto them, in mine own power, much of my gospel, which shall be plain and precious, saith the Lamb.
+<!-- > 34 and after the Gentiles do stumble exceedingly, because of the most plain and precious parts of the gospel of the Lamb which have been kept back by that abominable church, which is the mother of harlots, saith the Lamb—I will be merciful unto the Gentiles in that day, insomuch that I will bring forth unto them, in mine own power, much of my gospel, which shall be plain and precious, saith the Lamb. -->
 
-So this is a prophecy saying that the great and abominable church held back many plain and precious truths and that the Lord will bring them back unto the Gentiles in our day.
+<!-- So this is a prophecy saying that the great and abominable church held back many plain and precious truths and that the Lord will bring them back unto the Gentiles in our day. -->
 
 1 Nephi 15:13
 
@@ -92,11 +92,21 @@ So this is a prophecy saying that the great and abominable church held back many
 
 So we see that in the latter days, the fulness of the gospel of the Messiah will be manifest. 
 
-2 Nephi 10:2 also teaches,
+3 Nephi 11
 
-> 2 For behold, the promises which we have obtained are promises unto us according to the flesh; wherefore, as it has been shown unto me that many of our children shall perish in the flesh because of unbelief, nevertheless, God will be merciful unto many; and our children shall be restored, that they may come to that which will give them the true knowledge of their Redeemer.
+> 14 Arise and come forth unto me, that ye may thrust your hands into my side, and also that ye may feel the prints of the nails in my hands and in my feet, that ye may know that I am the God of Israel, and the God of the whole earth, and have been slain for the sins of the world.
 
-And so we see that our loving Heavenly Father has not forgotten his children. He has again revealed his gospel to all his children. Through Joseph Smith, the Lord restored His Church, priesthood, and the plain and precious truths of the gospel. I am grateful for the love and mercy of Heavenly Father for revealing the gospel and his church again. I know that President Nelson is a prophet and that, "no matter what questions or problems we have, the answer is always found in the life and teachings of Jesus Christ. I say these things in the name of Jesus Christ, amen. 
+> 15 And it came to pass that the multitude went forth, and thrust their hands into his side, and did feel the prints of the nails in his hands and in his feet; and this they did do, going forth one by one until they had all gone forth, and did see with their eyes and did feel with their hands, and did know of a surety and did bear record, that it was he, of whom it was written by the prophets, that should come.
+
+16 And when they had all gone forth and had witnessed for themselves, they did cry out with one accord, saying:
+
+17 Hosanna! Blessed be the name of the Most High God! And they did fall down at the feet of Jesus, and did worship him.
+
+<!-- 2 Nephi 10:2 also teaches, -->
+
+<!-- > 2 For behold, the promises which we have obtained are promises unto us according to the flesh; wherefore, as it has been shown unto me that many of our children shall perish in the flesh because of unbelief, nevertheless, God will be merciful unto many; and our children shall be restored, that they may come to that which will give them the true knowledge of their Redeemer. -->
+
+And so we see that our loving Heavenly Father has not forgotten his children. He has again revealed his gospel to all his children. Through Joseph Smith, the Lord restored His Church, priesthood, and the plain and precious truths of the gospel. I am grateful for the love and mercy of Heavenly Father for revealing the gospel. I also share my testimony that Jesus Christ was slain for the sins of the world and he is the God of the whole earth. I know that President Nelson is a prophet and that, "no matter what questions or problems we have, the answer is always found in the life and teachings of Jesus Christ. I say these things in the name of Jesus Christ, amen. 
 
 <!-- After this vision, the Lord proceeded to reveal a book called the Book of Mormon.  -->
 
