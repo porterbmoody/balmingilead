@@ -24,18 +24,11 @@ Today I would like to share a very simple message. God, our Heavenly Father love
 > 7 Surely the Lord God will do nothing, until he revealeth his secret unto his servants the prophets.
 
 Adam, Enoch, Noah, Abraham, and Moses, all served as prophets to teach Heavenly Father's gospel. In the meridian of time, Heavenly Father sent his son, Jesus Christ to earth to teach the gospel. Jesus Christ also did many other things. He performed miracles, ordained apostles and established his church. He taught his doctrine. He set the example for us. He lived an entire life with man and then performed the infinite atonement and suffered and died for our sins. 
+2 Nephi 10:3 says,
 
-Ephesians 4:11-12 remind us that Jesus Christ called apostles, prophets, evangelists, pastors, and teachers as part of proper establishment of his church.
+> 3 Wherefore, it must needs be expedient that Christ should come among the Jews, among those who are the more wicked part of the world; and they shall crucify him.
 
-> 11 And he gave some, apostles; and some, prophets; and some, evangelists; and some, pastors and teachers;
-
-> 12 For the perfecting of the saints, for the work of the ministry, for the edifying of the body of Christ:
-
-We also learn in 2 Nephi 10:3 that he was crucified saying, 
-
-> 3 Wherefore, as I said unto you, it must needs be expedient that Christ—for in the last night the angel spake unto me that this should be his name—should come among the Jews, among those who are the more wicked part of the world; and they shall crucify him.
-
-After Heavenly Father's son, Jesus Christ died, the apostles continued to preach the gospel for a time, but eventually due to wickedness, the church fell away into apostasy. 
+After, Jesus Christ was crucified, the apostles continued to preach the gospel for a time, but eventually due to wickedness, the church fell away into apostasy. 
 
 Isaiah 24:5 teaches,
 
@@ -90,6 +83,15 @@ So Joseph Smith began to search for answers. He read in James 1:5 which says,
 Joseph followed the counsel of James and went into a grove of trees and began to pray. The young boy of only 14 years old soon had a marvelous revelation. After going on his own to pray and "ask of God" for wisdom, a pillar of light descendent over his head and 2 personages appeared. Heavenly Father and Jesus Christ appeared and said,
 
 > "Joseph, my son, thy sins are forgiven thee. Go thy way, walk in my statutes, and keep my commandments. Behold, I am the Lord of glory. I was crucified for the world, that all those who believe on my name may have eternal life. Behold, the world lieth in sin at this time, and none doeth good, no, not one. They have turned aside from the gospel and keep not my commandments. They draw near to me with their lips while their hearts are far from me. And mine anger is kindling against the inhabitants of the earth, to visit them according to their ungodliness and to bring to pass that which hath been spoken by the mouth of the prophets and apostles. Behold and lo, I come quickly, as it is written of me, in the cloud, clothed in the glory of my Father."
+After this vision, the Lord proceeded to reveal an ancient text called the Book of Mormon which contains the following verse in 1 Nephi 13:34,
+
+> 34 And it came to pass that the angel of the Lord spake unto me, saying: Behold, saith the Lamb of God, after I have visited the remnant of the house of Israel—and this remnant of whom I speak is the seed of thy father—wherefore, after I have visited them in judgment, and smitten them by the hand of the Gentiles, and after the Gentiles do stumble exceedingly, because of the most plain and precious parts of the gospel of the Lamb which have been kept back by that abominable church, which is the mother of harlots, saith the Lamb—I will be merciful unto the Gentiles in that day, insomuch that I will bring forth unto them, in mine own power, much of my gospel, which shall be plain and precious, saith the Lamb.
+
+So this is a prophecy saying that the great and abominable church held back many plain and precious truths and that the Lord will bring forth much of his gospel unto the Gentiles in our day. 
+
+1 Nephi 15
+
+> 13 And now, the thing which our father meaneth concerning the grafting in of the natural branches through the fulness of the Gentiles, is, that in the latter days, when our seed shall have dwindled in unbelief, yea, for the space of many years, and many generations after the Messiah shall be manifested in body unto the children of men, then shall the fulness of the gospel of the Messiah come unto the Gentiles, and from the Gentiles unto the remnant of our seed—
 
 And so we see that our infinitely loving Heavenly Father has not forgotten his children. He has again revealed to all the children of men that Jesus Christ came to earth to atone for the sins of all men, that those who believe on His name will have eternal life. Through Joseph Smith, the Lord restored His Church, priesthood, and the plain and precious truths of the gospel. I am grateful for the infinite love and mercy of God for sending his son, Jesus Christ to atone for our sins, and restore the truth and light of the gospel once again in our day. I also testify that President Nelson and the apostles are true apostles of the Lord. The words of President Nelson are true that, "no matter what questions or problems we have, the answer is always found in the life and teachings of Jesus Christ." I say these things in the name of Jesus Christ, amen. 
 
@@ -98,3 +100,12 @@ And so we see that our infinitely loving Heavenly Father has not forgotten his c
 <!-- One of the things that Heavenly Father told Joseph Smith to do was translate the Book of Mormon from the gold plates that had been put into the earth hundreds of years ago by the Prophet Moroni. Joseph Smith then translated the gold plates, and now we have 
 
 <!-- In His infinite mercy, our Heavenly Father prepared the way for the gospel to be restored in its fullness. This restoration began with a young man named Joseph Smith. . Joseph Smith served as an instrument in the Lord’s hands, and through him, the heavens were opened once more. -->
+
+<!-- Ephesians 4:11-12 reminds us that Jesus Christ called apostles, prophets, evangelists, pastors, and teachers as part of proper establishment of his church. -->
+
+<!-- > 11 And he gave some, apostles; and some, prophets; and some, evangelists; and some, pastors and teachers; -->
+
+<!-- > 12 For the perfecting of the saints, for the work of the ministry, for the edifying of the body of Christ: -->
+<!-- Ephesians 4:11-12 remind us that Jesus Christ called apostles, prophets, evangelists, pastors, and teachers as part of proper establishment of his church. -->
+
+<!-- > 11 And he gave some, apostles; and some, prophets; and some, evangelists; and some, pastors and teachers; -->
