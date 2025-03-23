@@ -23,7 +23,7 @@ Today I would like to share a very simple message. God, our Heavenly Father love
 
 > 7 Surely the Lord God will do nothing, until he revealeth his secret unto his servants the prophets.
 
-Adam, Enoch, Noah, Abraham, and Moses, all served as prophets to teach Heavenly Father's gospel. In the meridian of time, Heavenly Father sent his son, Jesus Christ to earth to teach the gospel. Jesus Christ also did many other things. He performed miracles, ordained apostles and established his church. He taught truth and wisdom. He set the example for us. He lived an entire life with man and then performed the infinite atonement and suffered and died for our sins. 
+Adam, Enoch, Noah, Abraham, and Moses, all served as prophets to teach Heavenly Father's gospel. In the meridian of time, Heavenly Father sent his son, Jesus Christ to earth to teach the gospel. Jesus Christ also did many other things. He performed miracles, ordained apostles and established his church. He taught his doctrine. He set the example for us. He lived an entire life with man and then performed the infinite atonement and suffered and died for our sins. 
 
 Ephesians 4:11-12 remind us that Jesus Christ called apostles, prophets, evangelists, pastors, and teachers as part of proper establishment of his church.
 
@@ -87,11 +87,11 @@ So Joseph Smith began to search for answers. He read in James 1:5 which says,
 
 > 5 If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.
 
-Joseph followed the counsel of James and went into a grove of trees and began to pray. The young boy of only 14 years old soon had a marvelous revelation. After going on his own to pray and "ask of God" for wisdom, a pillar of light descendent over his head and 2 personages appeared. Heavenly Father and Jesus Christ appeared and told Joseph Smith that none of the churches were true and that
+Joseph followed the counsel of James and went into a grove of trees and began to pray. The young boy of only 14 years old soon had a marvelous revelation. After going on his own to pray and "ask of God" for wisdom, a pillar of light descendent over his head and 2 personages appeared. Heavenly Father and Jesus Christ appeared and said,
 
 > "Joseph, my son, thy sins are forgiven thee. Go thy way, walk in my statutes, and keep my commandments. Behold, I am the Lord of glory. I was crucified for the world, that all those who believe on my name may have eternal life. Behold, the world lieth in sin at this time, and none doeth good, no, not one. They have turned aside from the gospel and keep not my commandments. They draw near to me with their lips while their hearts are far from me. And mine anger is kindling against the inhabitants of the earth, to visit them according to their ungodliness and to bring to pass that which hath been spoken by the mouth of the prophets and apostles. Behold and lo, I come quickly, as it is written of me, in the cloud, clothed in the glory of my Father."
 
-And thus we see that infinitely loving Heavenly Father has not forgotten his children. He has again revealed to all the children of men that Jesus Christ came to earth to atone for the sins of all men, that those who believe on His name will have eternal life. Through Joseph Smith, the Lord restored His Church, priesthood, and the plain and precious truths of the gospel. What a blessing. I am deeply grateful for the infinite love and mercy of God for sending his son, Jesus Christ to atone for our sins, and restore the truth and light of the gospel once again in our day. I say these things in the name of Jesus Christ, amen. 
+And so we see that our infinitely loving Heavenly Father has not forgotten his children. He has again revealed to all the children of men that Jesus Christ came to earth to atone for the sins of all men, that those who believe on His name will have eternal life. Through Joseph Smith, the Lord restored His Church, priesthood, and the plain and precious truths of the gospel. I am grateful for the infinite love and mercy of God for sending his son, Jesus Christ to atone for our sins, and restore the truth and light of the gospel once again in our day. I also testify that President Nelson and the apostles are true apostles of the Lord. The words of President Nelson are true that, "no matter what questions or problems we have, the answer is always found in the life and teachings of Jesus Christ." I say these things in the name of Jesus Christ, amen. 
 
 <!-- ![tree](/images/posts/vision.png) -->
 
