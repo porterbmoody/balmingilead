@@ -14,13 +14,11 @@ I am grateful to be with you today. I live in New River, I am blessed to live in
 
 > 3 For the Lord God giveth light unto the understanding; for he speaketh unto men according to their language, unto their understanding.
 
-Like Nephi, I wish to speak to you according to your language and unto your understanding. I would like to share a simple message. God, our Heavenly Father loves us more than we can comprehend. His love is perfect, infinite, enduring, and universal. Because of that love, He has given us the gospel—a plan that allows us to repent and become like Him and live with Him forever. In every dispensation, Heavenly Father calls prophets to teach His gospel.
+Like Nephi, I wish to speak to you according to your language and unto your understanding. I would like to share a simple message. God, our Heavenly Father loves us more than we can comprehend. His love is perfect, infinite, enduring, and universal. Because of that love, He has given us the gospel—a plan that allows us to repent and become like Him and live with Him forever. In every dispensation, Heavenly Father calls prophets to teach His gospel. Adam, Enoch, Noah, Abraham, and Moses, all served as prophets to teach Heavenly Father's gospel. In the meridian of time, Heavenly Father sent his son, Jesus Christ to earth to teach the gospel. Jesus Christ also did many things. He performed miracles, ordained apostles and established his church taught his doctrine. He set the example for us. He lived an entire life with man and then performed the atonement, suffered, and died for our sins. 
 
-*Amos 3:7 JST* says,
+<!-- *Amos 3:7 JST* says, -->
 
-> 7 Surely the Lord God will do nothing, until he revealeth his secret unto his servants the prophets.
-
-Adam, Enoch, Noah, Abraham, and Moses, all served as prophets to teach Heavenly Father's gospel. In the meridian of time, Heavenly Father sent his son, Jesus Christ to earth to teach the gospel. Jesus Christ also did many things. He performed miracles, ordained apostles and established his church taught his doctrine. He set the example for us. He lived an entire life with man and then performed the atonement, suffered, and died for our sins. 
+<!-- > 7 Surely the Lord God will do nothing, until he revealeth his secret unto his servants the prophets. -->
 
 2 Nephi 10:3 says,
 
