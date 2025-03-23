@@ -32,7 +32,7 @@ After, Jesus Christ was crucified, the apostles continued to preach the gospel f
 
 We learn that the inhabitants transgressed and broke the covenenant.
 
-In around 53-57AD, Paul taught that grievous wolves would enter in among the church and draw disciples after them *Acts 20:29-30*
+Paul also taught that grievous wolves would enter in among the church and draw disciples after them *Acts 20:29-30*
 
 > 29 For I know this, that after my departing shall grievous wolves enter in among you, not sparing the flock.
 
@@ -44,15 +44,20 @@ In around 53-57AD, Paul taught that grievous wolves would enter in among the chu
 
 For hundreds of years, the fulness of the gospel and the priesthood power did not exist on the earth.
 
+But how could this be? Heavenly Father promised he would never forget his children, right? 
+
+We also read in Isaiah 49:15-16 that the Lord would remember his child even if his very own mother forgets him.
+
 > 15 Can a woman forget her sucking child, that she should not have compassion on the son of her womb? yea, they may forget, yet will I not forget thee.
 
 > 16 Behold, I have graven thee upon the palms of my hands; thy walls are continually before me.
 
-But how could this be? Heavenly Father promised he would never forget his children, right? 2 Nephi 29:14 reminds us that the Lord has covenanted with Abraham and would remember his seed forever.
+
+2 Nephi 29:14 reminds us that the Lord has covenanted with Abraham and would remember his seed forever.
 
 > 14 And it shall come to pass that my people, which are of the house of Israel, shall be gathered home unto the lands of their possessions; and my word also shall be gathered in one. And I will show unto them that fight against my word and against my people, who are of the house of Israel, that I am God, and that I covenanted with Abraham that I would remember his seed forever.
 
-So we see that God covenanted with Abraham, and would remember his seed forever. We also read in Isaiah 49:15-16 that the Lord would remember his child even if his very own mother forgets him.
+So we see that God covenanted with Abraham, and would remember his seed forever. 
 
 And so we see that the Lord would remember his child even if his very own mother forgets him. We also read in Malachi 3:6 that the Lord does not change.
 
