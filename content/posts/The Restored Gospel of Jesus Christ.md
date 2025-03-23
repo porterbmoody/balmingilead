@@ -96,7 +96,7 @@ So we see that in the latter days, the fulness of the gospel of the Messiah will
 
 > 2 For behold, the promises which we have obtained are promises unto us according to the flesh; wherefore, as it has been shown unto me that many of our children shall perish in the flesh because of unbelief, nevertheless, God will be merciful unto many; and our children shall be restored, that they may come to that which will give them the true knowledge of their Redeemer.
 
-And so we see that our loving Heavenly Father has not forgotten his children. He has again revealed his gospel to all his children. Through Joseph Smith, the Lord restored His Church, priesthood, and the plain and precious truths of the gospel. I am grateful for the love and mercy of Heavenly Father for revealing the gospel and his church again. I know that President Nelson is a prophet and that, "no matter what questions or problems we have, the answer is always found in the life and teachigns of Jesus Christ. I say these things in the name of Jesus Christ, amen. 
+And so we see that our loving Heavenly Father has not forgotten his children. He has again revealed his gospel to all his children. Through Joseph Smith, the Lord restored His Church, priesthood, and the plain and precious truths of the gospel. I am grateful for the love and mercy of Heavenly Father for revealing the gospel and his church again. I know that President Nelson is a prophet and that, "no matter what questions or problems we have, the answer is always found in the life and teachings of Jesus Christ. I say these things in the name of Jesus Christ, amen. 
 
 <!-- After this vision, the Lord proceeded to reveal a book called the Book of Mormon.  -->
 
