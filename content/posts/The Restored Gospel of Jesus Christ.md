@@ -79,7 +79,7 @@ After this vision, the Lord proceeded to reveal an ancient text called the Book 
 
 > 34 And it came to pass that the angel of the Lord spake unto me, saying: Behold, saith the Lamb of God, after I have visited the remnant of the house of Israel—and this remnant of whom I speak is the seed of thy father—wherefore, after I have visited them in judgment, and smitten them by the hand of the Gentiles, and after the Gentiles do stumble exceedingly, because of the most plain and precious parts of the gospel of the Lamb which have been kept back by that abominable church, which is the mother of harlots, saith the Lamb—I will be merciful unto the Gentiles in that day, insomuch that I will bring forth unto them, in mine own power, much of my gospel, which shall be plain and precious, saith the Lamb.
 
-So this is a prophecy saying that the great and abominable church held back many plain and precious truths and that the Lord will bring forth much of his gospel unto the Gentiles in our day. 
+So this is a prophecy saying that the great and abominable church held back many plain and precious truths and that the Lord will bring forth much of his gospel unto the Gentiles in our day.
 
 1 Nephi 15
 
@@ -89,7 +89,7 @@ So this is a prophecy saying that the great and abominable church held back many
 
 > 2 For behold, the promises which we have obtained are promises unto us according to the flesh; wherefore, as it has been shown unto me that many of our children shall perish in the flesh because of unbelief, nevertheless, God will be merciful unto many; and our children shall be restored, that they may come to that which will give them the true knowledge of their Redeemer.
 
-And so we see that our infinitely loving Heavenly Father has not forgotten his children. He has again revealed to all the children of men that Jesus Christ came to earth to atone for the sins of all men, that those who believe on His name will have eternal life. Through Joseph Smith, the Lord restored His Church, priesthood, and the plain and precious truths of the gospel. I am grateful for the infinite love and mercy of God for sending his son, Jesus Christ to atone for our sins, and restore the truth and light of the gospel once again in our day. I also testify that President Nelson and the apostles are true apostles of the Lord. The words of President Nelson are true that, "no matter what questions or problems we have, the answer is always found in the life and teachings of Jesus Christ." I say these things in the name of Jesus Christ, amen. 
+And so we see that our infinitely loving Heavenly Father has not forgotten his children. He has again revealed his gospel to all his children. The knowledge that Jesus Christ came to earth to atone for the sins of men, that those who believe on His name will have eternal life. Through Joseph Smith, the Lord restored His Church, priesthood, and the plain and precious truths of the gospel. I am grateful for the love and mercy of God for revealing the gospel and his church again. The words of President Nelson are true that, "no matter what questions or problems we have, the answer is always found in the life and teachings of Jesus Christ." I say these things in the name of Jesus Christ, amen. 
 
 <!-- ![tree](/images/posts/vision.png) -->
 
