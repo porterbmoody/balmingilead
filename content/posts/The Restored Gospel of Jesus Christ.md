@@ -20,7 +20,7 @@ Like Nephi, I wish to speak to you according to your language and unto your unde
 
 > 7 Surely the Lord God will do nothing, until he revealeth his secret unto his servants the prophets.
 
-Adam, Enoch, Noah, Abraham, and Moses, all served as prophets to teach Heavenly Father's gospel. In the meridian of time, Heavenly Father sent his son, Jesus Christ to earth to teach the gospel. Jesus Christ also did many other things. He performed miracles, ordained apostles and established his church. He taught his doctrine. He set the example for us. He lived an entire life with man and then performed the atonement, suffered, and died for our sins. 
+Adam, Enoch, Noah, Abraham, and Moses, all served as prophets to teach Heavenly Father's gospel. In the meridian of time, Heavenly Father sent his son, Jesus Christ to earth to teach the gospel. Jesus Christ also did many things. He performed miracles, ordained apostles and established his church taught his doctrine. He set the example for us. He lived an entire life with man and then performed the atonement, suffered, and died for our sins. 
 
 2 Nephi 10:3 says,
 
@@ -42,11 +42,10 @@ Paul also taught that grievous wolves would enter in among the church and draw d
 
 > 3 Let no man deceive you by any means: for that day shall not come, except there come a falling away first, and that man of sin be revealed, the son of perdition;
 
-For hundreds of years, the fulness of the gospel and the priesthood power did not exist on the earth.
+For hundreds of years, the fulness of the gospel and the priesthood did not exist on the earth. But how could this be? Heavenly Father promised he would never forget his children, right? 
 
-But how could this be? Heavenly Father promised he would never forget his children, right? 
-
-We also read in Isaiah 49:15-16 that the Lord would remember his child even if his very own mother forgets him.
+Isaiah 49:15-16 says,
+<!-- that the Lord would remember his child even if his very own mother forgets him. -->
 
 > 15 Can a woman forget her sucking child, that she should not have compassion on the son of her womb? yea, they may forget, yet will I not forget thee.
 
@@ -74,7 +73,7 @@ And we also read that God doesn't change in the slightest degree of variance in 
 
 Fast forward many hundreds of years, in 1820, a young boy named Joseph Smith noticed this, saying,
 
-> "I found that mankind did not come unto the Lord but that they had apostatized from the true and living faith, and there was no society or denomination that was built upon the gospel of Jesus Christ as recorded in the New Testament"
+<!-- > "I found that mankind did not come unto the Lord but that they had apostatized from the true and living faith, and there was no society or denomination that was built upon the gospel of Jesus Christ as recorded in the New Testament" -->
 
 > "At about the age of twelve years, my mind become seriously impressed with regard to the all-important concerns for the welfare of my immortal soul, which led me to searching the scriptures—believing, as I was taught, that they contained the word of God and thus applying myself to them. My intimate acquaintance with those of different denominations led me to marvel exceedingly, for I discovered that they did not adorn their profession by a holy walk and godly conversation agreeable to what I found contained in that sacred depository. I found that mankind did not come unto the Lord but that they had apostatized from the true and living faith, and there was no society or denomination that was built upon the gospel of Jesus Christ as recorded in the New Testament This was a grief to my soul. . I felt to mourn for my own sins and for the sins of the world, for I learned in the scriptures that God was the same yesterday, today, and forever, that he was no respecter of persons, for he was God."
 
