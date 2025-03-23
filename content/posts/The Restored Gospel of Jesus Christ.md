@@ -8,13 +8,13 @@ tags: ["Restored Gospel", 'Joseph Smith', '1st Vision', 'Jesus Christ']
 
 *Brothers and Sisters*,
 
-I am grateful to be with you today. I live in New River, just north of Anthem I am blessed to live in a beautiful place. I also express gratitude to be a member of the deer valley ward with great members and leaders. I also thank the stake members and leaders for the selfless service. I have been greatly blessed to attend the activites in the stake here. Brothers and Sisters, I am eager to share a special message that I have prepared. 
+I am grateful to be with you today. I live in New River, I am blessed to live in a beautiful place. I also express gratitude to be a member of the deer valley ward with great members and leaders. I also thank the stake members and leaders for the kind service. I have been greatly blessed to attend the ward and stake activites here. Brothers and Sisters, I am eager to share a special message that I have prepared. 
 
 2 Nephi 31:3 says,
 
 > 3 For the Lord God giveth light unto the understanding; for he speaketh unto men according to their language, unto their understanding.
 
-Like Nephi, I wish to you according to your language and unto your understanding. I would like to share a simple message. God, our Heavenly Father loves us more than we can comprehend. His love is perfect, infinite, enduring, and universal. Because of that love, He has given us the gospel—a plan that allows us to repent and become like Him and live with Him forever. In every dispensation, Heavenly Father calls prophets to teach His gospel.
+Like Nephi, I wish to speak to you according to your language and unto your understanding. I would like to share a simple message. God, our Heavenly Father loves us more than we can comprehend. His love is perfect, infinite, enduring, and universal. Because of that love, He has given us the gospel—a plan that allows us to repent and become like Him and live with Him forever. In every dispensation, Heavenly Father calls prophets to teach His gospel.
 
 *Amos 3:7 JST* says,
 
