@@ -76,11 +76,7 @@ And we also read that God doesn't change in the slightest degree of variance in 
 
 > 2 For God doth not walk in crooked paths, neither doth he turn to the right hand nor to the left, neither doth he vary from that which he hath said, therefore his paths are straight, and his course is one eternal round.
 
-So Joseph Smith began to search for answers. He read in James 1:5 which says,
-
-> 5 If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.
-
-Joseph followed the counsel of James and went into a grove of trees and began to pray. The young boy of only 14 years old soon had a marvelous revelation. After going on his own to pray and "ask of God" for wisdom, a pillar of light descendent over his head and 2 personages appeared. Heavenly Father and Jesus Christ appeared and said,
+So Joseph Smith began to search for answers. He went into a grove of trees to pray. The young boy of only 14 years old soon had a marvelous revelation. On that beautiful Spring morning, a pillar of light descendent over his head and 2 personages appeared. Heavenly Father and Jesus Christ appeared and said,
 
 > "Joseph, my son, thy sins are forgiven thee. Go thy way, walk in my statutes, and keep my commandments. Behold, I am the Lord of glory. I was crucified for the world, that all those who believe on my name may have eternal life. Behold, the world lieth in sin at this time, and none doeth good, no, not one. They have turned aside from the gospel and keep not my commandments. They draw near to me with their lips while their hearts are far from me. And mine anger is kindling against the inhabitants of the earth, to visit them according to their ungodliness and to bring to pass that which hath been spoken by the mouth of the prophets and apostles. Behold and lo, I come quickly, as it is written of me, in the cloud, clothed in the glory of my Father."
 
@@ -93,6 +89,10 @@ So this is a prophecy saying that the great and abominable church held back many
 1 Nephi 15
 
 > 13 And now, the thing which our father meaneth concerning the grafting in of the natural branches through the fulness of the Gentiles, is, that in the latter days, when our seed shall have dwindled in unbelief, yea, for the space of many years, and many generations after the Messiah shall be manifested in body unto the children of men, then shall the fulness of the gospel of the Messiah come unto the Gentiles, and from the Gentiles unto the remnant of our seed—
+
+2 Nephi 10
+
+> 2 For behold, the promises which we have obtained are promises unto us according to the flesh; wherefore, as it has been shown unto me that many of our children shall perish in the flesh because of unbelief, nevertheless, God will be merciful unto many; and our children shall be restored, that they may come to that which will give them the true knowledge of their Redeemer.
 
 And so we see that our infinitely loving Heavenly Father has not forgotten his children. He has again revealed to all the children of men that Jesus Christ came to earth to atone for the sins of all men, that those who believe on His name will have eternal life. Through Joseph Smith, the Lord restored His Church, priesthood, and the plain and precious truths of the gospel. I am grateful for the infinite love and mercy of God for sending his son, Jesus Christ to atone for our sins, and restore the truth and light of the gospel once again in our day. I also testify that President Nelson and the apostles are true apostles of the Lord. The words of President Nelson are true that, "no matter what questions or problems we have, the answer is always found in the life and teachings of Jesus Christ." I say these things in the name of Jesus Christ, amen. 
 
