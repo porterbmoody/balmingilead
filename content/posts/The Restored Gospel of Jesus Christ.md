@@ -8,7 +8,7 @@ tags: ["Restored Gospel", 'Joseph Smith', '1st Vision', 'Jesus Christ']
 
 *Brothers and Sisters*,
 
-I am grateful to be with you today. I live in New River, I am blessed to live in a beautiful place. I also express gratitude to be a member of the deer valley ward with great members and leaders. I also thank the stake members and leaders for the kind service. I have been greatly blessed to attend the ward and stake activites here. Brothers and Sisters, I am eager to share a special message that I have prepared. 
+I am grateful to be with you today. I live in New River, I am blessed to live in a beautiful place. I also express gratitude to be a member of the deer valley ward with great members and leaders. I also thank the stake members and leaders for their kind service. I have been greatly blessed to attend the ward and stake activites here. Brothers and Sisters, I am eager to share a message that I have prepared. 
 
 2 Nephi 31:3 says,
 
