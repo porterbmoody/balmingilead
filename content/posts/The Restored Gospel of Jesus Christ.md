@@ -10,19 +10,17 @@ tags: ["Restored Gospel", 'Joseph Smith', '1st Vision', 'Jesus Christ']
 
 I am grateful to be with you today. I live in New River, just north of Anthem I am blessed to live in a beautiful place. I also express gratitude to be a member of the deer valley ward with great members and leaders. I also thank the stake members and leaders for the selfless service. I have been greatly blessed to attend the activites in the stake here. Brothers and Sisters, I am eager to share a special message that I have prepared. 
 
-In *2 Nephi 31:3* Nephi said,
+2 Nephi 31:3 says,
 
-> 3 For my soul delighteth in plainness; for after this manner doth the Lord God work among the children of men. For the Lord God giveth light unto the understanding; for he speaketh unto men according to their language, unto their understanding.
+> 3 For the Lord God giveth light unto the understanding; for he speaketh unto men according to their language, unto their understanding.
 
-Like Nephi, I wish to speak in plainness, according to your language and unto your understanding.
-
-Today I would like to share a very simple message. God, our Heavenly Father loves us more than we can comprehend. His love is perfect, infinite, enduring, and universal. Because of that love, He has given us the gospel—a plan that allows us to repent and become like Him and live with Him forever. In every dispensation, Heavenly Father calls prophets to teach His gospel.
+Like Nephi, I wish to you according to your language and unto your understanding. I would like to share a simple message. God, our Heavenly Father loves us more than we can comprehend. His love is perfect, infinite, enduring, and universal. Because of that love, He has given us the gospel—a plan that allows us to repent and become like Him and live with Him forever. In every dispensation, Heavenly Father calls prophets to teach His gospel.
 
 *Amos 3:7 JST* says,
 
 > 7 Surely the Lord God will do nothing, until he revealeth his secret unto his servants the prophets.
 
-Adam, Enoch, Noah, Abraham, and Moses, all served as prophets to teach Heavenly Father's gospel. In the meridian of time, Heavenly Father sent his son, Jesus Christ to earth to teach the gospel. Jesus Christ also did many other things. He performed miracles, ordained apostles and established his church. He taught his doctrine. He set the example for us. He lived an entire life with man and then performed the atonement and suffered and died for our sins. 
+Adam, Enoch, Noah, Abraham, and Moses, all served as prophets to teach Heavenly Father's gospel. In the meridian of time, Heavenly Father sent his son, Jesus Christ to earth to teach the gospel. Jesus Christ also did many other things. He performed miracles, ordained apostles and established his church. He taught his doctrine. He set the example for us. He lived an entire life with man and then performed the atonement, suffered, and died for our sins. 
 
 2 Nephi 10:3 says,
 
@@ -74,7 +72,7 @@ Joseph recognized that the true Church of Jesus Christ had fallen away. So Josep
 
 > "Joseph, my son, thy sins are forgiven thee. Go thy way, walk in my statutes, and keep my commandments. Behold, I am the Lord of glory. I was crucified for the world, that all those who believe on my name may have eternal life. Behold, the world lieth in sin at this time, and none doeth good, no, not one. They have turned aside from the gospel and keep not my commandments. They draw near to me with their lips while their hearts are far from me. And mine anger is kindling against the inhabitants of the earth, to visit them according to their ungodliness and to bring to pass that which hath been spoken by the mouth of the prophets and apostles. Behold and lo, I come quickly, as it is written of me, in the cloud, clothed in the glory of my Father."
 
-After this vision, the Lord proceeded to reveal an ancient text called the Book of Mormon which contains the following verse in 1 Nephi 13:34,
+After this vision, the Lord proceeded to reveal his gospel through Joseph Smith. The Lord revealed his gospel through a book called the Book of Mormon which contains the following verse in 1 Nephi 13:34,
 
 > 34 And it came to pass that the angel of the Lord spake unto me, saying: Behold, saith the Lamb of God, after I have visited the remnant of the house of Israel—and this remnant of whom I speak is the seed of thy father—wherefore, after I have visited them in judgment, and smitten them by the hand of the Gentiles, and after the Gentiles do stumble exceedingly, because of the most plain and precious parts of the gospel of the Lamb which have been kept back by that abominable church, which is the mother of harlots, saith the Lamb—I will be merciful unto the Gentiles in that day, insomuch that I will bring forth unto them, in mine own power, much of my gospel, which shall be plain and precious, saith the Lamb.
 
