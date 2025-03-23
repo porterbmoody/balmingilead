@@ -8,7 +8,6 @@ tags: ["Restored Gospel", 'Joseph Smith', '1st Vision', 'Jesus Christ']
 
 *Brothers and Sisters*,
 
-
 I am grateful to be with you today. I live in New River, just north of Anthem I am blessed to live in a beautiful place. I also express gratitude to be a member of the deer valley ward with great members and leaders. I also thank the stake members and leaders for the selfless service. I have been greatly blessed to attend the activites in the stake here. Brothers and Sisters, I am eager to share a special message that I have prepared. 
 
 In *2 Nephi 31:3* Nephi said,
@@ -37,6 +36,7 @@ We learn that men heeded the adversary and corrupted the doctrine that Jesus Chr
 In around 53-57AD, Paul taught that grievous wolves would enter in among the church *Acts 20:29-30*
 
 > 29 For I know this, that after my departing shall grievous wolves enter in among you, not sparing the flock.
+
 > 30 Also of your own selves shall men arise, speaking perverse things, to draw away disciples after them.
 
 2 Thessalonians 2:3 teaches us that there will be a "falling away" of the true church before the 2nd coming of Jesus Christ.
@@ -56,11 +56,13 @@ Joseph recognized that the true Church of Jesus Christ had fallen away. But how 
 So we see that God covenanted with Abraham, and would remember his seed forever. We also read in Isaiah 49:15-16 that the Lord would remember his child even if his very own mother forgets him.
 
 > 15 Can a woman forget her sucking child, that she should not have compassion on the son of her womb? yea, they may forget, yet will I not forget thee.
+
 > 16 Behold, I have graven thee upon the palms of my hands; thy walls are continually before me.
 
 And so we see that the Lord would remember his child even if his very own mother forgets him. We also read in Malachi 3:6 that the Lord does not change.
 
 > 6 For I am the Lord, I change not; therefore ye sons of Jacob are not consumed.
+
 > 7 ¶ Even from the days of your fathers ye are gone away from mine ordinances, and have not kept them. Return unto me, and I will return unto you, saith the Lord of hosts. But ye said, Wherein shall we return?
 
 This teaches that if we have ever gone away from the ordinances of Christ, we are able to return and Christ will likewise return unto us.
