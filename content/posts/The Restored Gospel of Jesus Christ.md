@@ -52,32 +52,35 @@ We also read in Isaiah 49:15-16 that the Lord would remember his child even if h
 
 > 16 Behold, I have graven thee upon the palms of my hands; thy walls are continually before me.
 
-
 2 Nephi 29:14 reminds us that the Lord has covenanted with Abraham and would remember his seed forever.
 
-> 14 And it shall come to pass that my people, which are of the house of Israel, shall be gathered home unto the lands of their possessions; and my word also shall be gathered in one. And I will show unto them that fight against my word and against my people, who are of the house of Israel, that I am God, and that I covenanted with Abraham that I would remember his seed forever.
+> 14 And it shall come to pass that my people, which are of the house of Israel, shall be gathered home unto the lands of their possessions; and my word also shall be gathered in one. And I will show unto them that fight against my word and against my people, who are of the house of Israel, that I am God, and that I covenanted with Abraham that I would remember his seed forever. So we see that God covenanted with Abraham, and would remember his seed forever. 
 
-So we see that God covenanted with Abraham, and would remember his seed forever. 
+<!-- And so we see that the Lord would remember his child even if his very own mother forgets him. We also read in Malachi 3:6 that the Lord does not change. -->
 
-And so we see that the Lord would remember his child even if his very own mother forgets him. We also read in Malachi 3:6 that the Lord does not change.
+<!-- > 6 For I am the Lord, I change not; therefore ye sons of Jacob are not consumed. -->
 
-> 6 For I am the Lord, I change not; therefore ye sons of Jacob are not consumed.
+<!-- > 7 ¶ Even from the days of your fathers ye are gone away from mine ordinances, and have not kept them. Return unto me, and I will return unto you, saith the Lord of hosts. But ye said, Wherein shall we return? -->
 
-> 7 ¶ Even from the days of your fathers ye are gone away from mine ordinances, and have not kept them. Return unto me, and I will return unto you, saith the Lord of hosts. But ye said, Wherein shall we return?
+<!-- This teaches that if we have ever gone away from the ordinances of Christ, we are able to return and Christ will likewise return unto us.  -->
 
-This teaches that if we have ever gone away from the ordinances of Christ, we are able to return and Christ will likewise return unto us. And we also read that God doesn't change in the slightest degree of variance in the Doctrine and Covenants 3
+And we also read that God doesn't change in the slightest degree of variance in the Doctrine and Covenants 3
 
 > 2 For God doth not walk in crooked paths, neither doth he turn to the right hand nor to the left, neither doth he vary from that which he hath said, therefore his paths are straight, and his course is one eternal round.
 
 Fast forward many hundreds of years, in 1820, a young boy named Joseph Smith noticed this, saying,
 
-> "At about the age of twelve years, my mind become seriously impressed with regard to the all-important concerns for the welfare of my immortal soul, which led me to searching the scriptures—believing, as I was taught, that they contained the word of God and thus applying myself to them. My intimate acquaintance with those of different denominations led me to marvel exceedingly, for I discovered that they did not adorn their profession by a holy walk and godly conversation agreeable to what I found contained in that sacred depository. This was a grief to my soul. I found that mankind did not come unto the Lord but that they had apostatized from the true and living faith, and there was no society or denomination that was built upon the gospel of Jesus Christ as recorded in the New Testament. I felt to mourn for my own sins and for the sins of the world, for I learned in the scriptures that God was the same yesterday, today, and forever, that he was no respecter of persons, for he was God."
+> "I found that mankind did not come unto the Lord but that they had apostatized from the true and living faith, and there was no society or denomination that was built upon the gospel of Jesus Christ as recorded in the New Testament"
 
-Joseph recognized that the true Church of Jesus Christ had fallen away. So Joseph Smith began to search for answers. He went into a grove of trees to pray. On that beautiful Spring morning, a pillar of light descendent over his head and 2 personages appeared. Heavenly Father and Jesus Christ appeared and said,
+<!-- > "At about the age of twelve years, my mind become seriously impressed with regard to the all-important concerns for the welfare of my immortal soul, which led me to searching the scriptures—believing, as I was taught, that they contained the word of God and thus applying myself to them. My intimate acquaintance with those of different denominations led me to marvel exceedingly, for I discovered that they did not adorn their profession by a holy walk and godly conversation agreeable to what I found contained in that sacred depository.  -->
+
+<!-- This was a grief to my soul. . I felt to mourn for my own sins and for the sins of the world, for I learned in the scriptures that God was the same yesterday, today, and forever, that he was no respecter of persons, for he was God." -->
+
+Joseph recognized that the true Church of Jesus Christ had fallen away. So Joseph Smith began to search for answers. On peaceful Spring morning, he went into a grove of trees to pray. A pillar of light descendent over his head and 2 personages whose brightness and glory defy all description appeared. One of them spake unto the other, saying, 
 
 > "Joseph, my son, thy sins are forgiven thee. Go thy way, walk in my statutes, and keep my commandments. Behold, I am the Lord of glory. I was crucified for the world, that all those who believe on my name may have eternal life. Behold, the world lieth in sin at this time, and none doeth good, no, not one. They have turned aside from the gospel and keep not my commandments. They draw near to me with their lips while their hearts are far from me. And mine anger is kindling against the inhabitants of the earth, to visit them according to their ungodliness and to bring to pass that which hath been spoken by the mouth of the prophets and apostles. Behold and lo, I come quickly, as it is written of me, in the cloud, clothed in the glory of my Father."
 
-After this vision, the Lord proceeded to reveal his gospel through Joseph Smith. The Lord revealed his gospel through a book called the Book of Mormon which contains the following verse in 1 Nephi 13:34,
+After this vision, the Lord proceeded to reveal his gospel through a book called the Book of Mormon. The Lord revealed his gospel through a book called the Book of Mormon which contains the following verse in 1 Nephi 13:34,
 
 > 34 And it came to pass that the angel of the Lord spake unto me, saying: Behold, saith the Lamb of God, after I have visited the remnant of the house of Israel—and this remnant of whom I speak is the seed of thy father—wherefore, after I have visited them in judgment, and smitten them by the hand of the Gentiles, and after the Gentiles do stumble exceedingly, because of the most plain and precious parts of the gospel of the Lamb which have been kept back by that abominable church, which is the mother of harlots, saith the Lamb—I will be merciful unto the Gentiles in that day, insomuch that I will bring forth unto them, in mine own power, much of my gospel, which shall be plain and precious, saith the Lamb.
 
