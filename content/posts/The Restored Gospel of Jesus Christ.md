@@ -54,7 +54,11 @@ We also read in Isaiah 49:15-16 that the Lord would remember his child even if h
 
 2 Nephi 29:14 reminds us that the Lord has covenanted with Abraham and would remember his seed forever.
 
-> 14 And it shall come to pass that my people, which are of the house of Israel, shall be gathered home unto the lands of their possessions; and my word also shall be gathered in one. And I will show unto them that fight against my word and against my people, who are of the house of Israel, that I am God, and that I covenanted with Abraham that I would remember his seed forever. So we see that God covenanted with Abraham, and would remember his seed forever. 
+<!-- > 14 And it shall come to pass that my people, which are of the house of Israel, shall be gathered home unto the lands of their possessions; and my word also shall be gathered in one.  -->
+
+> 14 And I will show unto them that fight against my word and against my people, who are of the house of Israel, that I am God, and that I covenanted with Abraham that I would remember his seed forever. 
+
+So we see that God covenanted with Abraham, and would remember his seed forever. 
 
 <!-- And so we see that the Lord would remember his child even if his very own mother forgets him. We also read in Malachi 3:6 that the Lord does not change. -->
 
@@ -72,29 +76,37 @@ Fast forward many hundreds of years, in 1820, a young boy named Joseph Smith not
 
 > "I found that mankind did not come unto the Lord but that they had apostatized from the true and living faith, and there was no society or denomination that was built upon the gospel of Jesus Christ as recorded in the New Testament"
 
-<!-- > "At about the age of twelve years, my mind become seriously impressed with regard to the all-important concerns for the welfare of my immortal soul, which led me to searching the scriptures—believing, as I was taught, that they contained the word of God and thus applying myself to them. My intimate acquaintance with those of different denominations led me to marvel exceedingly, for I discovered that they did not adorn their profession by a holy walk and godly conversation agreeable to what I found contained in that sacred depository.  -->
+> "At about the age of twelve years, my mind become seriously impressed with regard to the all-important concerns for the welfare of my immortal soul, which led me to searching the scriptures—believing, as I was taught, that they contained the word of God and thus applying myself to them. My intimate acquaintance with those of different denominations led me to marvel exceedingly, for I discovered that they did not adorn their profession by a holy walk and godly conversation agreeable to what I found contained in that sacred depository. I found that mankind did not come unto the Lord but that they had apostatized from the true and living faith, and there was no society or denomination that was built upon the gospel of Jesus Christ as recorded in the New Testament This was a grief to my soul. . I felt to mourn for my own sins and for the sins of the world, for I learned in the scriptures that God was the same yesterday, today, and forever, that he was no respecter of persons, for he was God."
 
-<!-- This was a grief to my soul. . I felt to mourn for my own sins and for the sins of the world, for I learned in the scriptures that God was the same yesterday, today, and forever, that he was no respecter of persons, for he was God." -->
-
-Joseph recognized that the true Church of Jesus Christ had fallen away. So Joseph Smith began to search for answers. On peaceful Spring morning, he went into a grove of trees to pray. A pillar of light descendent over his head and 2 personages whose brightness and glory defy all description appeared. One of them spake unto the other, saying, 
+Joseph recognized that the true Church of Jesus Christ had fallen away. So Joseph Smith began to search for answers. On peaceful Spring morning, he went into a grove of trees to pray. As he prayed, a pillar of light descendent over his head and 2 personages whose brightness and glory defy all description appeared. Heavenly Father and Jesus Christ appeared and spake unto Joseph, saying,
 
 > "Joseph, my son, thy sins are forgiven thee. Go thy way, walk in my statutes, and keep my commandments. Behold, I am the Lord of glory. I was crucified for the world, that all those who believe on my name may have eternal life. Behold, the world lieth in sin at this time, and none doeth good, no, not one. They have turned aside from the gospel and keep not my commandments. They draw near to me with their lips while their hearts are far from me. And mine anger is kindling against the inhabitants of the earth, to visit them according to their ungodliness and to bring to pass that which hath been spoken by the mouth of the prophets and apostles. Behold and lo, I come quickly, as it is written of me, in the cloud, clothed in the glory of my Father."
 
-After this vision, the Lord proceeded to reveal his gospel through a book called the Book of Mormon. The Lord revealed his gospel through a book called the Book of Mormon which contains the following verse in 1 Nephi 13:34,
+So we see that Heavenly Father and Jesus Christ have not forgotten about us in the latter days and have once again revealed their gospel. After this vision, the Lord proceeded to reveal a book called the Book of Mormon which teaches his gospel. Here are a few of the verses we read about it.
 
-> 34 And it came to pass that the angel of the Lord spake unto me, saying: Behold, saith the Lamb of God, after I have visited the remnant of the house of Israel—and this remnant of whom I speak is the seed of thy father—wherefore, after I have visited them in judgment, and smitten them by the hand of the Gentiles, and after the Gentiles do stumble exceedingly, because of the most plain and precious parts of the gospel of the Lamb which have been kept back by that abominable church, which is the mother of harlots, saith the Lamb—I will be merciful unto the Gentiles in that day, insomuch that I will bring forth unto them, in mine own power, much of my gospel, which shall be plain and precious, saith the Lamb.
+In 1 Nephi 13:34 of the Book of Mormon, we read,
 
-So this is a prophecy saying that the great and abominable church held back many plain and precious truths and that the Lord will bring forth much of his gospel unto the Gentiles in our day.
+> 34 and after the Gentiles do stumble exceedingly, because of the most plain and precious parts of the gospel of the Lamb which have been kept back by that abominable church, which is the mother of harlots, saith the Lamb—I will be merciful unto the Gentiles in that day, insomuch that I will bring forth unto them, in mine own power, much of my gospel, which shall be plain and precious, saith the Lamb.
 
-1 Nephi 15
+So this is a prophecy saying that the great and abominable church held back many plain and precious truths and that the Lord will bring them back unto the Gentiles in our day.
+
+1 Nephi 15:13
 
 > 13 And now, the thing which our father meaneth concerning the grafting in of the natural branches through the fulness of the Gentiles, is, that in the latter days, when our seed shall have dwindled in unbelief, yea, for the space of many years, and many generations after the Messiah shall be manifested in body unto the children of men, then shall the fulness of the gospel of the Messiah come unto the Gentiles, and from the Gentiles unto the remnant of our seed
 
-2 Nephi 10
+So we see that in the latter days, the fulness of the gospel of the Messaih will again be manifest. 
+
+2 Nephi 10:2 also teaches,
 
 > 2 For behold, the promises which we have obtained are promises unto us according to the flesh; wherefore, as it has been shown unto me that many of our children shall perish in the flesh because of unbelief, nevertheless, God will be merciful unto many; and our children shall be restored, that they may come to that which will give them the true knowledge of their Redeemer.
 
 And so we see that our loving Heavenly Father has not forgotten his children. He has again revealed his gospel to all his children. Through Joseph Smith, the Lord restored His Church, priesthood, and the plain and precious truths of the gospel. I am grateful for the love and mercy of God for revealing the gospel and his church again. The words of President Nelson are true that, "no matter what questions or problems we have, the answer is always found in the life and teachings of Jesus Christ." I say these things in the name of Jesus Christ, amen. 
+
+<!-- After this vision, the Lord proceeded to reveal a book called the Book of Mormon.  -->
+
+
+
+
 
 <!-- ![tree](/images/posts/vision.png) -->
 
