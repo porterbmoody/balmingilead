@@ -38,22 +38,21 @@ Paul also taught that grievous wolves would enter in among the church and draw d
 
 > 30 Also of your own selves shall men arise, speaking perverse things, to draw away disciples after them.
 
-2 Thessalonians 2:3 teaches us that there will be a "falling away" of the true church before the 2nd coming of Jesus Christ.
+<!-- 2 Thessalonians 2:3 teaches us that there will be a "falling away" of the true church before the 2nd coming of Jesus Christ. -->
 
-> 3 Let no man deceive you by any means: for that day shall not come, except there come a falling away first, and that man of sin be revealed, the son of perdition;
+<!-- > 3 Let no man deceive you by any means: for that day shall not come, except there come a falling away first, and that man of sin be revealed, the son of perdition; -->
 
 For hundreds of years, the fulness of the gospel and the priesthood did not exist on the earth. But how could this be? Heavenly Father promised he would never forget his children, right? 
 
-Isaiah 49:15-16 says,
-<!-- that the Lord would remember his child even if his very own mother forgets him. -->
+Isaiah 49:15-16 teaches us that the Lord would never forget his children saying,
 
 > 15 Can a woman forget her sucking child, that she should not have compassion on the son of her womb? yea, they may forget, yet will I not forget thee.
 
 > 16 Behold, I have graven thee upon the palms of my hands; thy walls are continually before me.
 
-2 Nephi 29:14 reminds us that the Lord has covenanted with Abraham and would remember his seed forever.
+The Lord has graven us upon the palms of his hands, meaning his hands were peirced by nails for us. Therefore he will never forget us, even if our very own mother forgets us.
 
-<!-- > 14 And it shall come to pass that my people, which are of the house of Israel, shall be gathered home unto the lands of their possessions; and my word also shall be gathered in one.  -->
+2 Nephi 29:14 reminds us that the Lord has covenanted with Abraham and would remember his seed forever.
 
 > 14 And I will show unto them that fight against my word and against my people, who are of the house of Israel, that I am God, and that I covenanted with Abraham that I would remember his seed forever. 
 
@@ -75,7 +74,7 @@ Fast forward many hundreds of years, in 1820, a young boy named Joseph Smith not
 
 > "At about the age of twelve years, my mind become seriously impressed with regard to the all-important concerns for the welfare of my immortal soul, which led me to searching the scriptures—believing, as I was taught, that they contained the word of God and thus applying myself to them. My intimate acquaintance with those of different denominations led me to marvel exceedingly, for I discovered that they did not adorn their profession by a holy walk and godly conversation agreeable to what I found contained in that sacred depository. I found that mankind did not come unto the Lord but that they had apostatized from the true and living faith, and there was no society or denomination that was built upon the gospel of Jesus Christ as recorded in the New Testament. This was a grief to my soul. I felt to mourn for my own sins and for the sins of the world, for I learned in the scriptures that God was the same yesterday, today, and forever, that he was no respecter of persons, for he was God."
 
-Joseph recognized that the true Church of Jesus Christ had fallen away. So Joseph Smith began to search for answers. On peaceful Spring morning, he went into a grove of trees to pray. As he prayed, a pillar of light descendent over his head and 2 personages whose brightness and glory defy all description appeared. Heavenly Father and Jesus Christ appeared and spoke unto Joseph, saying,
+Joseph recognized that the true Church of Jesus Christ had fallen away. So Joseph Smith began to search for answers. On peaceful Spring morning, he went into a grove of trees to pray. As he prayed, a pillar of light descendent over his head and Heavenly Father and Jesus Christ appeared and spoke unto Joseph, saying,
 
 > "Joseph, my son, thy sins are forgiven thee. Go thy way, walk in my statutes, and keep my commandments. Behold, I am the Lord of glory. I was crucified for the world, that all those who believe on my name may have eternal life. Behold, the world lieth in sin at this time, and none doeth good, no, not one. They have turned aside from the gospel and keep not my commandments. They draw near to me with their lips while their hearts are far from me. And mine anger is kindling against the inhabitants of the earth, to visit them according to their ungodliness and to bring to pass that which hath been spoken by the mouth of the prophets and apostles. Behold and lo, I come quickly, as it is written of me, in the cloud, clothed in the glory of my Father."
 
@@ -91,7 +90,7 @@ So this is a prophecy saying that the great and abominable church held back many
 
 > 13 And now, the thing which our father meaneth concerning the grafting in of the natural branches through the fulness of the Gentiles, is, that in the latter days, when our seed shall have dwindled in unbelief, yea, for the space of many years, and many generations after the Messiah shall be manifested in body unto the children of men, then shall the fulness of the gospel of the Messiah come unto the Gentiles, and from the Gentiles unto the remnant of our seed
 
-So we see that in the latter days, the fulness of the gospel of the Messaih will be manifest. 
+So we see that in the latter days, the fulness of the gospel of the Messiah will be manifest. 
 
 2 Nephi 10:2 also teaches,
 
