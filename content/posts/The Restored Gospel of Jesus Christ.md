@@ -81,7 +81,7 @@ Joseph recognized that the true Church of Jesus Christ had fallen away. So Josep
 
 So we see that Heavenly Father and Jesus Christ have not forgotten about us in the latter days and have once again revealed their gospel. After this vision, the Lord proceeded to reveal a book called the Book of Mormon which teaches his gospel. Here are a few of the verses from it.
 
-In 1 Nephi 13:34 of the Book of Mormon, we read,
+In 1 Nephi 13:34, we read,
 
 > 34 and after the Gentiles do stumble exceedingly, because of the most plain and precious parts of the gospel of the Lamb which have been kept back by that abominable church, which is the mother of harlots, saith the Lamb—I will be merciful unto the Gentiles in that day, insomuch that I will bring forth unto them, in mine own power, much of my gospel, which shall be plain and precious, saith the Lamb.
 
