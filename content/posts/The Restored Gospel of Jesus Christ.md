@@ -91,19 +91,15 @@ So this is a prophecy saying that the great and abominable church held back many
 
 > 13 And now, the thing which our father meaneth concerning the grafting in of the natural branches through the fulness of the Gentiles, is, that in the latter days, when our seed shall have dwindled in unbelief, yea, for the space of many years, and many generations after the Messiah shall be manifested in body unto the children of men, then shall the fulness of the gospel of the Messiah come unto the Gentiles, and from the Gentiles unto the remnant of our seed
 
-So we see that in the latter days, the fulness of the gospel of the Messaih will again be manifest. 
+So we see that in the latter days, the fulness of the gospel of the Messaih will be manifest. 
 
 2 Nephi 10:2 also teaches,
 
 > 2 For behold, the promises which we have obtained are promises unto us according to the flesh; wherefore, as it has been shown unto me that many of our children shall perish in the flesh because of unbelief, nevertheless, God will be merciful unto many; and our children shall be restored, that they may come to that which will give them the true knowledge of their Redeemer.
 
-And so we see that our loving Heavenly Father has not forgotten his children. He has again revealed his gospel to all his children. Through Joseph Smith, the Lord restored His Church, priesthood, and the plain and precious truths of the gospel. I am grateful for the love and mercy of God for revealing the gospel and his church again. The words of President Nelson are true that, "no matter what questions or problems we have, the answer is always found in the life and teachings of Jesus Christ." I say these things in the name of Jesus Christ, amen. 
+And so we see that our loving Heavenly Father has not forgotten his children. He has again revealed his gospel to all his children. Through Joseph Smith, the Lord restored His Church, priesthood, and the plain and precious truths of the gospel. I am grateful for the love and mercy of Heavenly Father for revealing the gospel and his church again. I know that President Nelson is a prophet and that, "no matter what questions or problems we have, the answer is always found in the life and teachigns of Jesus Christ. I say these things in the name of Jesus Christ, amen. 
 
 <!-- After this vision, the Lord proceeded to reveal a book called the Book of Mormon.  -->
-
-
-
-
 
 <!-- ![tree](/images/posts/vision.png) -->
 
