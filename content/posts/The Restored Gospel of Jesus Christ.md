@@ -59,15 +59,11 @@ Joseph recognized that the true Church of Jesus Christ had fallen away. But how 
 So we see that God covenanted with Abraham, and would remember his seed forever. We also read in Isaiah 49:15-16 that the Lord would remember his child even if his very own mother forgets him.
 
 > 15 Can a woman forget her sucking child, that she should not have compassion on the son of her womb? yea, they may forget, yet will I not forget thee.
-
 > 16 Behold, I have graven thee upon the palms of my hands; thy walls are continually before me.
 
-And so we see that the Lord would remember his child even if his very own mother forgets him.
-
-We also read in Malachi 3:6 that the Lord does not change.
+And so we see that the Lord would remember his child even if his very own mother forgets him. We also read in Malachi 3:6 that the Lord does not change.
 
 > 6 For I am the Lord, I change not; therefore ye sons of Jacob are not consumed.
-
 > 7 ¶ Even from the days of your fathers ye are gone away from mine ordinances, and have not kept them. Return unto me, and I will return unto you, saith the Lord of hosts. But ye said, Wherein shall we return?
 
 This teaches that if we have ever gone away from the ordinances of Christ, we are able to return and Christ will likewise return unto us.
@@ -76,7 +72,7 @@ And we also read that God doesn't change in the slightest degree of variance in 
 
 > 2 For God doth not walk in crooked paths, neither doth he turn to the right hand nor to the left, neither doth he vary from that which he hath said, therefore his paths are straight, and his course is one eternal round.
 
-So Joseph Smith began to search for answers. He went into a grove of trees to pray. The young boy of only 14 years old soon had a marvelous revelation. On that beautiful Spring morning, a pillar of light descendent over his head and 2 personages appeared. Heavenly Father and Jesus Christ appeared and said,
+So Joseph Smith began to search for answers. He went into a grove of trees to pray. On that beautiful Spring morning, a pillar of light descendent over his head and 2 personages appeared. Heavenly Father and Jesus Christ appeared and said,
 
 > "Joseph, my son, thy sins are forgiven thee. Go thy way, walk in my statutes, and keep my commandments. Behold, I am the Lord of glory. I was crucified for the world, that all those who believe on my name may have eternal life. Behold, the world lieth in sin at this time, and none doeth good, no, not one. They have turned aside from the gospel and keep not my commandments. They draw near to me with their lips while their hearts are far from me. And mine anger is kindling against the inhabitants of the earth, to visit them according to their ungodliness and to bring to pass that which hath been spoken by the mouth of the prophets and apostles. Behold and lo, I come quickly, as it is written of me, in the cloud, clothed in the glory of my Father."
 
