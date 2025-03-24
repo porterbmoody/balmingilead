@@ -14,11 +14,19 @@ I am grateful to be with you today. I live in New River, I am blessed to live in
 
 > 3 For the Lord God giveth light unto the understanding; for he speaketh unto men according to their language, unto their understanding.
 
-Like Nephi, I wish to speak to you according to your language and unto your understanding. I would like to share a simple message. God, our Heavenly Father loves us more than we can comprehend. His love is perfect, infinite, enduring, and universal. Because of that love, He has given us the gospel—a plan that allows us to repent and become like Him and live with Him forever. In every dispensation, Heavenly Father calls prophets to teach His gospel. Adam, Enoch, Noah, Abraham, and Moses, all served as prophets to teach Heavenly Father's gospel. In the meridian of time, Heavenly Father sent his son, Jesus Christ to earth to teach the gospel. Jesus Christ also did many things. He performed miracles, ordained apostles and established his church taught his doctrine. He set the example for us. He lived an entire life with man and then performed the atonement, suffered, and died for our sins. 
+Like Nephi, I wish to speak to you according to your language and unto your understanding. I would like to share a simple message. God, our Heavenly Father loves us more than we can comprehend. His love is perfect, infinite, enduring, and universal. Because of that love, He has given us the gospel—a plan that allows us to repent and become like Him and live with Him forever. In every dispensation, Heavenly Father calls prophets to teach His gospel. 
 
 *Amos 3:7 JST* says,
 
 > 7 Surely the Lord God will do nothing, until he revealeth his secret unto his servants the prophets.
+
+Adam, Enoch, Noah, Abraham, and Moses, all served as prophets to teach Heavenly Father's gospel. In the meridian of time, Heavenly Father sent his son, Jesus Christ to earth to teach the gospel. Jesus Christ also did many things. He performed miracles, ordained apostles and established his church taught his doctrine. He set the example for us. He lived an entire life with man and then performed the atonement, suffered, and died for our sins. 
+
+Ephesians 4:11-12 reminds us that Jesus Christ called apostles, prophets, evangelists, pastors, and teachers as part of proper establishment of his church.
+
+> 11 And he gave some, apostles; and some, prophets; and some, evangelists; and some, pastors and teachers;
+
+> 12 For the perfecting of the saints, for the work of the ministry, for the edifying of the body of Christ:
 
 2 Nephi 10:3 says,
 
@@ -108,15 +116,8 @@ And so we see that our loving Heavenly Father has not forgotten his children. He
 
 <!-- ![tree](/images/posts/vision.png) -->
 
-
-
 <!-- In His infinite mercy, our Heavenly Father prepared the way for the gospel to be restored in its fullness. This restoration began with a young man named Joseph Smith. . Joseph Smith served as an instrument in the Lord’s hands, and through him, the heavens were opened once more. -->
 
-<!-- Ephesians 4:11-12 reminds us that Jesus Christ called apostles, prophets, evangelists, pastors, and teachers as part of proper establishment of his church. -->
-
-<!-- > 11 And he gave some, apostles; and some, prophets; and some, evangelists; and some, pastors and teachers; -->
-
-<!-- > 12 For the perfecting of the saints, for the work of the ministry, for the edifying of the body of Christ: -->
 <!-- Ephesians 4:11-12 remind us that Jesus Christ called apostles, prophets, evangelists, pastors, and teachers as part of proper establishment of his church. -->
 
 <!-- > 11 And he gave some, apostles; and some, prophets; and some, evangelists; and some, pastors and teachers; -->
