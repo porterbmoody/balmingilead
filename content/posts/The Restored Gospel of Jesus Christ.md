@@ -16,9 +16,9 @@ I am grateful to be with you today. I live in New River, I am blessed to live in
 
 Like Nephi, I wish to speak to you according to your language and unto your understanding. I would like to share a simple message. God, our Heavenly Father loves us more than we can comprehend. His love is perfect, infinite, enduring, and universal. Because of that love, He has given us the gospel—a plan that allows us to repent and become like Him and live with Him forever. In every dispensation, Heavenly Father calls prophets to teach His gospel. Adam, Enoch, Noah, Abraham, and Moses, all served as prophets to teach Heavenly Father's gospel. In the meridian of time, Heavenly Father sent his son, Jesus Christ to earth to teach the gospel. Jesus Christ also did many things. He performed miracles, ordained apostles and established his church taught his doctrine. He set the example for us. He lived an entire life with man and then performed the atonement, suffered, and died for our sins. 
 
-<!-- *Amos 3:7 JST* says, -->
+*Amos 3:7 JST* says,
 
-<!-- > 7 Surely the Lord God will do nothing, until he revealeth his secret unto his servants the prophets. -->
+> 7 Surely the Lord God will do nothing, until he revealeth his secret unto his servants the prophets.
 
 2 Nephi 10:3 says,
 
@@ -36,9 +36,9 @@ Paul also taught that grievous wolves would enter in among the church and draw d
 
 > 30 Also of your own selves shall men arise, speaking perverse things, to draw away disciples after them.
 
-<!-- 2 Thessalonians 2:3 teaches us that there will be a "falling away" of the true church before the 2nd coming of Jesus Christ. -->
+2 Thessalonians 2:3 teaches us that there will be a "falling away" of the true church before the 2nd coming of Jesus Christ.
 
-<!-- > 3 Let no man deceive you by any means: for that day shall not come, except there come a falling away first, and that man of sin be revealed, the son of perdition; -->
+> 3 Let no man deceive you by any means: for that day shall not come, except there come a falling away first, and that man of sin be revealed, the son of perdition;
 
 For hundreds of years, the fulness of the gospel and the priesthood did not exist on the earth. But how could this be? Heavenly Father promised he would never forget his children, right? 
 
@@ -56,13 +56,13 @@ The Lord has graven us upon the palms of his hands, meaning his hands were peirc
 
 So we see that God covenanted with Abraham, and would remember his seed forever. 
 
-<!-- And so we see that the Lord would remember his child even if his very own mother forgets him. We also read in Malachi 3:6 that the Lord does not change. -->
+And so we see that the Lord would remember his child even if his very own mother forgets him. We also read in Malachi 3:6 that the Lord does not change.
 
-<!-- > 6 For I am the Lord, I change not; therefore ye sons of Jacob are not consumed. -->
+> 6 For I am the Lord, I change not; therefore ye sons of Jacob are not consumed.
 
-<!-- > 7 ¶ Even from the days of your fathers ye are gone away from mine ordinances, and have not kept them. Return unto me, and I will return unto you, saith the Lord of hosts. But ye said, Wherein shall we return? -->
+> 7 ¶ Even from the days of your fathers ye are gone away from mine ordinances, and have not kept them. Return unto me, and I will return unto you, saith the Lord of hosts. But ye said, Wherein shall we return?
 
-<!-- This teaches that if we have ever gone away from the ordinances of Christ, we are able to return and Christ will likewise return unto us.  -->
+This teaches that if we have ever gone away from the ordinances of Christ, we are able to return and Christ will likewise return unto us. 
 
 And we also read that God doesn't change in the slightest degree of variance in the Doctrine and Covenants 3
 
@@ -76,19 +76,19 @@ Joseph recognized that the true Church of Jesus Christ had fallen away. On peace
 
 > "Joseph, my son, thy sins are forgiven thee. Go thy way, walk in my statutes, and keep my commandments. Behold, I am the Lord of glory. I was crucified for the world, that all those who believe on my name may have eternal life. Behold, the world lieth in sin at this time, and none doeth good, no, not one. They have turned aside from the gospel and keep not my commandments. They draw near to me with their lips while their hearts are far from me. And mine anger is kindling against the inhabitants of the earth, to visit them according to their ungodliness and to bring to pass that which hath been spoken by the mouth of the prophets and apostles. Behold and lo, I come quickly, as it is written of me, in the cloud, clothed in the glory of my Father."
 
-So we see that Heavenly Father and Jesus Christ have not forgotten about us and have once again revealed their gospel. After this vision, the Lord proceeded to reveal a book called the Book of Mormon which teaches his gospel. Here are a few of the verses from it.
+So we see that Heavenly Father and Jesus Christ have not forgotten about us and have once again revealed their gospel. One of the things that Heavenly Father told Joseph Smith to do was translate the Book of Mormon from the gold plates that had been put into the earth hundreds of years ago by the Prophet Moroni. Joseph Smith then translated the gold plates, and now we have The Book of Mormon. Here are a few of the verses from it.
 
-<!-- In 1 Nephi 13:34, we read, -->
+In 1 Nephi 13:34, we read,
 
-<!-- > 34 and after the Gentiles do stumble exceedingly, because of the most plain and precious parts of the gospel of the Lamb which have been kept back by that abominable church, which is the mother of harlots, saith the Lamb—I will be merciful unto the Gentiles in that day, insomuch that I will bring forth unto them, in mine own power, much of my gospel, which shall be plain and precious, saith the Lamb. -->
+> 34 and after the Gentiles do stumble exceedingly, because of the most plain and precious parts of the gospel of the Lamb which have been kept back by that abominable church, which is the mother of harlots, saith the Lamb—I will be merciful unto the Gentiles in that day, insomuch that I will bring forth unto them, in mine own power, much of my gospel, which shall be plain and precious, saith the Lamb.
 
-<!-- So this is a prophecy saying that the great and abominable church held back many plain and precious truths and that the Lord will bring them back unto the Gentiles in our day. -->
+So this is a prophecy saying that the great and abominable church held back many plain and precious truths and that the Lord will bring them back unto the Gentiles in our day.
 
-<!-- 1 Nephi 15:13 -->
+1 Nephi 15:13
 
-<!-- > 13 And now, the thing which our father meaneth concerning the grafting in of the natural branches through the fulness of the Gentiles, is, that in the latter days, when our seed shall have dwindled in unbelief, yea, for the space of many years, and many generations after the Messiah shall be manifested in body unto the children of men, then shall the fulness of the gospel of the Messiah come unto the Gentiles, and from the Gentiles unto the remnant of our seed -->
+> 13 And now, the thing which our father meaneth concerning the grafting in of the natural branches through the fulness of the Gentiles, is, that in the latter days, when our seed shall have dwindled in unbelief, yea, for the space of many years, and many generations after the Messiah shall be manifested in body unto the children of men, then shall the fulness of the gospel of the Messiah come unto the Gentiles, and from the Gentiles unto the remnant of our seed
 
-<!-- So we see that in the latter days, the fulness of the gospel of the Messiah will be manifest.  -->
+So we see that in the latter days, the fulness of the gospel of the Messiah will be manifest. 
 
 3 Nephi 11:14-17 teaches,
 
@@ -100,17 +100,15 @@ So we see that Heavenly Father and Jesus Christ have not forgotten about us and 
 
 17 Hosanna! Blessed be the name of the Most High God! And they did fall down at the feet of Jesus, and did worship him.
 
-<!-- 2 Nephi 10:2 also teaches, -->
+2 Nephi 10:2 also teaches,
 
-<!-- > 2 For behold, the promises which we have obtained are promises unto us according to the flesh; wherefore, as it has been shown unto me that many of our children shall perish in the flesh because of unbelief, nevertheless, God will be merciful unto many; and our children shall be restored, that they may come to that which will give them the true knowledge of their Redeemer. -->
+> 2 For behold, the promises which we have obtained are promises unto us according to the flesh; wherefore, as it has been shown unto me that many of our children shall perish in the flesh because of unbelief, nevertheless, God will be merciful unto many; and our children shall be restored, that they may come to that which will give them the true knowledge of their Redeemer.
 
 And so we see that our loving Heavenly Father has not forgotten his children. He has again revealed his gospel to all his children. Through Joseph Smith, the Lord restored His Church, priesthood, and the plain and precious truths of the gospel. I am grateful for the love and mercy of Heavenly Father for restoring the gospel. I know that Jesus Christ performed the infinite and eternal atonement he is the God of the whole earth. I know that President Nelson is a prophet and that, "no matter what questions or problems we have, the answer is always found in the life and teachings of Jesus Christ. I say these things in the name of Jesus Christ, amen. 
 
-<!-- After this vision, the Lord proceeded to reveal a book called the Book of Mormon.  -->
-
 <!-- ![tree](/images/posts/vision.png) -->
 
-<!-- One of the things that Heavenly Father told Joseph Smith to do was translate the Book of Mormon from the gold plates that had been put into the earth hundreds of years ago by the Prophet Moroni. Joseph Smith then translated the gold plates, and now we have 
+
 
 <!-- In His infinite mercy, our Heavenly Father prepared the way for the gospel to be restored in its fullness. This restoration began with a young man named Joseph Smith. . Joseph Smith served as an instrument in the Lord’s hands, and through him, the heavens were opened once more. -->
 
