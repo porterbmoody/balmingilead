@@ -36,9 +36,7 @@ After, Jesus Christ was crucified, the apostles continued to preach the gospel f
 
 > 5 The earth also is defiled under the inhabitants thereof; because they have transgressed the laws, changed the ordinance, broken the everlasting covenant.
 
-We learn that the inhabitants transgressed and broke the covenenant.
-
-Paul also taught that grievous wolves would enter in among the church and draw disciples after them *Acts 20:29-30*
+We learn that the inhabitants transgressed and broke the covenenant. Paul also taught that grievous wolves would enter in among the church and draw disciples after them *Acts 20:29-30*
 
 > 29 For I know this, that after my departing shall grievous wolves enter in among you, not sparing the flock.
 
@@ -121,3 +119,6 @@ And so we see that our loving Heavenly Father has not forgotten his children. He
 <!-- Ephesians 4:11-12 remind us that Jesus Christ called apostles, prophets, evangelists, pastors, and teachers as part of proper establishment of his church. -->
 
 <!-- > 11 And he gave some, apostles; and some, prophets; and some, evangelists; and some, pastors and teachers; -->
+
+
+![alt text](image.png)
