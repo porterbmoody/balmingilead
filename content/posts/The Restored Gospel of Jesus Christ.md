@@ -112,13 +112,8 @@ So we see that in the latter days, the fulness of the gospel of the Messiah will
 
 And so we see that our loving Heavenly Father has not forgotten his children. He has again revealed his gospel to all his children. Through Joseph Smith, the Lord restored His Church, priesthood, and the plain and precious truths of the gospel. I am grateful for the love and mercy of Heavenly Father for restoring the gospel. I know that Jesus Christ performed the infinite and eternal atonement he is the God of the whole earth. I know that President Nelson is a prophet and that, "no matter what questions or problems we have, the answer is always found in the life and teachings of Jesus Christ. I say these things in the name of Jesus Christ, amen. 
 
-<!-- ![tree](/images/posts/vision.png) -->
-
 <!-- In His infinite mercy, our Heavenly Father prepared the way for the gospel to be restored in its fullness. This restoration began with a young man named Joseph Smith. . Joseph Smith served as an instrument in the Lord’s hands, and through him, the heavens were opened once more. -->
 
 <!-- Ephesians 4:11-12 remind us that Jesus Christ called apostles, prophets, evangelists, pastors, and teachers as part of proper establishment of his church. -->
 
 <!-- > 11 And he gave some, apostles; and some, prophets; and some, evangelists; and some, pastors and teachers; -->
-
-
-![alt text](image.png)
