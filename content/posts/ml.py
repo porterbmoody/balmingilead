@@ -7,9 +7,6 @@
 # apt install imagemagick
 # cat /etc/ImageMagick-6/policy.xml | sed 's/none/read,write/g'> /etc/ImageMagick-6/policy.xml
 
-
-
-
 # #%%
 
 # from kokoro import KPipeline
@@ -19,9 +16,5 @@
 # import os
 # import pandas as pd
 # from moviepy.editor import *
-
-
-
-
 
 # %%
