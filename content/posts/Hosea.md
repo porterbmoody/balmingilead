@@ -25,21 +25,14 @@ Hosea 1
 
 Hosea predicts the fall of Israel to the Assyrians.
 
-
-
 <!-- The textual bridge connecting the two creation accounts. Moses 3:4-5, the parallel to Genesis 2:4. I talk about it in that video. -->
-
 
 <!-- Genesis 2:4 -->
 
 <!-- > 4 ¶ These are the generations of the heavens and of the earth when they were created, in the day that the Lord God made the earth and the heavens, -->
-
 
 <!-- Moses 3:4-5 -->
 
 <!-- > 4 And now, behold, I say unto you, that these are the generations of the heaven and of the earth, when they were created, in the day that I, the Lord God, made the heaven and the earth, -->
 
 <!-- > 5 And every plant of the field before it was in the earth, and every herb of the field before it grew. For I, the Lord God, created all things, of which I have spoken, spiritually, before they were naturally upon the face of the earth. For I, the Lord God, had not caused it to rain upon the face of the earth. And I, the Lord God, had created all the children of men; and not yet a man to till the ground; for in heaven created I them; and there was not yet flesh upon the earth, neither in the water, neither in the air; -->
-
-
-
