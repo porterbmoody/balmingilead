@@ -20,6 +20,7 @@ Abraham. We do not get the account from Tressler himself, but rather
 from an 1897 interview. Thus, while Tressler was probably a firsthand
 witness, what we get from him is secondhand, at best. It is reported
 that Tressler “saw the rolls of Papyrus from which the Pearl of Great
+
 Price was translated, and procured a piece of the bandage that was
 wrapped around one of the mummies exhibited by Mr. Chandler.” 26
 While Tressler’s biographer does not appear to be trying to distin-
@@ -444,7 +445,37 @@ Haven and her friends were shown the mummies and papyri by Lucy Mack Smith. Moth
 
 Summary of the Accounts
 
-.... working on this
+Summary of the Accounts
+---------------
+Name | Summary
+:--- | :---
+No indication regarding the source of the Book of Abraham | 
+Oliver Cowdery (1835) | There were two rolls.
+Firsthand account |  There was beautiful writing in red and black.
+--- | He describes vignettes we may have.
+--- | He describes vignettes we may not have.
+--- | He does not know how long the Book of Abraham would be.
+Luman Shurtliff (1837) (Unknown) | The fragments seem to already be mounted by the end of 1837.
+William I. Appleby (1841) Firsthand account | One of the rolls contained the writings of Abraham.
+--- | Firsthand account Joseph of Egypt’s scroll has the beautiful writing.
+--- | He describes vignettes we have.
+--- | He describes vignettes we do not seem to have.
+The long roll may be the source of the Book of Abraham
+Henry Tressler (1838) Firsthand witness; secondhand account | The translation is from the rolls of papyrus
+Benjamin Ashby (1843) Secondhand account | The Book of Abraham probably comes from a roll with the mummies (after the fragments are separated).
+--- | ---
+“M” (1846) Secondhand account | The Book of Abraham seems to come from the large scroll.
+--- | The roll was dark in color.
+--- | The mounted fragments were light in color.
+--- | This person describes vignettes not present on any
+--- | extant papyri.
+--- | The Prophet can read portions of scroll that aren’t even there.
+The long roll is the source of the Book of Abraham
+Charlotte Haven (1843) Secondhand account | The long roll is the writing of Abraham.
+--- | She describes scenes we no longer have from the other roll.
+Jerusha Blanchard (1852–56) Secondhand account | The Book of Abraham came from the long roll.
+The source of the Book of Abraham was destroyed
+Joseph Smith III (1898) Secondhand account | The source of the Book of Abraham was destroyed in the fire, and thus is not the papyri extant today.
 
 Misconceptions Made Manifest In the end, while there are many more questions we must answer, our only historical evidence leads to the deduction that the few mounted fragments we now have are not the source of the Book of Abraham. Thus we must also conclude that those who used propinquity as their basis, and thus thought the text adjacent to the Sacrifice of Abraham Vignette was the source of the Book of Abraham, were doing so based on a false assumption and a faulty methodology. While there is much we still have to learn about the papyri, the source of the Book of Abraham, and the translation process, and while the eyewitness accounts do not answer many of these questions, they at least tell us what the source was not. These accounts demonstrate that the fragments we now have are not what the early Saints thought was the source of the Book of Abraham.
 
