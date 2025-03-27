@@ -444,8 +444,6 @@ Haven and her friends were shown the mummies and papyri by Lucy Mack Smith. Moth
 
 
 Summary of the Accounts
-
-Summary of the Accounts
 ---------------
 Name | Summary
 :--- | :---
