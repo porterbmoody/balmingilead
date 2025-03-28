@@ -1,7 +1,7 @@
 ---
 title: "The Restored Gospel of Jesus Christ"
 description: "Heavenly Father's truth once again on earth"
-featured_image: "../images/1st vision.PNG"
+featured_image: "/images/vision.jpeg"
 date: 2025-03-13T11:00:59-04:00
 tags: ["Restored Gospel", 'Joseph Smith', '1st Vision', 'Jesus Christ']
 ---
