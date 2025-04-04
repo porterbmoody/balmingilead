@@ -8,9 +8,6 @@ tags: ["Book of Mormon"]
 
 # Book of Mormon Word Counts
 
-<!-- ![](./count.png) -->
-
-<!-- ![](./posts/count.png) -->
 
 <!-- ![](./content/posts/count.png) -->
 
@@ -21,8 +18,6 @@ tags: ["Book of Mormon"]
 <img src="https://porterbmoody.github.io/balmingilead/posts/count.png" alt="count" />
 
 <img src="{{prepend: site.url}}/balmingilead/conent/posts/count.png" alt="count" />
-
-
 
 Name | Frequency |
 --- | --- |
