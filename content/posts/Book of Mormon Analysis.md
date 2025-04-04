@@ -1,7 +1,6 @@
 ---
 title: "Book of Mormon Analysis"
-description: ""
-featured_image: "/images/bom_analysis.jpg"
+featured_image: "posts/images/bom_analysis.jpg"
 date: 2025-03-15T10:58:08-04:00
 tags: ["Book of Mormon"]
 ---
