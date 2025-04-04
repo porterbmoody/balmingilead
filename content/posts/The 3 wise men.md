@@ -14,7 +14,7 @@ and then returned to bear witness of the birth of Christ.
 The wise men were actually called Magi which means mistics. 
 
 ## The Star
-![star](/images/posts/star.jpg)
+<!-- ![star](/images/posts/star.jpg) -->
 
 Helaman 14:5 prophecies of the star being a sign of Jesus.
 
