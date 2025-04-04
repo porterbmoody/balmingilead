@@ -1,6 +1,6 @@
 ---
 title: "Plain and Precious Truths'"
-featured_image: "/images/bible.jpg"
+featured_image: "posts/images/bible.jpg"
 date: 2024-11-03T10:58:08-04:00
 tags: ["Doctrine", "Bible", "Book of Mormon", "Joseph Smith"]
 ---

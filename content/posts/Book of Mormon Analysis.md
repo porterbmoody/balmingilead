@@ -5,9 +5,7 @@ date: 2025-03-15T10:58:08-04:00
 tags: ["Book of Mormon"]
 ---
 
-
 # Book of Mormon Word Counts
-
 
 <!-- ![](./content/posts/count.png) -->
 
