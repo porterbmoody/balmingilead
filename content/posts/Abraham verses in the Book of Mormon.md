@@ -1,6 +1,6 @@
 ---
 title: "Verses that contain the word Abraham in the standard works"
-featured_image: "/images/bom.jpg"
+featured_image: "posts/images/bom.jpg"
 date: 2025-04-01T10:58:08-04:00
 tags: ["Book of Mormon", 'Abraham', 'Bible', 'Pearl of Great Price']
 ---
