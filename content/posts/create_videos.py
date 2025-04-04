@@ -35,15 +35,6 @@ from moviepy.editor import *
 import os
 
 url_ids = [
-    # 'EQlv_xUYATg',
-    # 'gSQ-3TD7g_g',
-    # 'OvEKxHqr_b0',
-    # 'qYqtoBRiefk',
-    # 'PWiSXDNtikQ',
-    # 'aSpr8XQNdxo',
-    # 'xQ-xbrgzKB4',
-    # 'cDFBBbhwmfk',
-    # '2NSFmCduZGU',
 ]
 
 for url_id in url_ids:
@@ -58,4 +49,7 @@ for url_id in url_ids:
     os.remove(audio_stream)
 
 
+
 # %%
+
+
