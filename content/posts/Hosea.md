@@ -1,6 +1,6 @@
 ---
 title: "Hosea"
-featured_image: "content/posts/images/bible.jpg"
+featured_image: "posts/images/bible.jpg"
 date: 2024-11-03T10:58:08-04:00
 tags: ["Creation"]
 ---
