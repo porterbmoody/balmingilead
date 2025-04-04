@@ -1,6 +1,6 @@
 ---
 title: 'The Book of Mormon Geography'
-featured_image: '/images/bom geography.PNG'
+featured_image: 'posts/images/bom geography.PNG'
 date: 2024-11-11T00:00:00-00:00
 tags: ['America', 'History', 'Geography', 'Book of Mormon Geography', 'Book of Mormon', 'Mesoamerican Model']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Large Language Models"
 description: ""
-featured_image: "/images/posts/olivetree.jpg"
+featured_image: "posts/images/olivetree.jpg"
 date: 2024-03-11T10:58:08-04:00
 tags: ["Machine Learning", "Calculus", "Linear Algebra", "Math", "Data Science"]
 ---
