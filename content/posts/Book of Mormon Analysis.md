@@ -13,9 +13,9 @@ tags: ["Book of Mormon"]
 
 <!-- <img src="{{site.baseurl | prepend: site.url}}/count.png" alt="Untitled" /> -->
 
-<img src="https://porterbmoody.github.io/balmingilead/posts/count.png" alt="count" />
+<!-- <img src="https://porterbmoody.github.io/balmingilead/posts/count.png" alt="count" /> -->
 
-<img src="{{prepend: site.url}}/balmingilead/conent/posts/count.png" alt="count" />
+<!-- <img src="{{prepend: site.url}}/balmingilead/conent/posts/count.png" alt="count" /> -->
 
 Name | Frequency |
 --- | --- |
