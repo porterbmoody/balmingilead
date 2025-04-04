@@ -10,6 +10,8 @@ url = 'https://raw.githubusercontent.com/bcbooks/scriptures-json/refs/heads/mast
 resp = requests.get(url)
 data = json.loads(resp.text)
 
+pd.set_option('display.max_colwidth', None)
+
 df = pd.json_normalize(data)
 
 df_bom = pd.DataFrame()
@@ -47,18 +49,14 @@ df_bom['word_count'] = df_bom['verse'].apply(lambda x: len(x.split()))
 df_bom
 
 
-#%%
 df_bom
 
-import pandas as pd
-pd.set_option('display.max_colwidth', None)
 
 abraham_verses = df_bom[df_bom['verse'].str.contains('Abraham', case=False)]
-
-abraham_verses = list(abraham_verses['verse_reference'])
-
-abraham_verses
-
+abraham_verses.head(3)
+# abraham_verses = list(abraham_verses['verse_reference'])
+for index, row in abraham_verses.iterrows():
+    print(f'{row['verse_reference']}' + ' | ' + f'{row['verse']} |')
 
 
 
