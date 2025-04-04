@@ -5,6 +5,7 @@ date: 2024-11-03T10:58:08-04:00
 tags: ["Doctrine", "Bible", "Book of Mormon", "Joseph Smith"]
 ---
 
+
 # Book of Mormon verse
 2 Nephi 29
 3 And because my words shall hiss forth—many of the Gentiles shall say: A Bible! A Bible! We have got a Bible, and there cannot be any more Bible.

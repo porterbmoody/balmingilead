@@ -1,7 +1,7 @@
 ---
 title: "The Book of Life and How we are judged"
 description: "Deeper insights on our judgement"
-featured_image: "/images/posts/judgement.jpg"
+featured_image: "posts/images/judgement.jpg"
 date: 2022-12-13T11:00:59-04:00
 tags: ["Judgement", "Book of Mormon", "History"]
 ---

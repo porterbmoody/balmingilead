@@ -48,9 +48,7 @@ df_bom['word_count'] = df_bom['verse'].apply(lambda x: len(x.split()))
 # df_bom.to_csv('data.csv',index=False)
 df_bom
 
-
 df_bom
-
 
 abraham_verses = df_bom[df_bom['verse'].str.contains('Abraham', case=False)]
 abraham_verses.head(3)

@@ -8,7 +8,7 @@ tags: ["Love", "Book of Mormon", "History", "The Gathering of Israel"]
 
 When speaking of Jacob 5 Joseph Fielding Smith said, "No greater parable was ever recorded"
 
-![tree](/images/posts/olivetree.jpg)
+<!-- ![tree](/images/posts/olivetree.jpg) -->
 
 ## Context
 ---

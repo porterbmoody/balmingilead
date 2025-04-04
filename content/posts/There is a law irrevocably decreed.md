@@ -1,7 +1,7 @@
 ---
 title: "There is a law irrevocably decreed in Heaven"
 description: "D&C 130:20-21"
-featured_image: "/images/posts/law.jpg"
+featured_image: "posts/images/law.jpg"
 date: 2023-03-28T10:58:08-04:00
 tags: ["Law", "Obedience", "Restoration"]
 ---
