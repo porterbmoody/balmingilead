@@ -1,7 +1,7 @@
 ---
 title: "The 3 wise men"
 description: "Who followed the star"
-featured_image: "/images/posts/wise.jpg"
+featured_image: "posts/images/wise.jpg"
 date: 2022-12-23T11:00:59-04:00
 tags: ["Christmas", "New Testament"]
 ---
