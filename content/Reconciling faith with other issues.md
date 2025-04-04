@@ -1,6 +1,5 @@
 ---
 title: "Reconciling Faith with Difficult Issues"
-# description: "An Apologetics Case"
 featured_image: "posts/images/1st vision.PNG"
 date: 2024-11-03T10:58:08-04:00
 tags: ["Apologetics", "Doctrine", "Cult", "Mormonism", "Bible", "Book of Mormon", "Joseph Smith"]
