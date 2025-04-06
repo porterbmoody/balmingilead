@@ -7,15 +7,7 @@ tags: ["Book of Mormon"]
 
 # Book of Mormon Word Counts
 
-<!-- ![](./content/posts/count.png) -->
-
-<!-- <img src="./count.png" alt="count"> -->
-
-<!-- <img src="{{site.baseurl | prepend: site.url}}/count.png" alt="Untitled" /> -->
-
-<!-- <img src="https://porterbmoody.github.io/balmingilead/posts/count.png" alt="count" /> -->
-
-<!-- <img src="{{prepend: site.url}}/balmingilead/conent/posts/count.png" alt="count" /> -->
+There are 6,604 verses in the Book of Mormon. 
 
 Name | Frequency |
 --- | --- |

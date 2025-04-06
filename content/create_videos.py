@@ -33,8 +33,48 @@ pipeline
 from pytubefix import YouTube
 from moviepy.editor import *
 import os
+os.makedirs('music', exist_ok=True)
 
 url_ids = [
+    'WgibpyTp6dY',
+    'iQ9xvTq3Jk0',
+    'zE_rK8PX83Q',
+    'V90pwWdXC2U',
+    'mqnb0kKsNkQ',
+    'kg8RgTldhbM',
+    'AkzNwAlvq_I',
+    'dGN1bjLajxI',
+    'PQvHFUOc4F4',
+    'q9W76M-I0xI',
+    'Rfhksohebv8',
+    'rYHNB_lPSNc',
+    'Vn-1SX0Prg0',
+    'P48r8D6N14c',
+    'FyASdjZE0R0',
+    'u3VFzuUiTGw',
+    # 'mZqRDn-8540',
+    # 'dMq9U44693E',
+    # 'YdIYBkQBmtA',
+    # 'ToMj55B6qI8',
+    # 'qM5b0GeuD0o',
+    # 'AeCRI306hjo',
+    # '1CeuXoX4ndg',
+    # 'cqFaNi9IMio',
+    'luQSQuCHtcI',
+    'J_Jn_5TAMMM'
+    'Lj-_mD0w474',
+    '18sNT1yLJqE',
+    '1612_Y7N9x4',
+    '0QuAJDgWIoU',
+    'GGhfDatd8kw'
+    'hQ0Gsf8gyE8'
+    'y0WEgrN0nJc'
+    'y_0_pa3pmH0'
+    'J7p4bzqLvCw'
+    '4D7u5KF7SP8'
+    '4D7u5KF7SP8'
+    'JhulBGMA7G4'
+    '3mwiO5st-us'
 ]
 
 for url_id in url_ids:
