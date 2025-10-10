@@ -1094,3 +1094,118 @@ multiple spelling errors including, "Seignior", "indigent", "bennifit", "instruc
 When Joseph Smith was 23, we produced the Book of Mormon in 65 calendar days in the spring of 1829 with Oliver Cowdery as the primary scribe.
 
 
+Satan teaches us that there is no God, but Alma teaches us that there is a God and a Christ. 
+Alma 30
+Korihor says you cannot know there is a Christ. 
+15 How do ye know of their surety? Behold, ye cannot know of things which ye do not see; therefore ye cannot know that there shall be a Christ.
+Alma says there is a Christ. 
+39 Now Alma said unto him: Will ye deny again that there is a God, and also deny the Christ? For behold, I say unto you, I know there is a God, and also that Christ shall come.
+Alma sad Korihor has been possessed by a spirit of the Devil. 
+42 Behold, I know that thou believest, but thou art possessed with a lying spirit, and ye have put off the Spirit of God that it may have no place in you; but the devil has power over you, and he doth carry you about, working devices that he may destroy the children of God.
+It’s quite a powerful story to me, a very strong reminder that there is a God, and there is a Christ. Even if I haven’t felt the presence of God recently, I can always refer back to these verses and remember that there is a God and a Christ.
+
+
+The Old Testament and New Testament teach many miracles and testimony’s of Jesus Christ. If Jesus Christ wrought mighty miracles in days past, would he also work great miracles in our day? We read in the lectures on faith lecture third,
+10 [Doctrine and Covenants, section 3], commencing in the [second verse]: "For God does not walk in crooked paths, neither does he turn to the right hand or the left, or vary from that which he has said, therefore his paths are strait, and his course is one eternal round:" [Doctrine and Covenants, section] 35:1: "Listen to the voice of the Lord your God, even Alpha and Omega, the beginning and the end, whose course is one eternal round, the same yesterday to-day and forever."
+Mormon 9
+9 For do we not read that God is the same yesterday, today, and forever, and in him there is no variableness neither shadow of changing?
+1 Nephi 10
+18 For he is the same yesterday, today, and forever; and the way is prepared for all men from the foundation of the world, if it so be that they repent and come unto him.
+Alma 7
+20 I perceive that it has been made known unto you, by the testimony of his word, that he cannot walk in crooked paths; neither doth he vary from that which he hath said; neither hath he a shadow of turning from the right to the left, or from that which is right to that which is wrong; therefore, his course is one eternal round.
+Hebrews 13
+8 Jesus Christ the same yesterday, and to day, and for ever.
+Psalm 90
+2 Before the mountains were brought forth, or ever thou hadst formed the earth and the world, even from everlasting to everlasting, thou art God.
+Doctrine and Covenants 20
+12 Thereby showing that he is the same God yesterday, today, and forever. Amen.
+Revelations 22
+13 I am Alpha and Omega, the beginning and the end, the first and the last.
+Doctrine and Covenants 3
+2 For God doth not walk in crooked paths, neither doth he turn to the right hand nor to the left, neither doth he vary from that which he hath said, therefore his paths are straight, and his course is one eternal round.
+Doctrine and Covenants 76
+4 From eternity to eternity he is the same, and his years never fail.
+Moses 7
+35 Behold, I am God; Man of Holiness is my name; Man of Counsel is my name; and Endless and Eternal is my name, also.
+Doctrine and Covenants 35
+1 Listen to the voice of the Lord your God, even Alpha and Omega, the beginning and the end, whose course is one eternal round, the same today as yesterday, and forever.
+Psalm 102
+27 But thou art the same, and thy years shall have no end.
+So Jesus Christ is able to and does work mighty miracles by his power now as he did in times past. 
+One example of a miracle that has been wrought by the power of Jesus Christ in our day is the coming forth of the Book of Mormon. The Angel Moroni commanded Joseph Smith to dig up some golden plates from the Hill Cumorah and then translate the ancient Egyptian hieroglyphics inscribed upon them with the help of a scribe using a urim and thummim. The process produced a nearly 600-page book in about 60 working days. It contains many different authors, complex literary patterns, sections from the Bible that are more clear and more correct, politics, currencies, genealogies, hundreds of geographical references that all remained consistent with one another, nearly 4,000 references to Jesus Christ, stories, principles, teachings, doctrines of Jesus Christ, stories of armies, wars, battles, conversion stories, chiasmus patterns, promises, and much more. The coming forth of the Book of Mormon is evidence that Jesus Christ works mighty miracles in our day because it was not possible for Joseph Smith to have produced it on his own with the resources and education that he had.
+
+
+
+Alma 7
+10 And behold, he shall be born of Mary, at Jerusalem which is the land of our forefathers
+A criticism of the Book of Mormon is that this verse names the incorrect location for the birth place of Jesus Christ. But it was 517 years since Lehi left Jerusalem so it was doubtful that the people of Gideon knew much about the Old World geography. If they didn't know about Jerusalem, they definitely didn't know about Bethlehem 6 miles south. Someone born in a small city near a large city will often simply say they life in the large city. 
+There is also evidence that Bethlehem was included as part of "the land of jerusalem" which was only referenced by natives. 
+The claim that "at jerusalem the land of our forefathers" misrepresents the true location of the birthplace of Jesus Christ is intenable.
+
+
+3 Nephi 27
+27 And know ye that ye shall be judges of this people, according to the judgment which I shall give unto you, which shall be just. Therefore, what manner of men ought ye to be? Verily I say unto you, even as I am.
+When Jesus Christ appeared the ancient americans he taught them his gospel. He taught what manner of men we should be. What manner of men ought we to be? Even as he is. 
+This means we must be as Christ is and do as Christ does. He is patient, virtuous, hopeful, faithful, pure, loving, kind, obedient, discipline, righteous. He goes about serving and performing works of righteousness and good. He teaches his gospel and performs mightly miracles of healing. This is the manner that we ought to be.
+
+
+
+The delineation of the administrative districts that were imposed by the monarchs with the rise of the classical israelite state.
+7 ¶ And Solomon had twelve officers over all Israel, which provided victuals for the king and his household: each man his month in a year made provision.
+8 And these are their names: The son of Hur, in mount Ephraim:
+9 The son of Dekar, in Makaz, and in Shaalbim, and Beth-shemesh, and Elon-beth-hanan:
+10 The son of Hesed, in Aruboth; to him pertained Sochoh, and all the land of Hepher:
+11 The son of Abinadab, in all the region of Dor; which had Taphath the daughter of Solomon to wife:
+12 Baana the son of Ahilud; to him pertained Taanach and Megiddo, and all Beth-shean, which is by Zartanah beneath Jezreel, from Beth-shean to Abel-meholah, even unto the place that is beyond Jokneam:
+13 The son of Geber, in Ramoth-gilead; to him pertained the towns of Jair the son of Manasseh, which are in Gilead; to him also pertained the region of Argob, which is in Bashan, threescore great cities with walls and brasen bars:
+1 Kings 4
+14 Ahinadab the son of Iddo had Mahanaim:
+15 Ahimaaz was in Naphtali; he also took Basmath the daughter of Solomon to wife:
+16 Baanah the son of Hushai was in Asher and in Aloth:
+17 Jehoshaphat the son of Paruah, in Issachar:
+18 Shimei the son of Elah, in Benjamin:
+19 Geber the son of Uri was in the country of Gilead, in the country of Sihon king of the Amorites, and of Og king of Bashan; and he was the only officer which was in the land.
+
+
+
+3 convincing evidences that Joseph Smith was a prophet:
+1. The complexities of the Book of Mormon are such that it would not have been possible for Joseph Smith to produce such a work in the time frame he did at the age and education level that he had.
+- over 200 named characters
+- over 150 named locations
+- 3 overlapping calendars and a consistent measurement system
+- distinct writing styles, legal cases realistic battles, literary genres, flashbacks, doctrinal discourses
+- fulfilled prophecies
+- hundreds of proposed intertextual relationships Hebrew literary elements 
+- over 600 geographical references which all maintain a consistent relationship with the other features
+- essentially free from error
+Joseph Smith was born and raised on a farm and had an education equivalent to that of a 3rd grader. He simply did not have the skills, tools, resources necessary to compose the Book of Mormon. 
+2. The Angel Moroni prophecied, “that God had a work for me to do; and that my name should be had for good and evil among all nations, kindreds, and tongues, or that it should be both good and evil spoken of among all people.” 
+This prophecy is very clearly coming to pass as many chose the side that Joseph Smith was a false prophet and liar, but many also say that he was righteous and good and recieved many divine revelations from God. There is a very clear division among all nations between those who accept the revelations that came through Joseph Smith and those who do not. This prophecy from the angel Moroni is coming to pass before our very eyes quite clearly.
+3. Biblical Prophecies about Joseph Smith. 
+Isaiah 29
+11 And the vision of all is become unto you as the words of a book that is sealed, which men deliver to one that is learned, saying, Read this, I pray thee: and he saith, I cannot; for it is sealed:
+This is an ancient prophecy from thousands of years ago that some of the words of a book would be taken to a learned professor and the professor would say “I cannot; for it is sealed.” Thousands of years later, Martin Harris took the egyptian characters to Professor Anthon. At first, Professor Charles Anthon said that “the translation was correct, more so than any he had before seen translated from the Egyptian.” Then after Martin Harris told him he was not able to see the rest of the text because it was sealed in the Gold plates, Professor Anthon said, “I cannot read a sealed book”. This is very close to the phrase in Isaiah 29:11, “I cannot; for it is sealed.”
+This is just a small portion of all the evidence that exists that points towards Joseph Smith being a prophet of God and a seer and revelator in the latter days. It is absolutely not possible that Joseph Smith was not a prophet, in other words, it is an absolute garantuee that Joseph Smith was a prophet of God and received revelations from Jesus Christ himself. I share these things with you in the name of Jesus Christ, amen.
+
+
+One hot day in June [1834], after an unusually long, hard day’s travel, over a rolling prairies, without sufficient water laid in for the men and no water encountered for the teams, they made camp on a prairie, the end of which it was impossible to reach or even see.
+Everyone was tired hot very thirsty. 
+Joseph smith only asked for a spade, then he looked around and began to dig. 
+Presently the water began to come in, and it kept rising in the well until the mules and horses came and drank therefrom, as the water was so near the surface. The Prophet went and sat in the door of his tent and witnessed the joy of all, even of the animals, as they quenched their thirst in this God-given supply.
+I want to share this story because it shows that miracles continue to happen according to our faith. Joseph Smith had enough faith that water would spring from the ground and so it did. Even in our day, God will work miracles according to our faith.
+
+
+
+Doctrine and Covenants 132:54 And I command mine handmaid, Emma Smith, to abide and cleave unto my servant Joseph, and to none else. But if she will not abide this commandment she shall be destroyed, saith the Lord; for I am the Lord thy God, and will destroy her if she abide not in my law.
+God commanded Emma Smith to remain with Joseph Smith during his practices of polygamy or else she will be destroyed. This makes sense to me because they had both already been sealed so it was part of the new and everlasting covenant that they remain faithful to 1 another. Although I’m sure it must have felt uncomfortable for both Emma and Joseph to be together while Joseph was marrying and associating with other women through the new and everlasting covenant.
+
+
+Jacob 2
+> 24 Behold, David and Solomon truly had many wives and concubines, which thing was abominable before me, saith the Lord.
+Doctrine and Covenants 132
+> 38 David also received many wives and concubines, and also Solomon and Moses my servants, as also many others of my servants, from the beginning of creation until this time; and in nothing did they sin save in those things which they received not of me.
+My current understanding is that David did not sin in most or all of his wives and concubines until he slept with Bethsheba. And Solomon also sinned by marrying some of his wives and others he did not sin. This the phrase “save in this things which they received not of me”
+we read in 1 Kings that Solomon had 700 wives, 300 concubines.
+1 Kings 11
+3 And he had seven hundred wives, princesses, and three hundred concubines: and his wives turned away his heart.
+4 For it came to pass, when Solomon was old, that his wives turned away his heart after other gods: and his heart was not perfect with the Lord his God, as was the heart of David his father.
