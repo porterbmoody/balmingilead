@@ -1,3 +1,11 @@
+---
+title: 'Facebook'
+featured_image: 'posts/images/bom geography.PNG'
+date: 2025-10-09T00:00:00-00:00
+tags: ['Facebook']
+---
+
+
 Job 42
 5 I have heard of thee by the hearing of the ear: but now mine eye seeth thee.
 Job saw God with his physical eyes proving God has a physical body of flesh and bones just as we learn from Doctrine and Covenants.
@@ -1084,3 +1092,5 @@ We also have a letter written by Joseph Smith from his journal in Summer 1832 (h
 "my Father Joseph Smith Seignior moved to Palmyra Ontario County5 in the State of New York and being in indigent circumstances were obliged to labour hard for the support of a large Family having nine chilldren6 and as it required their exertions of all that were able to render any assistance for the support of the Family therefore we were deprived of the bennifit of an education suffice it to say I was mearly instructtid in reading and writing and the ground <rules> of Arithmatic which const[it]uted my whole literary acquirements"
 multiple spelling errors including, "Seignior", "indigent", "bennifit", "instructtid", "Arithmatic", "const[it]ute", "acquirements"
 When Joseph Smith was 23, we produced the Book of Mormon in 65 calendar days in the spring of 1829 with Oliver Cowdery as the primary scribe.
+
+
