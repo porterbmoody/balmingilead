@@ -917,3 +917,4 @@ I know we can get closer to Jesus Christ by abiding by the precepts of the The B
 "Not half — not one-hundredth part — not a thousandth part of that which Joseph Smith revealed to the Church has yet been unfolded, either to the Church or to the world."
 - Elder B.H. Roberts 
 He tells us that only a small fraction, less than 1/1000 of the things that God knows have been revealed to the church or to humanity.
+
