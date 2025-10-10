@@ -1208,3 +1208,84 @@ we read in 1 Kings that Solomon had 700 wives, 300 concubines.
 1 Kings 11
 3 And he had seven hundred wives, princesses, and three hundred concubines: and his wives turned away his heart.
 4 For it came to pass, when Solomon was old, that his wives turned away his heart after other gods: and his heart was not perfect with the Lord his God, as was the heart of David his father.
+
+
+After eleven Joseph Smith papyri fragments were returned to the Church in 1967, critics concluded that Joseph Smith had fabricated the Book of Abraham. Why? (1)The eleven fragments do not contain any text from the Book of Abraham but are part of an ancient Egyptian religious text. (2) One fragment contains hieratic characters that match characters in the left-hand margin of three 1835 manuscripts opposite Book of Abraham text, suggesting Joseph Smith’s creative process. (3) The same fragment was attached to the vignette that became Facsimile 1, suggesting that Abraham 1:12 refers to the characters on the fragment. (4) The Egyptian in Facsimile 3 does not translate to Joseph Smith’s explanation. This chapter will deal with issues 2 and 3.
+
+
+Details of the translation process Joseph Smith used for translating the Book of Mormon from the plates can be adduced from statements of witnesses and from evidence in the original and printer’s manuscripts. According to witnesses, Joseph Smith often translated without the plates being present and used the interpreters to receive the revealed text. Evidence from the manuscripts themselves shows that the original manuscript was written from dictation, that Joseph Smith was working with at least twenty words at a time, that Joseph Smith could see the spelling of names, that the scribe repeated the text to Joseph Smith, and that the word chapter and the corresponding chapter numbers were not part of the revealed text. The manuscripts and text show that Joseph Smith apparently received the translation word for word and letter for letter, in what is known as “tight control.”
+
+
+The Smith brothers were detained at Carthage Jail awaiting trial when an armed mob of 150–200 men stormed the building, their faces painted black with wet gunpowder. Hyrum was killed almost immediately when he was shot in the face, shouting as he fell, "I am a dead man!"[4] After emptying his pistol towards the attackers, Joseph tried to escape from a second-story window, but was shot several times and fell to the ground, where he was again shot by the mob.
+There is no doubt in my mind Joseph Smith saw God the Father and Jesus Christ and was called to restored Christ’s original church in the latter days. He translated the Book of Mormon Book of Abraham Book of Moses, Bible by the power of the revelation, ran from mobs, performed miracles, was thrown in jail. It’s clear the adversary did not like him, because Joseph Smith was irritating his kingdom. 
+His name will forever be remembered for good by the righteous and ever be remembered for evil by the wicked.
+
+
+One of my favorite stories about Jesus Christ is when he appeared to Joseph Smith in the grove of trees in Palmyra, NY in 1820. 
+Joseph Smith said his parents taught him well in Christianity. 
+"There was in the place we lived as unusual excitement on the subject of religion. I often asked myself, what is to be done? Who of all these parties is right?"
+Joseph Smith pondered, prayed, studied, and asked those around him which sect was right. 
+One day, young Joseph Smith was reading in James 1
+5 If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.
+Joseph wrote, "Never did any passage of scripture come with more power to the heart of man than this did at this time to mine"
+Later he went to the grove of trees on a beautiful spring morning and began to pray. Satan came and tried to tempt him and stop him from praying, but Joseph Smith tried harder to continue praying and eventually Satan left and Heavenly Father and Jesus Christ appeared above him. 
+They told Joseph Smith that none of the churches were true and that the 1 true church had not been established on the earth yet. Joseph Smith had seen Heavenly Father and Jesus Christ, and had spoken with them face to face. This is a very powerful story that marked the beginning of the restoration of the Church of Jesus Christ of Latter Day Saints. I am so thankful that the God of the universe was willing to appear to Joseph Smith and teach him the gospel. In the name of Jesus Christ, amen. 
+https://www.churchofjesuschrist.org/.../2014-06-0001...
+
+
+Doctrine and Covenants 29
+39 And it must needs be that the devil should tempt the children of men, or they could not be agents unto themselves; for if they never should have bitter they could not know the sweet—
+We read here that it is necessary that Satan is able to tempt us. If we could not be tempted, we would never learn how to choose righteousness and ignore evil. It is a necessary part of the plan of salvation that we are able to be tempted and taste of the bitterness of sin. 
+In the Garden of Eden, Adam and Eve were in a never ending state of feeling content. They could not feel joy or misery. After they partook of the fruit they fell and came to earth where they could be tried and tempted. If they choose to ignore temptation, they grow.
+
+
+One of the most powerful demonstrations of the power of Jesus Christ was the parting of the Red Sea. 
+Nephi taught his brothers about it briefly in 1 Nephi 17
+26 Now ye know that Moses was commanded of the Lord to do that great work; and ye know that by his word the waters of the Red Sea were divided hither and thither, and they passed through on dry ground.
+27 But ye know that the Egyptians were drowned in the Red Sea, who were the armies of Pharaoh.
+We also read in Joshua 24
+6 And I brought your fathers out of Egypt: and ye came unto the sea; and the Egyptians pursued after your fathers with chariots and horsemen unto the Red sea.
+We also read about it in Exodus 14
+In verse 21 and 22 we learn that Moses stretched forth his hand and made the sea part by the power of Jesus Christ, and the Moses and the children of Israel walked onto the dry ground. 
+21 And Moses stretched out his hand over the sea; and the Lord caused the sea to go back by a strong east wind all that night, and made the sea dry land, and the waters were divided.
+22 And the children of Israel went into the midst of the sea upon the dry ground: and the waters were a wall unto them on their right hand, and on their left.
+We also read that the Egyptians pursued and followed the children of Israel. 
+23 And the Egyptians pursued, and went in after them to the midst of the sea, even all Pharaoh’s horses, his chariots, and his horsemen.
+24 And it came to pass, that in the morning watch the Lord looked unto the host of the Egyptians through the pillar of fire and of the cloud, and troubled the host of the Egyptians,
+25 And took off their chariot wheels, that they drave them heavily: so that the Egyptians said, Let us flee from the face of Israel; for the Lord fighteth for them against the Egyptians.
+In verse 26 we read that Moses stretched his hand forth once again and by the power of Jesus Christ caused the water to collapse upon the Egyptians. 
+26 And the Lord said unto Moses, Stretch out thine hand over the sea, that the waters may come again upon the Egyptians, upon their chariots, and upon their horsemen.
+27 And Moses stretched forth his hand over the sea, and the sea returned to his strength when the morning appeared; and the Egyptians fled against it; and the Lord overthrew the Egyptians in the midst of the sea.
+28 And the waters returned, and covered the chariots, and the horsemen, and all the host of Pharaoh that came into the sea after them; there remained not so much as one of them.
+And the children of Israel were preserved miraculously and were not destroyed by the water. 
+29 But the children of Israel walked upon dry land in the midst of the sea; and the waters were a wall unto them on their right hand, and on their left.
+30 Thus the Lord saved Israel that day out of the hand of the Egyptians; and Israel saw the Egyptians dead upon the sea shore.
+This is a powerful story of the miraculous abilities of Jesus Christ that was manifest by the hand of Moses. Moses was able to bring about such a great miracle because of his faith in Jesus Christ. He had faith that Jesus Christ had the power to move water, even the great Red Sea and thus it was done according to the will of Jesus Christ. 
+I share these things in the name of Jesus Christ, amen.
+
+
+
+Joseph Smith said that the astronomical model in Abraham represents “the principles of astronomy as understood by Father Abraham and the ancients”
+A close look at the ancient Egyptian manuscripts discovered in the 1900s (after the Book of Abraham was produced) reveals that the astronomical model found in the Book of Abraham is nearly an identical match with Ancient Egyptian manuscripts, solidifying the claim that the Book of Abraham was divinely revealed. 
+“The astronomy in the Book of Abraham uses as its point of reference “the earth upon which thou standest” (Abraham 3:3, 5–7). It mentions various heavenly bodies, such as “the stars” (Abraham 3:2), among which is Kolob (Abraham 3:3–4). These provide a fixed backdrop for the heavens. Among the stars are various bodies that move in relation to the fixed backdrop, each of which is called a “planet” (Abraham 3:5, 8 )or a “light” (Abraham 3:5–7), though since the sun and moon and certain stars are each also called a “planet,” we should not think of them as necessarily being what we call planets. Each of these planets is associated with “its times and seasons in the revolutions thereof” (Abraham 3:4). These lights revolve around something, and that is the fixed reference point, “the earth upon which thou standest” (Abraham 3:3, 5–7). The Book of Abraham thus presents a geocentric astronomy, like almost all ancient astronomies, including ancient Egyptian astronomy.”
+- John Gee
+
+
+One criticism of the LDS church comes from the claim that the egyptological interpretations of the remaining egyptian papyri fragments that we have do not match with the Book of Abraham. One issue with that claim is that the evidence suggests that the remaining fragments of papyri that we have is largely not what Joseph Smith used to translate the Book of Abraham. There is evidence that the papyri that Joseph Smith used to translate the Book of Abraham comes from a long scroll that was destroyed in the Chicago fire of 1871. For example, consider the following quote, "Then she [Lucy Smith] turned to a long table, set
+her candle-stick down, and opened a long roll of manuscript, saying it was ‘the writing of Abraham and Isaac,
+written in Hebrew and Sanscrit,’ and she read several minutes from it as if it were English. . . . Then in the same way
+she interpreted to us hieroglyphics from another roll.”
+This tells us that the long roll contained writings of Abraham and Isaac, and was written in Hebrew and Sanscrit.
+Now, we do have Joseph Smith's interpretations of the facsimiles as well as modern day egyptological interpretations. A pertinent question, therefore, would be does the line by line comparison between Joseph Smith's interpretations and those of modern day egyptologists match? The answer is some do match the interpretations of modern egyptologists and some do not. "There are aspects of [these explanations] that match what Egyptologists say they mean. Some [of them] are quite compelling. . . . However, as we look at the entirety of any of the facsimiles, an Egyptological interpretation does not match what Joseph Smith said about them.” Despite these facts, Joseph Smith's interpretations of the facsimiles "do accurately reflect ancient egyptian and semitic concepts"
+Here is another point from the Book "A Guide to the Book of Abraham", "What is clear from all of this is that “much more work needs to be done before we can understand the facsimiles in their ancient Egyptian setting, and only then will it be meaningful to ask whether that understanding matches that of Joseph Smith" 
+So we really just haven't done enough collective research to definitively say whether or not the interpretations that Joseph Smith has produced, or at least our understanding of them, match with the correct egyptological interpretations of the facsimiles.
+
+
+
+Mosiah 4
+11 And again I say unto you as I have said before, that as ye have come to the knowledge of the glory of God, or if ye have known of his goodness and have tasted of his love, and have received a remission of your sins, which causeth such exceedingly great joy in your souls, even so I would that ye should remember, and always retain in remembrance, the greatness of God, and your own nothingness, and his goodness and long-suffering towards you, unworthy creatures, and humble yourselves even in the depths of humility, calling on the name of the Lord daily, and standing steadfastly in the faith of that which is to come, which was spoken by the mouth of the angel.
+I found this verse in the Book of Mormon. It teaches us that we are nothing in the sight of God. We are "unworthy creatures" and anything God is willing to give us is out of his complete mercy. I have learned that this verse is true because I am naturally quite a prideful, lazy person. I am so grateful that God is willing to even lift a finger to help me. This verse tells us to humble ourselves to the "depths of humility" and call upon his name daily. I know that God has great patience and longsuffering towards us. In the name of Jesus Christ, amen.
+
+
+“There is a great deal of difference between raw intelligence, knowledge, wisdom, and finally, the understanding with which the Lord established the heavens,” Elder Robert D. Hales (1932–2017) said in 1988. “This learning process applies to each of us. … [It is] learning that begins with God-given, innate intelligence. It recognizes knowledge through your courses of study and then the attainment of wisdom.”
+I’ve been wrestling with this and similar quotes recently. What do you guys think?
