@@ -1199,7 +1199,6 @@ I want to share this story because it shows that miracles continue to happen acc
 Doctrine and Covenants 132:54 And I command mine handmaid, Emma Smith, to abide and cleave unto my servant Joseph, and to none else. But if she will not abide this commandment she shall be destroyed, saith the Lord; for I am the Lord thy God, and will destroy her if she abide not in my law.
 God commanded Emma Smith to remain with Joseph Smith during his practices of polygamy or else she will be destroyed. This makes sense to me because they had both already been sealed so it was part of the new and everlasting covenant that they remain faithful to 1 another. Although I’m sure it must have felt uncomfortable for both Emma and Joseph to be together while Joseph was marrying and associating with other women through the new and everlasting covenant.
 
-
 Jacob 2
 > 24 Behold, David and Solomon truly had many wives and concubines, which thing was abominable before me, saith the Lord.
 Doctrine and Covenants 132
