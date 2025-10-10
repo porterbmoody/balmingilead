@@ -1289,3 +1289,63 @@ I found this verse in the Book of Mormon. It teaches us that we are nothing in t
 
 “There is a great deal of difference between raw intelligence, knowledge, wisdom, and finally, the understanding with which the Lord established the heavens,” Elder Robert D. Hales (1932–2017) said in 1988. “This learning process applies to each of us. … [It is] learning that begins with God-given, innate intelligence. It recognizes knowledge through your courses of study and then the attainment of wisdom.”
 I’ve been wrestling with this and similar quotes recently. What do you guys think?
+
+
+It seems clear to me that 2 Nephi 25:23 was heavily influenced by the law of Moses which is where the phrase "after all we can do" comes from. 
+23 For we labor diligently to write, to persuade our children, and also our brethren, to believe in Christ, and to be reconciled to God; for we know that it is by grace that we are saved, after all we can do.
+This does not necessarily mean we are saved by anything less than doing "all we can do" but it does mean that when we are thinking about the picture of how faith, works, and grace fit together for salvation, we must keep the context in mind that Nephi is speaking from in order to maintain the proper interpretation. Nephi only had access to the the Law of Moses as described in the Pentateuch so he was emphasizing that they must do works in order to be saved. It was not until later when Christ came to earth that he taught the higher law, that we are saved by grace solely through our faith in Jesus Christ. This verse in not correct, but can be misinterpreted to mean that we are saved by works if taken out of context. 
+Yes, works are required for salvation and it is by our works that we develop the level of faith necessary for salvation, but we are in no way saved by our works. We are only saved by grace, through our faith, which involves works. 
+Is my understanding correct?
+
+
+“When my husband was translating the Book of Mormon, I wrote a part of it, as he dictated each sentence, word for word, and when he came to proper names he could not pronounce, or long words, he spelled them out, and while I was writing them, if I made a mistake in spelling, he would stop me and correct my spelling, although it was impossible for him to see how I was writing them down at the time. .?. . When he stopped for any purpose at any time he would, when he commenced again, begin where he left off without any hesitation, and one time while he was translating he stopped suddenly, pale as a sheet, and said, "Emma, did Jerusalem have walls around it?" When I answered, "Yes," he replied, "Oh! I was afraid I had been deceived." He had such a limited knowledge of history at the time that he did not even know that Jerusalem was surrounded by walls."
+If at any point Emma Smith made a mistake in the spelling of words while acting as a scribe for Joseph Smith, Joseph Smith stopped and corrected her. 
+It would have been impossible for him to physically see what she was writing because there was a cloth between them and he was looking into a hat. 
+Also, Joseph Smith asked Emma if Jerusalem had walls because his geographical knowledge was so limited.
+
+
+An example where Joseph Smith 'corrected' a part of the King James Bible that he had copied directly into the Book of Mormon:
+3 Nephi 14:6: 
+6 Give not that which is holy unto the dogs, neither cast ye your pearls before swine, lest they trample them under their feet, and turn again and rend you.
+Matthew 7:6 (KJV): 
+6 Give not that which is holy unto the dogs, neither cast ye your pearls before swine, lest they trample them under their feet, and turn again and rend you.
+Matthew 7:10-11 (JST): 
+10 And the mysteries of the kingdom ye shall keep within yourselves; for it is not meet to give that which is holy unto the dogs; neither cast ye your pearls unto swine, lest they trample them under their feet.
+11 For the world cannot receive that which ye, yourselves, are not able to bear; wherefore ye shall not give your pearls unto them, lest they turn again and rend you.
+Why did Joseph Smith include passages within the Book of Mormon then later go back into the Bible and correct parts of the very passages he included within the text of the Book of Mormon? I am currently researching this topic, I don’t know the final answer for this and surely the question of a loose vs tight translation is deeply relevant in getting to the bottom of why these King James errors were included.
+
+
+I have created a post to offer advice to any of those who are struggling to reconcile seemingly contradictory ideas with faith or religion or spiritual claims of The Church of Jesus Christ of Latter-day Saints or other churches or religious organizations. Whether it may be church history topics or stories, polygamy, church finances, church policies, Joseph Smith quotes, stories, teachings, personal stories, challenges, struggles, or events, scriptural discrepancies, or any other version of things that seem to contradict spiritual or religious claims no matter how broad or specific. 
+As you will find in the post, towards the end I give the simple answer to these questions, concerns, doubts, or struggles. The answer is to repent and have faith in Jesus Christ. If you repent and have faith in Jesus Christ, your spiritual eyes will be opened and you will see that Jesus Christ is a real being who does in fact exist. No church history fact or personal struggle can deteriorate this divine, universal truth in any sliver of a way. In the post I share a quote from President Nelson that, no matter what questions or problems we may have, the answer is always Jesus Christ. 
+So please share your thoughts with me about the post and the insights found therein. I am curious to hear your thoughts and critiques of the post. In the name of Jesus Christ, Amen.
+https://porterbmoody.github.io/.../book-of-mormon.../
+
+
+John E. Page, who was one of the 12 apostles called by Joseph Smith said, “All who are familiar with the Book of Mormon are probably aware of the fact that the whole account of the history of the fore fathers of the American Indians, called the Nephites, Lamanites and Zoramites, is confined to Central America entirely until the 394th page.”
+I see many scholars agreeing with the Mesoamerican model, but I'm not certain about it yet. I would like to continue to study the relevant references that support this model. I also see some scholars to be quite certain about the Heartland model, and other various models or variations or combinations of any such models such as the Limited Geography Model.
+
+
+
+If anyone is wrestling with church history or other church topics such as:
+- Joseph Smith and polygamy, Brigham Young and polygamy, Wilford Woodruff and polygamy
+- The Church of Jesus Christ of Latter Day Saints methods of handling the tithing funds and investments
+- church finances, Ensign Peak Advisors reports to the SEC
+- Joseph Smith translations of the Book of Mormon
+- the kinderhook plates
+- contradictions between the Bible and the Book of Mormon
+- discrepancies between the Egyptian papyri and the book of Abraham
+- Book of Mormon historicity
+- Book of Mormon geographical evidence or lack thereof
+- Book of Mormon anachronisms
+- racial priesthood restrictions and the fact that blacks could not receive the priesthood until 1987
+- reconciling evolution with Adam and Eve
+- reconciling scientific accounts of the creation of earth and the emergence of life itself and the creation account recorded in Genesis or Abraham
+- reconciling Luke 23:43 (And Jesus said unto him, Verily I say unto thee, To day shalt thou be with me in paradise.) with spirit paradise and protestant views
+- reconciling Revelations 22:18–19 “And if any man shall take away from the words of the book of this prophecy, God shall take away his part out of the book of life, and out of the holy city, and from the things which are written in this book.” with the Book of Mormon being another text to the Bible.
+- the change in the introduction in of the Book of Mormon in 2006 from
+“After thousands of years, all were destroyed except the Lamanites, and they are the principal ancestors of the American Indians.”
+ To
+“After thousands of years, all were destroyed except the Lamanites, and they are among the ancestors of the American Indians.”
+I would love to talk with you about any of these topics because I love studying them and diving deeper into them. 
+But I would also invite you to take your questions to the Lord and ask him in sincere prayer because I know he “give the wisdom to all men liberally” as we read from James (James 1:5 If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.)
+I have a testimony that Joseph Smith saw God the Father and Jesus Christ in the sacred grove, and translated the Book of Mormon by the power of God after multiple meetings with the angel Moroni. I also have a testimony that Adam and Eve were placed in the garden and partook of the fruit of the tree of good and evil.
