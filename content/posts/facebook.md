@@ -918,3 +918,106 @@ I know we can get closer to Jesus Christ by abiding by the precepts of the The B
 - Elder B.H. Roberts 
 He tells us that only a small fraction, less than 1/1000 of the things that God knows have been revealed to the church or to humanity.
 
+Numbers 15
+37 ¶ And the Lord spake unto Moses, saying,
+38 Speak unto the children of Israel, and bid them that they make them fringes in the borders of their garments throughout their generations, and that they put upon the fringe of the borders a ribband of blue:
+39 And it shall be unto you for a fringe, that ye may look upon it, and remember all the commandments of the Lord, and do them; and that ye seek not after your own heart and your own eyes, after which ye use to go a whoring:
+40 That ye may remember, and do all my commandments, and be holy unto your God.
+41 I am the Lord your God, which brought you out of the land of Egypt, to be your God: I am the Lord your God.
+Numbers happens around 1400BC. In these verses, the Israelites are commanded to make fringes in the borders of their garments to put a ribband of blue as a reminder to always keep the commandments of God and to do all of his Commandments. This is a powerful reminder for us that we must always remember the Lord our God and must always remember to keep all of His Holy commandments. I am so grateful that Jesus Christ has restored his gospel on the earth once again so that we can all partake of its goodness and keep his commandments each moment of each day. Jesus Christ is the savior of the whole world, and even many other worlds. He appeared to Joseph Smith in the sacred grove and will also walk with us as we remember to keep his commandments and follow him. In the name of Jesus Christ, amen.
+
+1 Nephi 2
+20 And inasmuch as ye shall keep my commandments, ye shall prosper, and shall be led to a land of promise; yea, even a land which I have prepared for you; yea, a land which is choice above all other lands.
+1 Nephi 4
+14 And now, when I, Nephi, had heard these words, I remembered the words of the Lord which he spake unto me in the wilderness, saying that: Inasmuch as thy seed shall keep my commandments, they shall prosper in the land of promise.
+2 Nephi 1
+9 Wherefore, I, Lehi, have obtained a promise, that inasmuch as those whom the Lord God shall bring out of the land of Jerusalem shall keep his commandments, they shall prosper upon the face of this land; and they shall be kept from all other nations, that they may possess this land unto themselves. And if it so be that they shall keep his commandments they shall be blessed upon the face of this land, and there shall be none to molest them, nor to take away the land of their inheritance; and they shall dwell safely forever.
+20 And he hath said that: Inasmuch as ye shall keep my commandments ye shall prosper in the land; but inasmuch as ye will not keep my commandments ye shall be cut off from my presence.
+2 Nephi 4
+4 For the Lord God hath said that: Inasmuch as ye shall keep my commandments ye shall prosper in the land; and inasmuch as ye will not keep my commandments ye shall be cut off from my presence.
+Jarom 1
+9 And thus being prepared to meet the Lamanites, they did not prosper against us. But the word of the Lord was verified, which he spake unto our fathers, saying that: Inasmuch as ye will keep my commandments ye shall prosper in the land.
+Omni 1
+6 For the Lord would not suffer, after he had led them out of the land of Jerusalem and kept and preserved them from falling into the hands of their enemies, yea, he would not suffer that the words should not be verified, which he spake unto our fathers, saying that: Inasmuch as ye will not keep my commandments ye shall not prosper in the land.
+Mosiah 1
+7 And now, my sons, I would that ye should remember to search them diligently, that ye may profit thereby; and I would that ye should keep the commandments of God, that ye may prosper in the land according to the promises which the Lord made unto our fathers.
+Alma 9
+13 Behold, do ye not remember the words which he spake unto Lehi, saying that: Inasmuch as ye shall keep my commandments, ye shall prosper in the land? And again it is said that: Inasmuch as ye will not keep my commandments ye shall be cut off from the presence of the Lord.
+Alma 36
+1 My son, give ear to my words; for I swear unto you, that inasmuch as ye shall keep the commandments of God ye shall prosper in the land.
+30 But behold, my son, this is not all; for ye ought to know as I do know, that inasmuch as ye shall keep the commandments of God ye shall prosper in the land; and ye ought to know also, that inasmuch as ye will not keep the commandments of God ye shall be cut off from his presence. Now this is according to his word.
+Alma 37
+13 O remember, remember, my son Helaman, how strict are the commandments of God. And he said: If ye will keep my commandments ye shall prosper in the land—but if ye keep not his commandments ye shall be cut off from his presence.
+Alma 38
+1 My son, give ear to my words, for I say unto you, even as I said unto Helaman, that inasmuch as ye shall keep the commandments of God ye shall prosper in the land; and inasmuch as ye will not keep the commandments of God ye shall be cut off from his presence.
+Alma 50
+20 Blessed art thou and thy children; and they shall be blessed, inasmuch as they shall keep my commandments they shall prosper in the land. But remember, inasmuch as they will not keep my commandments they shall be cut off from the presence of the Lord.
+Helaman 4
+15 And it came to pass that they did repent, and inasmuch as they did repent they did begin to prosper.
+3 Nephi 5
+22 And insomuch as the children of Lehi have kept his commandments he hath blessed them and prospered them according to his word.
+
+Alma testifies to Helaman of his conversion after seeing an angel—He suffered the pains of a damned soul; he called upon the name of Jesus, and was then born of God—Sweet joy filled his soul—He saw concourses of angels praising God—Many converts have tasted and seen as he has tasted and seen. About 74 B.C.
+a My son give ear to my words (1)
+b Keep the commandments and ye shall prosper in the land (1)
+c Do as I have done (2)
+d Remember the captivity of our fathers (2)
+e They were in bondage (2)
+f He surely did deliver them (2)
+g Trust in God (3)
+h Supported in trials, troubles, and afflictions (3)
+i Lifted up at the last day (3)
+j I know this not of myself but of God (4)
+k Born of God (5)
+l I sought to destroy the church (6-9)
+m My limbs were paralyzed (10)
+n Fear of being in the presence of God (14-
+15)
+o Pains of a damned soul (16)
+p Harrowed up by the memory of sins
+(17)
+q I remembered Jesus Christ, a son
+of God (17)
+q’ I cried, Jesus, son of God (18)
+p’ Harrowed up by the memory of sins
+no more (19)
+o’ Joy as exceeding as was the pain (20)
+n’ Long to be in the presence of God (22)
+m’ My limbs received strength again (23)
+l’ I labored to bring souls to repentance (24)
+k’ Born of God (26)
+j’ Therefore my knowledge is of God (26)
+h’ Supported under trials, troubles, and afflictions (27)
+g’ Trust in him (27)
+f’ He will deliver me (27)
+i’ and raise me up at the last day (28)
+e’ As God brought our fathers out of bondage and captivity (28-
+29)
+d’ Retain in remembrance their captivity (28-29)
+c’ Know as I do know (30)
+b’ Keep the commandments and ye shall prosper in the land (30)
+a’ This according to his word (30).
+There are 17 key elements in Alma 36 that make up the Chiasmus literary form contained in the chapter. The first element mentions that Alma is speaking to is son Helaman and he should listen to his word. Then it continues to discuss the process of Alma feeling racked terror and horror from his sins and feeling scared to be in the presence of God. He also lost strength in his limbs and went unconscious for 3 days. Then he remembers Jesus Chirst which his father taught him and he repents and receives strength in his limbs again and works to build the church for the rest of his days.
+
+Comissioned by Pope Damasus I, in the late 4th century AD, St. Jerome began a work known as the Latin Vulgate. "Vulgate" comes from the Latin word, "versio vulgata" which means, "the version commonly used. 
+In the 1500s, the the Catholic church affirmed the Vulgate as the official Bible. Shortly later, the Vulgate did eventually recieve an official version called the "Sixtine Vulgate". Then the official version became the Clementine Vulgate, and then the Nova Vulgata. 
+The Vulgate is still used in the Latin Church.
+
+Owens claims that the king follet sermon quotes almost word for word from the first section of the Zorah.
+The Hebrew word kabbalah means "tradition." In Jewish writings, the 10 Sefiroth in the Kabbalistic Tree of Life could possibly refer to 10 manifestations of God, faculties of the soul, or 10 structural forces of nature. 
+Almost no imagery in this Zohar has any equivalent in the king follet discourse. 
+Allen Hansen teaches us that "the claim that Joseph Smith interacted with directly or was inspired in any meaningful way by the Kabbalah is untenable."
+
+“As in winter green trees cannot be distinguished from withered, so in this world neither can the just from the unjust.”
+Is a quote I found in volume 2 of the early church fathers Ante Nicene Creed. I think this is powerful because it teaches us that we humans can’t tell between who is righteous and who is not. Our brains are too limited and mortal. We just see the outside and people’s actions, but we have no real understanding of people’s hearts. 
+This quote teaches us that the righteous and unrighteous are like trees in the winter. The healthy green trees appear no different from the withered, dry trees. Only God can truly know the difference. 
+
+In Doctrine and Covenants 93:29, the prophet also writes, "Intelligence, or the light of truth, was not created or made, neither indeed can be.” In addition, the Prophet taught, “There is no such thing as immaterial matter. All spirit is matter, but it is fine and pure” (131:7). Combining these teachings, “spirit element,” also called intelligence, or the light of truth, has always existed. Through a spiritual birth, this light (energy attributes) is transformed into spirit bodies (pure, refined matter), but it cannot be created nor destroyed. In other words, any change in energy attributes corresponds to a change in mass. 
+Since the innermost parts of our being are "light", when we keep the commandments, we receive a greater degree of light and truth until we are "glorified in truth and know all things" D&C 93:28
+
+There are 3 common theories for the origins of the Book of Abraham:
+1. The text of the Book of Abraham came from the remaining papyri
+2. The theory that the text of the Book of Abraham came from other papyri scrolls that we no longer have.
+3. The papyri served as a catalyst for Joseph Smith to receive revelation and it was not contained on the scrolls. 
+Contrary to some critics, theory #1 is readily falsifiable. It has been scientifically demonstrated that this theory is not possible.
+That leaves us with the other 2 theories. There are 2-3 pieces of evidence that seem to indicate that the missing scroll theory accounts for more evidence than the catalyst theory. 1 of the pieces of evidence other than the statement that Joseph Smith made that affirms the missing scroll theory. One of the last discourses Joseph Smith made in Nauvoo quotes from the Book of Abraham saying that he got that reasoning by translating from a portion of papyrus that was in his house. We get that from second hand notes which could have ben incorrect. It is one of the few statements that we have that comes from Joseph Smith that indicates anything at all about the source of the Book of Abraham.
