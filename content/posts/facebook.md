@@ -1021,3 +1021,66 @@ There are 3 common theories for the origins of the Book of Abraham:
 3. The papyri served as a catalyst for Joseph Smith to receive revelation and it was not contained on the scrolls. 
 Contrary to some critics, theory #1 is readily falsifiable. It has been scientifically demonstrated that this theory is not possible.
 That leaves us with the other 2 theories. There are 2-3 pieces of evidence that seem to indicate that the missing scroll theory accounts for more evidence than the catalyst theory. 1 of the pieces of evidence other than the statement that Joseph Smith made that affirms the missing scroll theory. One of the last discourses Joseph Smith made in Nauvoo quotes from the Book of Abraham saying that he got that reasoning by translating from a portion of papyrus that was in his house. We get that from second hand notes which could have ben incorrect. It is one of the few statements that we have that comes from Joseph Smith that indicates anything at all about the source of the Book of Abraham.
+
+The hermeneutic circle of interpretation perpetuates predictable semantic discression and advisement of unprecedented generality.
+The ossified institutions of our society necessitate particular demands of strategic interdisciplinary enforcement.
+I'm perplexed by the ostensible paradox inherent in the opaque bigotry of the infernum.
+
+In 1879, Emma Smith said,
+“Joseph Smith could neither write nor dictate a coherent and well-worded letter, let alone dictate a book like the Book of Mormon.  I am satisfied that no man could have dictated the writing of the manuscripts unless he was inspired; for, when acting as his scribe, he would dictate to me hour after hour; and when returning after meals, or after interruptions, he could at once begin where he had left off.  This was a usual thing for him to do.  It would have been improbable that a learned man could do this; and, for one so ignorant and unlearned as he was, it was simply impossible.”
+Here is a letter written by Joseph Smith
+My Father Joseph Smith Siegnior moved to Palmyra Ontario County in the State of New York and being in indigent circumstances were obliged to labour hard for the support of a large Family having nine chilldren and as it required the exertions of all that were able to render any assistance for the support of the Family therefore we were deprived of the bennifit of an education suffice it to say I was mearly instructtid in reading writing and the ground of Arithmatic which constuted my whole lierary acquirements.”
+This letter clearly has multiple typos and is not a production of a well versed writer. The Book of Mormon, however, is clearly the product of a sophisticated, educated, experienced writer. 
+The Book of Mormon has over 600 geographical references and virtually every city, land, body of water, hill, or region maintains a consistent spatial relationship with other geographical features. 
+Another example is the lengthy genealogical record found in Ether. Chapter 1 lists 30 kings beginning with Ether, ending with Jared. The rest of the book precisely chronicles the reigns of those kings in reverse order. 
+Keeping track of all the plates, through the transmission through prophets, is another complex task, but everything proves consistent and purposefully put together. 
+Alma 11 contains a developed system of weights and measures, which has parallels to ancient Mesopotamian and Egyptian systems. And its units of exchange are practical. 
+One of the most impressive elements is the quantity or variety of Hebraisms, features typical of ancient Hebrew culture. The entire chapter of Alma 36 is a chiasmus. In Alma 42 is something called gradation repeats each successive concept to create a unity of ideas and build up to a climactic conclusion. At least 50 types of Hebraisms. Many of them showing up in the 100s. 
+Some have even compared the Book of Mormon to Lord of the Rings, but Tolkien was an English professor who spent decades researching and developing the geography and characters of the Lord of the Rings, while Joseph Smith was an uneducation farmer only a couple months of education. In no more than 74 working days, without any notes, without any revisions, without visibility of the manuscript, and without relying on scribes to know where he left off. 
+The claim that Joseph Smith produced the Book of Mormon purely by his own work and without divine inspiration is completely untenable. There is no possible way he could have produced such a masterpiece with the education he had in the time he did. 
+In so thankful that Jesus Christ is willing to reveal his teachings and evidence to us in the latter days. Jesus Christ is omniscient and omnipotent. He has given the world sufficient evidence that he exists and is our savior. He is our personal savior and through reading some of the Book of Mormon I have learned that. 
+In the name of Jesus Christ, amen.
+
+
+Doctrine and Covenants 10
+10 And, behold, Satan hath put it into their hearts to alter the words which you have caused to be written, or which you have translated, which have gone out of your hands.
+11 And behold, I say unto you, that because they have altered the words, they read contrary from that which you translated and caused to be written;
+We learn that Satan tried to steal the 116 pages so that he could change and alter them so that once Joseph Smith translated the new version, it would be different and discredit Joseph Smith. 
+But in God’s omniscience, he prepared the plates of Nephi so that the work would not be frustrated and the cunning ways of the devil would not prevail. This teaches us that no matter what sins we commit, they will never frustrate God’s will, and we can always repent. God will always provide a way for us so that we can continue to participate in the work of salvation. 
+No matter what sins we have committed, we can always repent. Jesus Christ is omniscient and omnipotent, his will cannot be defeated. His arm of mercy is always extended towards us to invite us to repent and come unto him.
+https://www.churchofjesuschrist.org/.../dc.../dc/10...
+
+
+We read in Doctrine and Covenants 5
+7 Behold, if they will not believe my words, they would not believe you, my servant Joseph, if it were possible that you should show them all these things which I have committed unto you.
+The Lord tells Joseph Smith that even if he were able to show the people all the many evidences that he saw, it would not change their opinions. The people who believe the gospel of Jesus Christ would consider the evidence they had available sufficient and the people who don’t believe it would maintain their position. 
+So even if we did have all the geographical evidence for the Book of Mormon, complete ancient Egyptian evidence for the Book of Abraham, and much other evidence, it wouldn’t convince the people who don’t believe to change their mind. 
+This story is also demonstrated in Alma 30 with the story of Korihor. 
+Korihor was going about, teaching that there is no Christ and there is no God, but Alma confronted him and told him that there is a Christ, and there is a God. 
+Alma 30
+39 Now Alma said unto him: Will ye deny again that there is a God, and also deny the Christ? For behold, I say unto you, I know there is a God, and also that Christ shall come.
+44 But Alma said unto him: Thou hast had signs enough; will ye tempt your God? Will ye say, Show unto me a sign, when ye have the testimony of all these thy brethren, and also all the holy prophets? The scriptures are laid before thee, yea, and all things denote there is a God; yea, even the earth, and all things that are upon the face of it, yea, and its motion, yea, and also all the planets which move in their regular form do witness that there is a Supreme Creator.
+
+
+The Book of Mormon contains the most authoritative and powerful testimonies of Christ's atonement of any book on earth. The Book of Mormon truly is a miracle. Yes, the Bible is an excellent work containing many powerful stories and verse, but there is no power I have ever found in any other book than the one contained in the Book of Mormon. I will breifly share a verse about it here:
+3 Nephi 11
+14 Arise and come forth unto me, that ye may thrust your hands into my side, and also that ye may feel the prints of the nails in my hands and in my feet, that ye may know that I am the God of Israel, and the God of the whole earth, and have been slain for the sins of the world.
+Jesus Christ appeared to the inhabitants of North America and one by one, they came and felt the prints of the nails in his hands and feet and came to know that He is the God of Israel.
+Brothers and Sister, I have come to know the one and only true Christ by reading and applying the precepts of the doctrine taught in the Book of Mormon. This book is spiritually, archaeologically, geographically, intellectually, doctrinally significant. You can kick it around like a football and it will never deflate. You can read it over and over and over and you will never cease to learn from it.
+I say these things in the name of the Holy One of Israel, Jesus Christ, Amen.
+
+
+President Thomas S. Monson explained: “God left the world unfinished for [men and women] to work [their] skill upon. He left the electricity in the cloud, the oil in the earth. He left the rivers unbridged and the forests unfelled and the cities unbuilt. God gives to [us] the challenge of raw materials, not the ease of finished things. He leaves the pictures unpainted and the music unsung and the problems unsolved, that [we] might know the joys and glories of creation.”
+
+
+President Dallin H. Oaks said, “The testimony of the Three Witnesses to the Book of Mormon stands forth in great strength. Each of the three had ample reason and opportunity to renounce his testimony if it had been false, or to equivocate on details if any had been inaccurate. As is well known, because of disagreements or jealousies involving other leaders of the Church, each one of these three witnesses was excommunicated from The Church of Jesus Christ of Latter-day Saints by about eight years after the publication of their testimony. All three went their separate ways, with no common interest to support a collusive effort. Yet to the end of their lives﻿—periods ranging from 12 to 50 years after their excommunications﻿—not one of these witnesses deviated from his published testimony or said anything that cast any shadow on its truthfulness.”
+We also have a quote from David Whitmer, "I personally heard him [David Whitmer] state in Jan. 1876 in his own house...in most positive language, that he did truly see in broad day light, a bright, and most beautiful being, an 'Angel from Heaven," who did hold in his hands the golden plates, which he turned over leaf by leaf, explaining the contents, here and there. He also described the size and general appearance of the plates...."
+To those of you who believe The Church of Jesus Christ of Latter-day Saints is not the 1 and only true church that Jesus Christ himself established upon the earth, how do you explain the fact that the 3 witnesses of the angel and the gold plates never recanted their testimony that they saw an angel with the plates with their own physical eyes? You are not being honest with yourself if you do not accept this as the truth.
+
+
+Orson Pratt:
+"Cultivating the earth for a livelihood was his occupation, in which he employed the most of his time. His advantages, for acquiring literary knowledge, were exceedingly small; hence, his education was limited to a slight acquaintance with two or three of the common branches of learning. He could read without much difficulty, and write a very imperfect hand; and had a very limited understanding of the ground rules of arithmetic. These were his highest and only attainments; while the rest of those branches, so universally taught in the common schools throughout the United States, were entirely unknown to him."
+We also have a letter written by Joseph Smith from his journal in Summer 1832 (https://www.josephsmithpapers.org/.../history-circa.../1...)
+"my Father Joseph Smith Seignior moved to Palmyra Ontario County5 in the State of New York and being in indigent circumstances were obliged to labour hard for the support of a large Family having nine chilldren6 and as it required their exertions of all that were able to render any assistance for the support of the Family therefore we were deprived of the bennifit of an education suffice it to say I was mearly instructtid in reading and writing and the ground <rules> of Arithmatic which const[it]uted my whole literary acquirements"
+multiple spelling errors including, "Seignior", "indigent", "bennifit", "instructtid", "Arithmatic", "const[it]ute", "acquirements"
+When Joseph Smith was 23, we produced the Book of Mormon in 65 calendar days in the spring of 1829 with Oliver Cowdery as the primary scribe.
