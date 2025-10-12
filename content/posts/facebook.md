@@ -1349,3 +1349,11 @@ If anyone is wrestling with church history or other church topics such as:
 I would love to talk with you about any of these topics because I love studying them and diving deeper into them. 
 But I would also invite you to take your questions to the Lord and ask him in sincere prayer because I know he “give the wisdom to all men liberally” as we read from James (James 1:5 If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.)
 I have a testimony that Joseph Smith saw God the Father and Jesus Christ in the sacred grove, and translated the Book of Mormon by the power of God after multiple meetings with the angel Moroni. I also have a testimony that Adam and Eve were placed in the garden and partook of the fruit of the tree of good and evil.
+
+
+I love the story of Jesus saving Peter from the water. 
+The disciples were in the boat sailing and they saw a man in the distance. It was Jesus Christ walking on water. Then Jesus told Peter to come out and start walking on the water so Peter did. Then the waves started to get big and Peter started to get nervous and lose focus on Jesus Christ. Then Peter started to sink into the water. Peter cried to the Lord and the Lord stretched his hand and saved Peter. 
+Matthew 14:31 And immediately Jesus stretched forth his hand, and caught him, and said unto him, O thou of little faith, wherefore didst thou doubt?
+Jesus also asks Peter why he doubted? Peter started to lose focus on Jesus Christ when the waves started to get big. I think our lives have many waves. Trials, challenges, temptations. But if we keep our focus on Jesus Christ, we will not sink into the ocean, we will miraculously stay walking on water. 
+I know we can have perfect faith and trust in Jesus Christ no matter what other waves are happening around us in our lives. In the name of Jesus Christ, Amen.
+
