@@ -7,13 +7,6 @@ import re
 pd.set_option('display.max_colwidth', None)
 plt.style.use('dark_background')
 
-
-data = pd.read_csv('content/posts/data/book_of_mormon.csv')
-data
-
-
-#%%
-
 # def load_data():
     # path = kagglehub.dataset_download("phyred23/bibleverses")
     # print("Path to dataset files:", path)
@@ -35,6 +28,7 @@ data
     # book_of_mormon.to_csv('data/book_of_mormon.csv', index = False)
     # pearl_of_great_price = pd.read_csv('data/pearl_of_great_price.csv')[['book', 'chapter', 'text']]
     # pearl_of_great_price.to_csv('data/pearl_of_great_price.csv', index = False)
+
 
     # data_bible = pd.read_csv('data/bible.csv')
     # pearl_of_great_price = pd.read_csv('data/pearl_of_great_price.csv', index_col=False).assign(book_title='Moses')
@@ -91,13 +85,13 @@ class AI:
         self.visualize(df['chapter_number'].astype(str), df['volume_id'], title='Number of verses/section of the Doctrine and Covenants', y_label = 'Section', size = (10, 20))
 ai = AI()
 
-ai.graph1()
+# ai.graph1()
 # ai.graph2()
 # ai.graph3()
-# ai.bom_word(word = r'jesus')
-# ai.bom_word(word = r'repent')
-# ai.bom_word(word = r'messiah')
-# ai.bom_word(word = r'faith')
+ai.bom_word(word = r'jesus')
+ai.bom_word(word = r'repent')
+ai.bom_word(word = r'messiah')
+ai.bom_word(word = r'faith')
 
 #%%
 
