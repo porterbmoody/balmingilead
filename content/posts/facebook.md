@@ -1443,3 +1443,5 @@ Because of the Panic of 1837, the prospects for the society—which were already
 The Kirtland Safety Society closed sometime during the summer of 1837, likely between the end of July and the end of August. The last entry in the society’s stock ledger is dated 19 June 1837, and the last date on extant notes is 20 July 1837.42 In the August issue of the Messenger and Advocate, JS published a notice cautioning the public against accepting or using the notes of the closed Kirtland Safety Society, reporting that they were being fraudulently used by speculators and other unscrupulous characters.43 In December 1837, the Safety Society was included in the Cleveland newspaper Daily Herald and Gazette’s list of closed or bankrupt banking institutions.
 https://www.josephsmithpapers.org/.../introduction-to.../1
 https://www.churchofjesuschrist.org/.../kirtland-safety...
+
+
