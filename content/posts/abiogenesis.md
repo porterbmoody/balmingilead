@@ -1,3 +1,12 @@
+---
+title: 'Abiogenesis'
+featured_image: 'posts/images/bom.jpg'
+date: 2024-12-02T00:00:00-00:00
+tags: ['Abiognesis']
+---
+
+
+
 Here are the *most serious, still-unresolved scientific challenges* to the current theories of abiogenesis (as of 2025). These are the issues that keep origin-of-life researchers up at night — not creationist talking points, but real, peer-reviewed problems that the field openly acknowledges.
 
 | # | Problem | Why it’s a big deal | Current status (2025) |
